@@ -1,0 +1,31 @@
+Write the color and the exact number for each of the four unknowns.
+
+
+Unknown #1
+Unknown #2
+Unknown #3
+Unknown #4
+Color
+Yellow
+Orange
+Purple
+Green
+Number
+46
+213
+303
+441
+
+Please write concise answers to each of the following:
+
+What trend should have emerged as you placed your squares in order of atomic mass the same way Mendeleev did?  How did you respond to this trend to create an organizational scheme?
+
+As we placed the squares in order of atomic mass, a pattern of colors emerged after square 32. Also, the increments of increase were generally constant until a red square, at which point the increment increased. I responded by arranging the colors in columns with atomic mass increasing incrementally across each row. This also included placing the squares before 32 in their respective columns despite the fact that the row was not continuous.
+
+Do trends vary more within groups or within periods? Assuming that colors represent collective properties of each “element” square, relate your answer to the real periodic table.
+
+There is much more variation within groups than periods. All squares in a column (period) were the same color, and therefore had similar collective properties. However, across a group, colors were different, and there were few shared properties other than mass. In the Similarly, elements in the same period have very similar collective properties, while elements in the same group only share similar size.
+
+How did you determine the color and atomic “mass” of your unknown elements?
+
+After square 32, there is a pattern of an element of every color in each row. We can assume that elements that are not included exist, and we can determine their color by seeing where there are missing places. We can use the pattern of incremental mass increase to determine the mass of the unknown element by adding the increment of the row it is contained it to the element before, or by subtracting from the element after it. Incremental increase can also be used to confirm color.
