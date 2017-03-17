@@ -7,9 +7,11 @@ def init():
     print cosine_similarity(np.array([1, 2, 315]), np.array([2, 184, -1]))
     print doc2vec(data)
 
+# Find cosine of the angle between two vectors
 def cosine_similarity(np_v, np_u):
     return np.dot(np_v, np_u) / (np.linalg.norm(np_v) * np.linalg.norm(np_u))
 
+# Turn a document into a term vector
 def doc2vec(t):
     # Tokenization and splitting into (non-lemmatized words)
     doc = t.replace('\n', ' ').replace('\r', '')
@@ -27,7 +29,6 @@ def doc2vec(t):
         v.append(words.count(i))
 
     return np.asarray(v)
-
 
 
 if __name__ == '__main__':
