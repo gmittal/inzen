@@ -1,0 +1,2 @@
+Yoshua Bengio (born 1964 in France) is a Canadian computer scientist, most noted for his work on artificial neural networks and deep learning.
+Bengio received his Bachelor of Science (electrical engineering), Master of Engineering (computer science) and PhD (computer science) from McGill University. He was a post-doctoral fellow at MIT (under Michael I. Jordan) and AT&T Bell Labs. Bengio has been a faculty member at the Université de Montréal since 1993 and is a fellow of the Learning in Machines & Brains project of the Canadian Institute for Advanced Research.

@@ -31,7 +31,17 @@ q = [
     "Dizzy Gillespie",
     "James Bond",
     "Peter Gunn",
-    "Henry Mancini"
+    "Henry Mancini",
+    "Stanford University",
+    "University of California, Berkeley",
+    "Big Game (American football)",
+    "Andrew Ng",
+    "Sebastian Thrun",
+    "Yoshua Bengio",
+    "Elon Musk",
+    "Sam Altman",
+    "AlphaGo",
+    "Y Combinator (company)"
     ]
 
 for n in q:
