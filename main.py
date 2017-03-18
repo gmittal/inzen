@@ -1,11 +1,16 @@
-import re, string, numpy as np
+import re, glob, string, numpy as np
 
 v_index = []
 
 def init():
-    data = open('data/local/lab-rf-10,10.txt','r').read() # Open a plain text file
+    docs = glob.glob('data/*/*.txt') # Get all files from data directory
+    search("Query", docs)
+
+
+# Takes raw search query and an array of document paths
+def search(query, docs):
     print cosine_similarity(np.array([1, 2, 315]), np.array([2, 184, -1]))
-    print doc2vec(data)
+    print doc2vec(data).shape
 
 # Find cosine of the angle between two vectors
 def cosine_similarity(np_v, np_u):

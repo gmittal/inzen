@@ -1,0 +1,3 @@
+In machine learning, a nearest centroid classifier or nearest prototype classifier is a classification model that assigns to observations the label of the class of training samples whose mean (centroid) is closest to the observation.
+When applied to text classification using tf*idf vectors to represent documents, the nearest centroid classifier is known as the Rocchio classifier because of its similarity to the Rocchio algorithm for relevance feedback.
+An extended version of the nearest centroid classifier has found applications in the medical domain, specifically classification of tumors.
