@@ -1,5 +1,5 @@
 from __future__ import division
-import re, glob, string, math, numpy as np
+import sys, re, glob, string, math, numpy as np
 
 v_index = []
 
@@ -12,13 +12,13 @@ def init():
 # Takes raw search query and an array of document paths
 def prepare(docs):
     # Learn about all the terms
-    for d in docs: 
-        with open(d, 'r', encoding='utf8') as infh:
+    for d in docs:
+        with open(d, 'r') as infh:
             doc = infh.read()
         tokenize(doc, True)
 
     # Create the term-document matrix
-    term_matrix = [doc2vec(open(d, 'r', encoding='utf8').read()) for d in docs]
+    term_matrix = [doc2vec(open(d, 'r').read()) for d in docs]
     term_matrix = np.asarray(term_matrix).transpose().astype(float)
 
     # tf-idf weighting
@@ -27,15 +27,15 @@ def prepare(docs):
 
         for w in range(0, len(col_vec)):
             row_vec = term_matrix[w] # document-term vector
-            tf = col_vec[w] / np.sum(col_vec)
-            idf = math.log(len(docs) / (1 + np.count_nonzero(row_vec))) #wrong order of operations for idf 
+            tf = col_vec[w] / (1 + np.sum(col_vec))
+            idf = math.log(len(docs) / (1 + np.count_nonzero(row_vec))) #wrong order of operations for idf
             col_vec[w] = tf*idf # Assign the tf-idf weight instead of the raw term count
 
     # Singular value decomposition of term-document matrix
     U, D, V = np.linalg.svd(term_matrix, full_matrices=False)
 
     # Latent semantic analysis dimensionality reduction
-    reduced_rank = 21 # Heuristic for determining reduced rank is not well-established
+    reduced_rank = 60 # Heuristic for determining reduced rank is not well-established
     U = U[:, :reduced_rank]
     #D = np.diag(D[:reduced_rank]) #[:reduced_rank, :reduced_rank]
     D = D[:reduced_rank]
@@ -44,15 +44,15 @@ def prepare(docs):
     # not used
     #low_term_matrix = np.dot(U, np.dot(D, V))
     _invD = np.diag(1.0/D)
-    
+
     #np.linalg.inv(D)
     _UT = U.T
     _N = len(docs)
-    
-    
-def query(query):    
+
+
+def search(query):
     queryVec = doc2vec(query).astype(float)
-    print(queryVec, _UT.shape, queryVec.shape)
+    # print(queryVec, _UT.shape, queryVec.shape)
     a = np.dot(_UT, queryVec)
     low_query = np.dot(_invD, a) # Reduce query vector dimensions as well
 
@@ -100,10 +100,6 @@ def doc2vec(t):
 
 
 if __name__ == '__main__':
-    init() 
-    print('querying openai')
-    print(query('openai jobs'))
-    print('querying james bond')
-    print(query('james bond'))
-    print('querying elon musk')
-    print(query('elon musk'))
+    print "Searching..."
+    init() # This takes a long time
+    print search(sys.argv[1])
