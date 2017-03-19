@@ -98,8 +98,12 @@ def doc2vec(t):
     v = [words.count(i) for i in v_index] # Get term counts for the document and put it in a vector
     return np.asarray(v)
 
+# Pretty print array of search results
+def pretty_print(r):
+    for t in range(0, len(r)):
+        print "#" + str(t+1) +": " + r[t][0] + " (" + str(r[t][1]) + ")"
 
 if __name__ == '__main__':
     print "Searching..."
     init() # This takes a long time
-    print search(sys.argv[1])
+    pretty_print(search(sys.argv[1]))
