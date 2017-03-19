@@ -5,7 +5,7 @@ v_index = []
 
 def init():
     docs = glob.glob('data/*/*.txt') # Get all files from data directory
-    print search('jobs', docs)
+    print search('openai', docs)
 
 
 # Takes raw search query and an array of document paths
