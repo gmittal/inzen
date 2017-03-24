@@ -1,0 +1,1 @@
+CinemaScore is a market research firm based in Las Vegas. It surveys film audiences to rate their viewing experiences with letter grades, reports the results, and forecasts box office receipts based on the data.

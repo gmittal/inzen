@@ -1,0 +1,5 @@
+The Teletype Model 33 is an electromechanical teleprinter designed for light-duty office. It is less rugged and less expensive than earlier Teletype machines. The Teletype Corporation introduced the Model 33 as a commercial product in 1963 after being originally designed for the US Navy. There are three versions of the Model 33:
+the Model 33 ASR, (Automatic Send and Receive), which has a built-in 8-level punched tape reader and tape punch;
+the Model 33 KSR (Keyboard Send and Receive), which lacks the paper tape reader and punch;
+the Model 33 RO (Receive Only) which has neither a keyboard nor a reader/punch.
+The Model 33 was one of the first products to employ the then new ASCII code. A companion Model 32 used the more established five-level Baudot code. Because of its low price and ASCII-compatibility, the Model 33 was widely used with early minicomputers.

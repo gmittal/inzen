@@ -1,0 +1,2 @@
+86-DOS is a discontinued operating system developed and marketed by Seattle Computer Products (SCP) for its Intel 8086-based computer kit. Initially known as QDOS (Quick and Dirty Operating System) the name was changed to 86-DOS once SCP started licensing the operating system in 1980.
+86-DOS had a command structure and application programming interface that imitated that of Digital Research's CP/M operating system, which made it easy to port programs from the latter. The system was purchased by Microsoft and developed further as MS-DOS and PC DOS.

@@ -1,0 +1,2 @@
+A geographic coordinate system is a coordinate system used in geography that enables every location on Earth to be specified by a set of numbers, letters or symbols. The coordinates are often chosen such that one of the numbers represents a vertical position, and two or three of the numbers represent a horizontal position. A common choice of coordinates is latitude, longitude and elevation.
+To specify a location on a two-dimensional map requires a map projection.

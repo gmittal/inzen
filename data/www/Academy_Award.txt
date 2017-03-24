@@ -1,0 +1,8 @@
+To its plural form: This is a redirect from a singular noun to its plural form. Either {{R to plural}} or {{R from singular}} may be used to tag a singular-form redirect title.
+Redirects of this sort exist for reader convenience in cases of singular–plural pairs or false singulars, wherein the plural or plural-looking form is better attested in usage, such that the normal "prefer the singular" Wikipedia naming convention is not followed. Examples:
+ScissorScissors
+TrouserTrousers
+
+Use this rcat to tag qualified mainspace redirects only; if qualified singular forms are found in other namespaces, use {{R from modification}} instead.
+
+From a page move: This is a redirect from a page that has been moved (renamed). This page was kept as a redirect to avoid breaking links, both internal and external, that may have been made to the old page name.

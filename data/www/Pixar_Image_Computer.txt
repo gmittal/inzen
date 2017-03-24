@@ -1,0 +1,2 @@
+The Pixar Image Computer is a graphics designing computer originally developed by the Graphics Group; the computer division of Lucasfilm, later renamed Pixar.
+Aimed at commercial and scientific high-end visualization markets, such as medicine, geophysics and meteorology, the original machine was advanced for its time but did not sell in quantity.

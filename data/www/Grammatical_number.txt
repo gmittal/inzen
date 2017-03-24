@@ -1,0 +1,3 @@
+In linguistics, grammatical number is a grammatical category of nouns, pronouns, and adjective and verb agreement that expresses count distinctions (such as "one", "two", or "three or more"). In many languages, including English, the number categories are singular and plural. Some languages also have a dual, trial, quadral and paucal number or other arrangements.
+The count distinctions typically, but not always, correspond to the actual count of the referents of the marked noun or pronoun.
+The word "number" is also used in linguistics to describe the distinction between certain grammatical aspects that indicate the number of times an event occurs, such as the semelfactive aspect, the iterative aspect, etc. For that use of the term, see "Grammatical aspect".

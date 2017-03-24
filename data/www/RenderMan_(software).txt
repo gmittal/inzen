@@ -1,0 +1,2 @@
+RenderMan (formerly PhotoRealistic RenderMan), is proprietary photorealistic 3D rendering software produced by Pixar Animation Studio. RenderMan is used by Pixar to render all of their in-house 3D animated movie productions and is also available as a commercial product licensed to third parties.
+On May 30, 2014, Pixar announced it would offer a free non-commercial version of RenderMan that would be available to download in August 2014. The product's release was postponed to early 2015. As of March 23, 2015, RenderMan is available for non-commercial use.
