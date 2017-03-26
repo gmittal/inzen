@@ -1,13 +1,28 @@
 from __future__ import division
-import sys, re, glob, string, math, numpy as np
-
-v_index = []
+import sys, os.path, re, glob, string, math, numpy as np
 
 def init():
     global _docs
-    _docs = glob.glob('data/*/*.txt') # Get all files from data directory
-    prepare(_docs)
 
+    _docs = glob.glob('data/*/*.txt') # Get all files from data directory
+
+    if os.path.isfile('data/save/V.gz'):
+        load()
+    else:
+        global v_index
+        v_index = []
+        prepare(_docs)
+
+# Load previously saved matrices
+def load():
+    global _V, _invD, _UT, _N, v_index
+    v_index = [b for b in open('data/save/v_index.gz', 'r').read().split('\n')[:-1]]
+    _V = np.loadtxt('data/save/V.gz')
+    D = np.loadtxt('data/save/D.gz')
+    _UT = np.loadtxt('data/save/UT.gz')
+    term_matrix = np.loadtxt('data/save/term_matrix.gz')
+    _N = len(_docs)
+    _invD = np.diag(1.0/D)
 
 # Takes raw search query and an array of document paths
 def prepare(docs):
@@ -35,7 +50,7 @@ def prepare(docs):
     U, D, V = np.linalg.svd(term_matrix, full_matrices=False)
 
     # Latent semantic analysis dimensionality reduction
-    reduced_rank = 60 # Heuristic for determining reduced rank is not well-established
+    reduced_rank = 400 # Heuristic for determining reduced rank is not well-established
     U = U[:, :reduced_rank]
     #D = np.diag(D[:reduced_rank]) #[:reduced_rank, :reduced_rank]
     D = D[:reduced_rank]
@@ -49,6 +64,14 @@ def prepare(docs):
     _UT = U.T
     _N = len(docs)
 
+    np.savetxt('data/save/V.gz', _V)
+    np.savetxt('data/save/D.gz', D)
+    np.savetxt('data/save/UT.gz', _UT)
+    np.savetxt('data/save/term_matrix.gz', term_matrix)
+    f = open('data/save/v_index.gz', 'w')
+    for item in v_index:
+      f.write("%s\n" % item)
+    f.close()
 
 def search(query):
     queryVec = doc2vec(query).astype(float)
@@ -94,9 +117,10 @@ def tokenize(t, new):
 
 # Turn a document into a term vector
 def doc2vec(t):
+    print len(v_index)
     words = tokenize(t, False)
-    v = [words.count(i) for i in v_index] # Get term counts for the document and put it in a vector
-    return np.asarray(v)
+    vector = [words.count(i) for i in v_index] # Get term counts for the document and put it in a vector
+    return np.asarray(vector)
 
 # Pretty print array of search results
 def pretty_print(r):
