@@ -1,5 +1,7 @@
 # Inzen
-Information retrieval applications using Latent Semantic Analysis and Singular Value Matrix Decomposition. Gunn High School Analysis Honors Project 2017 by Daniel Zhu and Gautam Mittal
+Information retrieval applications using Latent Semantic Analysis and Singular Value Matrix Decomposition. 
+
+Demo code for **Building Better Search Engines**, a 2016-17 Gunn High School Analysis Honors Project by [Daniel Zhu](@TheBigDanny) and [Gautam Mittal](@gmittal).
 
 Requires Python 2.x+ and ```numpy```.
 
