@@ -4,9 +4,10 @@ import sys, os.path, re, glob, string, math, numpy as np
 def init():
     global _docs
 
-    _docs = glob.glob('data/*/*.txt') # Get all files from data directory
+    _docs = glob.glob('data/*/*.txt')[:500] # Get all files from data directory
 
     if os.path.isfile('data/save/V.gz'):
+        #print "It loaded!"
         load()
     else:
         global v_index
@@ -117,17 +118,24 @@ def tokenize(t, new):
 
 # Turn a document into a term vector
 def doc2vec(t):
-    print len(v_index)
+    #print len(v_index)
     words = tokenize(t, False)
     vector = [words.count(i) for i in v_index] # Get term counts for the document and put it in a vector
     return np.asarray(vector)
 
 # Pretty print array of search results
-def pretty_print(r):
-    for t in range(0, len(r)):
+def pretty_print(r, myLen = None):
+    if myLen is None:
+        myLen = len(r)
+    for t in range(myLen):
         print "#" + str(t+1) +": " + r[t][0] + " (" + str(r[t][1]) + ")"
 
 if __name__ == '__main__':
     print "Searching..."
     init() # This takes a long time
-    pretty_print(search(sys.argv[1]))
+    queries = ['jobs','apple','nvidia']
+    if sys.argv[1]:
+        queries.append(sys.argv[1])
+    for q in queries:
+        print "\n","=="*10,"\nQuery:\n",q
+        pretty_print(search(q),10)
