@@ -1,17 +1,17 @@
 from __future__ import division
-import sys, os.path, re, glob, string, math, numpy as np
+import sys, os.path, re, glob, string, time, math, numpy as np
 
 def init():
     global _docs
 
-    _docs = glob.glob('data/*/*.txt')[:500] # Get all files from data directory
-
     if os.path.isfile('data/save/V.gz'):
         print "Loading..."
+        _docs = [b for b in open('data/save/_docs.gz', 'r').read().split('\n')[:-1]]
         load()
     else:
         global v_index
         v_index = []
+        _docs = glob.glob('data/*/*.txt')
         prepare(_docs)
 
 # Load previously saved matrices
@@ -69,10 +69,14 @@ def prepare(docs):
     np.savetxt('data/save/D.gz', D)
     np.savetxt('data/save/UT.gz', _UT)
     np.savetxt('data/save/term_matrix.gz', term_matrix)
-    f = open('data/save/v_index.gz', 'w')
+    f1 = open('data/save/v_index.gz', 'w')
     for item in v_index:
+      f1.write("%s\n" % item)
+    f1.close()
+    f2 = open('data/save/_docs.gz', 'w')
+    for item in _docs:
       f.write("%s\n" % item)
-    f.close()
+    f2.close()
 
 def search(query):
     queryVec = doc2vec(query).astype(float)
@@ -131,10 +135,18 @@ def pretty_print(r, myLen = None):
         print "#" + str(t+1) +": " + r[t][0] + " (" + str(r[t][1]) + ")"
 
 if __name__ == '__main__':
-    init() # This takes a long time
+    init() # This takes a while
 
     while True:
         query_input = raw_input('> ')
 
-        print "\n","=="*10,"\nQuery:\n",query_input
-        pretty_print(search(query_input),10)
+        if query_input == "/exit":
+            break
+
+        start = time.time()
+        ranks = search(query_input)
+        end = time.time()
+        searchTime = round((end-start)*100)/100
+        print "-"*25, "\nSearch Results for '"+ query_input +"' ("+ str(searchTime) + " seconds)"
+        pretty_print(ranks, 10) # Print the top 10 search results
+        print "\n"
