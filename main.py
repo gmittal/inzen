@@ -7,7 +7,7 @@ def init():
     _docs = glob.glob('data/*/*.txt')[:500] # Get all files from data directory
 
     if os.path.isfile('data/save/V.gz'):
-        #print "It loaded!"
+        print "Loading..."
         load()
     else:
         global v_index
@@ -131,11 +131,10 @@ def pretty_print(r, myLen = None):
         print "#" + str(t+1) +": " + r[t][0] + " (" + str(r[t][1]) + ")"
 
 if __name__ == '__main__':
-    print "Searching..."
     init() # This takes a long time
-    queries = ['jobs','apple','nvidia']
-    if sys.argv[1]:
-        queries.append(sys.argv[1])
-    for q in queries:
-        print "\n","=="*10,"\nQuery:\n",q
-        pretty_print(search(q),10)
+
+    while True:
+        query_input = raw_input('> ')
+
+        print "\n","=="*10,"\nQuery:\n",query_input
+        pretty_print(search(query_input),10)
