@@ -25,7 +25,8 @@ Search Results for 'Elon' (0.11 seconds)
 #7: data/www/Forbes_list_of_The_World's_Most_Powerful_People.txt (0.323584583725)
 #8: data/www/Boeing B-50 Superfortress.txt (0.254107931551)
 #9: data/www/Air_pollution.txt (0.231107897563)
-#10: data/www/Paul_Allen.txt (0.23078901262)```
+#10: data/www/Paul_Allen.txt (0.23078901262)
+```
 
 If you want to exit the program, simply type ```/exit```.
 
