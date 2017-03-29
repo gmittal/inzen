@@ -1,7 +1,7 @@
 # Inzen
 A simple search engine that uses Latent Semantic Analysis and Singular Value Matrix Decomposition and to produce better results.
 
-Demo code for **Building Better Search Engines**, a 2016-17 Gunn High School Analysis Honors Project by [Daniel Zhu](@TheBigDanny) and [Gautam Mittal](@gmittal) that focuses on information retrieval applications using concepts such as vectors, matrices, and eigenspaces (learned throughout the year in the Analysis H course at Gunn).
+Demo code for **Building Better Search Engines**, a 2016-17 Gunn High School Analysis Honors Project by [Daniel Zhu](@TheBigDanny) and [Gautam Mittal](@gmittal) that focuses on information retrieval applications using concepts such as vectors, matrices, and eigenspaces (learned throughout the year in the Analysis H course at Gunn). For our presentation demo, we created a simple search engine that uses Wikipedia documents and applies the topics discussed in the presentation, such as the use of vector space models, dense term-document matrices using singular value decomposition, and latent semantic analysis.
 
 Requires Python 2.x+ and ```numpy```.
 
