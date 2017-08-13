@@ -1,0 +1,2 @@
+Jokosher is a free software, non-linear multi-track digital audio editor, which is released under the GNU GPL. It is being developed in Python, using the GTK+ interface and GStreamer as an audio back-end, initially just for the Linux operating system but now also with support for Windows and Solaris.
+It was released to the public on 21 July 2006. Version 0.2 was publicly released on 20 November 2006 and it included support for extensions, LADSPA effects, and many bug fixes. Development seems to have stopped since April 2012.

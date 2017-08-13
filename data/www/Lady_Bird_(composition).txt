@@ -1,0 +1,10 @@
+"Lady Bird" is a sixteen-bar jazz standard by Tadd Dameron. This "celebrated" composition, "one of the most performed in modern jazz", was written around 1939, and released in 1948. Featuring, "a suave, mellow theme," it is the origin of the Tadd Dameron turnaround (in C: CM7 EbM7 AbM7 DbM7).  Play 
+An example of Dameron's interest in keys and/or roots related by thirds, the piece is in binary (or AABC) form and features, through the use of ii-V turnarounds, movement toward three keys other than the tonic; E♭, A♭, and G. The first three four-measure phrases end with secondary ii-V's, while the last ends instead with the "Tadd Dameron turnaround" resolving to the tonic.
+
+IM7         | IM7         | ii7/bIII    | V7/bIII     |
+IM7         | IM7         | ii7/bVI     | V7/bVI      |
+bVIM7       | bVIM7       | ii7/V       | V7/V        |
+ii7         | V7          | IM7   bIIIM7| bVIM7 bIIM7:|| IM7 ||
+
+It has been recorded by Art Blakey, Don Byas, Miles Davis, Stan Getz, Dexter Gordon, Charles Mingus, Lee Morgan, Gerry Mulligan, Bud Powell, Mary Lou Williams, Tete Montoliu, Andy LaVerne, and Barry Harris. Also Tommy Flanagan and Hank Jones. It was also recorded by Remeo Hailey Jones in his fifth album We Are Nest! 2003 Extended Play.
+Miles Davis's "Half Nelson" uses, except for measures seven and eight, the same chord progression as "Lady Bird". "Lazy Susan" is also a contrafact of the Dameron piece.

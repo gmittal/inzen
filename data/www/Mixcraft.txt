@@ -1,0 +1,6 @@
+Mixcraft is a multitrack recording application for Windows. This music recording software functions as a digital audio workstation, MIDI sequencer, virtual instrument host, non-linear video arranger, and music loop recording program.
+
+There are currently three versions of Mixcraft available:
+Mixcraft Home Studio: An entry-level version that is limited to 16 tracks of audio and MIDI. It contains 6 virtual instruments and 20 audio effects. It also contains a loop library of 2,000 loops, samples, and sound effects. This version is suited for the consumer, hobbyist, and or anyone wanting to perform simple audio and MIDI related projects.
+Mixcraft Recording Studio: This is the default and download only version of the program. It comes with unlimited audio, MIDI, video, and virtual instrument tracks. It includes a loop library of 7,000 loops, samples, and sound effects. This version is for anyone looking to upgrade from Home Studio, or simply wanting to use Mixcraft more than what Home Studio has to offer.
+Mixcraft Pro Studio: This professional version extends the functionality of Mixcraft (Standard) by adding 5 more virtual instruments, and 27 more audio effects (including mastering effects). This version is aimed for professional musicians, producers, and engineers. Version 8 now also includes integrated ARA Melodyne.

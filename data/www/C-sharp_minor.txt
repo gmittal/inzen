@@ -1,0 +1,4 @@
+C-sharp minor or C♯ minor is a minor scale based on C♯, with the pitches C♯, D♯, E, F♯, G♯, A, and B. For the C-sharp harmonic minor, the B is raised to B♯ (enharmonic C♮). Its key signature consists of four sharps.
+Its relative major is E major. Its parallel major, C♯ major, is usually replaced by D♭ major, since C♯ major, which would contain seven sharps, is not normally used. D♭ minor, having eight flats, including the B, has a similar problem. The same enharmonic situation occurs with the keys of A♭ major and G♯ minor, with A♭ minor having seven flats and G♯ major having eight sharps, including the F.
+Changes needed for the melodic and harmonic versions of the scale are written in with accidentals as necessary.
+

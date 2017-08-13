@@ -1,0 +1,2 @@
+A software sampler is a piece of software which allows a computer to emulate the functionality of a sampler.
+In the same way that a sampler has much in common with a synthesizer, software samplers are in many ways similar to software synthesizers and there is great deal of overlap between the two, but whereas a software synthesizer generates sounds algorithmically from mathematically-described tones or short-term waveforms (i.e., less than 100 ms in length), a software sampler always reproduces samples, often much longer than a second, as the first step of its algorithm.

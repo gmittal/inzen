@@ -1,0 +1,11 @@
+A block chord is a chord or voicing built directly below the melody either on the strong beats or to create a four-part harmonized melody line in "locked-hands" rhythmic unison with the melody, as opposed to broken chords. This latter style, known as Shearing voicing, was popularized by George Shearing, but originated with Phil Moore.
+Block chord style (also known as chorale style) uses simple chordal harmony in which "the notes of each chord may be played all at once" as opposed to being "played one at a time (broken or arpeggiated chords). For example, a guitarist can strum the chord (this would be a "block" chord) or use a picking style to play "broken" chords". The notes of arpeggios are often grouped into block chords for ease of analysis.
+Block chords and doubled melody are easily used in a melody line that has a swing feel and strengthen the melody so as to separate that melody from the rhythmic background. Block chording was often used by jazz bands and orchestras such as those led by Count Basie and Duke Ellington.
+Voicings or methods include:
+Generic block chord—chords that simply follow the above rule.
+Double melody—("Shearing voicing") with an additional fifth part that doubles the melody an octave lower.
+Drop 2—the second voice from the top is transposed one octave lower (technically not a block chord).
+Drop 3—the third voice from the top is transposed an octave lower (also technically not a block chord).
+Drop 4—the bottom voice is transposed one octave lower (also technically not a block chord).
+If the melody note is part of the chord, the harmony notes are also taken from the chord.
+This technique is common if the melody note is diatonic (and not chromatic) and uses diminished chords for the notes that are not part of the chord. If the melody note is considered a passing tone, the harmony is created either by a diminished chord or a chromatically shifted chord. Before creating the harmonies, the chords could be converted to 6th chords, although this is not a rule.

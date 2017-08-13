@@ -1,0 +1,1 @@
+The amplitude of a periodic variable is a measure of its change over a single period (such as time or spatial period). There are various definitions of amplitude (see below), which are all functions of the magnitude of the difference between the variable's extreme values. In older texts the phase is sometimes called the amplitude.

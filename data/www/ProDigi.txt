@@ -1,0 +1,14 @@
+Mitsubishi's ProDigi was a professional audio, reel-to-reel, digital audio tape format with a stationary head position, similar to Sony's Digital Audio Stationary Head, which competed against ProDigi when the format was available in the mid-1980s through the early 1990s. Audio was digitally recorded linearly on the tape and is guarded by a powerful error correction scheme of cyclic redundancy checks to ensure integrity of the signal even if data is lost during playback. Prodigi recorders were available in 2-track variations, which used 1/4" tape; 32-track variations, which used 1" tape, and a 16-track version using 1/2" tape. All of the machines require the use of metal-particle magnetic tape.
+2-track recorders:
+X-86
+X-86HS (capable of recording and playing back at 88.2 kHz and 96 kHz sample rates as well as the X-86's 44.1 kHz and 48 kHz)
+X-86C (for "compatible"; the X-86C could play back 50.4 kHz tapes made on the X-80 as well as normal X-86 tapes)
+16-track recorder:
+X-400
+32 track recorders:
+X-800
+X-850
+X-880
+Otari DTR-900 (an X-850, rebadged for Otari).
+Mitsubishi and Otari collaborated on the design of the X-850 and X-880. The tape transport of both machines was derived from the Otari MTR90 Mk II, modified to handle 1" tape. Some mechanical parts were interchangeable between the X-850 and MTR90, the PC cards in the transport control section were manufactured by Otari and with two exceptions (the capstan servo and master CPU cards) were interchangeable between the Mitsubishi and Otari machines. The section of the X-850 service manual concerning transport adjustments was a verbatim reprint of the corresponding section of the MTR90 service manual.
+The ProDigi format was extremely popular for use in country music. Specifically, at studios in Nashville, Tennessee, where nearly all of the large recording studios used Prodigi machines. The format fell from favor by the mid-1990s with the popularity of Digidesign's Pro Tools hard drive-based multi-track recording, editing, and mixing system.

@@ -1,0 +1,3 @@
+Line level is the specified strength of an audio signal used to transmit analog sound between audio components such as CD and DVD players, television sets, audio amplifiers, and mixing consoles.
+As opposed to line level, there are weaker audio signals, such as those from microphones and instrument pickups, and stronger signals, such as those used to drive headphones and loudspeakers. The "strength" of these various signals does not necessarily refer to the output voltage of the source device; it also depends on its output impedance and output power capability.
+

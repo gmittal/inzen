@@ -1,0 +1,2 @@
+To a list entry: This is a redirect to a list in which the subject is an entry.
+For redirects from a topic to a related list and not to an entry on that list, use {{R from list topic}} instead.

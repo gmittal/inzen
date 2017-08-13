@@ -1,0 +1,7 @@
+A minor (abbreviated Am) is a minor scale based on A, with the pitches A, B, C, D, E, F, and G. Its key signature has no flats and no sharps (see below: Scales and keys). However the harmonic minor scale raises the G to G♯.
+A minor's relative major is C major, and its parallel major is A major.
+Changes needed for the melodic and harmonic versions of the scale are written in with accidentals as necessary.
+Johann Joachim Quantz considered A minor, along with C minor, much more suitable for expressing "the sad effect" than other minor keys (Versuch einer Anweisung die Flöte traversiere zu spielen).
+
+Whereas traditionally key signatures were cancelled with naturals whenever the new key signature had fewer sharps or flats than the old key signature, or had flats instead of sharps or vice versa (so, for example, D major changing to D minor would be notated with a key signature of F♮, C♮, and B♭ at the change), in modern popular and commercial music, cancellation is only done when C major or A minor replaces another key.
+

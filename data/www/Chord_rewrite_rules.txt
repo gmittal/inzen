@@ -1,0 +1,26 @@
+In music, a rewrite rule is a recursive generative grammar, which creates a chord progression from another.
+Steedman (1984) has proposed a set of recursive "rewrite rules" which generate all well-formed transformations of jazz, basic I–IV–I–V–I twelve-bar blues chord sequences, and, slightly modified, non-twelve-bar blues I–IV–V sequences ("rhythm changes").
+The original progression may be notated as follows (typical 12-bar blues):
+
+1  2  3  4   5   6  7  8   9  10 11 12
+ I/ I/ I/ I// IV/IV/ I/ I// V/ IV/ I/ I
+
+Where the numbers on the top line indicate each bar, one slash indicating a bar line and two indicating a phrase marking, and the Roman numerals indicating the chord function. Important transformations include
+replacement or substitution of a chord by its dominant or subdominant:
+
+1 2  3 4   5  6   7    8    9  10 11 12
+I/IV/I/I7//IV/VII7/III7/VI7//II7/V7/I/I//
+
+use of chromatic passing chords:
+
+...7    8    9...
+...III7/♭III7/II7...
+
+and chord alterations such as minor chords, diminished sevenths, etc.
+Sequences by fourth, rather than fifth, include Jimi Hendrix's version of "Hey Joe" and Deep Purple's "Hush":
+
+1        2        3 4  5          6       7 8   9         10      11 12
+♭VI, ♭III/♭VII, IV/I/I//♭VI, ♭III/♭VII, IV/I/I//♭VI, ♭III/♭VII, IV/I/I//
+
+These often result in Aeolian harmony and lack perfect cadences (V–I). Middleton (1990) suggests that both modal and fourth-oriented structures, rather than being, "distortions or surface transformations of Schenker's favoured V-I kernel, are more likely branches of a deeper principle, that of tonic/not-tonic differentiation."
+For the ♭ notation, see Borrowed chord.

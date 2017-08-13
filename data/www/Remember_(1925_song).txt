@@ -1,0 +1,2 @@
+From other disambiguation: This is a redirect from a page name with an alternative disambiguation qualifier.
+The disambiguation of these page names is not incorrect, incomplete nor unnecessary. For those redirects use {{R from incorrect disambiguation}}, {{R from incomplete disambiguation}} or {{R from unnecessary disambiguation}} instead.

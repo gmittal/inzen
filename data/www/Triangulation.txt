@@ -1,0 +1,2 @@
+In trigonometry and geometry, triangulation is the process of determining the location of a point by forming triangles to it from known points.
+Specifically in surveying, triangulation per se involves only angle measurements, rather than measuring distances to the point directly as in trilateration; the use of both angles and distance measurements is referred to as triangulateration.

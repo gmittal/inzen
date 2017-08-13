@@ -1,0 +1,12 @@
+A part (or voice) is a strand or melody of music played by an individual instrument or voice (or group of identical instruments or voices) within a larger work. Parts may be referred to as an outer part (the top and bottom parts) or an inner part (those in between). Part-writing (or voice leading) is the composition of parts in consideration of harmony and counterpoint. In the context of polyphonic composition the term voice may be used instead of part to denote a single melodic line or textural layer. The term is generic, and is not meant to imply that the line should necessarily be vocal in character, instead referring to instrumentation or simply to register.
+Allen Forte defines a voice thus:
+
+By "voice" we mean the succession of notes performed by a single human voice or single-line instrument.
+
+Codex Calixtinus (12th century) contains the earliest extant decipherable part music.
+
+Part writing is derived from four-voice chorales written by J.S. Bach. The late baroque era composer wrote a total of 371 harmonized chorales. Today most students' reference Albert Riemenschneider's 1941 compilation of Bach chorales.
+
+Part writing is a compositional technique that involves writing a piece of music for one or more parts.
+
+Briefly, it [counterpoint], may be defined as Part-writing. It has also been defined, happily, as 'the art of combining melodies.'...By it [part-writing], here, is meant, the writing of successions of chords; and by Laws of Part-writing, therefore, is meant, the principles which regulate the position of chords, or distribution of parts; the relation of part to part, and the progression of individual parts. In other words, laws of combination, and laws of progression, individual and simultaneous.

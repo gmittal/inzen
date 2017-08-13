@@ -1,0 +1,3 @@
+The terabyte is a multiple of the unit byte for digital information. The prefix tera represents the fourth power of 1000, and means 1012 in the International System of Units (SI), and therefore one terabyte is one trillion (short scale) bytes. The unit symbol for the terabyte is TB.
+1 TB = 1000000000000bytes = 1012bytes = 1000gigabytes.
+A related unit, the tebibyte (TiB), using a binary prefix, is equal to 10244 bytes. One terabyte is about 0.9095 TiB. Despite the introduction of these standardized binary prefixes, the terabyte is still also commonly used in some computer operating systems, primarily Microsoft Windows, to denote 1099511627776 (10244 or 240) bytes for disk drive capacity.

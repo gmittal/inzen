@@ -1,0 +1,5 @@
+A music workstation is an electronic musical instrument providing the facilities of:
+a sound module,
+a music sequencer and
+(usually) a musical keyboard.
+It enables a musician to compose electronic music using just one piece of equipment.

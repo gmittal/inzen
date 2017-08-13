@@ -1,0 +1,10 @@
+The Billboard 200 is a record chart ranking the 200 most popular music albums and EPs in the United States, published weekly by Billboard magazine. It is frequently used to convey the popularity of an artist or groups of artists. Often, a recording act will be remembered by its "number ones", those of their albums that outperformed all others during at least one week.
+The chart is based mostly on sales (both at retail and digital) of albums in the United States. The weekly sales period was originally Monday to Sunday when Nielsen started tracking sales in 1991, but since July 2015, tracking week begins on Friday (to coincide with the Global Release Date of the music industry) and ends on Thursday. A new chart is published the following Tuesday with an issue post-dated to the Saturday of the following week. The chart's streaming schedule is also tracked from Friday to Thursday.
+Example:
+Friday January 1 – sales tracking week begins
+Thursday January 7 – sales tracking week ends
+Tuesday January 12 – new chart published, with issue date of Saturday January 23.
+
+New product is released to the American market on Fridays. Digital downloads of albums are also included in Billboard 200 tabulation. Albums that are not licensed for retail sale in the United States (yet purchased in the U.S. as imports) are not eligible to chart. A long-standing policy which made titles that are sold exclusively by specific retail outlets (such as Walmart and Starbucks) ineligible for charting, was reversed on November 7, 2007, and took effect in the issue dated November 17.
+Beginning with the December 13, 2014 issue, Billboard updated the methodology of their album chart to also include on-demand streaming and digital track sales (as measured by Nielsen SoundScan) by way of a new algorithm, utilizing data from all of the major on-demand audio subscription and online music sales services in the United States.
+As of the issue dated July 8, 2017, the number-one album on the Billboard 200 is Melodrama by Lorde.

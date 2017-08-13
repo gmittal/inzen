@@ -1,0 +1,9 @@
+High-definition television (HDTV) is a television system providing an image resolution that is of substantially higher resolution than that of standard-definition television. HDTV is the current standard video format used in most broadcasts: terrestrial broadcast television, cable television, satellite television, DVDs, and streaming video.
+HDTV may be transmitted in various formats:
+1080p: 1920×1080p: 2,073,600 pixels (~2.07 megapixels) per frame
+1080i: 1920×1080i: 1,036,800 pixels (~1.04 MP) per field or 2,073,600 pixels (~2.07 MP) per frame
+Some countries also use a non-standard CEA resolution, such as 1440×1080i: 777,600 pixels (~0.78 MP) per field or 1,555,200 pixels (~1.56 MP) per frame
+
+720p: 1280×720p: 921,600 pixels (~0.92 MP) per frame
+The letter "p" here stands for progressive scan, while "i" indicates interlaced. The term, "Full HD" refers to 1080p.
+When transmitted at two megapixels per frame, HDTV provides about five times as many pixels as SD (standard-definition television). The increased resolution provides for a clearer, more detailed picture. In addition, progressive scan swaps the entire image out 60 times per second, as compared to SD's 30 times per second, resulting in a picture without perceptible flicker.

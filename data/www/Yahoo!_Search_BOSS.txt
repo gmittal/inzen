@@ -1,0 +1,2 @@
+Yahoo Search BOSS (Build your Own Search Service) was a Yahoo! Developer Network initiative to provide an open search web services platform.
+Yahoo discontinued BOSS JSON Search API, BOSS Placefinder API, BOSS Placespotter API and as well BOSS Hosted Search, on March 31, 2016. Yahoo BOSS is succeeded by Yahoo Partner Ads (YPA).

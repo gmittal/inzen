@@ -1,0 +1,10 @@
+Voice leading is the term used to describe the linear progression of melodic lines (voices) and their interaction with one another to create harmonies, according to the principles of common-practice harmony and counterpoint.
+Voice leading practices can be codified into rules for pedagogical purposes. In these settings, "voice leading" is often synonymous with "part writing," and the "rules" are usually applied in exercises in four-part harmonic writing and in 18th-century counterpoint. David Huron has demonstrated that many of the standard pedagogical rules have a basis in perceptual principles.
+A more nuanced view of voice leading principles is found in the theories of Heinrich Schenker. Schenkerian analysis examines how the outer voices work together to establish form in common-practice music. See Linear progression for an example from Beethoven's Sonata op. 109.
+Rigorous concern for voice leading in all parts is more a feature of common-practice music, although jazz and pop music also demonstrate attention to voice leading to varying degrees:
+"At the surface level, jazz voice-leading conventions seem more relaxed than they are in common-practice music."
+"[Although it's untrue] that popular music has no voice leading in it, [...] the largest amount of popular music is simply conceived with chords as blocks of information, and melodies are layered on top of the chords."
+^ Clendinning, Jane (2011). The Musicians Guide to Theory and Analysis. Norton. pp. A73. 
+^ Huron, David. "Tone and Voice: A Derivation of the Rules of Voice-leading from Perceptual Principles" Music Perception, Vol. 19, No. 1 (2001) pp. 1-64.
+^ Terefenko, Dariusz (2014). Jazz Theory: From Basic to Advanced Study, p.33. Routledge. ISBN 9781135043018.
+^ Schonbrun, Marc (2011). The Everything Music Theory Book, pp.174, 149. Adams Media. ISBN 9781440511820.

@@ -1,0 +1,14 @@
+An unpitched percussion instrument is a percussion instrument played in such a way as to produce sounds of indeterminate pitch, or an instrument normally played in this fashion.
+Unpitched percussion is typically used to maintain a rhythm or to provide accents, and its sounds are unrelated to the melody and harmony of the music. Within the orchestra unpitched percussion is termed auxiliary percussion, and this subsection of the percussion section includes all unpitched instruments of the orchestra however they are played, for example the pea whistle and siren.
+A common and typical example of an unpitched instrument is the snare drum, which is perceived as unpitched for three reasons:
+The snares produce sounds similar to white noise, masking definite frequencies.
+The drum heads produce inharmonic sounds.
+The strongest frequencies that are present are unrelated to pitched sounds produced by other instruments in the ensemble. Although the drum is tuned by the player, this tuning does not relate to the pitches of other instruments.
+The snare drum illustrates the three main ways in which a sound can be perceived as indeterminate in pitch:
+The sound may lack any fundamental frequency sufficiently loud to produce a sensation of pitch, for example a sound consisting of noise, or a mixture of sounds containing a great deal of such noise.
+The sound may be inharmonic, a mixture of sounds including some with conflicting fundamental frequencies. The sound of a freely resonating membrane such as a drum head, for example, contains strong overtones at irrational ratios to its fundamental, unlike a vibrating string whose overtones are at simple whole-number ratios to the fundamental.
+The fundamental frequency may simply be unexpected, and unrelated to other sounds in the piece of music. A heavy rock drummer playing on the bell of a ride cymbal, for example, produces a sound with a strong fundamental, but the pitch is unrelated to the music. This is unpitched percussion, despite the recognisable pitch of the sound if heard in isolation.
+In practice two or all of these mechanisms are frequently in effect in producing the sensation of an instrument being unpitched, but any one can be sufficient.
+It is important to note that many unpitched percussion instruments do or can produce a sound with a recognisable fundamental frequency, and so can also be used as pitched percussion. The pitch of a bell is particularly strong however struck. The sound of a floor tom played with normal drumsticks is inharmonic, but the same drum played with the mallets and in the fashion of a timpani can produce a recognisable pitch, without requiring any retuning.
+
+More radically, pitched instruments can be used to produce unpitched sounds, for example a prepared piano, or the golpe technique of flamenco music.

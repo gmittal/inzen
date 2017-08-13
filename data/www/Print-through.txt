@@ -1,0 +1,1 @@
+Print-through (sometimes referred to as bleed-through) is a generally undesirable effect that arises in the use of magnetic tape for storing analogue information, in particular music.

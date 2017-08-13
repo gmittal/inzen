@@ -1,0 +1,7 @@
+In music notation, a tie is a curved line connecting the heads of two notes of the same pitch and name, indicating that they are to be played as a single note with a duration equal to the sum of the individual notes' values. A tie is similar in appearance to a slur, however slurs join notes of different pitches which need to be played independently, but seamlessly.
+
+The tie shown at right (in blue) connects a quarter note (crotchet) to a sixteenth note (semiquaver), creating a note  5⁄4 as long as a quarter note, or five times as long as a sixteenth note—there is no single note value to express this duration. However, in some cases one might tie two notes that could be written with a single note value, such as a quarter note tied to an eighth note (the same length as a dotted quarter). This might be because:
+A barline is between the notes
+The second note begins a metric grouping, falling on a stressed beat of the meter. This change in notation (choosing the tie rather than the longer note value) does not affect performance, but it makes the music easier to read. Sometimes it can be used to make it clear that it has the appropriate rhythm. For example, a 68 measure with three equal notes would have a quarter note on each side but two tied eighth notes in the middle; a 34 measure with three equal notes would have all quarter notes.
+
+Several notes in succession can be tied together. Such a succession can also be part of a larger, slurred phrase, in which case, ties and slurs must be used simultaneously and distinguishably.

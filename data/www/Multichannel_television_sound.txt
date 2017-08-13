@@ -1,0 +1,1 @@
+Multichannel television sound, better known as MTS (often still as BTSC, for the Broadcast Television Systems Committee that created it), is the method of encoding three additional channels of audio into an analog NTSC-format audio carrier.

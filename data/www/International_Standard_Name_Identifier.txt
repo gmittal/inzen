@@ -1,0 +1,3 @@
+The International Standard Name Identifier (ISNI) is an identifier for uniquely identifying the public identities of contributors to media content such as books, television programmes, and newspaper articles. Such an identifier consists of 16 digits. It can optionally be displayed as divided into four blocks.
+It was developed under the auspices of the International Organization for Standardization (ISO) as Draft International Standard 27729; the valid standard was published on 15 March 2012. The ISO technical committee 46, subcommittee 9 (TC 46/SC 9) is responsible for the development of the standard.
+ISNI can be used to disambiguate names that might otherwise be confused, and links the data about names that are collected and used in all sectors of the media industries.

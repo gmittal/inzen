@@ -1,0 +1,1 @@
+A rest is an interval of silence in a piece of music, marked by a symbol indicating the length of the pause. Each rest symbol and name corresponds with a particular note value for length, indicating how long the silence should last.

@@ -1,0 +1,3 @@
+DMOZ (from directory.mozilla.org, an earlier domain name) was a multilingual open-content directory of World Wide Web links. The site and community who maintained it were also known as the Open Directory Project (ODP). It was owned by AOL but constructed and maintained by a community of volunteer editors.
+DMOZ used a hierarchical ontology scheme for organizing site listings. Listings on a similar topic were grouped into categories which then included smaller categories.
+DMOZ closed on March 17, 2017 due to AOL no longer wishing to support the project. The website became a single landing page on that day, with links to a static archive of DMOZ, and to the DMOZ discussion forum, where plans to rebrand and relaunch the directory are being discussed.

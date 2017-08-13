@@ -1,0 +1,18 @@
+Mark of the Unicorn (MOTU) is a music-related computer software and hardware supplier. It is based in Cambridge, Massachusetts and has created music software since 1984.
+Products by MOTU include:
+Digital Performer
+AudioDesk
+BPM
+MachFive
+MX4
+Unisyn
+Past notable products:
+MINCE and SCRIBBLE, an Emacs-like editor and Scribe-like text formatter for CP/M machines. MINCE was also available for the Atari ST.
+FinalWord word processor (sold and became Sprint).
+Professional Composer, one of the first graphical music-notation editors
+Mouse Stampede, arguably the first arcade-style game available for the Apple Macintosh (1984)
+Hex game for the Atari ST and Amiga computers (released in 1985)
+The first FireWire Audio Interface for Mac and Windows.
+^ PC Magazine
+^ Sound on Sound
+^ "Software Update". Atari Computer Enthusiasts of Columbus, Ohio Newsletter. February 1986.

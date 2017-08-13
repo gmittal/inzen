@@ -1,0 +1,212 @@
+Rotational speed (or speed of revolution) of an object rotating around an axis is the number of turns of the object divided by time, specified as revolutions per minute (rpm), revolutions per second (rev/s), or radians per second (rad/s).
+The symbol for rotational speed is 
+  
+    
+      
+        
+          ω
+          
+            cyc
+          
+        
+      
+    
+    {\displaystyle \omega _{\text{cyc}}}
+  (the Greek lowercase letter "omega").
+Tangential speed v, rotational speed 
+  
+    
+      
+        
+          ω
+          
+            cyc
+          
+        
+      
+    
+    {\displaystyle \omega _{\text{cyc}}}
+  , and radial distance r, are related by the following equation:
+
+  
+    
+      
+        v
+        =
+        2
+        π
+        r
+        
+          ω
+          
+            cyc
+          
+        
+      
+    
+    {\displaystyle v=2\pi r\omega _{\text{cyc}}}
+  
+
+  
+    
+      
+        v
+        =
+        r
+        
+          ω
+          
+            rad
+          
+        
+      
+    
+    {\displaystyle v=r\omega _{\text{rad}}}
+  
+An algebraic rearrangement of this equation allows us to solve for rotational speed:
+
+  
+    
+      
+        
+          ω
+          
+            cyc
+          
+        
+        =
+        v
+        
+          /
+        
+        2
+        π
+        r
+      
+    
+    {\displaystyle \omega _{\text{cyc}}=v/2\pi r}
+  
+
+  
+    
+      
+        
+          ω
+          
+            rad
+          
+        
+        =
+        v
+        
+          /
+        
+        r
+      
+    
+    {\displaystyle \omega _{\text{rad}}=v/r}
+  
+Thus, the tangential speed will be directly proportional to r when all parts of a system simultaneously have the same ω, as for a wheel, disk, or rigid wand. It is important to note that the direct proportionality of v to r is not valid for the planets, because the planets have different rotational speeds (ω).
+Rotational speed can measure, for example, how fast a motor is running. Rotational speed and angular speed are sometimes used as synonyms, but typically they are measured with a different unit. Angular speed, however, tells the change in angle per time unit, which is measured in radians per second in the SI system. Since there are 2π radians per cycle, or 360 degrees per cycle, we can convert angular speed to rotational speed by
+
+  
+    
+      
+        
+          ω
+          
+            cyc
+          
+        
+        =
+        
+          ω
+          
+            rad
+          
+        
+        
+          /
+        
+        2
+        π
+        
+      
+    
+    {\displaystyle \omega _{\text{cyc}}=\omega _{\text{rad}}/2\pi \,}
+  
+and
+
+  
+    
+      
+        
+          ω
+          
+            cyc
+          
+        
+        =
+        
+          ω
+          
+            deg
+          
+        
+        
+          /
+        
+        360
+        
+      
+    
+    {\displaystyle \omega _{\text{cyc}}=\omega _{\text{deg}}/360\,}
+  
+where
+
+  
+    
+      
+        
+          ω
+          
+            cyc
+          
+        
+        
+      
+    
+    {\displaystyle \omega _{\text{cyc}}\,}
+   is rotational speed in cycles per second
+
+  
+    
+      
+        
+          ω
+          
+            rad
+          
+        
+        
+      
+    
+    {\displaystyle \omega _{\text{rad}}\,}
+   is angular speed in radians per second
+
+  
+    
+      
+        
+          ω
+          
+            deg
+          
+        
+        
+      
+    
+    {\displaystyle \omega _{\text{deg}}\,}
+   is angular speed in degrees per second
+For example, a stepper motor might turn exactly one complete revolution each second. Its angular speed is 360 degrees per second (360°/s), or 2π radians per second (2π rad/s), while the rotational speed is 60 rpm.
+Rotational speed is not to be confused with tangential speed, despite some relation between the two concepts. Imagine a rotating merry-go-round. No matter how close or far you stand from the axis of rotation, your rotational speed will remain constant. However, your tangential speed does not remain constant. If you stand two meters from the axis of rotation, your tangential speed will be double the amount if you were standing only one meter from the axis of rotation.

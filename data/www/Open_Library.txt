@@ -1,0 +1,2 @@
+Open Library is an online project intended to create "one web page for every book ever published". Created by Aaron Swartz and Brewster Kahle, among others, Open Library is a project of the non-profit Internet Archive and has been funded in part by a grant from the California State Library and the Kahle/Austin Foundation.
+It provides access to many public domain and out-of-print books, which can be read online.

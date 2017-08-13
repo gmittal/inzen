@@ -1,0 +1,3 @@
+From the plural form: This is a redirect from a plural noun to its singular form. Either {{R from plural}} or {{R to singular}} may be used to tag plural redirects.
+This redirect link is used for convenience; it is often preferable to add the plural directly after the link (for example, [[link]]s). However, do not replace these redirected links with a simpler link unless the page is updated for another reason (see WP:NOTBROKEN).
+Use this rcat to tag only mainspace redirects; when plural forms are found in other namespaces, use {{R from modification}} instead.

@@ -1,0 +1,7 @@
+In music, the dominant is the fifth scale degree of the diatonic scale, called "dominant" because it is next in importance to the tonic, and a dominant chord is any chord built upon that pitch, using the notes of the same diatonic scale. The dominant is sung as so in solfege. The dominant function (diatonic function) has the role of creating instability that requires the tonic for resolution.
+
+In very much conventionally tonal music, harmonic analysis will reveal a broad prevalence of the primary (often triadic) harmonies: tonic, dominant, and subdominant (i.e., I and its chief auxiliaries a 5th removed), and especially the first two of these.
+
+The scheme I-x-V-I symbolizes, though naturally in a very summarizing way, the harmonic course of any composition of the Classical period. This x, usually appearing as a progression of chords, as a whole series, constitutes, as it were, the actual "music" within the scheme, which through the annexed formula V-I, is made into a unit, a group, or even a whole piece.
+
+For example, in the C major scale (white keys on a piano, starting with C), the dominant is the note G; and the dominant triad consists of the notes G, B, and D.

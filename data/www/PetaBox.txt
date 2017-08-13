@@ -1,0 +1,1 @@
+PetaBox is a storage unit from Capricorn Technologies. It was designed by the staff of the Internet Archive and C. R. Saikley to store and process one petabyte (a million gigabytes) of information.

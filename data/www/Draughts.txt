@@ -1,0 +1,4 @@
+Draughts (British English) or checkers (American English) is a group of strategy board games for two players which involve diagonal moves of uniform game pieces and mandatory captures by jumping over opponent pieces. Draughts developed from alquerque. The name derives from the verb to draw or to move.
+The most popular forms are English draughts, also called American checkers, played on an 8×8 checkerboard; Russian draughts, also played on an 8×8; and international draughts, played on a 10×10 board. There are many other variants played on an 8×8, and Canadian checkers is played on a 12×12 board.
+The 8×8 variant of draughts was weakly solved in 2007 by the team of Canadian computer scientist Jonathan Schaeffer. From the standard starting position, both players can guarantee a draw with perfect play.
+

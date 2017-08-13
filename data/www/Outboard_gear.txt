@@ -1,0 +1,9 @@
+Musical "outboard equipment" or "gear" is used to alter how a musical instrument sounds. Outboard, (external effects units) can be used either during a live performance or in the recording studio. These are separate from the effects that may be applied by using a mixing console or a digital audio workstation. Some outboard effects units and digital signal processing (DSP) boxes commonly found in a studio are:
+analog-to-digital and digital-to-analog converters
+musical instrument digital interfaces (MIDIs)
+microphone preamplifiers ("microphone preamp", "mic preamps" or "preamps")
+equalizers ("EQs")
+dynamics effects units: compressors/limiters, noise gates
+time-based effects units: reverb, flanging, delay, echo, chorus etc.
+^ "Digital Products". Musikhaus Thomann 2010. Retrieved 15 February 2011. 
+^ "The classics". Musikhaus Thomann 2010. Retrieved 15 February 2011.

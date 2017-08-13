@@ -1,0 +1,5 @@
+In music theory, a theoretical key or impossible key is a key whose key signature has at least one double-flat or double-sharp.
+Double-flats and double-sharps are often used as accidentals, but placing them in the key signature (in music that uses equal temperament) make the music generally impractical to read.
+For example, the key of G♯ major is a key of this type, because its corresponding key signature has an F (on its leading-tone). An equal-tempered scale of G♯ major comprises the same pitches as the A♭ major scale, so that the two scales sound exactly the same; such key pairs are said to be enharmonically equivalent. Consequently, the theoretical key of G♯ major is usually notated as A♭ major.
+Even when enharmonic equivalence is not resorted to, it is more common to use either no key signature or one with single-sharps and to provide accidentals as needed for the Fs, than to incorporate double-sharps into the key signature. Nevertheless, examples of the latter can be found (see below).
+

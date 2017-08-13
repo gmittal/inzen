@@ -1,0 +1,5 @@
+Shazam is a service that can identify music, movies, advertising, and television shows, based on a short sample played and using the microphone on the device. The software is available for Windows, macOS and smartphones. Shazam Entertainment Limited was founded in 1999 by Chris Barton, Philip Inghelbrecht, Avery Wang, and Dhiraj Mukherjee.
+In December 2013, according to its CEO, Shazam was one of the top ten most popular apps in the world.
+As of August 2014, the Shazam app had more than 100 million monthly active users and had been used on more than 500 million mobile devices.
+In October 2014, Shazam announced its technology has been used to identify 15 billion songs.
+In October 2016, Shazam announced its mobile apps have been downloaded more than 1 billion times, and users have performed more than 30 billion "Shazams" since launch.

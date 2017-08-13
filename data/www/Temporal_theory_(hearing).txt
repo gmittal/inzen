@@ -1,0 +1,2 @@
+The temporal theory of hearing states that human perception of sound depends on temporal patterns with which neurons respond to sound in the cochlea. Therefore, in this theory, the pitch of a pure tone is determined by the period of neuron firing patterns—either of single neurons, or groups as described by the volley theory. Temporal or timing theory competes with the place theory of hearing, which instead states that pitch is signaled according to the locations of vibrations along the basilar membrane.
+Temporal theory was first suggested by August Seebeck.

@@ -1,0 +1,2 @@
+A Video Graphics Array (VGA) connector is a three-row 15-pin DE-15 connector. The 15-pin VGA connector was provided on many video cards, computer monitors, laptop computers, projectors, and high definition television sets. On laptop computers or other small devices, a mini-VGA port was sometimes used in place of the full-sized VGA connector.
+Although many devices still include VGA connectors, and VGA generally coexisted with the DVI standard, VGA and DVI are both being rapidly phased out in favor of the newer and more compact HDMI and DisplayPort interface connectors.

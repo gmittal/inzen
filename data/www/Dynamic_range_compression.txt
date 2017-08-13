@@ -1,0 +1,4 @@
+Dynamic range compression (DRC) or simply compression is a signal processing operation that reduces the volume of loud sounds or amplifies quiet sounds by narrowing or compressing an audio signal's dynamic range.
+Compression is commonly used in sound recording and reproduction, broadcasting, live sound reinforcement and in some instrument amplifiers.
+A dedicated electronic hardware unit or audio software that applies compression is called a compressor. In the 2000s, compressors became available as software plugins that run in digital audio workstation software. In recorded and live music, compression parameters may be adjusted to change the way they affect sounds. Compression and limiting are identical in process but different in degree and perceived effect.
+A limiter is a compressor with a high ratio and, generally, a fast attack time.

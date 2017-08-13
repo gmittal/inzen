@@ -1,0 +1,8 @@
+A content management system (CMS) is a computer application that supports the creation and modification of digital content. It is often used to support multiple users working in a collaborative environment.
+CMS features vary widely. Most CMSs include Web-based publishing, format management, history editing and version control, indexing, search, and retrieval. By their nature, content management systems support the separation of content and presentation.
+A Web content management system (WCM or WCMS) is a CMS designed to support the management of the content of Web pages. Most popular CMSs are also WCMSs. Web content includes text and embedded graphics, photos, video, audio, maps, and program code (e.g., for applications) that displays content or interacts with the user.
+Such a content management system (CMS) typically has two major components:
+A content management application (CMA) is the front-end user interface that allows a user, even with limited expertise, to add, modify, and remove content from a website without the intervention of a webmaster.
+A content delivery application (CDA) compiles that information and updates the website.
+Digital asset management systems are another type of CMS. They manage things such as documents, movies, pictures, phone numbers, and scientific data. CMSs can also be used for storing, controlling, revising, and publishing documentation.
+Based on market share statistics, the most popular content management system is WordPress, used by over 27% of all websites on the internet, and by 59% of all websites using a known content management system. Other popular content management systems include Joomla and Drupal.

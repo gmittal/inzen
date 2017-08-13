@@ -1,0 +1,1 @@
+A software effect processor is a computer program which is able to modify the signal coming from a digital audio source in real time.
