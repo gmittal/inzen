@@ -1,3 +1,0 @@
-The visual field is the "spatial array of visual sensations available to observation in introspectionist psychological experiments".
-The equivalent concept for optical instruments and sensors is the field of view (FOV).
-In optometry, ophthalmology, and neurology, a visual field test is used to determine whether the visual field is affected by diseases that cause local scotoma or a more extensive loss of vision or a reduction in sensitivity (increase in threshold).

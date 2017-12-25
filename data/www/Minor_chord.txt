@@ -1,9 +1,0 @@
-In music theory, a minor chord ( play D minor chord ) is a chord having a root, a minor third, and a perfect fifth. When a chord has these three notes alone, it is called a minor triad. Some minor triads with additional notes, such as the minor seventh chord, may also be called minor chords.
-
-A minor triad can also be described as a minor third interval with a major third interval on top or as a root note, a note 3 semitones higher than the root, and a note 7 semitones higher than the root. Hence it can be represented by the integer notation {0, 3, 7}.
-A major chord ( play ) differs from a minor chord in having a major third above the root instead of a minor third. It can also be described as a major third with a minor third on top, in contrast to a minor chord, which has a minor third with a major third on top. They both contain fifths, because a major third (4 semitones) plus a minor third (3 semitones) equals a fifth (7 semitones).
-A diminished chord is a minor chord with a lowered fifth.  play 
-An example of a minor chord is the C minor chord, which consists of the notes C (root), E♭ (minor third) and G (perfect fifth):
- Play C minor chord in root position .
-
-The minor chord, along with the major chord, is one of the basic building blocks of tonal music and the common practice period. In Western music, a minor chord, in comparison, "sounds darker than a major chord" but is still considered highly consonant, stable, or as not requiring resolution.

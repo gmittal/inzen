@@ -1,2 +1,0 @@
-FLAC (; Free Lossless Audio Codec) is an audio coding format for lossless compression of digital audio, and is also the name of the reference codec implementation. Digital audio compressed by FLAC's algorithm can typically be reduced to 50–60% of its original size and decompress to an identical copy of the original audio data.
-FLAC is an open format with royalty-free licensing and a reference implementation which is free software. FLAC has support for metadata tagging, album cover art, and fast seeking.

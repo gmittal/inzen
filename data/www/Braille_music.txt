@@ -1,6 +1,0 @@
-Braille music is a Braille code that allows music to be notated using Braille cells so music can be read by visually impaired musicians. The Braille music system was originally developed by Louis Braille.
-
-Braille music uses the same six-position Braille cell as literary braille. However braille music assigns a separate meaning to each braille symbol or group of symbols different from literary braille and has its own syntax and abbreviations.
-Almost anything that can be written in print music notation can be written in braille music notation. However, braille music notation is an independent and well-developed system with its own conventions.
-The world's largest collection of braille music is located at the National Library for the Blind in Stockport, UK.
-

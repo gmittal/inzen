@@ -1,0 +1,828 @@
+
+
+# Science, technology, engineering, and mathematics
+
+From Wikipedia, the free encyclopedia
+
+  (Redirected from STEM fields)
+
+Jump to: navigation, search
+
+"STEM" redirects here. For other uses, see stem (disambiguation).
+
+**STEM** ( **science, technology, engineering and mathematics** , previously
+**METS** ) is the academic disciplines of science, technology, engineering and
+mathematics.[1] This term is typically used when addressing education policy
+and curriculum choices in schools, to improve competitiveness in science and
+technology development. It has implications for workforce development,
+national security concerns and immigration policy.[1] Education systems and
+schools play a central role in determining girls' and boys' interest in STEM
+subjects and in providing equal opportunities to access and benefit from
+quality STEM education.[2]
+
+The acronym arose in common use shortly after an interagency meeting science
+education held at the US National Science Foundation chaired by the then NSF
+director Rita Colwell.[3] A director from the Office of Science division of
+Workforce Development for Teachers and Scientists, Peter Faletra, suggested
+the change from the older acronym METS to STEM. Colwell, expressing some
+dislike for the older acronym, responded by suggesting NSF to institute the
+change. One of the first NSF projects to use the acronym was STEMTEC, the
+Science, Technology, Engineering and Math Teacher Education Collaborative at
+the University of Massachusetts Amherst, which was funded in 1998.[4]
+
+## Contents
+
+  * 1 Other variations
+  * 2 Geographic distribution
+    * 2.1 United States
+      * 2.1.1 National Science Foundation
+      * 2.1.2 Immigration policy
+      * 2.1.3 STEM-eligible degrees in US immigration
+      * 2.1.4 Education
+        * 2.1.4.1 Racial gap in STEM fields
+      * 2.1.5 American Competitiveness Initiative
+      * 2.1.6 STEM Education Coalition
+      * 2.1.7 Scouting
+      * 2.1.8 Department of Defense programs
+      * 2.1.9 NASA
+      * 2.1.10 Legislation
+      * 2.1.11 Jobs
+    * 2.2 Hong Kong
+    * 2.3 Africa
+    * 2.4 Australia
+    * 2.5 Canada
+      * 2.5.1 Scouts Canada
+      * 2.5.2 Schulich Leader Scholarships
+    * 2.6 Turkey
+    * 2.7 Qatar
+    * 2.8 Vietnam
+  * 3 Women
+  * 4 Girls and women education in STEM
+  * 5 Criticism
+  * 6 See also
+  * 7 Sources
+  * 8 References
+  * 9 Further reading
+  * 10 External links
+
+## Other variations[edit]
+
+  * STM (Scientific, Technical, and Mathematics;[5] or Science, Technology, and Medicine; or Scientific, Technical, and Medical)
+  * eSTEM (environmental STEM) [6][7]
+  * iSTEM (invigorating Science, Technology, Engineering, and Mathematics); identifies new ways to teach STEM-related fields.
+  * STEMLE (Science, Technology, Engineering, Mathematics, Law and Economics); identifies subjects focused on fields such as applied social sciences and anthropology, regulation, cybernetics, machine learning, social systems, computational economics and computational social sciences.
+  * STEMS^2 (Science, Technology, Engineering, Mathematics, Social Sciences and Sense of Place); integrates STEM with social sciences and sense of place.
+  * METALS (STEAM + Logic), introduced by Su Su at Teachers College, Columbia University.[ _citation needed_ ]
+  * STREM (Science, Technology, Robotics, Engineering, and Mathematics); adds robotics as a field.
+  * STREM (Science, Technology, Robotics, Engineering, and Multimedia); adds robotics as a field and replaces mathematics with media.
+  * STREAM (Science, Technology, Robotics, Engineering, Arts, and Mathematics); adds robotics and arts as fields.
+  * STEAM (Science, Technology, Engineering, Arts, and Mathematics)[8]
+  * STEAM (Science, Technology, Engineering and Applied Mathematics); more focus on applied mathematics[9]
+  * GEMS (Girls in Engineering, Math, and Science); used for programs to encourage women to enter these fields.[10][11]
+  * STEMM (Science, Technology, Engineering, Mathematics, and Medicine)
+  * AMSEE (Applied Math, Science, Engineering, and Entrepreneurship)
+  * THAMES (Technology, Hands-On, Art, Mathematics, Engineering, Science)
+
+## Geographic distribution[edit]
+
+### United States[edit]
+
+In the United States, the acronym began to be used in education and
+immigration debates in initiatives to begin to address the perceived lack of
+qualified candidates for high-tech jobs. It also addresses concern that the
+subjects are often taught in isolation, instead of as an integrated
+curriculum.[12] Maintaining a citizenry that is well versed in the STEM fields
+is a key portion of the public education agenda of the United States.[13] The
+acronym has been widely used in the immigration debate regarding access to
+United States work visas for immigrants who are skilled in these fields. This
+version of the term is accredited to Texas. It has also become commonplace in
+education discussions as a reference to the shortage of skilled workers and
+inadequate education in these areas.[14] The term tends not to refer to the
+non-professional sectors of the fields that remain more invisible such as
+electronics assembly line work, for example.
+
+#### National Science Foundation[edit]
+
+Many organizations in the United States follow the guidelines of the National
+Science Foundation on what constitutes a STEM field. The NSF uses a broader
+definition of STEM subjects that includes subjects in the fields of chemistry,
+computer and information technology science, engineering, geosciences, life
+sciences, mathematical sciences, physics and astronomy, social sciences
+(anthropology, economics, psychology and sociology), and STEM education and
+learning research.[1][15] Eligibility for scholarship programs such as the CSM
+STEM Scholars Program use the NSF definition.[16]
+
+The NSF is the only American federal agency whose mission includes support for
+all fields of fundamental science and engineering, except for medical
+sciences.[17] Its disciplinary program areas include scholarships, grants,
+fellowships in fields such as biological sciences, computer and information
+science and engineering, education and human resources, engineering,
+environmental research and education, geosciences, international science and
+engineering, mathematical and physical sciences, social, behavioral and
+economic sciences, cyberinfrastructure, and polar programs.[15]
+
+#### Immigration policy[edit]
+
+Although many organizations in the United States follow the guidelines of the
+National Science Foundation on what constitutes a STEM field, the United
+States Department of Homeland Security (DHS) has its own functional definition
+used for immigration policy.[18] In 2012, DHS or ICE announced an expanded
+list of STEM designated-degree programs that qualify eligible graduates on
+student visas for an optional practical training (OPT) extension. Under the
+OPT program, international students who graduate from colleges and
+universities in the United States are able to remain in the country and
+receive training through work experience for up to 12 months. Students who
+graduate from a designated STEM degree program can remain for an additional 17
+months on an OPT STEM extension.[19][20]
+
+#### STEM-eligible degrees in US immigration[edit]
+
+For more details on Temporary foreign workers, see Global labor arbitrage,
+H-1B visa, and Optional Practical Training.
+
+An exhaustive list of STEM disciplines does not exist because the definition
+varies by organization. The U.S. Immigration and Customs Enforcement lists
+disciplines including[21] physics, actuarial science, chemistry, biology,
+mathematics, applied mathematics, statistics, computer science, computational
+science, psychology, biochemistry, robotics, computer engineering, electrical
+engineering, electronics, mechanical engineering, industrial engineering,
+information science, information technology, civil engineering, aerospace
+engineering, chemical engineering, astrophysics, astronomy, optics,
+nanotechnology, nuclear physics, mathematical biology, operations research,
+neurobiology, biomechanics, bioinformatics, acoustical engineering, geographic
+information systems, atmospheric sciences, educational/instructional
+technology, software engineering, and educational research.
+
+#### Education[edit]
+
+By cultivating an interest in the natural and social sciences in preschool or
+immediately following school entry, the chances of STEM success in high school
+can be greatly improved. School integration can help black, Hispanic and
+aboriginal students catch up to Asian and white students.[22]
+
+STEM supports broadening the study of engineering within each of the other
+subjects, and beginning engineering at younger grades, even elementary school.
+It also brings STEM education to all students rather than only the gifted
+programs. In his 2012 budget, President Barack Obama renamed and broadened the
+" _Mathematics and Science Partnership (MSP)_ " to award block grants to
+states for improving teacher education in those subjects.[23]
+
+STEM education often uses new technologies such as RepRap 3D printers to
+encourage interest in STEM fields.[24]
+
+In 2006 the United States National Academies expressed their concern about the
+declining state of STEM education in the United States. Its Committee on
+Science, Engineering, and Public Policy developed a list of 10 actions. Their
+top three recommendations were to:
+
+  * Increase America's talent pool by improving K–12 science and mathematics education
+  * Strengthen the skills of teachers through additional training in science, mathematics and technology
+  * Enlarge the pipeline of students prepared to enter college and graduate with STEM degrees[25]
+
+The National Aeronautics and Space Administration also has implemented
+programs and curricula to advance STEM education in order to replenish the
+pool of scientists, engineers and mathematicians who will lead space
+exploration in the 21st century.[25]
+
+Individual states, like California, have run pilot after-school STEM programs,
+for example, to learn what the most promising practices are and how to
+implement them to increase the chance of student success.[26] Another state to
+invest in STEM Education is Florida, where Florida Polytechnic University,
+Florida’s first public university for engineering and technology dedicated to
+science, technology, engineering and mathematics (STEM), was established.[27]
+
+Continuing STEM education has expanded to the post-secondary level through
+masters programs such as The University of Maryland's STEM Program[28] as well
+as the University of Cincinnati.[29]
+
+##### Racial gap in STEM fields[edit]
+
+In the United States, the National Science Foundation found that the average
+science score on the 2011 National Assessment of Educational Progress was
+lower for black and Hispanic students than white, Asian, and Pacific
+Islanders.[30] In 2011, eleven percent of the U.S. workforce was black, while
+only six percent of STEM workers were black.[31] Though STEM in the U.S. has
+typically been dominated by white males, there have been considerable efforts
+to create initiatives to make STEM a more racially and gender diverse
+field.[32]
+
+#### American Competitiveness Initiative[edit]
+
+In the State of the Union Address on January 31, 2006, President George W.
+Bush announced the American Competitiveness Initiative. Bush proposed the
+initiative to address shortfalls in federal government support of educational
+development and progress at all academic levels in the STEM fields. In detail,
+the initiative called for significant increases in federal funding for
+advanced R&D programs (including a doubling of federal funding support for
+advanced research in the physical sciences through DOE) and an increase in
+U.S. higher education graduates within STEM disciplines.
+
+The _NASA Means Business_ competition, sponsored by the Texas Space Grant
+Consortium, furthers that goal. College students compete to develop
+promotional plans to encourage students in middle and high school to study
+STEM subjects and to inspire professors in STEM fields to involve their
+students in outreach activities that support STEM education.
+
+The National Science Foundation has numerous programs in STEM education,
+including some for K–12 students such as the ITEST Program that supports The
+Global Challenge Award ITEST Program. STEM programs have been implemented in
+some Arizona schools. They implement higher cognitive skills for students and
+enable them to inquire and use techniques used by professionals in the STEM
+fields.
+
+The STEM Academy is a national nonprofit-status organization dedicated to
+improving STEM literacy for all students. It represents a recognized national
+next-generation high-impact academic model. The practices, strategies, and
+programming are built upon a foundation of identified national best practices
+which are designed to improve under-represented minority and low-income
+student growth, close achievement gaps, decrease dropout rates, increase high
+school graduation rates and improve teacher and principal effectiveness. The
+STEM Academy represents a flexible use academic model that targets all schools
+and is for all students.[33]
+
+Project Lead The Way (PLTW) is a leading provider of STEM education curricular
+programs to middle and high schools in the United States. The national
+nonprofit organization has over 5,200 programs in over 4,700 schools in all 50
+states. Programs include a high school engineering curriculum called _Pathway
+To Engineering_ , a high school biomedical sciences program, and a middle
+school engineering and technology program called _Gateway To Technology_. PLTW
+provides the curriculum and the teacher professional development and ongoing
+support to create transformational programs in schools, districts, and
+communities. PLTW programs have been endorsed by President Barack Obama and
+United States Secretary of Education Arne Duncan as well as various state,
+national, and business leaders.
+
+####  STEM Education Coalition[edit]
+
+_The Science, Technology, Engineering, and Mathematics (STEM) Education
+Coalition_[34] works to support STEM programs for teachers and students at the
+U. S. Department of Education, the National Science Foundation, and other
+agencies that offer STEM-related programs. Activity of the STEM Coalition
+seems to have slowed since September 2009.
+
+####  Scouting[edit]
+
+The Boy Scouts of America announced the roll out of an awards program in the
+spring of 2012 to promote more interest and involvement in the STEM
+disciplines. The NOVA and SUPERNOVA awards are available to Boy Scouts, Cub
+Scouts and Venturers as they complete specific requirements appropriate to
+their program level in each of the four main STEM program areas: Science,
+Technology, Engineering, and Mathematics.
+
+Girl Scouts of the United States of America incorporated STEM into their
+program with the goal that girls will see how they can change the world
+through scientific discoveries as well as to teach important skills they can
+use throughout there life.[35] One of the ways STEM was incorporated is
+through leadership journeys where girls identify a problem, come up with a
+solution, a plan how to carry it out, then carry out the solution and
+afterwards communicate what she learned from it.[36] Another way is through
+badges which are more specific to the girl’s personal interest in categories
+such as naturalist, digital art, science and technology, innovation and
+financial literacy. Special projects hosted by sponsors, innovations, partners
+such as NASA, and other institutions who have partnered with Girl Scouts to
+connect girls to professionals and possible career fields in the STEM field
+they would not have been exposed to otherwise.[35]
+
+#### Department of Defense programs[edit]
+
+[37] The eCybermission is a free, web-based science, mathematics and
+technology competition for students in grades six through nine sponsored by
+the U.S. Army. Each webinar is focused on a different step of the scientific
+method and is presented by an experienced eCybermission CyberGuide.
+CyberGuides are military and civilian volunteers with a strong background in
+STEM and STEM education, who are able to provide valuable insight into
+science, technology, engineering, and mathematics to students and team
+advisers.
+
+STARBASE is a premier educational program, sponsored by the Office of the
+Assistant Secretary of Defense for Reserve Affairs. Students interact with
+military personnel to explore careers and make connections with the "real
+world." The program provides students with 20–25 hours of stimulating
+experiences at National Guard, Navy, Marines, Air Force Reserve and Air Force
+bases across the nation.
+
+SeaPerch is an innovative underwater robotics program that trains teachers to
+teach their students how to build an underwater remotely operated vehicle
+(ROV) in an in-school or out-of-school setting. Students build the ROV from a
+kit composed of low-cost, easily accessible parts, following a curriculum that
+teaches basic engineering and science concepts with a marine engineering
+theme.
+
+#### NASA[edit]
+
+NASAStem is a program of the U.S. space agency NASA to increase diversity
+within its ranks, including age, disability, and gender as well as
+race/ethnicity.[38]
+
+#### Legislation[edit]
+
+The America COMPETES Act (P.L. 110-69) became law on August 9, 2007. It is
+intended to increase the nation's investment in science and engineering
+research and in STEM education from kindergarten to graduate school and
+postdoctoral education. The act authorizes funding increases for the National
+Science Foundation, National Institute of Standards and Technology
+laboratories, and the Department of Energy (DOE) Office of Science over
+FY2008–FY2010. Robert Gabrys, Director of Education at NASA's Goddard Space
+Flight Center, articulated success as increased student achievement, early
+expression of student interest in STEM subjects, and student preparedness to
+enter the workforce.
+
+#### Jobs[edit]
+
+In November 2012 the White House announcement before congressional vote on the
+STEM Jobs Act put President Obama in opposition to many of the Silicon Valley
+firms and executives who bankrolled his re-election campaign.[39] The
+Department of Labor identified 14 sectors that are "projected to add
+substantial numbers of new jobs to the economy or affect the growth of other
+industries or are being transformed by technology and innovation requiring new
+sets of skills for workers."[40] The identified sectors were as follows:
+advanced manufacturing, Automotive, construction, financial services,
+geospatial technology, homeland security, information technology,
+Transportation, Aerospace, Biotechnology, energy, healthcare, hospitality, and
+retail.
+
+The Department of Commerce notes STEM fields careers are some of the best-
+paying and have the greatest potential for job growth in the early 21st
+century. The report also notes that STEM workers play a key role in the
+sustained growth and stability of the U.S. economy, and training in STEM
+fields generally results in higher wages, whether or not they work in a STEM
+field.[41]
+
+### Hong Kong[edit]
+
+STEM education has not been promoted among the local schools in Hong Kong
+until recent years. In November 2015, the Education Bureau of Hong Kong
+released a document entitled _Promotion of STEM Education_ ,[42] which
+proposes the strategies and recommendations on promoting STEM education.
+
+### Africa[edit]
+
+Around the world, STEM education initiatives vary in scope, size, type, target
+populations and funding sources. A list of organizations that are currently
+engaged in STEM Education activities and outreach across Sub-Saharan Africa
+has emerged. The organizations range in size, scope, funding mechanisms, and
+mission statements. However, they are all focused on improving STEM Education
+in the continent.
+
+### Australia[edit]
+
+There have been numerous programs and attempts to establish a national
+approach to STEM education in Australia.
+
+### Canada[edit]
+
+Canada ranks 12th out of 16 peer countries in the percentage of its graduates
+who studied in STEM programs, with 21.2%, a number higher than the United
+States, but lower than countries such as France, Germany, and Austria. The
+peer country with the greatest proportion of STEM graduates, Finland, has over
+30% of their university graduates coming from science, mathematics, computer
+science, and engineering programs.[43]
+
+#### Scouts Canada[edit]
+
+Scouts Canada has taken similar measures to their American counterpart to
+promote STEM fields to youth. Their STEM program began in 2015.[44]
+
+#### Schulich Leader Scholarships[edit]
+
+In 2011 Canadian entrepreneur and philanthropist Seymour Schulich established
+the Schulich Leader Scholarships, $100 million in $60,000 scholarships for
+students beginning their university education in a STEM program at 20
+institutions across Canada. Each year 40 Canadian students would be selected
+to receive the award, two at each institution, with the goal of attracting
+gifted youth into the STEM fields.[45] The program also supplies STEM
+scholarships to five participating universities in Israel.[46]
+
+### Turkey[edit]
+
+Turkish STEM Education Task Force (or FeTeMM—Fen Bilimleri, Teknoloji,
+Mühendislik ve Matematik) is a coalition of academicians and teachers who show
+an effort to increase the quality of education in STEM fields rather than
+focussing on increasing the number of STEM graduates.[47][48]
+
+### Qatar[edit]
+
+In Qatar, AL-Bairaq is an outreach program to high-school students with a
+curriculum that focuses on STEM, run by the Center for Advanced Materials
+(CAM) at Qatar University. Each year around 946 students, from about 40 high
+schools, participate in AL-Bairaq competitions.[49] AL-Bairaq make use of
+project-based learning, encourages students to solve authentic problems, and
+inquires them to work with each other as a team to build real
+solutions.[50][51] Research has so far shown positive results for the
+program.[52]
+
+### Vietnam[edit]
+
+In Vietnam, beginning in 2012 many private education organizations has STEM
+education initiatives.
+
+In 2015, the Ministry of Science and Technology and Liên minh STEM organized
+the first National STEM day, followed by many similar events across the
+country.
+
+in 2015, Ministry of Education and Training included STEM as an area needed to
+be encouraged in national school year program.
+
+In May 2017, Prime Minister signed a Directive no. 16 stating: "Dramatically
+change the policies, contents, education and vocational training methods to
+create a human resource capable of receiving new production technology trends,
+with a focus on promoting training in science, technology, engineering and
+mathematics (STEM), foreign languages, information technology in general
+education; " and asking "Ministry of Education and Training (to): Promote the
+deployment of science, technology, engineering and mathematics (STEM)
+education in general education program; Pilot organize in some high schools
+from 2017 to 2018.
+
+## Women[edit]
+
+Main article: Women in STEM fields
+
+Despite significant improvements in recent decades, education is not
+universally available and gender inequalities persist. A major concern in many
+countries is not only limited numbers of girls going to school, but also
+limited educational pathways for those that step into the classroom. This
+includes, more specifically, how to address the lower participation and
+learning achievement of girls in science, technology, engineering and
+mathematics (STEM) education.[2]
+
+Current campaigns to increase the gender balance within STEM fields include
+the UK's WISE[53] as well as mentoring programs, such as the Million Women
+Mentors initiative connecting girls and young women with STEM mentors[54] and
+Verizon's #InspireHerMind project.[55] The US Office of Science and Technology
+Policy during the Obama administration collaborated with the White House
+Council on Women and Girls to increase the participation of women and girls
+within STEM fields[56] along with the "Educate to Innovate" campaign.[57]
+
+Women in STEM fields are often underrepresented, holding less than 25% of the
+jobs in the U.S.[58] and 13% in the UK (2014).[59] In the United States,
+studies have been conducted to explain this pattern, such as mechanisms in
+recruitment and hiring processes.[60] On average, women in STEM fields earn
+33% more than those in non-STEM professions.[56] However, women can be found
+as leaders in top professions around the country. These include the U.S.
+Department of Defense, NASA, and the National Science Foundation
+(NSF).[61][62]
+
+Though women nearly comprise half of the US workforce, they've held less than
+25% of STEM jobs consistently over the last decade.[54] While 12% of women in
+bachelor programs will get a degree in STEM each year, only 3% continue to
+work within the STEM field 10 years after graduation.[54] According to the
+National Science Foundation, only 28% of U.S. scientists and engineers working
+in science and engineering occupations are women, with 6.5% Asian women, 1.6%
+black women, and 1.8% Hispanic women.[63] While nearly 60% of bachelor's
+degrees are awarded to graduating women each year, less than 20% are in
+computer science.[64]
+
+A 2012 study[65] in the _Proceedings of the National Academy of Sciences of
+the United States_ showed that an implicit bias exists against hiring women
+for even entry-level STEM positions. This study had faculty members in
+university biology, chemistry, and physics departments judge applications for
+a laboratory manager position. These applications only differed in name (i.e.,
+John vs. Jennifer).
+
+##  Girls and women education in STEM[edit]
+
+Gender differences in STEM education participation at the expense of girls are
+already visible in early childhood care and education (ECCE) and become more
+visible at higher levels of education. Girls appear to lose interest in STEM
+subjects with age, and lower levels of participation are already seen in
+advanced studies at secondary level. By higher education, women represent only
+35% of all students enrolled in STEM-related fields of study. Gender
+differences also exist in STEM disciplines, with the lowest female enrolment
+observed in information, communication and technology (ICT); engineering,
+manufacturing and construction; and natural science, mathematics and
+statistics. Women leave STEM disciplines in disproportionate numbers during
+their higher education studies, in their transition to the world of work and
+even during their career cycle.[2]
+
+Cross-national studies of learning achievement (measuring knowledge
+acquisition or knowledge application) from more than 120 countries and
+dependent territories present a complex picture. In middle- to high-income
+countries for which trend data are available, data gaps to girls’ disadvantage
+are closing, particularly in science. In addition, in countries where girls do
+better than boys on curriculum-based assessments, their score difference can
+be up to three times higher than when boys do better. There are significant
+regional differences, however. For example, girls outperform boys in many
+countries in Asia while the score difference between boys and girls in science
+achievement is particularly strong in the Arab States, with girls
+significantly outperforming boys.[2]
+
+More countries demonstrate gender differences to boys’ advantage in
+mathematics achievement, with boys’ score differentials as compared to those
+of girls often increasing between early and late primary education. Regional
+differences exist also in mathematics; girls are particularly disadvantaged in
+Latin America and sub-Saharan Africa. Differences also exist between
+assessments that measure learning against the curriculum-based compared to
+those that measure students’ ability to apply knowledge and skills to
+different situations. Boys performed better in two-thirds of the 70 countries
+measuring applied learning in math at age 15.[2]
+
+Research on biological factors, including brain structure and development,
+genetics, neuroscience and hormones, shows that the gender gap in STEM is not
+the result of sex differences in these factors or in innate ability. Rather,
+findings suggest that learning is underpinned by neuroplasticity, the capacity
+of the brain to expand and form new connections, and that education
+performance, including in STEM subjects, is influenced by experience and can
+be improved through targeted interventions. Spatial and language skills,
+especially written language, are positively correlated with performance in
+mathematics and can be improved with practice, irrespective of sex, especially
+during the earlier years of life.[2]
+
+## Criticism[edit]
+
+The focus on increasing participation in STEM fields has attracted criticism.
+In the 2014 article "The Myth of the Science and Engineering Shortage" in _The
+Atlantic_ , demographer Michael S. Teitelbaum criticized the efforts of the
+U.S. government to increase the number of STEM graduates, saying that, among
+studies on the subject, "No one has been able to find any evidence indicating
+current widespread labor market shortages or hiring difficulties in science
+and engineering occupations that require bachelor's degrees or higher", and
+that "Most studies report that real wages in many—but not all—science and
+engineering occupations have been flat or slow-growing, and unemployment as
+high or higher than in many comparably-skilled occupations." Teitelbaum also
+wrote that the then-current national fixation on increasing STEM participation
+paralleled previous U.S. government efforts since World War II to increase the
+number of scientists and engineers, all of which he stated ultimately ended up
+in "mass layoffs, hiring freezes, and funding cuts"; including one driven by
+the Space Race of the late 1950s and 1960s, which he wrote led to "a bust of
+serious magnitude in the 1970s."[66]
+
+_IEEE Spectrum_ contributing editor Robert N. Charette echoed these sentiments
+in the 2013 article "The STEM Crisis Is a Myth", also noting that there was a
+"mismatch between earning a STEM degree and having a STEM job" in the United
+States, with only around ¼ of STEM graduates working in STEM fields, while
+less than half of workers in STEM fields have a STEM degree.[67]
+
+Economics writer Ben Casselman, in a 2014 study of post-graduation earnings
+for _FiveThirtyEight_ , wrote that, based on the data, science should not be
+grouped with the other three STEM categories, because, while the other three
+generally result in high-paying jobs, "many sciences, particularly the life
+sciences, pay below the overall median for recent college graduates."[68]
+
+## See also[edit]
+
+  * American Indian Science and Engineering Society (AISES)
+  * Glossary of biology
+  * Glossary of chemistry
+  * Glossary of civil engineering
+  * Glossary of ecology
+  * Glossary of electrical and electronics engineering
+  * Glossary of engineering
+  * Glossary of mechanical engineering
+  * Glossary of physics
+  * Glossary of robotics
+  * Glossary of structural engineering
+  * Hard and soft science
+  * List of African American women in STEM fields
+  * Maker culture
+  * National Society of Black Engineers (NSBE)
+  * NASA RealWorld-InWorld Engineering Design Challenge
+  * Society of Hispanic Professional Engineers (SHPE)
+  * Science, Technology, Engineering and Mathematics Network
+  * Pre-STEM
+  * STEM pipeline
+  * STEM Academy
+  * STEAM fields
+  * STEM.org
+
+## Sources[edit]
+
+This article incorporates text from a free content work. Licence statement:
+_Cracking the code: girls' and women's education in science, technology,
+engineering and mathematics (STEM)_, 11, UNESCO.
+
+To learn how to add freely licensed text to Wikipedia articles, please see the
+terms of use.
+
+## References[edit]
+
+  1. ^ _**a**_ _**b**_ _**c**_ "Science, Technology, Engineering, and Mathematics (STEM) Education: A Primer" (PDF). _Fas.org_. Retrieved  2017-08-21. 
+  2. ^ _**a**_ _**b**_ _**c**_ _**d**_ _**e**_ _**f**_ _Cracking the code: girls' and women's education in science, technology, engineering and mathematics (STEM)_. Paris: UNESCO. 2017. p.  11\. ISBN 9789231002335. 
+  3. **^** "Guest commentary: A "STEM" in Collier County to reach their future". _Naplesnews.com_. Retrieved  2016-06-09. 
+  4. **^** "STEMTEC". _Fivecolleges.edu_. Retrieved  2016-10-27. 
+  5. **^** Ken Whistler, Asmus Freytag, AMS (STIX); "Encoding Additional Mathematical Symbols in Unicode (revised)"; 2000-04-09. Math Symbols 2000-04-19 - Unicode Consortium (accessed 2016-10-21
+  6. **^** eSTEM Academy, retrieved 2013-07-02
+  7. **^** _Arbor Height Elementary to implement "eSTEM" curriculum in coming years_ , West Seattle Herald, 4-30-2013, retrieved 2013-07-02
+  8. **^** "STEAM Rising: Why we need to put the arts into STEM education". Slate. Retrieved  2016-11-10. 
+  9. **^** "Virginia Tech and Virginia STEAM Academy form strategic partnership to meet critical education needs". _Virginia Tech News_. 31 July 2012.  
+  10. **^** "Girls in Engineering, Math and Science (GEMS)". _GRASP lab_. 2015-04-06. Retrieved  2017-03-28. 
+  11. **^** "Annual Report - Lee Richardson Zoo" (PDF). _Lee Richardson Zoo_.  
+  12. **^** "STEM Education in Southwestern Pennsylvania" (PDF). The Intermediate Unit 1 Center for STEM Education. 2008. Retrieved 2012-12-21. 
+  13. **^** Morella, Michael (July 26, 2012). "U.S. News Inducts Five to STEM Leadership Hall of Fame". U.S. News & World Report. Retrieved 2012-12-21. 
+  14. **^** Kakutani, Michiko (November 7, 2011). "Bill Clinton Lays Out His Prescription for America's Future". _The New York Times_. Retrieved  2012-12-21. 
+  15. ^ _**a**_ _**b**_ "Graduate Research Fellowship Program". _nsf.gov_.  
+  16. **^** "ISTEM – College of Southern Maryland". Archived from the original on 2013-04-03.  
+  17. **^** "What We Do". The National Science Foundation. Retrieved  2012-12-21. 
+  18. **^** "Immigration of Foreign Nationals with Science, Technology, Engineering, and Mathematics (STEM) Degrees" (PDF). _Fas.org_. Retrieved  2017-08-21. 
+  19. **^** Jennifer G. Roeper (May 19, 2012). "DHS Expands List of STEM designated-degree programs". Fowler White Boggs P.A. Retrieved 2012-10-01. 
+  20. **^** "STEM-Designated Degree Program List : 2012 Revised List" (PDF). _Ice.gov_. Retrieved  2017-08-21. 
+  21. **^** "STEM Designated Degree Programs". U.S. Immigration and Customs Enforcement. April 2008. Retrieved  2012-12-21. 
+  22. **^** Morgan, Paul; Farkas, George; Hillemeier, Marianne; Maczuga, Steve (2016), "Science Achievement Gaps Begin Very Early, Persist, and Are Largely Explained by Modifiable Factors", _Educational Researcher_ , **45** (1): 18–35, doi:10.3102/0013189X16633182  
+  23. **^** Jane J. Lee (14 February 2012). "Obama's Budget Shuffles STEM Education Deck". American Association for the Advancement of Science. Archived from the original on 29 August 2012. Retrieved 2012-12-21. 
+  24. **^** J.L. Irwin, D.E. Oppliger, J.M. Pearce, G. Anzalone, Evaluation of RepRap 3D Printer Workshops in K-12 STEM. _122nd ASEE 122nd ASEE Conf. Proceedings_ , paper ID#12036, 2015. open access
+  25. ^ _**a**_ _**b**_ "STEM Education". _Slsd.org_. Retrieved  2016-06-09. 
+  26. **^** "Final Report : California Department of Education : CDE Agreement" (PDF). _Powerofdiscovery.org_. Retrieved  2017-08-21. 
+  27. **^** "About Florida Polytechnic University". _Florida Polytechnic University_. Retrieved  2015-10-26. 
+  28. **^** "Archived copy". Archived from the original on 2014-09-10. Retrieved  2014-07-05. 
+  29. **^** "Archived copy". Archived from the original on 2014-09-10. Retrieved  2014-07-05. 
+  30. **^** "Science and Engineering Indicators 2014." S&E Indicators 2014 - Figures - US National Science Foundation (NSF). N.p., n.d. Web.
+  31. **^** Landivar, Liana C. Disparities in STEM Employment by Sex, Race, and Hispanic Origin . Rep. N.p.: n.p., 2013.
+  32. **^** "FACT SHEET: President Obama Announces Over $240 Million in New STEM Commitments at the 2015 White House Science Fair." National Archives and Records Administration. National Archives and Records Administration, n.d. Web.
+  33. **^** "stemacademy". _Stem101.org_.  
+  34. **^** Bybee, R. W. (2010). "What is STEM Education?". _Science_. **329** (5995): 996–996. Bibcode:2010Sci...329..996B. doi:10.1126/science.1194998. PMID 20798284.  
+  35. ^ _**a**_ _**b**_ "STEM - Girl Scouts". _Girl Scouts of the USA_. Retrieved  2017-09-27. 
+  36. **^** "Journeys - Girl Scouts". _Girl Scouts of the USA_. Retrieved  2017-09-27. 
+  37. **^** "Research & Engineering Enterprise: STEM". _Osd.mil_. Retrieved  2017-08-21. 
+  38. **^** "NASA Office of Diversity and Equal Opportunity (ODEO)". _missionstem.nasa.gov_. Retrieved  20 August 2017. 
+  39. **^** Declan McCullagh (November 28, 2012). "Obama opposes Silicon Valley firms on immigration reform". CNET. Retrieved 2012-12-21. 
+  40. **^** "The STEM Workforce Challenge: the Role of the Public Workforce System in a National Solution for a Competitive Science, Technology, Engineering, and Mathematics (STEM) Workforce" (PDF). U.S. Department of Labor. April 2007. Retrieved 2012-12-21. 
+  41. **^** "STEM: Good Jobs Now and For the Future". _doc.gov_.  
+  42. **^** "Promotion of STEM Education" (PDF). _Edb.gov.hk_. Retrieved  2017-08-21. 
+  43. **^** "Graduates in science, math, computer science, and engineering". _Conferenceboard.ca_. Retrieved  20 August 2017. 
+  44. **^** "Archived copy". Archived from the original on 2014-08-11. Retrieved  2014-06-30. 
+  45. **^** "Toronto philanthropist Schulich unveils $100-million scholarship". _Theglobeandmail.com_. Retrieved  30 June 2014. 
+  46. **^** "Philanthropist Makes $100 Million Investment In Nation's Future". _Shalomlife.com_. Retrieved  30 June 2014. 
+  47. **^** "FeTeMM Çalışma Grubu". Retrieved  3 September 2014. 
+  48. **^** "STEM Education Task Force". _Tstem.com_. Retrieved  3 September 2014. 
+  49. **^** "AlBairaq World - Welcome to Al-Bairaq World". _Web.archive.org_. 19 April 2014. Archived from the original on 19 April 2014. Retrieved  20 August 2017. CS1 maint: BOT: original-url status unknown (link)
+  50. **^** "Supreme Education Council". _Sec.gov.qa_. Archived from the original on 2017-06-30. Retrieved  2017-08-20. 
+  51. **^** "The Peninsula Qatar - Al Bairaq holds workshop for high school students". _Thepeninsulaqatar.com_. Retrieved  2017-08-20. 
+  52. **^** "Al-Ghanim, K.A; Al-Maadeed, M.A and Al-Thani, N.J (Sept. 2014) : IMPACT OF INNOVATIVE LEARNING ENVIRONMENT BASED ON RESEARCH ACTIVITIES ON SECONDARY SCHOOL STUDENTS' ATTITUDE TOWARDS RESEARCH AND THEIR SELF-EFFICACY, EJES, 1(3), 39-57" (PDF). _Ejes.eu_. Retrieved  2017-08-20. [ _permanent dead link_ ]
+  53. **^** WISE. "About us". _Wisecampaign.org.uk_. Retrieved  20 August 2017. 
+  54. ^ _**a**_ _**b**_ _**c**_ "Million Women Mentors". _Millionwomenmentors.org_. Retrieved  31 August 2017. 
+  55. **^** "Verizon Innovative Learning". _Verizon.com_. Retrieved  20 August 2017. 
+  56. ^ _**a**_ _**b**_ "Women in STEM". Archived from the original on 14 May 2016. Retrieved  14 May 2016. 
+  57. **^** "Women and Girls in Science, Technology, Engineering, and Math (STEM)" (PDF). Executive Office of the President - White House. Retrieved 2 March 2015. 
+  58. **^** "Women in STEM: A Gender Gap to Innovation". _doc.gov_.  
+  59. **^** "Science careers face diversity challenge". _westminster.ac.uk_. Archived from the original on 2014-10-18.  
+  60. **^** Glass, C.; Minnotte, K. L. (2010). "Recruiting and hiring women in STEM fields". _Journal of Diversity in Higher Education_. **3** (4): 218–229. doi:10.1037/a0020581.  
+  61. **^** "100 Women Leaders in STEM". _stemconnector.org_.  
+  62. **^** TechWomen. "Promoting the World's Future Women Leaders in STEM". _TechWomen_.  
+  63. **^** National Center for Science and Engineering Statistics Directorate for Social, Behavioral and Economic Sciences. "Women, Minorities, and Persons with Disabilities in Science and Engineering: 2015". _NSF_. National Science Foundation. Retrieved  20 May 2017. 
+  64. **^** Wohlsen, Marcus. "Women Engineers Trace Tech Gender Gap To Childhood". _Huffington Post_. Retrieved  2 March 2015. 
+  65. **^** Moss-Racusin, Corinne A.; Dovidio, John F.; Brescoll, Victoria L.; Graham, Mark J.; Handelsman, Jo (2012-10-09). "Science faculty's subtle gender biases favor male students". _Proceedings of the National Academy of Sciences_. **109** (41): 16474–16479. doi:10.1073/pnas.1211286109. ISSN 0027-8424. PMC 3478626 . PMID 22988126.  
+  66. **^** Teitelbaum, Michael S. "The Myth of the Science and Engineering Shortage". _The Atlantic_.  
+  67. **^** Charette, Robert N. (August 30, 2013). "The STEM Crisis Is a Myth". IEEE Spectrum. 
+  68. **^** Casselman, Ben (September 12, 2014). "The Economic Guide To Picking A College Major". FiveThirtyEight. 
+
+## Further reading[edit]
+
+  * David Beede; et al. (September 2011). "Education Supports Racial and Ethnic Equality in STEM" (PDF). U.S. Department of Commerce. Retrieved 2012-12-21. 
+  * David Beede; et al. (August 2011). "Women in STEM: An Opportunity and An Imperative" (PDF). U.S. Department of Commerce. Retrieved 2012-12-21. 
+  * David Langdon; et al. (July 2011). "STEM: Good Jobs Now and For the Future" (PDF). U.S. Department of Commerce. Retrieved 2012-12-21. 
+  * Arden Bement (May 24, 2005). "Statement To House & Senate Appriopriators In Support Of STEM Education And NSF Education" (PDF). STEM Coalition. Archived from the original (PDF) on November 20, 2012. Retrieved 2012-12-21. 
+  * Audrey T. Leath (August 29, 2005). "House Higher Education Bill Would Promote STEM Careers". American Institute of Physics. Retrieved 2012-12-21. 
+  * Evelyn Lamb (July 30, 2012). "Abandoning Algebra Is Not the Answer". Scientific American. Retrieved 2012-12-21. 
+  * Mary Kirk (2009). _Gender and Information Technology: Moving Beyond Access to Co-Create Global Partnership_. IGI Global Snippet. ISBN 978-1-59904-786-7.  
+  * Shirley M. Malcom; Daryl E. Chubin; Jolene K. Jesse (2004). _Standing Our Ground: A Guidebook for STEM Educators in the Post-Michigan Era_. American Association for the Advancement of Science. ISBN 0871686996.  
+
+## External links[edit]
+
+  * [1]
+  * A Report 1985-2002 from MINT
+  * About eSTEM
+  * NASA information for educators
+  * National Institute of Aerospace (NIA) Education Outreach
+  * NASA Pre-Service Teacher Institute
+  * "The Gender Chip Project" A documentary by Helen De Michiel on Women in STEM Fields
+  * Water Careers Interactive Job Chart – Provides information on STEM related careers in the water industry
+  * STEM2Stern – US Navy's program to promote STEM careers
+  * Raising the Bar: Reviewing STEM Education in America: Hearing before the Subcommittee on Early Childhood, Elementary and Secondary Education, Committee on Education and the Workforce, U.S. House of Representatives, One Hundred Thirteenth Congress, First Session, April 10, 2013
+
+Retrieved from
+"https://en.wikipedia.org/w/index.php?title=Science,_technology,_engineering,_and_mathematics&oldid=816655698"
+
+Categories:
+
+  * Education by subject
+  * Education policy
+  * Experiential learning
+  * Science education
+  * Engineering education
+  * Mathematics education
+  * Learning programs
+  * Technology
+  * Science and technology studies
+
+Hidden categories:
+
+  * CS1 maint: BOT: original-url status unknown
+  * All articles with dead external links
+  * Articles with dead external links from September 2017
+  * Articles with permanently dead external links
+  * All articles with unsourced statements
+  * Articles with unsourced statements from December 2016
+  * Pages using div col with small parameter
+  * Free-content attribution
+  * Free content from UNESCO
+  * Articles containing video clips
+
+## Navigation menu
+
+### Personal tools
+
+  * Not logged in
+  * Talk
+  * Contributions
+  * Create account
+  * Log in
+
+### Namespaces
+
+  * Article
+  * Talk
+
+###  Variants
+
+### Views
+
+  * Read
+  * Edit
+  * View history
+
+### More
+
+###  Search
+
+### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+  * Donate to Wikipedia
+  * Wikipedia store
+
+### Interaction
+
+  * Help
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact page
+
+### Tools
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Permanent link
+  * Page information
+  * Wikidata item
+  * Cite this page
+
+### Print/export
+
+  * Create a book
+  * Download as PDF
+  * Printable version
+
+### Languages
+
+  * Català
+  * Deutsch
+  * Ελληνικά
+  * Español
+  * Français
+  * Italiano
+  * Bahasa Melayu
+  * Nederlands
+  * 日本語
+  * Polski
+  * Српски / srpski
+  * ไทย
+  * Türkçe
+  * Tiếng Việt
+  * 中文
+
+Edit links
+
+  * This page was last edited on 22 December 2017, at 20:12.
+  * Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+  * Contact Wikipedia
+  * Developers
+  * Cookie statement
+  * Mobile view
+
+  *   * 
+
+  *[FBS]: Football Bowl Subdivision
+  *[div.]: divorced
+  *[FCS]: Football Championship Subdivision
+  *[e]: Edit this template
+  *[c.]: circa
+  *[m.]: married
+  *[Pop.]: Population
+  *[Statistics]: Biostatistics programs are not considered in the No. 8 ranking. UPenn is No. 10 when Biostatistics programs are considered.
+  *[ v]: View this template
+  *[t]: Discuss this template
+  *[v]: View this template
+  *[1887]: April 22, 1887
+  *[±%]: Percent change
+  *[%±]: Percent change
+

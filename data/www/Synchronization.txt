@@ -1,2 +1,0 @@
-Synchronization is the coordination of events to operate a system in unison. The familiar conductor of an orchestra serves to keep the orchestra in time. Systems operating with all their parts in synchrony are said to be synchronous or in sync; those which are not are asynchronous.
-Today, synchronization can occur on a global basis through the GPS-enabled timekeeping systems (and similar independent systems operated by the EU and Russia).

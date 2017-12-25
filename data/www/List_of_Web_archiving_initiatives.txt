@@ -1,3 +1,0 @@
-This page contains a list of Web archiving initiatives worldwide. For easier reading, the information is divided in three tables: web archiving initiatives, archived data, and access methods.
-This Wikipedia page was originally generated from the results obtained for the research paper A survey on web archiving initiatives published by the Arquivo.pt (the Portuguese web-archive) team.
-

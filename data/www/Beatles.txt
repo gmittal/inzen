@@ -1,4 +1,0 @@
-From an incomplete name: This is a redirect from a title that is an incomplete form of a topic's correct name. The correct name is given by the target of this redirect.
-Use this rcat to tag redirects from an incomplete form of a name, including a person's, a geographic entity's full name, or a book title. For acceptable short names, please use {{R from short name}} instead. For outright erroneous names, please use {{R from incorrect name}} instead.
-This redirect is kept to aid searches. Pages linking to this title should be updated to link directly to the correct title given above, unless the form is an acceptable short name better tagged by {{R from short name}}.
-This template tags redirects with a subcategory of the Redirects from incorrect names category, so template {{R from incorrect name}} should not be used with this template.

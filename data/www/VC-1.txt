@@ -1,2 +1,0 @@
-SMPTE 421M, informally known as VC-1, is a video coding format. It was initially developed as the proprietary video format Windows Media Video 9 by Microsoft in 2003 and officially approved as a SMPTE video codec standard on April 3, 2006.
-It is today a supported standard found in Blu-ray Discs, Microsoft's Silverlight framework, and the now-discontinued HD DVD.

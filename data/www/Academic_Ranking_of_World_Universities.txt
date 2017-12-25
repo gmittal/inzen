@@ -1,1 +1,578 @@
-Academic Ranking of World Universities (ARWU), also known as Shanghai Ranking, is an annual publication of university rankings by Shanghai Ranking Consultancy. The league table was originally compiled and issued by Shanghai Jiao Tong University in 2003, the first global ranking with multifarious indicators, after which a board of international advisories was established to provide suggestions. The publication currently includes world's overall and subject league tables, alongside independent regional Greater China Ranking and Macedonian HEIs Ranking. ARWU is regarded as one of the three most influential and widely observed university measures, alongside QS World University Rankings and Times Higher Education World University Rankings. It is praised for its objective methodology but draws some condemnation for narrowly focusing on raw research power, undermining humanities and quality of instruction.
+
+
+# _Academic Ranking of World Universities_
+
+From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+_Academic Ranking of World Universities_  
+---  
+Categories | Higher education  
+Frequency | Annual  
+Publisher | Shanghai Ranking Consultancy (2009–present)  
+Shanghai Jiao Tong University (2003–2008)  
+Country | China  
+Language | Ten languages with English & Chinese  
+Website | www.shanghairanking.com  
+  
+_**Academic Ranking of World Universities**_ ( **ARWU** ), also known as
+**Shanghai Ranking** , is an annual publication of university rankings by
+Shanghai Ranking Consultancy.[1] The league table was originally compiled and
+issued by Shanghai Jiao Tong University in 2003, the first global ranking with
+multifarious indicators,[2] after which a board of international advisories
+was established to provide suggestions.[3][4] The publication currently
+includes global league tables for institutions and a whole and for a selection
+of individual subjects, alongside independent regional _Greater China Ranking_
+and _Macedonian HEIs Ranking_. ARWU is regarded as one of the three most
+influential and widely observed university measures, alongside _QS World
+University Rankings_ and _Times Higher Education World University
+Rankings_.[5][6][7] It is praised for its objective methodology but draws some
+condemnation for narrowly focusing on raw research power, undermining
+humanities and quality of instruction.[8][6][9][10]
+
+## Contents
+
+  * 1 Global rankings
+    * 1.1 Overall
+      * 1.1.1 Methodology
+      * 1.1.2 Reception
+      * 1.1.3 Criticism
+      * 1.1.4 Results
+    * 1.2 Alternative
+    * 1.3 Subject
+  * 2 Regional rankings
+    * 2.1 Greater China
+      * 2.1.1 Methodology
+      * 2.1.2 Results
+  * 3 Notes
+  * 4 References
+  * 5 External links
+
+## Global rankings[edit]
+
+### Overall[edit]
+
+#### Methodology[edit]
+
+ARWU methodology[11] Criterion | Indicator | Code | Weighting | Source  
+---|---|---|---|---  
+Quality of education |
+
+  * Alumni as Nobel laureates & Fields Medalists
+
+|
+
+    Alumni
+|
+
+  * 10%
+
+|
+
+    Official websites of Nobel Laureates & Fields Medalists[Note 1]  
+Quality of faculty |
+
+  * Staff as Nobel Laureates & Fields Medalists
+  * Highly cited researchers in 21 broad subject categories
+
+|
+
+    Award
+    HiCi
+|
+
+  * 20%
+  * 20%
+
+|
+
+    Official websites of Nobel Laureates & Fields Medalists[Note 1]
+    Thomson Reuters' survey of highly cited researchers[Note 1]  
+Research output |
+
+  * Papers published in _Nature_ and _Science_[* 1]
+  * Papers indexed in Science Citation Index-expanded and Social Science Citation Index
+
+|
+
+    N&S
+    PUB
+|
+
+  * 20%
+  * 20%
+
+|
+
+    Citation index  
+Per capita performance |
+
+  * Per capita academic performance of an institution
+
+|
+
+    PCP
+|
+
+  * 10%
+
+|  \--  
+*****
+
+  1. **^** Not applicable to institutions specialized in humanities and social sciences whose N&S scores are relocated to other indicators.
+
+  
+  
+#### Reception[edit]
+
+ARWU is praised by several media and institutions for its methodology and
+influence. A survey on higher education published by _The Economist_ in 2005
+commented ARWU as "the most widely used annual ranking of the world's research
+universities."[12] In 2010, _The Chronicle of Higher Education_ called ARWU
+"the best-known and most influential global ranking of universities".[13] EU
+Research Headlines reported the ARWU's work on 31 December 2003: "The
+universities were carefully evaluated using several indicators of research
+performance."[14] Chancellor of University of Oxford, Chris Patten and former
+Vice-Chancellor of Australian National University, Ian Chubb, said: "the
+methodology looks fairly solid ... it looks like a pretty good stab at a fair
+comparison." and "The SJTU rankings were reported quickly and widely around
+the world… (and they) offer an important comparative view of research
+performance and reputation." respectively.[15] Philip G. Altbach named ARWU's
+'consistency, clarity of purpose, and transparency' as significant
+strengths.[16] Whilst ARWU has originated in China, the ranking have been
+praised for being unbiased towards Asian institutions.[17]
+
+####  Criticism[edit]
+
+The ranking is condemned for "relying too much on award factors" thus
+undermining the importance of quality of instruction and
+humanities.[8][6][18][19] A 2007 paper published in the journal
+_Scientometrics_ found that the results from the Shanghai rankings could not
+be reproduced from raw data using the method described by Liu and Cheng.[20] A
+2013 paper in the same journal finally showed how the Shanghai ranking results
+could be reproduced.[21] In a report from April 2009, J-C. Billaut, D.
+Bouyssou and Ph. Vincke analyse how the ARWU works, using their insights as
+specialists of Multiple Criteria Decision Making (MCDM). Their main
+conclusions are that the criteria used are not relevant; that the aggregation
+methodology has a number of major problems; and that insufficient attention
+has been paid to fundamental choices of criteria.[22] The ARWU researchers
+themselves, N.C Liu and Y Cheng, think that the quality of universities cannot
+be precisely measured by mere numbers and any ranking must be controversial.
+They suggest that university and college rankings should be used with caution
+and their methodologies must be understood clearly before reporting or using
+the results. ARWU has been criticised by the European Commission as well as
+some EU member states for "favour[ing] Anglo-Saxon higher education
+institutions". For instance, ARWU is repeatedly criticised in France, where it
+triggers an annual controversy, focusing on its ill-adapted character to the
+French academic system[23][24] and the unreasonable weight given to research
+often performed decades ago.[25] It is also criticised in France for its use
+as a motivation for fusing universities into larger ones.[26] Indeed, a
+further criticism has been that the metrics used are not independent of
+university size, e.g. number of publications or award winners will
+mechanically add as universities are grouped, independently of research (or
+teaching) quality; thus a merger between two equally-ranked institutions will
+almost double the merged institutions score and give it a higher ranking,
+without any change in quality.[10]
+
+####  Results[edit]
+
+Academic Ranking of World Universities (500) – Top 10[27][Note 2] Institution
+| 2003 | 2004 | 2005 | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 |
+2014 | 2015 | 2016 | 2017  
+---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
+Harvard University | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1  
+Stanford University | 2 | 2 | 3 | 3 | 2 | 2 | 2 | 3 | 2 | 2 | 2 | 2 | 2 | 2 |
+2  
+University of Cambridge | 5 | 3 | 2 | 2 | 4 | 4 | 4 | 5 | 5 | 5 | 5 | 5 | 5 |
+4 | 3  
+Massachusetts Institute of Technology | 6 | 5 | 5 | 5 | 5 | 5 | 5 | 4 | 3 | 3
+| 4 | 3 | 3 | 5 | 4  
+University of California, Berkeley | 4 | 4 | 4 | 4 | 3 | 3 | 3 | 2 | 4 | 4 | 3
+| 4 | 4 | 3 | 5  
+Princeton University | 7 | 7 | 8 | 8 | 8 | 8 | 8 | 7 | 7 | 7 | 7 | 6 | 6 | 6 |
+6  
+University of Oxford | 9 | 8 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 9
+| 10 | 7 | 7  
+Columbia University | 10 | 9 | 7 | 7 | 7 | 7 | 7 | 8 | 8 | 8 | 8 | 8 | 8 | 9 |
+8  
+California Institute of Technology | 3 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6
+| 7 | 7 | 8 | 9  
+University of Chicago | 11 | 10 | 9 | 8 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 |
+10 | 10  
+  
+### Alternative[edit]
+
+As it may take much time for rising universities to produce Nobel laureates
+and Fields Medalists with numbers comparable to those of older institutions,
+the Institute created alternative rankings excluding such award factors so as
+to provide another way of comparisons of academic performance. The weighting
+of all the other factors remains unchanged, thus the grand total of 70%.
+
+Alternative Rankings (500) – Top 10[Note 2] Institution | 2014[28] | 2015[29]  
+---|---|---  
+Harvard University | 1 | 1  
+Stanford University | 2 | 2  
+University of California, Berkeley | 3 | 4  
+California Institute of Technology | 5 | 5  
+University of Oxford | 6 | 6  
+University of Cambridge | 8 | 7  
+University of California, San Diego | 7 | 8  
+University of Washington | 10 | 9  
+Yale University | 9 | 10  
+  
+### Subject[edit]
+
+There are two categories in ARWU's disciplinary rankings, broad subject fields
+and specific subjects. The methodology is similar to that adopted in the
+overall table, including award factors, paper citation, and the number of
+highly cited scholars.
+
+Broad fields[30] | Specific subjects[31]  
+---|---  
+Natural sciences and mathematics | Mathematics  
+Computer science and engineering | Physics  
+Life and agricultural sciences | Chemistry  
+Clinical medicine and pharmacy | Computer science  
+Social sciences | Economics and business  
+  
+## Regional rankings[edit]
+
+Considering the development of specific areas, two independent regional league
+tables with different methodologies were launched.[ _citation needed_ ]
+
+### Greater China[edit]
+
+#### Methodology[edit]
+
+Methodology of Greater China Rankings[32][Note 2] Criterion | Indicator |
+Weight  
+---|---|---  
+Education |
+
+  * Percentage of graduate students
+  * Percentage of non-local students
+  * Ratio of academic staff to students
+  * Doctoral degrees awarded
+  * Alumni as Nobel Laureates & Fields Medalists
+
+|
+
+  * 5%
+  * 5%
+  * 5%
+  * 10%
+  * 10%
+
+  
+Research |
+
+  * Annual research income
+  * _Nature_ & _Science_ Papers
+  * SCIE & SSCI papers
+  * International patents
+
+|
+
+  * 5%
+  * 10%
+  * 10%
+  * 10%
+
+  
+Faculty |
+
+  * Percentage of academic staff with a doctoral degree
+  * Staff as Nobel Laureates and Fields Medalists
+  * Highly cited researchers
+
+|
+
+  * 5%
+  * 10%
+  * 10%
+
+  
+Resources |
+
+  * Annual budget
+
+|
+
+  * 5%
+
+  
+  
+#### Results[edit]
+
+Greater China Rankings (100) – Top 10[Note 2][33] Institution | 2011 | 2012 |
+2013 | 2014  
+---|---|---|---|---  
+Tsinghua University | 1 | 1 | 1 | 1  
+National Tsing Hua University | 4 | 3 | 3 | 2  
+National Taiwan University | 1 | 2 | 2 | 3  
+The Hong Kong University of Science & Technology | 5 | 4 | 7 | 4  
+Peking University | 7 | 7 | 5 | 5  
+The University of Hong Kong | 3 | 6 | 4 | 6  
+The Chinese University of Hong Kong | 6 | 5 | 6 | 7  
+University of Science & Technology of China | 9 | 11 | 10 | 8  
+National Chiao Tung University | 8 | 8 | 8 | 9  
+Zhejiang University | 10 | 9 | 9 | 10  
+  
+## Notes[edit]
+
+  1. ^ _**a**_ _**b**_ _**c**_ Official datum sources adopted by ARWU: Nobel Laureate Web, Fields Medalist Web, Thomson Reuters' survey of highly cited researchers & Thomson Reuters' Web of Science.
+  2. ^ _**a**_ _**b**_ _**c**_ _**d**_ Order shown in accordance with the latest result.
+
+## References[edit]
+
+  1. **^** "About Academic Ranking of World Universities". Shanghai Ranking Consultancy. 2014. Retrieved  26 September 2014. Since 2009 the Academic Ranking of World Universities has been published and copyrighted by ShanghaiRanking Consultancy. 
+  2. **^** "World university rankings: how much influence do they really have?". The Guardian. 2013. Retrieved  27 January 2015. The first international rankings, the Academic Ranking of World Universities or Shanghai Rankings 
+  3. **^** "Shanghai rankings rattle European universities". ABS-CBN Interactive. 8 December 2010. Retrieved  27 January 2015. France's higher education minister travelled to Jiaotong University's suburban campus last month to discuss the rankings, the Norwegian education minister came last year and the Danish minister is due to visit next month.; The idea for the rankings was born in 1998, when Beijing decreed China needed several world-leading universities. 
+  4. **^** "ARWU International Advisory Board". Shanghai Ranking Consultancy. 2014. Retrieved  27 January 2015. 
+  5. **^** Ariel Zirulnick. "New world university ranking puts Harvard back on top". The Christian Science Monitor. Those two, as well as Shanghai Jiao Tong University, produce the most influential international university rankings out there 
+  6. ^ _**a**_ _**b**_ _**c**_ Indira Samarasekera & Carl Amrhein. "Top schools don't always get top marks". The Edmonton Journal. Archived from the original on October 3, 2010. There are currently three major international rankings that receive widespread commentary: The Academic World Ranking of Universities, the QS World University Rankings and the Times Higher Education Rankings. 
+  7. **^** Philip G. Altbach (11 November 2010). "The State of the Rankings". Inside Higher Ed. Retrieved 27 January 2015. The major international rankings have appeared in recent months — the Academic Ranking of World Universities, the QS World University Rankings, and the Times Higher Education World University Rankings (THE). 
+  8. ^ _**a**_ _**b**_ "University rankings: which world university rankings should we trust?". The Telegraph. 2015. Retrieved  27 January 2015. It is a remarkably stable list, relying on long-term factors such as the number of Nobel Prize-winners a university has produced, and number of articles published in Nature and Science journals. But with this narrow focus comes drawbacks. China's priority was for its universities to 'catch up' on hard scientific research. So if you're looking for raw research power, it's the list for you. If you're a humanities student, or more interested in teaching quality? Not so much. 
+  9. **^** " "Shanghai Academic Ranking: a French Controversy" by Marc Goetzmann, for ''La Jeune Politique''". Lajeunepolitique.com. 29 August 2013. Archived from the original on 9 January 2015. Retrieved 9 June 2014. 
+  10. ^ _**a**_ _**b**_ Bahram Bekhradnia (15 December 2016). "International university rankings: For good or ill?" (PDF). Higher Education Policy Institute. p. 16. Retrieved 10 June 2017. ARWU presents a further data issue. Whereas in the case of the other rankings the results are adjusted to take account of the size of institutions, hardly any such adjustment is made by ARWU. So there is a distortion in favour of large institutions. If two institutions were to merge, the very fact of merger would mean that the merged institution would do nearly twice as well as either of the individual institutions prior to merger, although nothing else had changed. 
+  11. **^** "ARWU – Methodology". Shanghai Ranking Consultancy. 2014. Retrieved  30 January 2015. 
+  12. **^** "A world of opportunity". _The Economics_. 8 September 2005. Archived from the original on 18 July 2012. Retrieved  30 January 2015. It is no accident that the most widely used annual ranking of the world's research universities, the Shanghai index, is produced by a Chinese university. 
+  13. **^** "International Group Announces Audit of University Rankings". _The Chronicle of Higher Education_. 10 October 2010. Retrieved  30 January 2015. ...Shanghai Jiao Tong University, which produces the best-known and most influential global ranking of universities... 
+  14. **^** "Chinese study ranks world's top 500 universities". European Research Headlines. 2003. Retrieved  4 February 2015. 
+  15. **^** "Rankings and Accountability in Higher Education: Uses and Misuses". United Nations Educational. 2013. p. 26. Retrieved  30 January 2015. 
+  16. **^** Philip G. Altbach (11 September 2010). "The State of the Rankings". INSIDE HIGHER ED. Retrieved 30 January 2015. Nonetheless, AWRU's consistency, clarity of purpose, and transparency are significant advantages. 
+  17. **^** "Academic Ranking of World Universities 2013 released". _Times Higher Education (THE)_. Retrieved  2016-01-20. 
+  18. **^** J. Scott Armstrong and Tad Sperry (1994). "Business School Prestige: Research versus Teaching" (PDF). _Energy & Environment_. **18** (2): 13–43. Archived from the original (PDF) on 2010-06-20. 
+  19. **^** "1741-7015-5-30.fm" (PDF). Retrieved 9 June 2014. 
+  20. **^** Răzvan V. Florian (17 June 2007). "Irreproducibility of the results of the Shanghai academic ranking of world universities". _Scientometrics_. **72** (1): 25–32. doi:10.1007/s11192-007-1712-1. Retrieved  30 January 2015. 
+  21. **^** Domingo Docampo (1 July 2012). "Reproducibility of the results of the Shanghai academic ranking of world universities". _Scientometrics_. **94** (2): 567–587. doi:10.1007/s11192-012-0801-y. Retrieved  19 May 2015. 
+  22. **^** Jean-Charles Billaut, Denis Bouyssou & Philippe Vincke. "Should you believe in the Shanghai ranking?". CCSD. Retrieved 30 January 2015. 
+  23. **^** " "Shanghai Academic Ranking: a French Controversy" by Marc Goetzmann, for ''La Jeune Politique''". Lajeunepolitique.com. 29 August 2013. Retrieved 9 June 2014. 
+  24. **^** Spongenberg, Helena (5 June 2014). "EUobserver / EU to test new university ranking in 2010". Euobserver.com. Retrieved 9 June 2014. 
+  25. **^** Dagorn, Gary (16 August 2016). "Universités : pourquoi le classement de Shanghaï n'est pas un exercice sérieux" (in French). lemonde.fr. Retrieved 17 August 2016. 
+  26. **^** Gérand, Christelle (September 2016). "Aix-Marseille, laboratoire de la fusion des universités" (in French). www.monde-diplomatique.fr. Retrieved 8 September 2016. 
+  27. **^** "Academic Ranking of World Universities 2017". Shanghai Ranking Consultancy. 2017. Retrieved  16 August 2017. 
+  28. **^** "Alternative Ranking 2014 ( Excluding Award Factor ) ( Excluding Award Factor )". Shanghai Ranking Consultancy. 2014. Retrieved  30 January 2015. 
+  29. **^** "Alternative Ranking 2015 ( Excluding Award Factor )". Shanghai Ranking Consultancy. 2015. Retrieved  4 September 2015. 
+  30. **^** "Academic Rankings of World Universities in subject fields". Shanghai Ranking Consultancy. 2014. Retrieved  31 January 2015. 
+  31. **^** "Academic Rankings of World Universities in specific subjects". Shanghai Ranking Consultancy. 2014. Retrieved  31 January 2015. 
+  32. **^** "Greater China Ranking – Methodology". Shanghai Ranking Consultancy. 2014. Retrieved  31 January 2015. 
+  33. **^** "Greater China Rankings". Shanghai Ranking Consultancy. 2014. Retrieved  31 January 2015. 
+
+## External links[edit]
+
+  * Academic Ranking of World Universities Website
+  * Interactive maps comparing the ARWU, Times Higher Education and QS World University Rankings
+  * Jambor, Paul Z. 'The Changing Dynamics of PhDs and the Future of Higher Educational Development in Asia and the Rest of the World' Department of Education – The United States of America: Educational Resources Information Center, September 26, 2009 (Accessed in October, 2009)
+  * Csizmazia Roland A., Jambor, Paul Z. "Korean Higher Education on the Rise: Time to Learn From the Success – Comparative Research at the Tertiary Education Level", Human Resource Management Academic Research Society: International Journal of Academic Research in Progressive Education and Development,Volume 3, Issue 2 (March, 2014)
+
+  * v
+  * t
+  * e
+
+University ranking systems  
+  
+---  
+Global |
+
+  * Academic Ranking of World Universities (AWUR)
+  * CWTS Leiden Ranking
+  * Global University Ranking
+  * Mines ParisTech: Professional Ranking of World Universities
+  * Performance Ranking of Scientific Papers for World Universities
+  * QS World University Rankings
+  * Round University Ranking
+  * Times Higher Education World University Rankings
+  * University Ranking by Academic Performance
+  * U.S. News & World Report Best Global University Ranking
+  * Webometrics Ranking of World Universities
+  * Center for World University Rankings (CWUR)
+
+  
+  
+Regional |
+
+  * European Union
+  * Latin America
+
+  
+  
+National |
+
+  * Australia
+    * Excellence in Research for Australia
+  * Brazil
+  * Canada
+    * _Maclean's_
+  * China
+    * Wu Shulian
+    * CUAA
+    * Netbig
+  * Germany
+  * India
+  * Japan
+    * Going broke universities – Disappearing universities
+    * Truly Strong Universities
+  * Mexico
+    * ECUM
+  * Pakistan
+  * Russia
+  * South Africa
+  * United Kingdom
+  * United States
+    * Center for Measuring University Performance
+    * Faculty Scholarly Productivity Index
+    * The Princeton Review
+    * _U.S. News& World Report Best Colleges Ranking_
+    * _Washington Monthly_
+    * _What Will They Learn?_
+
+  
+  
+**Category**  
+  
+  * University portal
+  * China portal
+
+Retrieved from
+"https://en.wikipedia.org/w/index.php?title=Academic_Ranking_of_World_Universities&oldid=816295292"
+
+Categories:
+
+  * University and college rankings
+  * 2003 introductions
+
+Hidden categories:
+
+  * CS1 French-language sources (fr)
+  * Articles containing explicitly cited English-language text
+  * All articles with unsourced statements
+  * Articles with unsourced statements from August 2017
+
+## Navigation menu
+
+### Personal tools
+
+  * Not logged in
+  * Talk
+  * Contributions
+  * Create account
+  * Log in
+
+### Namespaces
+
+  * Article
+  * Talk
+
+###  Variants
+
+### Views
+
+  * Read
+  * Edit
+  * View history
+
+### More
+
+###  Search
+
+### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+  * Donate to Wikipedia
+  * Wikipedia store
+
+### Interaction
+
+  * Help
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact page
+
+### Tools
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Permanent link
+  * Page information
+  * Wikidata item
+  * Cite this page
+
+### Print/export
+
+  * Create a book
+  * Download as PDF
+  * Printable version
+
+### Languages
+
+  * العربية
+  * Azərbaycanca
+  * Български
+  * Català
+  * Čeština
+  * Deutsch
+  * Español
+  * فارسی
+  * Français
+  * 한국어
+  * Hrvatski
+  * Bahasa Indonesia
+  * Íslenska
+  * Italiano
+  * עברית
+  * Latviešu
+  * Nederlands
+  * 日本語
+  * Norsk
+  * پنجابی
+  * Polski
+  * Português
+  * Русский
+  * Simple English
+  * Slovenščina
+  * Српски / srpski
+  * Türkçe
+  * Українська
+  * Vèneto
+  * Tiếng Việt
+  * 中文
+
+Edit links
+
+  * This page was last edited on 20 December 2017, at 13:19.
+  * Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+  * Contact Wikipedia
+  * Developers
+  * Cookie statement
+  * Mobile view
+
+  *   * 
+
+  *[FBS]: Football Bowl Subdivision
+  *[div.]: divorced
+  *[FCS]: Football Championship Subdivision
+  *[e]: Edit this template
+  *[c.]: circa
+  *[m.]: married
+  *[Pop.]: Population
+  *[Statistics]: Biostatistics programs are not considered in the No. 8 ranking. UPenn is No. 10 when Biostatistics programs are considered.
+  *[ v]: View this template
+  *[t]: Discuss this template
+  *[v]: View this template
+  *[1887]: April 22, 1887
+  *[±%]: Percent change
+  *[%±]: Percent change
+

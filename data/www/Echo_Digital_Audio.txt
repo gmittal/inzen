@@ -1,3 +1,0 @@
-Echo Digital Audio designs and manufactures various digital audio recording interfaces, MIDI interfaces, audio test equipment, custom professional audio products, and audio software. The company is located in Santa Barbara, CA
-Echo Digital Audio (formerly Street Electronics) introduced their first digital audio interface, Echo II, for the Apple II in 1978 to provide speech output for the blind, educational, and handicapped markets.
-In the 1990s Echo went on to design and manufacture one of the first multi-track audio recording product for the PC markets. Echo has licensed its DSP-based audio technology to several leading audio and semiconductor companies including: Gibson Guitar, Analog Devices, HP, Sony, Motorola, Peavey, Mackie, Carvin, Dolby Laboratories, AKM, et al.

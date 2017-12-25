@@ -1,5 +1,0 @@
-From a merge: This is a redirect from a page that was merged into another page. This redirect was kept in order to preserve this page's edit history after its content was merged into the target page's content. Please do not remove the tag that generates this text (unless the need to recreate content on this page has been demonstrated) nor delete this page.
-For redirects with substantive page histories that did not result from page merges use {{R with history}} instead.
-
-From a fictional character: This is a redirect from a fictional character to a related fictional work or list of characters. The destination may be an article about a related fictional work that mentions this character, a subsection or a standalone list of characters.
-For redirects named for fictional places use {{R from fictional place}}, and for those named for fictional elements (objects or concepts) use {{R from fictional element}}.

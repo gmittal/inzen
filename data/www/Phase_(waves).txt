@@ -1,4 +1,0 @@
-Phase is the position of a point in time (an instant) on a waveform cycle. A complete cycle is defined as the interval required for the waveform to return to its arbitrary initial value. The graphic to the right shows how one cycle constitutes 360° of phase. The graphic also shows how phase is sometimes expressed in radians, where one radian of phase equals approximately 57.3°.
-Phase can also be an expression of relative displacement between two corresponding features (for example, peaks or zero crossings) of two waveforms having the same frequency.
-In sinusoidal functions or in waves "phase" has two different, but closely related, meanings. One is the initial angle of a sinusoidal function at its origin and is sometimes called phase offset or phase difference. Another usage is the fraction of the wave cycle that has elapsed relative to the origin.
-

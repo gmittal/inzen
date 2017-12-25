@@ -1,0 +1,600 @@
+
+
+# Carnegie Mellon Silicon Valley
+
+From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+|
+
+**This article has multiple issues.** Please help **improve it** or discuss
+these issues on the **talk page**. _(Learn how and when to remove these
+template messages)_
+
+|
+
+|
+
+This article **needs additional citations forverification**.  Please help
+improve this article by adding citations to reliable sources. Unsourced
+material may be challenged and removed. _(October 2014)_ _(Learn how and when
+to remove this template message)_  
+  
+---|---  
+  
+|
+
+This article **contains content that is written likean advertisement**.
+Please help improve it by removing promotional content and inappropriate
+external links, and by adding encyclopedic content written from a neutral
+point of view. _(December 2014)_ _(Learn how and when to remove this template
+message)_  
+  
+---|---  
+  
+_(Learn how and when to remove this template message)_  
+  
+Carnegie Mellon University Silicon Valley
+
+Front entrance of Building 23  
+  
+---  
+Motto | "My heart is in the work" (Andrew Carnegie)  
+Type | Private, Branch Campus  
+Established | 2002  
+Provost | Farnam Jahanian[1]  
+Location | Mountain View, California,  United States  
+37°24′38″N 122°03′35″W﻿ / ﻿37.41045°N 122.05975°W﻿ / 37.41045;
+-122.05975Coordinates: 37°24′38″N 122°03′35″W﻿ / ﻿37.41045°N 122.05975°W﻿ /
+37.41045; -122.05975  
+Colors | Cardinal, Gray, and Tartan Plaid[2]  
+Nickname | Tartans, CMU West, CMUSV  
+Mascot | Scotty the Scottie Dog[3]  
+Website | sv.cmu.edu  
+  
+**Carnegie Mellon Silicon Valley** is a branch campus of Carnegie Mellon
+University located in the heart of Silicon Valley in Mountain View,
+California. It was established in 2002 at the NASA Ames Research Center in
+Moffett Field.[4] The campus offers full-time and part-time professional
+Masters programs in Electrical And Computer Engineering, Software Engineering
+and Software Management,[5] various bi-coastal (split-time between Pittsburgh
+and Silicon Valley) Masters programs in Information Technology, and a bi-
+coastal Ph.D. program in Electrical and Computer Engineering. One key
+differentiator between programs in the traditional Pittsburgh campus and the
+new Silicon Valley campus is a new focus on project-centered _learning by
+doing_ approach to education.[6]
+
+## Contents
+
+  * 1 History
+  * 2 Location
+  * 3 Programs
+  * 4 Student population
+  * 5 Research
+  * 6 Silicon Valley Events
+  * 7 The Fence
+  * 8 Alumni
+  * 9 References
+  * 10 External links
+
+## History[edit]
+
+After years of planning from the Pittsburgh campus, Carnegie Mellon Silicon
+Valley opened in September 2002 under the name " **Carnegie Mellon University
+- West Campus** " to an original class of 56 students. Carnegie Mellon had
+always had a reputation for graduating bright students in engineering and
+technology, so it seemed only natural to establish a physical presence in the
+Silicon Valley, the epicenter of entrepreneurship, technology and
+innovation.[4][7] James H. Morris, the Dean of the School of Computer Science
+at the Pittsburgh campus, was instrumental in establishing the West Coast
+initiative and served as the new campus' first Dean.[4] Raj Reddy, a Turing
+Award recipient and computer science professor at the Pittsburgh campus, was
+the school's first director.[4] In 2008, the university's name was changed to
+**Carnegie Mellon Silicon Valley** to better reflect the proximity and
+opportunity to Silicon Valley. In 2009, Dean Morris ended his appointment, and
+the College of Engineering (also known as Carnegie Institute of Technology or
+"CIT") at Carnegie Mellon University partnered with the Silicon Valley campus
+to bring more resources and a stronger connection to the main campus. In 2012,
+Carnegie Mellon Silicon Valley celebrated its 10th anniversary.
+
+##  Location[edit]
+
+Carnegie Mellon Silicon Valley is located on NASA's Ames Research Center in
+Moffett Field. The campus (or in particular Moffett Field), is surrounded by
+high-tech companies such as Google, Microsoft, Yahoo, HP, and Lockheed Martin.
+Carnegie Mellon Silicon Valley currently occupies Building 23 and since
+January 2011, a wing in Building 19, which provides space for full-time
+masters students, faculty and researchers. An extension for Building 19 has
+been in use since Fall 2012.
+
+## Programs[edit]
+
+In Fall 2002, Carnegie Mellon initiated a full-time and part-time Masters of
+Science in Software Engineering. The Software Engineering Masters are divided
+into a Technical Track, aimed at advancing software developers to senior
+positions and architect roles, and the Development Management Track, aimed at
+providing software developers with technical project management and
+development management skills.
+
+In Fall 2008, Carnegie Mellon initiated the Software Management Masters
+program. The program targets senior software developers and managers that wish
+to pursue senior management and executive careers. The part-time MS SM program
+offers 4 concentrations to select from, in Product Development,
+Entrepreneurship, Enterprise Innovation, and Service Management.[7]
+
+For several years, Carnegie Mellon Silicon Valley operated a long-distance
+capability to Pittsburgh's Tepper School of Business.[8]
+
+The campus now offers full-time versions of the MS Software Engineering and MS
+Software Management degrees. Both programs are 12-month programs, that are
+completed entirely at the Silicon Valley campus. The MS SE program offers the
+Technical and Development Management tracks. The full-time MS SM program has a
+special focus on software innovation and entrepreneurship.
+
+In Fall 2008, a Ph.D. program in Electrical and Computer Engineering was
+initiated, offering students opportunities for advanced studies and research
+in the fields of mobility, security, and networking.[9]
+
+In Fall 2009, Carnegie Mellon Silicon Valley initiated bi-coastal master's
+degree programs in Information Technology with specializations in Mobility,
+Information Security, and Software Management through the Information
+Networking Institute. In the bi-coastal programs, students divide their time
+between the campuses in Pittsburgh and Silicon Valley.
+
+## Student population[edit]
+
+Approximately 350 students are enrolled in Carnegie Mellon Silicon Valley's
+academic programs. With its strong technical support for long-distance
+learning, about 25% of the part-time student population reside outside of the
+Bay Area. However, with its unique location in Silicon Valley, many local
+students stem from prominent companies such as Yahoo, Google, IBM, Lockheed
+Martin, Oracle, Boeing and Microsoft, providing a vibrant environment with
+many diverse corporate experiences.
+
+Over 600 alumni have graduated from the Silicon Valley campus since 2002,
+adding to the over 6000 Carnegie Mellon alumni working in the Bay Area.
+
+## Research[edit]
+
+The campus has a growing research effort, which began in 2008 as a natural
+growth of the CyLab Mobility Research Center. The research primarily focused
+on software mobility, networking and security. CMUSV has now grown into a
+vibrant research community with groundbreaking initiatives in wireless
+sensors, machine learning, context area computing, security, energy
+technology, software and systems engineering and disaster management.
+
+More recently, the research efforts have grown to include Disaster Management,
+Language Technologies, UAVs, Antannae Optimization, Health Technology systems.
+Cutting-edge research centers include the CyLab Mobility Research Center, the
+Carnegie Mellon Innovations Lab (CMIL), the Center for Open Source
+Investigation (COSI), the International Center for Advanced Communication
+Technologies (interACT) and the Intelligent Systems Lab (ISL).
+
+The Disaster Management Initiative (DMI) was established in 2009 with the
+mission to provide next-generation technical solutions to disaster prediction,
+management and recovery.
+
+## Silicon Valley Events[edit]
+
+Besides the educational programs, Carnegie Mellon Silicon Valley has also
+organized software-related events in Silicon Valley, such as Carnegie Mellon's
+_Tour de Silicon Valley_ , where selected Carnegie Mellon students from the
+Pittsburgh campus are flown to Silicon Valley for a week of networking at
+various software companies.[10]
+
+Currently, the school offers TOCS - "Talks on Computing Systems", a weekly
+talk given by a subject expert in various topics related to software and
+computing. These talks are open to the public in addition to the faculty and
+students.
+
+The school has also organized in association with the UC Berkeley, regular
+software conferences in the outlook of the software industry. Its first
+incarnation took place on April 30, 2007 at the Microsoft Silicon Valley
+Campus and focused on _The New Software Industry - Forces at Play, Business in
+Motion_ ,[11] while the second conference took place on April 22, 2008 at the
+Santa Clara Convention Center and focused on _The Mobile Future - Technology
+Revolutionizing our Lives_.[12]
+
+The campus has hosted a Disaster Management Workshop, focusing on its growing
+research division in Disaster Response. The 3 day event included a CrisisCamp
+for practitioners to come and collaborate on improving disaster relief
+methodologies.
+
+## The Fence[edit]
+
+In August 2008, the graduating class of 2008 presented a gift to the
+university by installing their own Carnegie Mellon University fence on the
+silicon valley campus.[13] The fence is a Carnegie Mellon tradition on the
+main campus where different student organizations repaint a long fence in the
+middle of the campus to promote a cause or spread a certain message. Members
+of the class of 2008 collected money to hire a contractor to build and install
+a 10-foot fence, that was then subsequently painted with images symbolizing
+the west coast (like the Golden Gate Bridge, or NASA's Hangar One). The fence
+was dedicated to Randy Pausch who died in 2008 (the top of the fence reads
+"Dedicated to Randy Pausch"). The remaining money was also donated and gift-
+matched to a total of $1000 to the Randy Pausch Memorial Fund.[13]
+
+## Alumni[edit]
+
+Many of CMUSV's alumni go on to work in nearby Silicon Valley companies
+including Google and Facebook. ECE PhD graduate Heng-Tze Cheng created the
+wide and deep learning system for recommendation system at Google.[14][15]
+Faculty Joy Ying Zhang and research staff of Mobile Technologies (creator of
+Jibbigo) was acquired by Facebook.[16][17]
+
+## References[edit]
+
+  1. **^** University, Carnegie Mellon. "The Provost - Leadership - Carnegie Mellon University". _www.cmu.edu_. Retrieved  4 October 2016. 
+  2. **^** "Official Carnegie Mellon colors". cmu.edu. Retrieved  2008-02-17. 
+  3. **^** "Carnegie Mellon's Mascot".  
+  4. ^ _**a**_ _**b**_ _**c**_ _**d**_ "University to Offer Master's Degree Program at West Coast Campus This Fall". 2008-05-10. Retrieved  2008-08-18. 
+  5. **^** "Part-time Programs". Retrieved  2008-07-28. [ _dead link_ ]
+  6. **^** "Unique Program Features". Retrieved  2008-07-28. [ _dead link_ ]
+  7. ^ _**a**_ _**b**_ "Press Release: Carnegie Mellon West Launches Master's Program for Software Management". 2007-02-13. Retrieved  2008-08-18. [ _permanent dead link_ ]
+  8. **^** Jonathan Erickson (2007-02-12). "CMU West Offers MS In Software Management". Retrieved 2008-08-18. 
+  9. **^** "CMU Launches Mobility Research Center". 2004-09-18. Retrieved  2008-07-28. 
+  10. **^** Amit Agarwal (2006-02-13). "MU West offers tour de Silicon Valley". Retrieved 2008-07-28. 
+  11. **^** "Carnegie Mellon, UC Berkeley Conference to Forecast Future of New Software Industry". 2007-05-27. Retrieved  2008-08-18. 
+  12. **^** "The Mobile Future Conference 2008". 2008-04-22. Archived from the original on July 6, 2008. Retrieved  2008-08-18. 
+  13. ^ _**a**_ _**b**_ "Silicon Valley Fence". 2008-08-11. Archived from the original on 2011-06-08. Retrieved  2008-08-18. 
+  14. **^** Cheng, Heng-Tze; Koc, Levent; Harmsen, Jeremiah; Shaked, Tal; Chandra, Tushar; Aradhye, Hrishi; Anderson, Glen; Corrado, Greg; Chai, Wei (2016-06-24). "Wide & Deep Learning for Recommender Systems". arXiv:1606.07792  [cs.LG]. 
+  15. **^** "Wide & Deep Learning: Better Together with TensorFlow". Retrieved  2016-09-29. 
+  16. **^** Constine, Josh. "Facebook Acquires "Mobile Technologies", Developer Of Speech Translation App Jibbigo". _TechCrunch_. Retrieved  2016-09-29. 
+  17. **^** Eck, M.; Lane, I.; Zhang, Y.; Waibel, A. (2010-12-01). "Jibbigo: Speech-to-speech translation on mobile devices". _2010 IEEE Spoken Language Technology Workshop (SLT)_ : 165–166. doi:10.1109/SLT.2010.5700843. ISBN 978-1-4244-7904-7. 
+
+## External links[edit]
+
+  * Official Site
+  * Article on CMU West
+  * CMUSV Celebrates Its 10th Anniversary
+
+  * v
+  * t
+  * e
+
+Carnegie Mellon University  
+  
+---  
+Academics |
+
+  * College of Engineering
+  * College of Fine Arts
+  * Dietrich College of Humanities and Social Sciences
+  * H. John Heinz III College of Information Systems and Public Policy
+  * Mellon College of Science
+  * School of Computer Science
+  * Tepper School of Business
+  * Margaret Morrison Carnegie College (defunct)
+
+|  
+  
+Branch campuses |
+
+  * Australia
+  * Qatar
+  * Rwanda
+  * Silicon Valley
+
+  
+  
+Student life |
+
+  * Traditions
+  * Greek Life
+  * Scotch'n'Soda
+  * Miller Gallery
+  * The Tartan
+  * WRCT
+  * University Athletic Association
+
+  
+  
+Research |
+
+  * Pittsburgh Supercomputing Center
+  * Software Engineering Institute
+  * Robotics Institute
+  * Human Computer Interaction Institute
+  * Computational Biology Department
+  * Language Technologies Institute
+  * Pittsburgh Life Sciences Greenhouse
+  * Carnegie School
+
+  
+  
+People |
+
+  * Andrew Carnegie
+  * Mellon family
+  * Alumni and faculty
+
+  
+  
+Projects and legacies |
+
+  * Alice
+  * Andrew Project
+  * BLISS
+  * CMMI
+  * Mach
+  * 3M computer
+  * Center for PostNatural History
+  * Conflict Kitchen
+  * Robot Hall of Fame
+  * _Waffle Shop: A Reality Show_
+  * YinzCam
+
+  
+  
+  * v
+  * t
+  * e
+
+Silicon Valley  
+  
+---  
+Cities |
+
+  * Campbell
+  * Cupertino
+  * East Palo Alto
+  * Fremont
+  * Los Altos
+  * Los Altos Hills
+  * Los Gatos
+  * Menlo Park
+  * Milpitas
+  * Morgan Hill
+  * Mountain View
+  * Newark
+  * Palo Alto
+  * Redwood City
+  * San Jose
+  * San Mateo
+  * Santa Clara
+  * Saratoga
+  * Sunnyvale
+
+  
+  
+Colleges and universities |
+
+  * Carnegie Mellon Silicon Valley
+  * Cogswell Polytechnical College
+  * De Anza College
+  * Evergreen Valley College
+  * Foothill College
+  * International Technological University
+  * Menlo College
+  * Mission College
+  * Ohlone College
+  * Silicon Valley Technical Institute
+  * National Hispanic University
+  * Northwestern Polytechnic University
+  * San Jose City College
+  * San Jose State University
+  * Silicon Valley University
+  * Santa Clara University
+  * Stanford University
+  * University of California, Berkeley
+  * University of California, Santa Cruz
+
+  
+  
+Companies  
+(including subsidiaries  
+and defunct companies) |
+
+  * 3Com
+  * Access Systems Americas
+  * Actuate
+  * Adaptec
+  * Adobe Systems
+  * AMD
+  * Agilent Technologies
+  * Altera
+  * Amdahl
+  * Ampex
+  * Apple Inc.
+  * Applied Materials
+  * Aricent
+  * Asus
+  * Atari
+  * Atmel
+  * Avaya
+  * BEA Systems
+  * Brocade
+  * BusinessObjects
+  * Capcom
+  * Cisco Systems
+  * Computer Literacy Bookshops
+  * Cypress Semiconductor
+  * eBay
+  * Electronic Arts
+  * Facebook
+  * Foundry Networks
+  * Fry's Electronics
+  * Fujitsu
+  * Gaia Online
+  * Geeknet
+  * Google
+  * Hewlett-Packard
+  * HGST
+  * IETF
+  * Intel
+  * Internet Systems Consortium
+  * Intuit
+  * Juniper Networks
+  * Knight Ridder
+  * LinkedIn
+  * Logitech
+  * LSI Corporation
+  * Magellan Navigation
+  * Marvell Technology Group
+  * Maxtor
+  * McAfee
+  * Memorex
+  * Microsoft
+  * Mozilla Corporation
+  * National Semiconductor
+  * Netscape
+  * NetApp
+  * Netflix
+  * NeXT
+  * Nintendo of America
+  * Nortel
+  * Nvidia
+  * Opera Software
+  * OPPO Digital
+  * Oracle Corporation
+  * Palm, Inc.
+  * Palo Alto Networks
+  * PayPal
+  * Pinterest
+  * Playdom
+  * Rambus
+  * Redback Networks
+  * Reputation.com
+  * SAP SE
+  * SanDisk
+  * Silicon Graphics
+  * Silicon Image
+  * Solectron
+  * Sony Interactive Entertainment
+  * SRI International
+  * Sun Microsystems
+  * Symantec
+  * Symyx
+  * Taligent
+  * Tesla, Inc.
+  * TiVo
+  * Uber
+  * Verisign
+  * Veritas Technologies
+  * VMware
+  * WebEx
+  * WhatsApp
+  * Xilinx
+  * Yahoo!
+
+  
+  
+Retrieved from
+"https://en.wikipedia.org/w/index.php?title=Carnegie_Mellon_Silicon_Valley&oldid=811584610"
+
+Categories:
+
+  * Carnegie Mellon University
+  * Universities and colleges in Santa Clara County, California
+  * Educational institutions established in 2002
+  * Buildings and structures in Mountain View, California
+  * 2002 establishments in California
+
+Hidden categories:
+
+  * All articles with dead external links
+  * Articles with dead external links from November 2010
+  * Articles with dead external links from September 2017
+  * Articles with permanently dead external links
+  * Articles needing additional references from October 2014
+  * All articles needing additional references
+  * Articles with a promotional tone from December 2014
+  * All articles with a promotional tone
+  * Articles with multiple maintenance issues
+  * Coordinates on Wikidata
+  * Pages using deprecated image syntax
+  * Instances of Infobox university using image size
+
+## Navigation menu
+
+### Personal tools
+
+  * Not logged in
+  * Talk
+  * Contributions
+  * Create account
+  * Log in
+
+### Namespaces
+
+  * Article
+  * Talk
+
+###  Variants
+
+### Views
+
+  * Read
+  * Edit
+  * View history
+
+### More
+
+###  Search
+
+### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+  * Donate to Wikipedia
+  * Wikipedia store
+
+### Interaction
+
+  * Help
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact page
+
+### Tools
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Permanent link
+  * Page information
+  * Wikidata item
+  * Cite this page
+
+### Print/export
+
+  * Create a book
+  * Download as PDF
+  * Printable version
+
+### Languages
+
+Add links
+
+  * This page was last edited on 22 November 2017, at 15:57.
+  * Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+  * Contact Wikipedia
+  * Developers
+  * Cookie statement
+  * Mobile view
+
+  *   * 
+
+  *[FBS]: Football Bowl Subdivision
+  *[FCS]: Football Championship Subdivision
+  *[e]: Edit this template
+  *[c.]: circa
+  *[m.]: married
+  *[Pop.]: Population
+  *[ v]: View this template
+  *[t]: Discuss this template
+  *[v]: View this template
+  *[1887]: April 22, 1887
+  *[±%]: Percent change
+  *[%±]: Percent change
+

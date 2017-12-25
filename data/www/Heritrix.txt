@@ -1,5 +1,0 @@
-Heritrix is a web crawler designed for web archiving. It was written by the Internet Archive. It is free software license and written in Java. The main interface is accessible using a web browser, and there is a command-line tool that can optionally be used to initiate crawls.
-Heritrix was developed jointly by the Internet Archive and the Nordic national libraries on specifications written in early 2003. The first official release was in January 2004, and it has been continually improved by employees of the Internet Archive and other interested parties.
-Heritrix was not the main crawler used to crawl content for the Internet Archive's web collection for many years. The largest contributor to the collection is Alexa Internet. Alexa crawls the web for its own purposes, using a crawler named ia_archiver. Alexa then donates the material to the Internet Archive. The Internet Archive itself did some of its own crawling using Heritrix, but only on a smaller scale.
-Starting in 2008, the Internet Archive began performance improvements to do its own wide scale crawling, and now does collect most of its content.
-

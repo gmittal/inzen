@@ -1,2 +1,0 @@
-In music notation, a note value indicates the relative duration of a note, using the color or shape of the note head, the presence or absence of a stem, and the presence or absence of flags/beams/hooks/tails.
-A rest indicates a silence of an equivalent duration.

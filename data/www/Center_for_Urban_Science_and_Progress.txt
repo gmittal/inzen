@@ -1,0 +1,222 @@
+
+
+# Center for Urban Science and Progress
+
+From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+Coordinates: 40°43′48″N 73°59′42″W﻿ / ﻿40.73000°N 73.99500°W﻿ / 40.73000;
+-73.99500
+
+New York University Center for Urban Science and Progress Type | Private  
+---|---  
+Established | 2013  
+Director | Steve Koonin  
+Location | Brooklyn, New York, United States  
+Campus | Urban  
+  
+The **NYU Center for Urban Science and Progress** ( **CUSP** ) is a degree-
+granting technology and research institute, that is located in Downtown
+Brooklyn, New York. It is a graduate school of New York University focusing on
+urban informatics.[1] It opened in September 2013, and is temporarily located
+in the MetroTech Center in Downtown Brooklyn.
+
+## Contents
+
+  * 1 History and background
+  * 2 Campus
+  * 3 Academics
+  * 4 Research
+  * 5 References
+  * 6 External links
+
+## History and background[edit]
+
+In July 2011, Mayor Michael Bloomberg issued a request for proposals to all
+universities worldwide to build an engineering and applied sciences campus in
+New York City. The winner(s) of this competition would receive significant
+funding from the city in order to build this campus.[2] NYU submitted a
+proposal to build a school of applied urban science in Downtown Brooklyn, in
+an underused MTA building, with the aim of confronting the world's pressing
+urban challenges. The proposal was declared the second winner in April 2012 by
+Mayor Bloomberg after various negotiations with the city government and the
+MTA. During the celebration ceremony, Steve Koonin was named as the director
+of CUSP.[3]
+
+## Campus[edit]
+
+CUSP will be located at 370 Jay Street in a 460,000 square feet (42,735 m2)
+building along with other academic units of NYU,[4] once the old MTA equipment
+in the building is removed and the building is completely renovated. In the
+meantime, NYU established CUSP in leased space in MetroTech and classes began
+in September 2013. The projected year of completion for the permanent building
+is 2017.[5]
+
+## Academics[edit]
+
+CUSP teaches the principles and scientific investigative tools and techniques
+to interrogate and combine city datasets to tackle real urban challenges.[6]
+Subjects developed for CUSP's curricula include urban engineering, civil
+engineering, computer science, and electrical engineering.[1] Besides students
+accepted directly to CUSP, graduate students from other schools of NYU will be
+invited to study at CUSP, as well as students from CUSP's partner
+universities, which include Carnegie Mellon University, CUNY, The Indian
+Institute of Technology - Bombay, The University of Toronto, and The
+University of Warwick.[7] CUSP will also have industry partners to assist with
+research, which include IBM, Cisco, Siemens, Con Edison, National Grid, Xerox,
+Arup, IDEO, and AECOM.[5]
+
+CUSP offers a M.S. degree in Applied Urban Science and Informatics,[8] and an
+Advanced Graduate Certificate program.[9] The M.S. program also has a track in
+Civil Analytics,[10] and an extended (2 year) form to allow students to meet
+full-time degree requirements on a part-time basis.
+
+CUSP's inaugural class of 23 students was inducted on August 26, 2013, and
+graduated in July 2014.[11][12] CUSP's second cohort of 64 students graduated
+in July 2015. The current cohort, the class of 2016 has 89 students.
+
+CUSP sponsored and contributed to "Big Data, Privacy, and the Public Good:
+Frameworks for Engagement", a pioneering book on the intersection of big data,
+privacy and the public.[13][14]
+
+## Research[edit]
+
+Since its inception, CUSP has been engaged in a range of research projects
+across transportation, energy, pollution, waste management, light and sound
+pollution, including:[15]
+
+  * New York's first comprehensive study of its largest buildings' energy use
+  * The creation of an Urban Observatory sites in Brooklyn to measure energy emissions, extreme event detection and management as well as pollution tracking. The observatory began collection data as of December 2013
+  * The Sounds of New York City (SONYC), a project which studies and creates technological solutions for noise problems
+  * Quantified Community, and urban informatics sensing project for a mixed-use building in midtown Manhattan
+  * Citizen Science: A project set to engage the public in widespread city data collection
+
+## References[edit]
+
+  1. ^ _**a**_ _**b**_ "The Center for Urban Science and Progress - NYU's Proposal to the City of New York". New York University. Retrieved  January 22, 2013. 
+  2. **^** "MAYOR BLOOMBERG ANNOUNCES REQUEST FOR PROPOSALS FOR NEW OR EXPANDED ENGINEERING AND APPLIED SCIENCES CAMPUS IN NEW YORK CITY" (Press release). 19 July 2011. Retrieved  23 June 2012. 
+  3. **^** "City Hall's Selection of NYU's Center for Urban Science and Progress". New York University. Retrieved  June 23, 2012. 
+  4. **^** https://www.nyu.edu/about/news-publications/budget/capital-budget.html
+  5. ^ _**a**_ _**b**_ "Center for Urban Science and Progress". New York University. Retrieved  June 23, 2012. 
+  6. **^** Center for Urban Science and Progress. "Educational Programs". _Center for Urban Science and Progress_. NY CUSP. Retrieved  13 October 2015. 
+  7. **^** "IIT-Bombay to set up a "Centre for Urban Science and Progress (CUSP)" in Brooklyn". _The Economic Times_. May 3, 2012. Retrieved  January 22, 2013. 
+  8. **^** Center for Urban Science and Progress. "MS in Applied Urban Science and Informatics". _Center for Urban Science and Progress_. NYU CUSP. Retrieved  13 October 2015. 
+  9. **^** Center for Urban Science and Progress. "Applied Urban Science And Informatics". _Center for Urban Science and Progress_. NYU CUSP. Retrieved  13 October 2015. 
+  10. **^** Center for Urban Science and Progress. "Applied Urban Science And Informatics Tracks". _Center for Urban Science and Progress_. NYU CUSP. Retrieved  13 October 2015. 
+  11. **^** Center for Urban Science and Progress. "NYU'S CENTER FOR URBAN SCIENCE & PROGRESS GRADUATES INAUGURAL CLASS". _Center for Urban Science and Progress_. NYU CUSP. Retrieved  12 August 2014. 
+  12. **^** Center for Urban Science and Progress. "Graduation Ceremony 2014 - Full". _Vimeo_. NYU CUSP. Retrieved  13 October 2014. 
+  13. **^** Center for Urban Science and Progress. "Privacy, Big Data, And The Public Good". _Center for Urban Science and Progress_. NYU CUSP. Retrieved  13 October 2015. 
+  14. **^** "About The Book". _Privacy, Data and the Public Good_. Retrieved  13 October 2015. 
+  15. **^** Center for Urban Science and Progress. "Research: Disciplines, Domains, And Projects". _Center for Urban Science and Progress_. NYU CUSP. Retrieved  13 October 2015. 
+
+## External links[edit]
+
+  * Center for Urban Science and Progress
+
+Retrieved from
+"https://en.wikipedia.org/w/index.php?title=Center_for_Urban_Science_and_Progress&oldid=793007591"
+
+Categories:
+
+  * 2013 establishments in New York (state)
+  * Downtown Brooklyn
+  * Education in Brooklyn
+  * Planned developments
+
+Hidden categories:
+
+  * Coordinates on Wikidata
+
+## Navigation menu
+
+### Personal tools
+
+  * Not logged in
+  * Talk
+  * Contributions
+  * Create account
+  * Log in
+
+### Namespaces
+
+  * Article
+  * Talk
+
+###  Variants
+
+### Views
+
+  * Read
+  * Edit
+  * View history
+
+### More
+
+###  Search
+
+### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+  * Donate to Wikipedia
+  * Wikipedia store
+
+### Interaction
+
+  * Help
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact page
+
+### Tools
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Permanent link
+  * Page information
+  * Wikidata item
+  * Cite this page
+
+### Print/export
+
+  * Create a book
+  * Download as PDF
+  * Printable version
+
+### Languages
+
+Add links
+
+  * This page was last edited on 30 July 2017, at 02:01.
+  * Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+  * Contact Wikipedia
+  * Developers
+  * Cookie statement
+  * Mobile view
+
+  *   * 
+
+  *[FBS]: Football Bowl Subdivision
+  *[FCS]: Football Championship Subdivision
+  *[e]: Edit this template
+  *[c.]: circa
+  *[m.]: married
+  *[Pop.]: Population
+  *[ v]: View this template
+  *[t]: Discuss this template
+  *[v]: View this template
+  *[1887]: April 22, 1887
+  *[±%]: Percent change
+  *[%±]: Percent change
+

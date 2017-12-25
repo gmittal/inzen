@@ -1,4 +1,0 @@
-A mobile software application or mobile app is a software application designed to run on a mobile device such as a smartphone or tablet computer.
-Mobile apps often stand in contrast to desktop applications that run on desktop computers, and with web applications which run in mobile web browsers rather than directly on the mobile device.
-The term "app" is a shortening of the term "software application". It has become very popular, and in 2010 was listed as "Word of the Year" by the American Dialect Society. In 2009, technology columnist David Pogue said that newer smartphones could be nicknamed "app phones" to distinguish them from earlier less-sophisticated smartphones.
-

@@ -1,4 +1,203 @@
-PayScale, Inc. or payscale.com is an online salary, benefits and compensation information company, which launched its service on January 1, 2002. It was founded by Joe Giordano, a former Microsoft and drugstore.com manager, and John Gaffney. On April 24, 2014 Warburg Pincus acquired PayScale in a deal worth up to $100m.
-PayScale was developed to help people obtain accurate real-time information on job market compensation. The service works via the Internet by enabling individual employees to submit their job profile and salary data, which is then compared to others. The company claims that it is able to use the volume of information statistically to determine accurate real-time salary information.
-The company generates revenue by selling aggregate data and web services to employers, to aid in determining correct market rates for hiring, benchmarking and budgeting, and by targeted advertising to employees that visit its web site.
-The company has published rankings of U.S. universities based on "return on investment," or the purported difference between student expenditures for a university degree and the money they earn from it. These rankings are dramatically different from better-known rankings published by U.S. News and World Report, Forbes, The Economist, and other mainstream publications (for instance, PayScale places Yale University 93rd among American universities and Georgetown University 132nd). The Chronicle of Higher Education has criticized PayScale for using misleading sample sizes and for omitting all alumni of universities who go on to grad school from its count.
+
+
+# PayScale
+
+From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+|
+
+This article includes a list of references, but **its sources remain unclear**
+because it has **insufficientinline citations**.  Please help to improve this
+article by introducing more precise citations. _(July 2008)_ _(Learn how and
+when to remove this template message)_  
+  
+---|---  
+PayScale  
+---  
+  
+Type
+
+| Private  
+Founded | January 1, 2002  
+Headquarters | Seattle, Washington  
+  
+Key people
+
+| Michael Metzger, CEO and President[1]  
+Website | http://www.payscale.com  
+  
+**PayScale, Inc.** or **payscale.com** is an online salary, benefits and
+compensation information company, which launched its service on January 1,
+2002.[2] It was founded by Joe Giordano, a former Microsoft and drugstore.com
+manager, and John Gaffney. On April 24, 2014 Warburg Pincus acquired PayScale
+in a deal worth up to $100m.[3]
+
+PayScale was developed to help people obtain accurate real-time information on
+job market compensation. The service works via the Internet by enabling
+individual employees to submit their job profile and salary data, which is
+then compared to others. The company claims that it is able to use the volume
+of information statistically to determine accurate real-time salary
+information.[4]
+
+The company generates revenue by selling aggregate data and web services to
+employers, to aid in determining correct market rates for hiring, benchmarking
+and budgeting, and by targeted advertising to employees that visit its web
+site.
+
+The company has published rankings of U.S. universities based on "return on
+investment," or the purported difference between student expenditures for a
+university degree and the money they earn from it.[5] These rankings are
+dramatically different from better-known rankings published by _U.S. News and
+World Report_ , _Forbes_ , _The Economist_ , and other mainstream publications
+(for instance, PayScale places Yale University 93rd among American
+universities and Georgetown University 132nd). _The Chronicle of Higher
+Education_ has criticized PayScale for using misleading sample sizes and for
+omitting all alumni of universities who go on to grad school from its
+count.[6]
+
+##  References[edit]
+
+  1. **^** "PayScale Management Team". Retrieved  7 May 2014. 
+  2. **^** "PayScale, Inc. on Business Week". Investing.businessweek.com. Retrieved  2012-08-02. 
+  3. **^** Cook, John (24 April 2014). "Salary report generator PayScale getting up to $100M in deal led by Warburg Pincus". Retrieved 7 May 2014. 
+  4. **^** DAMON DARLIN (March 3, 2007). "Using the Web to Get the Boss to Pay More". The New York Times. Retrieved 2 August 2012. 
+  5. **^** "2013 College Education ROI Rankings: Does a Degree Always Pay Off"?
+  6. **^** Svaldi, David (April 21, 2014). "The More You Pay, the More It's Worth." The Huffington Post. (Quoting the Chronicle of Higher Education)
+
+## External links[edit]
+
+  * PayScale web site
+  * New York Times by _Damon Darlin_ _The New York Times_ (March 3, 2007)
+  * Review: How Much Money Do You Make? by _Michael Arrington_ TechCrunch (October 12, 2006)
+  * _PayScale shows you the money_ from _The Seattle Times_ (August 29, 2005)
+
+  
+
+| _This article about a financial services corporation of the United States is
+astub. You can help Wikipedia by expanding it._
+
+  * v
+  * t
+  * e
+
+  
+  
+---|---  
+  
+Retrieved from
+"https://en.wikipedia.org/w/index.php?title=PayScale&oldid=811023520"
+
+Categories:
+
+  * Online databases
+  * Companies based in Seattle
+  * 2002 establishments in Washington (state)
+  * Privately held companies based in Washington (state)
+  * Companies established in 2002
+  * United States financial services company stubs
+
+Hidden categories:
+
+  * Articles lacking in-text citations from July 2008
+  * All articles lacking in-text citations
+  * Pages using deprecated image syntax
+  * All stub articles
+
+## Navigation menu
+
+### Personal tools
+
+  * Not logged in
+  * Talk
+  * Contributions
+  * Create account
+  * Log in
+
+### Namespaces
+
+  * Article
+  * Talk
+
+###  Variants
+
+### Views
+
+  * Read
+  * Edit
+  * View history
+
+### More
+
+###  Search
+
+### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+  * Donate to Wikipedia
+  * Wikipedia store
+
+### Interaction
+
+  * Help
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact page
+
+### Tools
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Permanent link
+  * Page information
+  * Wikidata item
+  * Cite this page
+
+### Print/export
+
+  * Create a book
+  * Download as PDF
+  * Printable version
+
+### Languages
+
+  * Italiano
+
+Edit links
+
+  * This page was last edited on 19 November 2017, at 01:25.
+  * Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+  * Contact Wikipedia
+  * Developers
+  * Cookie statement
+  * Mobile view
+
+  *   * 
+
+  *[FBS]: Football Bowl Subdivision
+  *[div.]: divorced
+  *[FCS]: Football Championship Subdivision
+  *[e]: Edit this template
+  *[c.]: circa
+  *[m.]: married
+  *[Pop.]: Population
+  *[Statistics]: Biostatistics programs are not considered in the No. 8 ranking. UPenn is No. 10 when Biostatistics programs are considered.
+  *[ v]: View this template
+  *[t]: Discuss this template
+  *[v]: View this template
+  *[1887]: April 22, 1887
+  *[±%]: Percent change
+  *[%±]: Percent change
+

@@ -1,4 +1,0 @@
-Meantone temperament is a musical temperament, which is a system of musical tuning. In general, a meantone is constructed the same way as Pythagorean tuning, as a stack of perfect fifths, but in meantone, each fifth is narrow compared to the ratio 2 7⁄12:1 used in 12 equal temperament. The meantone temperament:
-generates all non-octave intervals from a stack of tempered perfect fifths; and
-by choosing an appropriate size for the tempered fifths, may produce a perfect major third or a perfect minor third, but not both at the same time.
-Quarter-comma meantone, which tempers all fifths by 1/4 comma, is the best known type of meantone temperament, and the term meantone temperament is often used to refer to it specifically.

@@ -1,3 +1,645 @@
-The following is a list of Turing Award laureates since 1966 (total 64 winners), grouped by their current and past affiliation to academic institutions. The university affiliations of Turing Award winners fall into three categories in this list: Graduate and Attendee (excluding honorary degrees and auditors), Long-term Academic Staff, and Short-term Academic Staff. The category of "Long-term Academic Staff" mostly consists of tenure/tenure-track and equivalent academic positions, while that of "Short-term Academic Staff" mostly consists of lecturers (without tenure), postdoctoral researchers, visiting professors/scholars, and equivalent academic positions. Only those universities with at least 5 affiliations of awardees are shown explicitly with ranking.
-The number following a person's name is the year he/she received the Turing Award; in particular, a number with asterisk (*) means the person received the award while he/she was working at the institution containing that asterisk. A laureate with his/her name underlined implies that this person has already been counted for a same institution in previous category. If a person had multiple positions under one category, only the position with highest rank is considered.
-This list, together with List of Nobel laureates by university affiliation and List of Fields Medal winners by university affiliation, presents the university affiliation (with similar criteria) of people who have won highest honors in fundamental academic disciplines.
+
+
+# List of Turing Award laureates by university affiliation
+
+From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+The following is a **list ofTuring Award laureates** since 1966 (total 65
+winners), grouped by their current and past affiliation to academic
+institutions. Universities are listed in descending order according to the
+number of affiliates, while **only those with at least 5 affiliations of
+awardees are shown explicitly with ranking.**
+
+The university affiliations in this list are all formal/official academic
+affiliations (e.g., official employment, degree program), which fall into
+three categories in this list: 1) _Graduate and Attendee_ , 2) _Long-term
+Academic Staff_ , and 3) _Temporary Academic Staff_. Graduates are defined as
+those who hold Bachelor's, Master's, PhD, or equivalent degrees from a
+university, while attendees are those who formally enrolled in a degree-
+program at a university for at least one day but did not complete the program
+or obtain a degree (thus, honorary degrees, summer attendees, exchange
+students, and auditors are generally excluded). The category of "Long-term
+Academic Staff" mostly consists of tenure/tenure-track and equivalent academic
+positions, while that of "Temporary Academic Staff" mostly consists of
+lecturers (without tenure), postdoctoral researchers, visiting
+professors/scholars (visitors), and equivalent academic positions.
+
+Further explanations on "visitors" under "Temporary Academic Staff" are
+presented as follows. 1) All informal/personal visits are excluded from the
+list; 2) all employment-based visiting positions, which carry
+teaching/research duties, are included as affiliations in the list; 3) as for
+award-based visiting positions, this list takes a conservative view, which
+includes the positions as affiliations only if the awardees are required to
+assume employment-level duties (teaching/research) or the awardees classify
+the visiting positions as "employment/appointment" in their Curriculum Vita or
+reliable websites. In particular, giving public lectures or seminars is not a
+form of duties. Finally, summer employees and visitors are generally excluded
+from the list, and non-academic positions (e.g., advisory committee,
+administrative staff, etc) are also excluded.
+
+The number following a person's name is the year he/she received the Turing
+Award; in particular, a number with asterisk (*) means the person received the
+award while he/she was working at the institution containing that asterisk. A
+laureate with his/her name underlined implies that this person has already
+been counted for a same institution in previous category. If a person had
+multiple positions under one category, only the position with highest rank is
+considered.
+
+This list, together with **List of Nobel laureates by university affiliation**
+and **List of Fields Medal winners by university affiliation** , presents the
+university affiliation (with similar criteria) of people who have won highest
+honors in fundamental academic disciplines.
+
+## Contents
+
+  * 1 University of California, Berkeley (1st)
+  * 2 Massachusetts Institute of Technology (2nd)
+  * 3 Stanford University (3rd)
+  * 4 Harvard University (4th)
+  * 5 Carnegie Mellon University (5th)
+  * 6 Princeton University (6th)
+  * 7 California Institute of Technology (7th)
+  * 8 University of Oxford (8th)
+  * 9 Other Universities (9th – 13th)
+  * 10 Other Universities (17th– )
+  * 11 See also
+  * 12 References
+
+## University of California, Berkeley (1st)[edit]
+
+Affiliations | Graduate and Attendee | Long-term Academic Staff | Temporary
+Academic Staff  
+---|---|---|---  
+University of California, Berkeley, United States  
+23 |
+
+1\. Barbara Liskov[1] (B.S) – 2008
+
+2\. Butler Lampson[2] (PhD) – 1992
+
+3\. Charles P. Thacker[3] (B.S) – 2009
+
+4\. Dana Scott[4] (B.A) – 1976
+
+5\. Douglas Engelbart[5] (PhD) – 1997
+
+6\. Jim Gray[6] (PhD) – 1998
+
+7\. Ken Thompson[7] (B.S, MS) – 1983
+
+8\. Leonard Adleman[8] (B.A, PhD) – 2002
+
+9\. Niklaus Wirth[9] (PhD) – 1984
+
+10\. Shafi Goldwasser[10] (PhD) – 2012
+
+11\. Silvio Micali[11] (PhD) – 2012
+
+|
+
+1\. Andrew Chi-Chih Yao[12] (Professor) – 2000
+
+2\. _Dana Scott_[4] (Associate Professor)  – 1976
+
+3\. _Douglas Engelbart_[5] (Assistant Professor)  – 1997
+
+4\. Edward Feigenbaum[13] (Associate Professor) – 1994
+
+5\. Manuel Blum[14] (Professor) – 1995*
+
+6\. Michael Stonebraker[15] (Professor) – 2014
+
+7\. Richard Karp[16] (Professor) – 1985*
+
+8\. _Shafi Goldwasser_[17] (Professor)  – 2012
+
+9\. Stephen Cook[18] (Assistant Professor) – 1982
+
+10\. William Kahan[19] (Professor) – 1989*
+
+| 1\. _Charles P. Thacker_[3] (Researcher)  – 2009
+
+2\. _Edward Feigenbaum_[13] (Researcher)  – 1994
+
+3\. Herbert A. Simon[20] (Research Director) – 1975
+
+4\. Ivan Sutherland[21] (Visiting Scholar) – 1988
+
+5\. _Jim Gray_[6] (Research Fellow)  – 1998
+
+6\. John Backus[22] (Visiting Professor) – 1977
+
+7\. Michael O. Rabin[23] (Visiting Associate Professor) – 1976
+
+8\. Robert Tarjan[24] (Miller Research Fellow) – 1986  
+  
+## Massachusetts Institute of Technology (2nd)[edit]
+
+Affiliations | Graduate and Attendee | Long-term Academic Staff | Temporary
+Academic Staff  
+---|---|---|---  
+Massachusetts Institute of Technology, United States  
+21 | 1\. Alan Perlis[25] (PhD) – 1966
+
+2\. Fernando Corbato[26] (PhD) – 1990
+
+3\. Leslie Lamport[27] (B.S) – 2013
+
+4\. Manuel Blum[14] (PhD) – 1995
+
+5\. Ivan Sutherland[28] (PhD) – 1988
+
+6\. Whitfield Diffie[29] (B.S) – 2015
+
+| 1\. Adi Shamir[30] (Assistant Professor) – 2002
+
+2\. Andrew Chi-Chih Yao[12] (Assistant Professor) – 2000
+
+3\. Barbara Liskov[1] (Professor) – 2008*
+
+4\. Butler Lampson[31] (Adjunct Professor) – 1992*
+
+5\. _Fernando Corbato_[26] (Professor)  – 1990*
+
+6\. John McCarthy[32] (Assistant Professor) – 1971
+
+7\. Leonard Adleman[8] (Associate Professor) – 2002
+
+8\. _Manuel Blum_[14] (Assistant Professor)  – 1995*
+
+9\. Marvin Minsky[33] (Professor) – 1969*
+
+10\. Martin Hellman[34] (Assistant Professor) – 2015
+
+11\. Michael Stonebraker[15] (Professor) – 2014*
+
+12\. Ronald Rivest[35] (Professor) – 2002*
+
+13\. Robert Kahn[36] (Assistant Professor) – 2004
+
+14\. Shafi Goldwasser[10] (Professor) – 2012*
+
+15\. Silvio Micali[11] (Professor) – 2012*
+
+16\. Tim Berners-Lee[37] (Professor) - 2016*
+
+| 1\. _Adi Shamir_[30] (Instructor)  – 2002
+
+2\. _Alan Perlis_[25] (Researcher)  – 1966
+
+3\. _Ivan Sutherland_[28] (Researcher)  – 1988
+
+4\. Michael O. Rabin[38] (Visiting Professor) – 1976
+
+5\. _Shafi Goldwasser_[10] (Postdoctoral Researcher)  – 2012  
+  
+## Stanford University (3rd)[edit]
+
+Affiliations | Graduate and Attendee | Long-term Academic Staff | Temporary
+Academic Staff  
+---|---|---|---  
+Stanford University, United States  
+20 | 1\. Allen Newell[39] (B.S) – 1975
+
+2\. Barbara Liskov[1] (PhD) – 2008
+
+3\. John Hopcroft[40] (PhD) – 1986
+
+4\. Raj Reddy[41] (PhD) – 1994
+
+5\. Ronald Rivest[42] (PhD) – 2002
+
+6\. Robert Tarjan[24] (PhD) – 1986
+
+7\. Vinton Cerf[43] (B.S) – 2004
+
+| 1\. Andrew Chi-Chih Yao[12] (Professor) – 2000
+
+2\. Dana Scott[4] (Professor) – 1976
+
+2\. Donald Knuth[44] (Professor) – 1974*
+
+3\. Douglas Engelbart[5] (Research Director) – 1997
+
+4\. Edward Feigenbaum[13] (Professor) – 1994*
+
+5\. John McCarthy[32] (Professor) – 1971*
+
+6\. Martin Hellman[45] (Professor) – 2015*
+
+7\. Niklaus Wirth[9] (Assistant Professor) – 1984
+
+8\. _Raj Reddy_[41] (Assistant Professor)  – 1994
+
+9\. Robert W. Floyd[46] (Professor) – 1978*
+
+10\. Robert Tarjan[24] (Associate Professor) – 1986
+
+11\. _Vinton Cerf_[43] (Assistant Professor)  – 2004
+
+12\. Whitfield Diffie[47] (Professor) – 2015*
+
+| 1\. Alan Kay[48] (Researcher) – 2003
+
+2\. Amir Pnueli[49] (Postdoctoral Researcher, Visitor) – 1996
+
+3\. Robin Milner[50] (Researcher) – 1991  
+  
+## Harvard University (4th)[edit]
+
+Affiliations | Graduate and Attendee | Long-term Academic Staff | Temporary
+Academic Staff  
+---|---|---|---  
+Harvard University, United States  
+13 | 1\. Andrew Chi-Chih Yao[12] (PhD) – 2000
+
+2\. Butler Lampson[2] (B.A) – 1992
+
+3\. Dennis M. Ritchie[51] (B.S. 1963, PhD 1967) – 1983
+
+4\. E. Allen Emerson[52] (PhD) – 2007
+
+5\. Frederick P. Brooks, Jr.[53] (PhD) – 1999
+
+6\. Kenneth E. Iverson[54] (PhD) – 1979
+
+7\. Marvin Minsky[33] (B.A) – 1969
+
+8\. Richard Karp[16] (B.A, PhD) – 1985
+
+9\. Stephen A. Cook[18] (PhD) – 1982
+
+| 1\. Ivan Sutherland[21] (Associate Professor) – 1988
+
+2\. Leslie G. Valiant (Professor) – 2010*
+
+3\. Michael O. Rabin[38] (Professor) – 1976
+
+4\. _Kenneth E. Iverson_[54] (Assistant Professor)  – 1979
+
+| 1\. Edmund M. Clarke[55] (Instructor) – 2007
+
+2\. _Kenneth E. Iverson_[54] (Instructor)  – 1979  
+  
+## Carnegie Mellon University (5th)[edit]
+
+Affiliations | Graduate and Attendee | Long-term Academic Staff | Temporary
+Academic Staff  
+---|---|---|---  
+Carnegie Mellon University, United States  
+12 | 1\. Alan J. Perlis[25] (B.S) – 1966
+
+2\. Allen Newell[39] (PhD) – 1975
+
+3\. Edward Feigenbaum[13] (PhD) – 1994
+
+4\. Ivan E. Sutherland[21] (B.S) – 1988
+
+5\. Shafi Goldwasser[10] (B.S) – 2012
+
+| 1\. _Alan J. Perlis_[25] (Professor)  – 1966*
+
+2\. _Allen Newell_[39] (Professor)  – 1975
+
+3\. Dana Scott[4] (Professor) – 1976
+
+4\. Edmund M. Clarke[55] (Professor) – 2007*
+
+5\. Herbert A. Simon[56] (Professor) – 1975*
+
+6\. Manuel Blum[14] (Professor) – 1995
+
+7\. Raj Reddy[41] (Professor) – 1994*
+
+8\. Robert W. Floyd[46] (Assistant Professor) – 1978
+
+| 1\. Leslie Valiant[57] (Visiting Assistant Professor)  
+  
+## Princeton University (6th)[edit]
+
+Affiliations | Graduate and Attendee | Long-term Academic Staff | Temporary
+Academic Staff  
+---|---|---|---  
+Princeton University, United States  
+10 | 1\. Dana Scott[4] (PhD) – 1976
+
+2\. John McCarthy[32] (PhD) – 1971
+
+3\. Marvin Minsky[33] (PhD) – 1969
+
+4\. Michael O. Rabin[38] (PhD) – 1976
+
+5\. Michael Stonebraker (B.S) – 2014
+
+6\. Richard E. Stearns[58] (PhD) – 1993
+
+7\. Robert Kahn[36] (PhD) – 2004
+
+| 1\. Andrew Chi-Chih Yao[12] (Professor) – 2000*
+
+2\. _Dana Scott_[4] (Professor)  – 1976
+
+3\. John Hopcroft[59] (Assistant Professor) – 1986
+
+4\. Robert Tarjan[24] (Professor) – 1986*
+
+| 1\. _John McCarthy_[32] (Instructor)  – 1971  
+  
+## California Institute of Technology (7th)[edit]
+
+Affiliations | Graduate and Attendee | Long-term Academic Staff | Temporary
+Academic Staff  
+---|---|---|---  
+California Institute of Technology, United States  
+6 | 1\. Donald Knuth[44] (PhD) – 1974
+
+2\. Fernando Corbato[26] (B.S) – 1990
+
+3\. Ivan Sutherland[21] (M.S) – 1988
+
+4\. John McCarthy[32] (B.S) – 1971
+
+5\. Juris Hartmanis[60] (PhD) – 1993
+
+6\. Robert Tarjan[24] (B.S) – 1986
+
+| 1\. _Donald Knuth_[44] (Associate Professor)  – 1974
+
+2\. _Ivan Sutherland_[21] (Professor)  – 1988
+
+|  
+  
+## University of Oxford (8th)[edit]
+
+Affiliations | Graduate and Attendee | Long-term Academic Staff | Temporary
+Academic Staff  
+---|---|---|---  
+University of Oxford, United Kingdom  
+5 | 1\. Tony Hoare (B.A.) – 1980
+
+2\. Edgar F. Codd (B.A) – 1981
+
+3\. Tim Berners-Lee (B.A) – 2016
+
+| 1\. Dana Scott[61] (Professor of Mathematical Logic) – 1976
+
+2\. _Tim Berners-Lee_ (Christ Church College) – 2016[62]
+
+|  1\. Donald Knuth[63] (Visiting Professor) – 1974  
+  
+## Other Universities (9th – 13th)[edit]
+
+University | Number | Names  
+---|---|---  
+Cornell University | 4 | Edmund M. Clarke, John Hopcroft, Juris Hartmanis,
+Robert Tarjan[64]  
+New York University | 4 | Judea Pearl, Amir Pnueli, Frances E. Allen, Martin
+Hellman  
+University of Cambridge | 4 | Robin Milner, Leslie Valiant, Maurice Wilkes,
+James H. Wilkinson  
+University of Chicago | 4 | Robert W. Floyd, Richard Hamming, Dana Scott,
+Herbert A. Simon  
+University of Michigan | 4 | Frances E. Allen, Edgar F. Codd, Stephen A. Cook,
+Michael Stonebraker  
+University of California, Los Angeles | 3 | Vinton Cerf, Judea Pearl, Alan Kay  
+Weizmann Institute of Science | 3 | Adi Shamir, Amir Pnueli, Shafi Goldwasser  
+Duke University | 3 | Frederick Brooks, Edmund M. Clarke, John Cocke[65][66]  
+  
+## Other Universities (17th– )[edit]
+
+University | Number | Names  
+---|---|---  
+University of Edinburgh | 2 | Robin Milner, Leslie Valiant  
+Technion – Israel Institute of Technology | 2 | Amir Pnueli, Judea Pearl  
+University of Illinois at Urbana-Champaign | 2 | Richard Hamming, Andrew Chi-
+Chih Yao  
+University of Texas at Austin | 2 | Edsger W. Dijkstra, E. Allen Emerson  
+University of Toronto | 2 | Stephen A. Cook, William Kahan  
+University of Utah | 2 | Alan Kay, Ivan Sutherland  
+University of Oslo | 2 | Ole-Johan Dahl, Kristen Nygaard  
+Yale University | 2 | Alan Perlis, Ron Rivest  
+University at Albany, SUNY | 2 | Richard E. Stearns, Frances E. Allen  
+Columbia University | 1 | John Backus  
+Imperial College London | 1 | Leslie Valiant  
+University of Leeds | 1 | Leslie Valiant  
+Brandeis University | 1 | Leslie Lamport  
+National Taiwan University | 1 | Andrew Chi-Chih Yao  
+Tsinghua University | 1 | Andrew Chi-Chih Yao  
+Queen's University of Belfast | 1 | Tony Hoare  
+University of North Carolina at Chapel Hill | 1 | Fred Brooks  
+University of Pennsylvania | 1 | Charles Bachman  
+Purdue University | 1 | Alan J. Perlis  
+Hebrew University of Jerusalem | 1 | Michael O. Rabin  
+Moscow State University | 1 | Tony Hoare  
+University of Copenhagen | 1 | Peter Naur  
+University of Southern California | 1 | Leonard Adleman[67]  
+National Center for Scientific Research | 1 | Joseph Sifakis  
+National Technical University of Athens | 1 | Joseph Sifakis  
+College of Engineering, Guindy | 1 | Raj Reddy  
+University of New South Wales | 1 | Raj Reddy  
+University of Warwick | 1 | Leslie Valiant  
+University of Southampton | 1 | Sir Tim Berners-Lee  
+Swiss Federal Institute of Technology in Lausanne | 1 | Joseph Sifakis  
+Swiss Federal Institute of Technology in Zürich | 1 | Niklaus Wirth  
+University of Zurich | 1 | Niklaus Wirth[68]  
+Université Laval | 1 | Niklaus Wirth[69]  
+New Jersey Institute of Technology | 1 | Judea Pearl[70]  
+Rutgers University | 1 | Judea Pearl  
+City College of New York | 1 | Robert Kahn  
+University of Colorado at Boulder | 1 | Alan Kay  
+Oregon State University | 1 | Douglas Engelbart  
+University of Missouri-Kansas City | 1 | Juris Hartmanis  
+Carleton College | 1 | Richard E. Stearns[71]  
+Seattle University | 1 | John Hopcroft[72]  
+Queen's University | 1 | Kenneth E. Iverson  
+Illinois Institute of Technology | 1 | Herbert A. Simon  
+Case Institute of Technology | 1 | Donald Knuth  
+Michigan State University | 1 | Charles Bachman  
+University of Amsterdam | 1 | Edsger W. Dijkstra  
+Leiden University | 1 | Edsger W. Dijkstra  
+University of Nebraska–Lincoln | 1 | Richard Hamming  
+University of Louisville | 1 | Richard Hamming  
+  
+## See also[edit]
+
+  * List of Nobel laureates by university affiliation
+  * List of Fields Medal winners by university affiliation
+  * List of American universities with Olympic medals
+
+## References[edit]
+
+  1. ^ _**a**_ _**b**_ _**c**_ "Barbara Liskov - A.M. Turing Award Winner". _amturing.acm.org_. Retrieved  2016-04-23. 
+  2. ^ _**a**_ _**b**_ "Butler W Lampson - A.M. Turing Award Winner". _amturing.acm.org_. Retrieved  2016-04-24. 
+  3. ^ _**a**_ _**b**_ "Charles P. Thacker - A.M. Turing Award Winner". _amturing.acm.org_. Retrieved  2016-04-24. 
+  4. ^ _**a**_ _**b**_ _**c**_ _**d**_ _**e**_ _**f**_ "Dana S Scott - A.M. Turing Award Winner". _amturing.acm.org_. Retrieved  2016-04-23. 
+  5. ^ _**a**_ _**b**_ _**c**_ "Douglas Engelbart - A.M. Turing Award Winner". _amturing.acm.org_. Retrieved  2016-04-24. 
+  6. ^ _**a**_ _**b**_ "Jim Gray - A.M. Turing Award Winner". _amturing.acm.org_. Retrieved  2016-04-24. 
+  7. **^** "Kenneth Lane Thompson - A.M. Turing Award Winner". _amturing.acm.org_. Retrieved  2016-04-24. 
+  8. ^ _**a**_ _**b**_ "Leonard M. Adleman - A.M. Turing Award Winner". _amturing.acm.org_. Retrieved  2016-04-24. 
+  9. ^ _**a**_ _**b**_ "Niklaus E. Wirth - A.M. Turing Award Winner". _amturing.acm.org_. Retrieved  2016-04-24. 
+  10. ^ _**a**_ _**b**_ _**c**_ _**d**_ "Shafi Goldwasser - A.M. Turing Award Winner". _amturing.acm.org_. Retrieved  2016-04-24. 
+  11. ^ _**a**_ _**b**_ "Silvio Micali - A.M. Turing Award Winner". _amturing.acm.org_. Retrieved  2016-04-24. 
+  12. ^ _**a**_ _**b**_ _**c**_ _**d**_ _**e**_ "Andrew C Yao - A.M. Turing Award Winner". _amturing.acm.org_. Retrieved  2016-04-24. 
+  13. ^ _**a**_ _**b**_ _**c**_ _**d**_ "Edward A Feigenbaum - A.M. Turing Award Winner". _amturing.acm.org_. Retrieved  2016-04-23. 
+  14. ^ _**a**_ _**b**_ _**c**_ _**d**_ "Manuel Blum - A.M. Turing Award Winner". _amturing.acm.org_. Retrieved  2016-04-24. 
+  15. ^ _**a**_ _**b**_ "Michael Stonebraker - A.M. Turing Award Winner". _amturing.acm.org_. Retrieved  2016-04-24. 
+  16. ^ _**a**_ _**b**_ "Richard Karp - A.M. Turing Award Winner". _amturing.acm.org_. Retrieved  2016-04-24. 
+  17. **^** "Shafi Goldwasser appointed director of the Simons Institute for the Theory of Computing". _Berkeley News_. 2017-10-10. Retrieved  2017-12-06. 
+  18. ^ _**a**_ _**b**_ "Stephen A Cook - A.M. Turing Award Winner". _amturing.acm.org_. Retrieved  2016-04-24. 
+  19. **^** "William Kahan - A.M. Turing Award Winner". _amturing.acm.org_. Retrieved  2016-04-24. 
+  20. **^** "CMU Library: Herbert Simon".  
+  21. ^ _**a**_ _**b**_ _**c**_ _**d**_ _**e**_ "Ivan Sutherland - A.M. Turing Award Winner". _amturing.acm.org_. Retrieved  2016-04-24. 
+  22. **^** "John Backus - A.M. Turing Award Winner". _amturing.acm.org_. Retrieved  2016-04-24. 
+  23. **^** "Michael O. Rabin - Curriculum Vitae" (PDF). Harvard University. Retrieved 31 March 2017. 
+  24. ^ _**a**_ _**b**_ _**c**_ _**d**_ _**e**_ "Robert E Tarjan - A.M. Turing Award Winner". _amturing.acm.org_. Retrieved  2016-04-23. 
+  25. ^ _**a**_ _**b**_ _**c**_ _**d**_ "A. J. Perlis - A.M. Turing Award Winner". _amturing.acm.org_. Retrieved  2016-04-24. 
+  26. ^ _**a**_ _**b**_ _**c**_ "Fernando J Corbato - A.M. Turing Award Winner". _amturing.acm.org_. Retrieved  2016-04-24. 
+  27. **^** "Leslie Lamport - A.M. Turing Award Winner". _amturing.acm.org_. Retrieved  2016-04-24. 
+  28. ^ _**a**_ _**b**_ "Ivan Sutherland - A.M. Turing Award Winner". _amturing.acm.org_. Retrieved  2016-04-24. 
+  29. **^** "Whitfield Diffie | Computer History Museum". _www.computerhistory.org_. Retrieved  2016-04-24. 
+  30. ^ _**a**_ _**b**_ "Adi Shamir - A.M. Turing Award Winner". _amturing.acm.org_. Retrieved  2016-04-24. 
+  31. **^** "MIT professor 'made much of our world possible '". _MIT News_. Retrieved  2016-04-24. 
+  32. ^ _**a**_ _**b**_ _**c**_ _**d**_ _**e**_ "John McCarthy - A.M. Turing Award Winner". _amturing.acm.org_. Retrieved  2016-04-23. 
+  33. ^ _**a**_ _**b**_ _**c**_ "Marvin Minsky - A.M. Turing Award Winner". _amturing.acm.org_. Retrieved  2016-04-24. 
+  34. **^** "Martin E. Hellman Home Page". _www-ee.stanford.edu_. Retrieved  2016-04-24. 
+  35. **^** "Ronald L Rivest - A.M. Turing Award Winner". _amturing.acm.org_. Retrieved  2016-04-24. 
+  36. ^ _**a**_ _**b**_ "Robert E Kahn - A.M. Turing Award Winner". _amturing.acm.org_. Retrieved  2016-04-24. 
+  37. **^** "Tim Berners-Lee wins $1 million Turing Award". _MIT News_. Retrieved  2017-04-04. 
+  38. ^ _**a**_ _**b**_ _**c**_ "Michael O. Rabin - A.M. Turing Award Winner". _amturing.acm.org_. Retrieved  2016-04-24. 
+  39. ^ _**a**_ _**b**_ _**c**_ "Allen Newell - A.M. Turing Award Winner". _amturing.acm.org_. Retrieved  2016-04-23. 
+  40. **^** "John E Hopcroft - A.M. Turing Award Winner". _amturing.acm.org_. Retrieved  2016-04-23. 
+  41. ^ _**a**_ _**b**_ _**c**_ "Raj Reddy - A.M. Turing Award Winner". _amturing.acm.org_. Retrieved  2016-04-23. 
+  42. **^** "Ronald L Rivest - A.M. Turing Award Winner". _amturing.acm.org_. Retrieved  2016-04-23. 
+  43. ^ _**a**_ _**b**_ "Vinton Cerf - A.M. Turing Award Winner". _amturing.acm.org_. Retrieved  2016-04-23. 
+  44. ^ _**a**_ _**b**_ _**c**_ "Donald E. Knuth - A.M. Turing Award Winner". _amturing.acm.org_. Retrieved  2016-04-23. 
+  45. **^** "Martin Hellman - A.M. Turing Award Winner". _amturing.acm.org_. Retrieved  2016-04-24. 
+  46. ^ _**a**_ _**b**_ "Robert W. Floyd - A.M. Turing Award Winner". _amturing.acm.org_. Retrieved  2016-04-23. 
+  47. **^** "Whitfield Diffie - A.M. Turing Award Winner". _amturing.acm.org_. Retrieved  2016-04-24. 
+  48. **^** "Alan Kay - A.M. Turing Award Winner". _amturing.acm.org_. Retrieved  2016-04-23. 
+  49. **^** "Amir Pnueli - A.M. Turing Award Winner". _amturing.acm.org_. Retrieved  2016-04-23. 
+  50. **^** "A J Milner - A.M. Turing Award Winner". _amturing.acm.org_. Retrieved  2016-04-24. 
+  51. **^** "Dennis M. Ritchie - A.M. Turing Award Winner". _amturing.acm.org_. Retrieved  2016-04-24. 
+  52. **^** "E. Allen Emerson - A.M. Turing Award Winner". _amturing.acm.org_. Retrieved  2016-04-24. 
+  53. **^** "Frederick Brooks - A.M. Turing Award Winner". _amturing.acm.org_. Retrieved  2016-04-24. 
+  54. ^ _**a**_ _**b**_ _**c**_ "Kenneth E. Iverson - A.M. Turing Award Winner". _amturing.acm.org_. Retrieved  2016-04-24. 
+  55. ^ _**a**_ _**b**_ "Edmund Clarke - A.M. Turing Award Winner". _amturing.acm.org_. Retrieved  2016-04-24. 
+  56. **^** "Herbert A. Simon - A.M. Turing Award Winner". _amturing.acm.org_. Retrieved  2016-04-24. 
+  57. **^** "Leslie G Valiant - A.M. Turing Award Winner". _amturing.acm.org_. Retrieved  2016-04-24. 
+  58. **^** "Richard E Stearns - A.M. Turing Award Winner". _amturing.acm.org_. Retrieved  2016-04-24. 
+  59. **^** "John E Hopcroft - A.M. Turing Award Winner". _amturing.acm.org_. Retrieved  2016-04-24. 
+  60. **^** "Juris Hartmanis - A.M. Turing Award Winner". _amturing.acm.org_. Retrieved  2016-04-24. 
+  61. **^** "Dana S Scott - A.M. Turing Award Winner". _amturing.acm.org_. Retrieved  2017-12-03. 
+  62. **^** http://www.cs.ox.ac.uk/news/1206-full.html
+  63. **^** "Professor Donald Knuth | Magdalen College Oxford". _www.magd.ox.ac.uk_. Retrieved  2017-12-03. 
+  64. **^** http://amturing.acm.org/award_winners/tarjan_1092048.cfm
+  65. **^** "Edmund Clarke - A.M. Turing Award Winner". Amturing.acm.org. 1945-07-27. Retrieved  2015-11-11. 
+  66. **^** "John Cocke - A.M. Turing Award Winner". Amturing.acm.org. Retrieved  2015-11-11. 
+  67. **^** "Adleman". Usc.edu. Retrieved  2013-09-21. 
+  68. **^** http://amturing.acm.org/award_winners/wirth_1025774.cfm
+  69. **^** http://amturing.acm.org/award_winners/wirth_1025774.cfm
+  70. **^** http://amturing.acm.org/award_winners/pearl_2658896.cfm
+  71. **^** http://amturing.acm.org/award_winners/stearns_1081900.cfm
+  72. **^** http://amturing.acm.org/award_winners/hopcroft_1053917.cfm
+
+Retrieved from
+"https://en.wikipedia.org/w/index.php?title=List_of_Turing_Award_laureates_by_university_affiliation&oldid=813987665"
+
+Categories:
+
+  * Turing Award laureates
+  * Lists of people by university or college
+
+## Navigation menu
+
+### Personal tools
+
+  * Not logged in
+  * Talk
+  * Contributions
+  * Create account
+  * Log in
+
+### Namespaces
+
+  * Article
+  * Talk
+
+###  Variants
+
+### Views
+
+  * Read
+  * Edit
+  * View history
+
+### More
+
+###  Search
+
+### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+  * Donate to Wikipedia
+  * Wikipedia store
+
+### Interaction
+
+  * Help
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact page
+
+### Tools
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Permanent link
+  * Page information
+  * Wikidata item
+  * Cite this page
+
+### Print/export
+
+  * Create a book
+  * Download as PDF
+  * Printable version
+
+### Languages
+
+Add links
+
+  * This page was last edited on 6 December 2017, at 08:25.
+  * Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+  * Contact Wikipedia
+  * Developers
+  * Cookie statement
+  * Mobile view
+
+  *   * 
+
+  *[FBS]: Football Bowl Subdivision
+  *[FCS]: Football Championship Subdivision
+  *[e]: Edit this template
+  *[c.]: circa
+  *[m.]: married
+  *[Pop.]: Population
+  *[ v]: View this template
+  *[t]: Discuss this template
+  *[v]: View this template
+  *[1887]: April 22, 1887
+  *[±%]: Percent change
+  *[%±]: Percent change
+

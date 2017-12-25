@@ -1,7 +1,0 @@
-The Audio Home Recording Act of 1992 (AHRA) amended the United States copyright law by adding Chapter 10, "Digital Audio Recording Devices and Media". The act enabled the release of recordable digital formats such as Sony and Philips' Digital Audio Tape without fear of contributory infringement lawsuits.
-The RIAA and music publishers, concerned that consumers' ability to make perfect digital copies of music would destroy the market for audio recordings, had threatened to sue companies and had lobbied Congress to pass legislation imposing mandatory copy protection technology and royalties on devices and media.
-The AHRA establishes a number of important precedents in US copyright law that defined the debate between device makers and the content industry for the ensuing two decades. These include:
-the first government technology mandate in the copyright law, requiring all digital audio recording devices sold, manufactured or imported in the US (excluding professional audio equipment) to include the Serial Copy Management System (SCMS).
-the first anti-circumvention provisions in copyright law, later applied on a much broader scale by the Digital Millennium Copyright Act.
-the first government-imposed royalties on devices and media, a portion of which is paid to the record industry directly.
-The Act also includes blanket protection from infringement actions for private, non-commercial analog audio copying, and for digital audio copies made with certain kinds of digital audio recording technology.

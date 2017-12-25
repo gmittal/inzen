@@ -1,5 +1,0 @@
-CD/DVD copy protection is a blanket term for various methods of copy protection for CDs and DVDs. Such methods include DRM, CD-checks, Dummy Files, illegal tables of contents, over-sizing or over-burning the CD, physical errors and bad sectors. Many protection schemes rely on breaking compliance with CD and DVD standards, leading to playback problems on some devices.
-Protection schemes rely on distinctive features that:
-can be applied to a medium during the manufacturing process, so that a protected medium is distinguishable from an unprotected one.
-cannot be faked, copied, or retroactively applied to an unprotected medium using typical hardware and software.
-

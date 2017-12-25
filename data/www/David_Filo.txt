@@ -1,1 +1,0 @@
-David Filo (born April 20, 1966) is an American businessman and the co-founder of Yahoo! with Jerry Yang. His Filo Server Program, written in the C programming language, was the server-side software used to dynamically serve variable web pages, called Filo Server Pages, on visits to early versions of the Yahoo! website.

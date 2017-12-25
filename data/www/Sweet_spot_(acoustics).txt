@@ -1,4 +1,0 @@
-The sweet spot is a term used by audiophiles and recording engineers to describe the focal point between two speakers, where an individual is fully capable of hearing the stereo audio mix the way it was intended to be heard by the mixer. In the case of surround sound, this is the focal point between four or more speakers.
-Different static methods exist to broaden the area of the "sweet spot". A discussion can be found in Merchel et al.
-Alternatively, the "sweet spot" can be adjusted dynamically to the actual position of the listener. Therefore, a correct phantom source localization is possible over the whole listening area. This approach is implemented in the open source project SweetSpotter.
-Sound engineers also refer to the "sweet spot" of any noise-producing body that may be captured with a microphone. Every individual instrument has its own sweet spot, the perfect location to place the microphone or microphones, in order to obtain the best sound.

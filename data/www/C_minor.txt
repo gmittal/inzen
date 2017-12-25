@@ -1,3 +1,0 @@
-C minor (abbreviated c or Cm) is a minor scale based on C, consisting of the pitches C, D, E♭, F, G, A♭, and B♭. The harmonic minor raises the B♭ to B♮. Changes needed for the melodic and harmonic versions of the scale are written in with naturals and accidentals as necessary.
-Its key signature consists of three flats. Its relative major is E-flat major, and its parallel major is C major.
-

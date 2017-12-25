@@ -1,0 +1,670 @@
+
+
+# Decision theory
+
+From Wikipedia, the free encyclopedia
+
+  (Redirected from Decision science)
+
+Jump to: navigation, search
+
+**Decision theory** (or the **theory of choice** ) is the study of the
+reasoning underlying an agent's choices.[1] Decision theory can be broken into
+two branches: normative decision theory, which gives advice on how to make the
+best decisions, given a set of uncertain beliefs and a set of values; and
+descriptive decision theory, which analyzes how existing, possibly irrational
+agents actually make decisions.
+
+Closely related to the field of game theory,[2] decision theory is concerned
+with the choices of individual agents whereas game theory is concerned with
+interactions of agents whose decisions affect each other. Decision theory is
+an interdisciplinary topic, studied by economists, statisticians,
+psychologists, biologists,[3] political and other social scientists,
+philosophers,[4] and computer scientists.
+
+Empirical applications of this rich theory are usually done with the help of
+statistical and econometric methods, especially via the so-called choice
+models, such as probit and logit models. Estimation of such models is usually
+done via parametric, semi-parametric and non-parametric maximum likelihood
+methods.[5]
+
+## Contents
+
+  * 1 Normative and descriptive
+  * 2 What kinds of decisions need a theory?
+    * 2.1 Choice under uncertainty
+    * 2.2 Intertemporal choice
+    * 2.3 Interaction of decision makers
+    * 2.4 Complex decisions
+  * 3 Heuristics
+  * 4 Alternatives
+    * 4.1 Probability theory
+    * 4.2 Alternatives to probability theory
+    * 4.3 Ludic fallacy
+  * 5 See also
+  * 6 References
+  * 7 Further reading
+
+## Normative and descriptive[edit]
+
+Normative or prescriptive decision theory is concerned with identifying the
+best decision to make, modelling an ideal decision maker who is able to
+compute with perfect accuracy and is fully rational. The practical application
+of this prescriptive approach (how people _ought to_ make decisions) is called
+decision analysis, and is aimed at finding tools, methodologies and software
+(decision support systems) to help people make better decisions.
+
+In contrast, positive or descriptive decision theory is concerned with
+describing observed behaviors under the assumption that the decision-making
+agents are behaving under some consistent rules. These rules may, for
+instance, have a procedural framework (e.g. Amos Tversky's elimination by
+aspects model) or an axiomatic framework, reconciling the Von Neumann-
+Morgenstern axioms with behavioral violations of the expected utility
+hypothesis, or they may explicitly give a functional form for time-
+inconsistent utility functions (e.g. Laibson's quasi-hyperbolic discounting).
+
+The prescriptions or predictions about behaviour that positive decision theory
+produces allow for further tests of the kind of decision-making that occurs in
+practice. There is a thriving dialogue with experimental economics, which uses
+laboratory and field experiments to evaluate and inform theory. In recent
+decades, there has also been increasing interest in what is sometimes called
+"behavioral decision theory" and this has contributed to a re-evaluation of
+what rational decision-making requires.[6]
+
+## What kinds of decisions need a theory?[edit]
+
+### Choice under uncertainty[edit]
+
+For more details on this topic, see Expected utility hypothesis.
+
+The area of choice under uncertainty represents the heart of decision theory.
+Known from the 17th century (Blaise Pascal invoked it in his famous wager,
+which is contained in his _Pensées_ , published in 1670), the idea of expected
+value is that, when faced with a number of actions, each of which could give
+rise to more than one possible outcome with different probabilities, the
+rational procedure is to identify all possible outcomes, determine their
+values (positive or negative) and the probabilities that will result from each
+course of action, and multiply the two to give an "expected value", or the
+average expectation for an outcome; the action to be chosen should be the one
+that gives rise to the highest total expected value. In 1738, Daniel Bernoulli
+published an influential paper entitled _Exposition of a New Theory on the
+Measurement of Risk_ , in which he uses the St. Petersburg paradox to show
+that expected value theory must be normatively wrong. He gives an example in
+which a Dutch merchant is trying to decide whether to insure a cargo being
+sent from Amsterdam to St Petersburg in winter. In his solution, he defines a
+utility function and computes expected utility rather than expected financial
+value (see[7] for a review).
+
+In the 20th century, interest was reignited by Abraham Wald's 1939 paper[8]
+pointing out that the two central procedures of sampling-distribution-based
+statistical-theory, namely hypothesis testing and parameter estimation, are
+special cases of the general decision problem. Wald's paper renewed and
+synthesized many concepts of statistical theory, including loss functions,
+risk functions, admissible decision rules, antecedent distributions, Bayesian
+procedures, and minimax procedures. The phrase "decision theory" itself was
+used in 1950 by E. L. Lehmann.[9]
+
+The revival of subjective probability theory, from the work of Frank Ramsey,
+Bruno de Finetti, Leonard Savage and others, extended the scope of expected
+utility theory to situations where subjective probabilities can be used. At
+the time, von Neumann and Morgenstern theory of expected utility[10] proved
+that expected utility maximization followed from basic postulates about
+rational behavior.
+
+Daniel Kahneman
+
+The work of Maurice Allais and Daniel Ellsberg showed that human behavior has
+systematic and sometimes important departures from expected-utility
+maximization. The prospect theory of Daniel Kahneman and Amos Tversky renewed
+the empirical study of economic behavior with less emphasis on rationality
+presuppositions. Kahneman and Tversky found three regularities – in actual
+human decision-making, "losses loom larger than gains"; persons focus more on
+_changes_ in their utility-states than they focus on absolute utilities; and
+the estimation of subjective probabilities is severely biased by anchoring.
+
+###  Intertemporal choice[edit]
+
+Main article: Intertemporal choice
+
+Intertemporal choice is concerned with the kind of choice where different
+actions lead to outcomes that are realised at different points in time. If
+someone received a windfall of several thousand dollars, they could spend it
+on an expensive holiday, giving them immediate pleasure, or they could invest
+it in a pension scheme, giving them an income at some time in the future. What
+is the optimal thing to do? The answer depends partly on factors such as the
+expected rates of interest and inflation, the person's life expectancy, and
+their confidence in the pensions industry. However even with all those factors
+taken into account, human behavior again deviates greatly from the predictions
+of prescriptive decision theory, leading to alternative models in which, for
+example, objective interest rates are replaced by subjective discount rates.
+
+### Interaction of decision makers[edit]
+
+Some decisions are difficult because of the need to take into account how
+other people in the situation will respond to the decision that is taken. The
+analysis of such social decisions is more often treated under the label of
+game theory, rather than decision theory, though it involves the same
+mathematical methods. From the standpoint of game theory most of the problems
+treated in decision theory are one-player games (or the one player is viewed
+as playing against an impersonal background situation). In the emerging socio-
+cognitive engineering, the research is especially focused on the different
+types of distributed decision-making in human organizations, in normal and
+abnormal/emergency/crisis situations.[11]
+
+### Complex decisions[edit]
+
+Other areas of decision theory are concerned with decisions that are difficult
+simply because of their complexity, or the complexity of the organization that
+has to make them. Individuals making decisions may be limited in resources or
+are boundedly rational (have finite time or intelligence); in such cases the
+issue, more than the deviation between real and optimal behaviour, is the
+difficulty of determining the optimal behaviour in the first place. One
+example is the model of economic growth and resource usage developed by the
+Club of Rome to help politicians make real-life decisions in complex
+situations[ _citation needed_ ]. Decisions are also affected by whether
+options are framed together or separately; this is known as the distinction
+bias.
+
+## Heuristics[edit]
+
+Main article: Heuristic
+
+The heuristic approach to decision-making makes decisions based on routine
+thinking, which, while quicker than step-by-step processing, opens the risk of
+introducing inaccuracies, mistakes and fallacies, which may be easily
+disproved in a step-by-step process of thinking.[12] One example of common and
+incorrect thought process is the gambler's fallacy, or believing that a random
+event is affected by previous random events (truth is, there is a fifty
+percent chance of a coin landing on heads even after a long sequence of
+tails). Another example is that decision-makers may be biased towards
+preferring moderate alternatives to extreme ones; the "Compromise Effect"
+operates under a mindset driven by the belief that the most moderate option,
+amid extremes, carries the most benefits from each extreme.[13]
+
+## Alternatives[edit]
+
+A highly controversial issue is whether one can replace the use of probability
+in decision theory by other alternatives.
+
+### Probability theory[edit]
+
+Advocates for the use of probability theory point to:
+
+  * the work of Richard Threlkeld Cox for justification of the probability axioms,
+  * the Dutch book paradoxes of Bruno de Finetti as illustrative of the theoretical difficulties that can arise from departures from the probability axioms, and
+  * the complete class theorems, which show that all admissible decision rules are equivalent to the Bayesian decision rule for some utility function and some prior distribution (or for the limit of a sequence of prior distributions). Thus, for every decision rule, either the rule may be reformulated as a Bayesian procedure (or a limit of a sequence of such), or there is a rule that is sometimes better and never worse.
+
+### Alternatives to probability theory[edit]
+
+The proponents of fuzzy logic, possibility theory, quantum cognition,
+Dempster–Shafer theory, and info-gap decision theory maintain that probability
+is only one of many alternatives and point to many examples where non-standard
+alternatives have been implemented with apparent success; notably,
+probabilistic decision theory is sensitive to assumptions about the
+probabilities of various events, while non-probabilistic rules such as minimax
+are robust, in that they do not make such assumptions.
+
+### Ludic fallacy[edit]
+
+Main article: Ludic fallacy
+
+A general criticism of decision theory based on a fixed universe of
+possibilities is that it considers the "known unknowns", not the "unknown
+unknowns"[ _citation needed_ ]: it focuses on expected variations, not on
+unforeseen events, which some argue (as in black swan theory) have outsized
+impact and must be considered – significant events may be "outside model".
+This line of argument, called the ludic fallacy, is that there are inevitable
+imperfections in modeling the real world by particular models, and that
+unquestioning reliance on models blinds one to their limits.
+
+## See also[edit]
+
+| Wikiquote has quotations related to: _**Decision theory**_  
+---|---  
+  
+  * Bayesian statistics
+  * Causal decision theory
+  * Choice modelling
+  * Constraint satisfaction
+  * Decision making
+  * Evidential decision theory
+  * Game theory
+  * Multi-criteria decision making
+  * Operations research
+  * Optimal decision
+  * Decision quality
+  * Preference (economics)
+  * Quantum cognition
+  * Rationality
+  * Secretary problem
+  * Signal detection theory
+  * Small-numbers game
+  * Stochastic dominance
+  * Two envelopes problem
+
+##  References[edit]
+
+  1. **^** Steele, Katie and Stefánsson, H. Orri, "Decision Theory", The Stanford Encyclopedia of Philosophy (Winter 2015 Edition), Edward N. Zalta (ed.), URL = [1]
+  2. **^** Myerson, Roger B. (1991). "1.2: Basic concepts of Decision Theory". _Game theory analysis of conflict_. Cambridge, Mass.: Harvard University Press. ISBN 9780674728615.  
+  3. **^** Habibi, Iman; Cheong, Raymond; Lipniacki, Tomasz; Levchenko, Andre; Emamian, Effat S.; Abdi, Ali (2017-04-05). "Computation and measurement of cell decision making errors using single cell data". _PLOS Computational Biology_. **13** (4): e1005436. doi:10.1371/journal.pcbi.1005436. ISSN 1553-7358.  
+  4. **^** Hansson, Sven Ove. "Decision theory: A brief introduction." (2005) Section 1.2: A truly interdisciplinary subject.
+  5. **^** Park, Byeong U.; Simar, Léopold; Zelenyuk, Valentin (2017). "Nonparametric estimation of dynamic discrete choice models for time series data". _Computational Statistics & Data Analysis_. **108** : 97–120. doi:10.1016/j.csda.2016.10.024. 
+  6. **^** For instance, see: Anand, Paul (1993). _Foundations of Rational Choice Under Risk_. Oxford: Oxford University Press. ISBN 0-19-823303-5.  
+  7. **^** Schoemaker, P. J. H. (1982). "The Expected Utility Model: Its Variants, Purposes, Evidence and Limitations". _Journal of Economic Literature_. **20** : 529–563. 
+  8. **^** Wald, Abraham (1939). "Contributions to the Theory of Statistical Estimation and Testing Hypotheses". _Annals of Mathematical Statistics_. **10** (4): 299–326. doi:10.1214/aoms/1177732144. MR 0000932.  
+  9. **^** Lehmann, E. L. (1950). "Some Principles of the Theory of Testing Hypotheses". _Annals of Mathematical Statistics_. **21** (1): 1–26. doi:10.1214/aoms/1177729884. JSTOR 2236552.  
+  10. **^** Neumann, John von; Morgenstern, Oskar (1953) [1944]. _Theory of Games and Economic Behavior (Third ed.)_. Princeton, NJ: Princeton University Press.  
+  11. **^** Crozier, M. & Friedberg, E. 1995. "Organization and Collective Action. Our Contribution to Organizational Analysis" in Bacharach S.B, Gagliardi P. & Mundell P. (Eds). Research in the Sociology of Organizations. Vol. XIII, Special Issue on European Perspectives of Organizational Theory, Greenwich, CT: JAI Press.
+  12. **^** Johnson, E. J.; Payne, J. W. (1985). "EFFORT AND ACCURACY IN CHOICE". _Management Science_. **31** (4): 395–414. doi:10.1287/mnsc.31.4.395.  
+  13. **^** Roe, R. M.; Busemeyer, J. R.; Townsend, J. T. (2001). "Multialternative decision field theory: A dynamic connectionist model of decision making". _Psychological Review_. **108** (2): 370–392. doi:10.1037/0033-295X.108.2.370.  
+
+## Further reading[edit]
+
+  * Akerlof, George A.; Yellen, Janet L. (May 1987). "Rational Models of Irrational Behavior". **77** (2): 137–142.  
+  * Anand, Paul (1993). _Foundations of Rational Choice Under Risk_. Oxford: Oxford University Press. ISBN 0-19-823303-5.   ( _an overview of the philosophical foundations of key mathematical axioms in subjective expected utility theory – mainly normative_ )
+  * Arthur, W. Brian (May 1991). "Designing Economic Agents that Act like Human Agents: A Behavioral Approach to Bounded Rationality". _The American Economic Review_. **81** (2): 353–9.  
+  * Berger, James O. (1985). _Statistical decision theory and Bayesian Analysis_ (2nd ed.). New York: Springer-Verlag. ISBN 0-387-96098-8. MR 0804611.  
+  * Bernardo, José M.; Smith, Adrian F. M. (1994). _Bayesian Theory_. Wiley. ISBN 0-471-92416-4. MR 1274699.  
+  * Clemen, Robert; Reilly, Terence (2014). _Making Hard Decisions with DecisionTools: An Introduction to Decision Analysis_ (3rd ed.). Stamford CT: Cengage. ISBN 0-538-79757-6.   _(covers normative decision theory)_
+  * De Groot, Morris, _Optimal Statistical Decisions_. Wiley Classics Library. 2004. (Originally published 1970.) ISBN 0-471-68029-X.
+  * Goodwin, Paul; Wright, George (2004). _Decision Analysis for Management Judgment_ (3rd ed.). Chichester: Wiley. ISBN 0-470-86108-8.   _(covers both normative and descriptive theory)_
+  * Hansson, Sven Ove. "Decision Theory: A Brief Introduction" (PDF). Archived from the original (PDF) on July 5, 2006. 
+  * Khemani, Karan, Ignorance is Bliss: A study on how and why humans depend on recognition heuristics in social relationships, the equity markets and the brand market-place, thereby making successful decisions, 2005.
+  * Leach, Patrick (2006). _Why Can't You Just Give Me the Number? An Executive's Guide to Using Probabilistic Thinking to Manage Risk and to Make Better Decisions_. Probabilistic. ISBN 0-9647938-5-7.   A rational presentation of probabilistic analysis.
+  * Miller L (1985). "Cognitive risk-taking after frontal or temporal lobectomy—I. The synthesis of fragmented visual information". _Neuropsychologia_. **23** (3): 359–69. doi:10.1016/0028-3932(85)90022-3. PMID 4022303.  
+  * Miller L, Milner B (1985). "Cognitive risk-taking after frontal or temporal lobectomy—II. The synthesis of phonemic and semantic information". _Neuropsychologia_. **23** (3): 371–9. doi:10.1016/0028-3932(85)90023-5. PMID 4022304.  
+  * North, D.W. (1968). "A tutorial introduction to decision theory". _IEEE Transactions on Systems Science and Cybernetics_. **4** (3): 200–210. doi:10.1109/TSSC.1968.300114.   Reprinted in Shafer & Pearl. _(also about normative decision theory)_
+  * Peterson, Martin (2009). _An Introduction to Decision Theory_. Cambridge University Press. ISBN 978-0-521-71654-3.  
+  * Raiffa, Howard (1997). _Decision Analysis: Introductory Lectures on Choices Under Uncertainty_. McGraw Hill. ISBN 0-07-052579-X.  
+  * Robert, Christian (2007). _The Bayesian Choice_ (2nd ed.). New York: Springer. doi:10.1007/0-387-71599-1. ISBN 0-387-95231-4. MR 1835885.  
+  * Shafer, Glenn; Pearl, Judea, eds. (1990). _Readings in uncertain reasoning_. San Mateo, CA: Morgan Kaufmann.  
+  * Smith, J.Q. (1988). _Decision Analysis: A Bayesian Approach_. Chapman and Hall. ISBN 0-412-27520-1.  
+  * Charles Sanders Peirce and Joseph Jastrow (1885). "On Small Differences in Sensation". _Memoirs of the National Academy of Sciences_. **3** : 73–83.  http://psychclassics.yorku.ca/Peirce/small-diffs.htm
+  * Ramsey, Frank Plumpton; "Truth and Probability" (PDF), Chapter VII in _The Foundations of Mathematics and other Logical Essays_ (1931).
+  * de Finetti, Bruno (September 1989). "Probabilism: A Critical Essay on the Theory of Probability and on the Value of Science". _Erkenntnis_. **31**.   (translation of 1931 article)
+  * de Finetti, Bruno (1937). "La Prévision: ses lois logiques, ses sources subjectives". _Annales de l'Institut Henri Poincaré_.  
+
+    de Finetti, Bruno. "Foresight: its Logical Laws, Its Subjective Sources," (translation of the 1937 article in French) in H. E. Kyburg and H. E. Smokler (eds), _Studies in Subjective Probability,_ New York: Wiley, 1964.
+
+  * de Finetti, Bruno. _Theory of Probability_ , (translation by AFM Smith of 1970 book) 2 volumes, New York: Wiley, 1974-5.
+  * Donald Davidson, Patrick Suppes and Sidney Siegel (1957). _Decision-Making: An Experimental Approach_. Stanford University Press.  
+  * Pfanzagl, J (1967). "Morgenstern". In Martin Shubik. _Essays in Mathematical Economics In Honor of Oskar Morgenstern_. Princeton University Press. pp.  237–251. 
+  * Pfanzagl, J. in cooperation with V. Baumann and H. Huber (1968). "Events, Utility and Subjective Probability". _Theory of Measurement_. Wiley. pp.  195–220. 
+  * Morgenstern, Oskar (1976). "Some Reflections on Utility". In Andrew Schotter. _Selected Economic Writings of Oskar Morgenstern_. New York University Press. pp.  65–70. ISBN 0-8147-7771-6. 
+  * Non-Robust Models in Statistics by Lev B. Klebanov, Svetlozat T. Rachev and Frank J. Fabozzi, Nova Scientific Publishers, Inc. New York, 2009.
+
+  * v
+  * t
+  * e
+
+Decision theory paradoxes  
+  
+---  
+  
+  * Abilene
+  * Apportionment
+  * Arrow's
+  * Buridan's ass
+  * Chainstore
+  * Condorcet's
+  * Decision-making
+  * Downs
+  * Ellsberg
+  * Fenno's
+  * Fredkin's
+  * Green
+  * Hedgehog's
+  * Inventor's
+  * Kavka's toxin puzzle
+  * Morton's fork
+  * Navigation
+  * Newcomb's
+  * Parrondo's
+  * Prevention
+  * Prisoner's dilemma
+  * Tolerance
+  * Willpower
+
+|  
+  
+List of paradoxes  
+  
+  * v
+  * t
+  * e
+
+Industrial and applied mathematics  
+  
+---  
+Computational |
+
+  * Computational logic
+  * Algorithms
+    * design
+    * analysis
+  * Information theory
+  * Coding theory
+  * Cryptography
+
+  
+  
+Discrete |
+
+  * Computer algebra
+  * Computational number theory
+  * Combinatorics
+  * Graph theory
+  * Discrete geometry
+
+  
+  
+Mathematical  
+physics |
+
+| Algebraic |
+
+  * Operator algebra
+  * Representation theory
+  * Renormalization group
+  * Feynman integral
+  * M-theory
+
+  
+  
+---|---  
+Analytic |
+
+  * Differential geometry
+  * Fourier analysis
+  * Harmonic analysis
+  * Functional analysis
+  * Operator theory
+
+  
+  
+Analysis |
+
+  * Approximation theory
+  * Numerical analysis
+  * Differential equations
+  * Dynamical systems
+  * Control theory
+  * Variational calculus
+
+  
+  
+Probability theory |
+
+  * Distributions (random variables)
+  * Stochastic processes / analysis
+  * Path integral
+  * Stochastic variational calculus
+
+  
+  
+Decision sciences |
+
+  * Statistics
+  * Operations research
+  * Optimization
+  * Game theory
+  * Mathematical economics
+  * Mathematical finance
+
+  
+  
+Other applications |
+
+  * Biology
+  * Chemistry
+  * Psychology
+  * Sociology
+  * "The Unreasonable Effectiveness of Mathematics in the Natural Sciences"
+
+  
+  
+  * **Category**
+  * Mathematics portal / outline / topics list
+
+  
+  
+  * v
+  * t
+  * e
+
+Subfields of and scientists involved in cybernetics  
+  
+---  
+Subfields |
+
+  * Polycontexturality
+  * Second-order cybernetics
+  * Catastrophe theory
+  * Connectionism
+  * Control theory
+  * Decision theory
+  * Information theory
+  * Semiotics
+  * Synergetics
+  * Biological cybernetics
+  * Biosemiotics
+  * Biomedical cybernetics
+  * Biorobotics
+  * Computational neuroscience
+  * Homeostasis
+  * Management cybernetics
+  * Medical cybernetics
+  * Neurocybernetics
+  * Sociocybernetics
+  * Emergence
+  * Artificial intelligence
+
+  
+  
+Cyberneticists |
+
+  * Maleyka Abbaszadeh
+  * Igor Aleksander
+  * William Ross Ashby
+  * Gregory Bateson
+  * Anthony Stafford Beer
+  * Natalia Bekhtereva
+  * Claude Bernard
+  * Ludwig von Bertalanffy
+  * Valentin Braitenberg
+  * Gordon S. Brown
+  * Walter Bradford Cannon
+  * Manfred Clynes
+  * Heinz von Foerster
+  * Charles François
+  * Jay Wright Forrester
+  * Jacque Fresco
+  * Buckminster Fuller
+  * Ranulph Glanville
+  * Ernst von Glasersfeld
+  * Pyotr Grigorenko
+  * N. Katherine Hayles
+  * Francis Heylighen
+  * Erich von Holst
+  * Jason Jixuan Hu
+  * Cliff Joslyn
+  * Stuart Kauffman
+  * Sergei P. Kurdyumov
+  * Allenna Leonard
+  * Niklas Luhmann
+  * Warren McCulloch
+  * Humberto Maturana
+  * Margaret Mead
+  * Ulla Mitzdorf
+  * Talcott Parsons
+  * Gordon Pask
+  * Walter Pitts
+  * Alfred Radcliffe-Brown
+  * Robert Trappl
+  * Valentin Turchin
+  * Jakob von Uexküll
+  * Francisco Varela
+  * Frederic Vester
+  * Charles Geoffrey Vickers
+  * Stuart Umpleby
+  * John N. Warfield
+  * William Grey Walter
+  * Kevin Warwick
+  * Norbert Wiener
+  * Jennifer Wilby
+  * Anthony Wilden
+
+  
+  
+Authority control |
+
+  * GND: 4138606-1
+
+  
+  
+---|---  
+  
+Retrieved from
+"https://en.wikipedia.org/w/index.php?title=Decision_theory&oldid=809452396"
+
+Categories:
+
+  * Decision theory
+  * Statistical inference
+  * Economics of uncertainty
+  * Risk
+  * Control theory
+  * Formal sciences
+  * Epistemology of science
+  * Mathematical and quantitative methods (economics)
+
+Hidden categories:
+
+  * All articles with unsourced statements
+  * Articles with unsourced statements from January 2010
+  * Articles with unsourced statements from July 2017
+  * Wikipedia articles with GND identifiers
+
+## Navigation menu
+
+### Personal tools
+
+  * Not logged in
+  * Talk
+  * Contributions
+  * Create account
+  * Log in
+
+### Namespaces
+
+  * Article
+  * Talk
+
+###  Variants
+
+### Views
+
+  * Read
+  * Edit
+  * View history
+
+### More
+
+###  Search
+
+### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+  * Donate to Wikipedia
+  * Wikipedia store
+
+### Interaction
+
+  * Help
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact page
+
+### Tools
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Permanent link
+  * Page information
+  * Wikidata item
+  * Cite this page
+
+### Print/export
+
+  * Create a book
+  * Download as PDF
+  * Printable version
+
+### In other projects
+
+  * Wikimedia Commons
+  * Wikiquote
+
+### Languages
+
+  * العربية
+  * Català
+  * Deutsch
+  * Español
+  * Français
+  * Gaeilge
+  * 한국어
+  * Ido
+  * Bahasa Indonesia
+  * עברית
+  * Nederlands
+  * 日本語
+  * Polski
+  * Português
+  * Русский
+  * Simple English
+  * Slovenčina
+  * Српски / srpski
+  * Basa Sunda
+  * Suomi
+  * Svenska
+  * Türkçe
+  * Українська
+  * Tiếng Việt
+  * 中文
+
+Edit links
+
+  * This page was last edited on 9 November 2017, at 05:18.
+  * Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+  * Contact Wikipedia
+  * Developers
+  * Cookie statement
+  * Mobile view
+
+  *   * 
+
+  *[FBS]: Football Bowl Subdivision
+  *[FCS]: Football Championship Subdivision
+  *[e]: Edit this template
+  *[c.]: circa
+  *[m.]: married
+  *[Pop.]: Population
+  *[ v]: View this template
+  *[t]: Discuss this template
+  *[v]: View this template
+  *[1887]: April 22, 1887
+  *[±%]: Percent change
+  *[%±]: Percent change
+

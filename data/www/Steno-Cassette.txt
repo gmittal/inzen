@@ -1,2 +1,0 @@
-The Steno-Cassette is an analog cassette format for dictation, introduced by Grundig in 1971. It gained widespread use in Germany, where it was established as a DIN standard (DIN 32750) in 1985. It is easily distinguished from other dictation cassette formats (such as the Microcassette) by the integrated tape counter index, showing the amount of tape available.
-

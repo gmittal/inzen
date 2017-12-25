@@ -1,2 +1,0 @@
-n-Track Studio by n-Track Software is a multitrack audio editing, digital audio workstation (DAW) program for Microsoft Windows and OS X.
-n-Track Studio's capabilities include unlimited audio and MIDI tracks, up to 192kHz 24-bit high-definition (HD DVD, Blu-ray, etc.) audio recording, extensive plug-in support, and DVD-Video surround mixing up to 7.1 channel. It has native support for 64-bit CPU architecture computer systems.

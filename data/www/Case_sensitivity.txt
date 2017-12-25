@@ -1,6 +1,0 @@
-Text sometimes exhibits case sensitivity; that is, words can differ in meaning, or can be distinguished in a computer search, based on differing use of capital and lowercase letters. Words usually mean the same when written with capital and with lowercase letters, but not always; for example:
-The first name of former U.S. president Clinton is Bill; he could have signed a legislative bill.
-A Polish person can use polish to clean or shine something.
-In food, the Calorie, with a capital C, is sometimes used to denote 1000 calories of energy, a kilocalorie. However, the distinction between Calorie and calorie is often not maintained in practice.
-Many acronyms which are the same as words are written with capital letters: basic is similar to fundamental, while BASIC is the Beginner's All-purpose Symbolic Instruction Code, a computer language.
-The opposite term of "case-sensitive" is "case-insensitive".

@@ -1,11 +1,23 @@
 from __future__ import unicode_literals
 import requests, urllib2, json
 from bs4 import BeautifulSoup
+import html2text
+h = html2text.HTML2Text()
+h.ignore_links = True
+h.ignore_images = True
 
 q = []
 
 def crawl(u):
-    parsed_html = BeautifulSoup(requests.get('https://en.wikipedia.org/wiki/'+u).text, "lxml")
+    if not u == None:
+        print u
+    r = requests.get('https://en.wikipedia.org/wiki/'+u).text
+    parsed_html = BeautifulSoup(r, "lxml")
+    text = h.handle(r).encode('utf-8')
+    f = open("data/www/"+ u +".txt","w")
+    f.write(text)
+    f.close()
+    
     for link in parsed_html.find_all('a'):
         try:
             n = str(link.get('href')).split('/')[-1].encode('utf-8').strip()
@@ -25,21 +37,10 @@ def crawl(u):
 def dl():
     while len(q) > 0:
         o = q[0]
-        r = urllib2.urlopen('https://en.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro=&explaintext=&titles='+urllib2.quote(o))
         q.pop(0)
-        d = json.load(r)
-        try:
-            for x in d["query"]["pages"]:
-                s = d["query"]["pages"][x]["extract"].encode('utf-8')
-                f = open("data/www/"+ o +".txt","w")
-                f.write(s)
-                f.close()
-            crawl(o)
-        except KeyError:
-            crawl(q[0])
-
+        crawl(o)
 
 if __name__ == "__main__":
     print "Crawling Wikipedia..."
-    crawl('Kind_of_Blue') # Seed page
+    crawl('Carnegie_Mellon_University') # Seed page
     dl()

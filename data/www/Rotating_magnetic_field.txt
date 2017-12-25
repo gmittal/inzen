@@ -1,2 +1,0 @@
-A rotating magnetic field is a magnetic field that has moving polarities in which its opposite poles rotate about a central point or axis. Ideally the rotation changes direction at a constant angular rate. This is a key principle in the operation of the alternating-current motor.
-Rotating magnetic fields are often utilized for electromechanical applications such as induction motors and electric generators. However, they are also used in purely electrical applications such as induction regulators.

@@ -1,0 +1,498 @@
+
+
+# Randy Pausch
+
+From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+Randy Pausch  
+---  
+  
+Dr. Randy Pausch  
+  
+Born | Randolph Frederick Pausch  
+(1960-10-23)October 23, 1960  
+Baltimore, Maryland  
+Died | July 25, 2008(2008-07-25) (aged 47)  
+Chesapeake, Virginia  
+Cause of death | Pancreatic cancer  
+Nationality | American  
+Citizenship | American  
+Alma mater | Carnegie Mellon University  
+Known for | Creator of Alice software project  
+Cofounder of CMU's Entertainment Technology Center  
+Virtual Reality Research with Disney Imagineers  
+Inspirational speeches regarding life  
+#1 best-selling book  
+Battle with cancer  
+Spouse(s) | Jai Glasgow  
+Children | Dylan Pausch  
+Logan Pausch  
+Chloe Pausch  
+Awards | Karl V. Karlstrom Outstanding Educator Award  
+ACM Special Interest Group on Computer Science Education  
+Award for Outstanding Contributions to Computer Science Education  
+Fellow of the ACM  
+_Time'_ s Time 100[1]  
+**Scientific career**  
+Fields | Computer science  
+Human Computer Interaction  
+Institutions | Carnegie Mellon University  
+University of Virginia  
+Doctoral advisor | Alfred Spector  
+  
+**Randolph Frederick Pausch**[3] (October 23, 1960  – July 25, 2008) was an
+American professor of computer science, human–computer interaction, and design
+at Carnegie Mellon University (CMU) in Pittsburgh, Pennsylvania.
+
+Pausch learned that he had pancreatic cancer in September 2006, and in August
+2007, he was given a terminal diagnosis: "3 to 6 months of good health left".
+He gave an upbeat lecture titled "The Last Lecture: Really Achieving Your
+Childhood Dreams" on September 18, 2007, at Carnegie Mellon, which became a
+popular YouTube video and led to other media appearances. He then co-authored
+a book called _The Last Lecture_ on the same theme, which became a _New York
+Times_ best-seller.
+
+Pausch died of complications from pancreatic cancer on July 25, 2008.
+
+## Contents
+
+  * 1 Early life
+  * 2 Computer science career
+  * 3 Cancer and death
+  * 4 "Really Achieving Your Childhood Dreams"
+    * 4.1 _The Last Lecture_
+    * 4.2 Media coverage
+    * 4.3 Other lectures and appearances
+  * 5 Honors
+  * 6 Other publications
+  * 7 References
+  * 8 External links
+
+## Early life[edit]
+
+Pausch was born in Baltimore, Maryland, and grew up in Columbia, Maryland.[3]
+After graduating from Oakland Mills High School in Columbia, Pausch received
+his bachelor's degree in computer science from Brown University in May 1982
+and his Ph.D. in computer science from Carnegie Mellon University in August
+1988.[4][ _not in citation given_ ] While completing his doctoral studies,
+Pausch was briefly employed at Xerox Palo Alto Research Center and Adobe
+Systems.[5]
+
+## Computer science career[edit]
+
+Pausch was an assistant and associate professor in the Department of Computer
+Science at the University of Virginia's School of Engineering and Applied
+Science from 1988 until 1997. While there, he completed sabbaticals at Walt
+Disney Imagineering and Electronic Arts (EA). In 1997, Pausch became Associate
+Professor of Computer Science, Human-Computer Interaction, and Design at
+Carnegie Mellon University. In 1998, he was a co-founder, along with Don
+Marinelli, of CMU's Entertainment Technology Center (ETC), and he started the
+Building Virtual Worlds[6] course at CMU, which he taught for 10 years. He
+consulted with Google on user interface design and also consulted with PARC,
+Imagineering, and Media Metrix.[5] Pausch is also the founder of the Alice
+software project.[7] He received the National Science Foundation Presidential
+Young Investigator Award and was a Lilly Foundation Teaching Fellow.[8] Pausch
+was the author or co-author of five books and over 70 articles.
+
+Pausch received two awards from ACM in 2007 for his achievements in computing
+education: the Karl V. Karlstrom Outstanding Educator Award and the ACM
+Special Interest Group on Computer Science Education Award for Outstanding
+Contributions to Computer Science Education.[9] He was also inducted as a
+Fellow of the ACM in 2007.
+
+## Cancer and death[edit]
+
+Pausch was diagnosed with pancreatic cancer[10][11] and underwent a Whipple
+procedure (pancreaticoduodenectomy) on September 19, 2006, in an unsuccessful
+attempt to halt the disease.[12] He was told in August 2007 to expect a
+remaining three to six months of good health. He soon moved his family to
+Chesapeake, Virginia, to be close to his wife's family. On March 13, 2008,
+Pausch advocated for greater federal funding for pancreatic cancer before the
+United States Senate Appropriations Subcommittee on Labor, Health and Human
+Services, Education, and Related Agencies.[13] In the week prior to this, he
+had been hospitalized in order to have needle aspiration of pleural effusion
+in his right lung.[14]
+
+On May 2, 2008, a positron emission tomography (PET) scan showed that he had
+very tiny (5 millimetres (0.20 in) or less) metastases in his lungs and in
+some of the lymph nodes in his chest. He also had metastases in his peritoneal
+and retroperitoneal cavities. On June 26, 2008, Pausch indicated that he was
+considering stopping further chemotherapy because of the potential adverse
+side effects. He was, however, considering some immuno-therapy-based
+approaches.[15] On July 24, on behalf of Pausch, a friend anonymously posted a
+message on Pausch's webpage stating that a biopsy had indicated that the
+cancer had progressed farther than had been indicated by recent PET scans and
+that Pausch had "taken a step down" and was "much sicker than he had been".
+The friend also stated that Pausch had then enrolled in a hospice program
+designed to provide palliative care to those at the end of life.[15]
+
+| Wikinews has related news: _**"Last Lecture" Professor Randy Pausch dies at
+age 47**_  
+---|---  
+  
+Pausch died from pancreatic cancer at his family's home in Chesapeake,
+Virginia, on July 25, 2008, at the age of 47. He is survived by his wife, Jai,
+and their three children, Dylan, Logan, and Chloe.[16]
+
+## "Really Achieving Your Childhood Dreams"[edit]
+
+Main article: Really Achieving Your Childhood Dreams
+
+Pausch delivered his "Last Lecture", titled "Really Achieving Your Childhood
+Dreams", at CMU on September 18, 2007.[17] He gave an abridged version of his
+speech on _The Oprah Winfrey Show_ in October 2007.[18][19] The talk was
+modeled after an ongoing series of lectures where top academics are asked to
+think deeply about what matters to them, and then give a hypothetical "final
+talk", with a topic such as "what wisdom would you try to impart to the world
+if you knew it was your last chance?" Before speaking, Pausch received a long
+standing ovation from a large crowd of over 400 colleagues and students. When
+he motioned them to sit down, saying, "Make me earn it", someone in the
+audience shouted back, "You did!"[10][20]
+
+During the lecture, Pausch offered inspirational life lessons, and performed
+push-ups on stage. He also commented on the irony that the "Last Lecture"
+series had recently been renamed as "Journeys", saying, "I thought, damn, I
+finally nailed the venue and they renamed it."[16] After Pausch finished his
+lecture, Steve Seabolt, on behalf of Electronic Arts—which is now
+collaborating with CMU in the development of Alice 3.0[21]—pledged to honor
+Pausch by creating a memorial scholarship for women in computer science, in
+recognition of Pausch's support and mentoring of women in CS and
+engineering.[10]
+
+CMU president Jared Cohon spoke emotionally of Pausch's humanity and called
+his contributions to the university and to education "remarkable and
+stunning".[22] He then announced that CMU will celebrate Pausch's impact on
+the world by building and naming after Pausch a raised pedestrian bridge[23]
+to connect CMU's new Computer Science building and the Center for the Arts,
+symbolizing the way Pausch linked those two disciplines. Brown University
+professor Andries van Dam followed Pausch's last lecture with a tearful and
+impassioned speech praising him for his courage and leadership, calling him a
+role model.[22][24][25]
+
+The Randy Pausch Memorial Footbridge was dedicated on October 30, 2009, with
+Jai, Dylan, Logan, and Chloe Pausch cutting the ribbon.
+
+### _The Last Lecture_ [edit]
+
+Main article: The Last Lecture
+
+The Disney-owned publisher Hyperion paid $6.7 million for the rights to
+publish a book about Pausch called _The Last Lecture_ , co-authored by Pausch
+and _Wall Street Journal_ reporter Jeffrey Zaslow.[26] The book became a _New
+York Times_ best-seller on April 28, 2008.[27] _The Last Lecture_ expands on
+Pausch's speech. The book's first printing had 400,000 copies, and it has been
+translated into 46 languages. It has spent more than 85 weeks on the _New York
+Times_ bestseller list, and there are now more than 4.5 million copies in
+print in the U.S. alone. Despite speculation that the book would be made into
+a movie, Pausch had denied these rumors, stating that "there's a reason to do
+the book, but if it's telling the story of the lecture in the medium of film,
+we already have that."[28]
+
+###  Media coverage[edit]
+
+Pausch was named "Person of the Week" on ABC's World News with Charles Gibson
+on September 21, 2007.[29] His "Last Lecture" attracted wide attention from
+the international media,[30] became an Internet hit, and was viewed over a
+million times in the first month after its delivery.[31] On October 22, 2007,
+Pausch appeared on _The Oprah Winfrey Show_ where he discussed his situation
+and summarized his "Last Lecture".[19] On October 6, 2007, Pausch joined the
+Pittsburgh Steelers for the day during their regular practice, after the
+organization learned that one of his childhood dreams mentioned in his "Last
+Lecture" was to play in the NFL.[32] On April 9, 2008, the ABC network aired
+an hour-long Diane Sawyer feature on Pausch titled "The Last Lecture: A Love
+Story For Your Life".[33][34] On July 29, 2008, ABC aired a follow-up to the
+Last Lecture special, remembering Pausch and his famous lecture.[35]
+
+###  Other lectures and appearances[edit]
+
+Pausch gave a lecture about time management[36] on November 27, 2007 at the
+University of Virginia, to an audience of over 850 people.[37] In March 2008,
+Pausch appeared in a public service announcement video[38] and testified
+before Congress in support of cancer research.[39] On May 18, 2008, Pausch
+made a surprise return appearance at Carnegie Mellon, giving a speech at the
+commencement ceremony,[40] as well as attending the School of Computer
+Science's diploma ceremony,[41] and on May 19 Pausch appeared on the show
+_Good Morning America_.[42] His lecture, "Really Achieving Your Childhood
+Dreams", was nominated at the 2007 YouTube Video Awards.[43][44]
+
+A devoted _Star Trek_ fan, Pausch was invited by film director J. J. Abrams to
+film a role in _Star Trek_. Abrams heard of Pausch's condition and sent a
+personal e-mail inviting Pausch to the set. Pausch accepted and traveled to
+Los Angeles, California, to shoot his scene. In addition to appearing in the
+film, he also has a line of dialogue at the beginning of the film ("Captain,
+we have visual.") and donated the $217.06 paycheck to charity.[45][46]
+
+##  Honors[edit]
+
+  * The Pittsburgh City Council declared November 19, 2007 to be "Dr. Randy Pausch Day".[47]
+  * In May 2008, Pausch was listed by _Time_ as one of the World's Top-100 Most Influential People.[1]
+  * Randy was named Pittsburgher of the Year 2008.[48]
+  * On May 30, 2008, Randy received a letter from then President George W. Bush thanking him for his commitment to the Nation's youth.[49]
+  * On February 4, 2009, The Walt Disney Company dedicated a tribute plaque at Walt Disney World near the "Mad Tea Party" attraction with a quote by Randy that reads "Be good at something; It makes you valuable ... Have something to bring to the table, because that will make you more welcome."[50]
+  * The Walt Disney Company also created the Disney Memorial Pausch Fellowship at Carnegie Mellon University, which will support two graduate students.[51]
+  * Per Jared Cohon's announcement on the day of the Last Lecture, a raised pedestrian bridge at CMU that connects the Gates Computer Science building and the Purnell Center for the Arts is named after Pausch, symbolizing the way he linked the two disciplines.[23]
+
+## Other publications[edit]
+
+  * _Adding input and output to the transactional model_ (Research paper, CMU), 1988
+  * Dann, Wanda P.; Cooper, Stephen; Pausch, Randy (2005-07-25). _Learning to Program with Alice_. Prentice Hall. ISBN 0-13-187289-3.  
+
+## References[edit]
+
+  1. ^ _**a**_ _**b**_ Couric, Katie (2008-05-12). "Randy Pausch". _Time_. Retrieved  2008-08-11. 
+  2. **^** "In Memoriam: Randy Pausch, Unitarian Universalist, Author of "The Last Lecture "". Retrieved 2009-01-05. The family was active with the First Unitarian Church of Pittsburgh. 
+  3. ^ _**a**_ _**b**_ Nelson, Valerie J. (2008-07-26). "Randy Pausch, 47; terminally ill professor inspired many with his 'last lecture'". _Los Angeles Times_. Retrieved  2008-08-11. 
+  4. **^** "Prof Whose 'Last Lecture' Became a Sensation Dies". ABC. 2008-07-26. Retrieved  2008-08-11. 
+  5. ^ _**a**_ _**b**_ "Curriculum Vitae". Carnegie MellonUniversity. Retrieved  2008-08-11. 
+  6. **^** "Building Virtual Worlds: A Carnegie Mellon Project Course". Carnegie Mellon University. Retrieved  2008-08-11. 
+  7. **^** Dillon, Beth A. (2007-01-25). "Carnegie Mellon's ETC Opens In Silicon Valley". Gamasutra. Retrieved 2008-09-08. 
+  8. **^** Porter, Sabrina (2008-04-28). "Randy Pausch, beloved professor and worldwide inspiration, dies at age 47". _The Tartan_. Retrieved  2008-10-05. 
+  9. **^** "ACM Award Citation / Randy Pausch". Association for Computing Machinery. Retrieved  2008-08-11. 
+  10. ^ _**a**_ _**b**_ _**c**_ Roth, Mark (September 19, 2007). "CMU professor gives his last lesson on life". Pittsburgh Post-Gazette. Retrieved 2008-07-30. 
+  11. **^** Zaslow, Jeffrey (2007-09-20). "A Beloved Professor Delivers The Lecture of a Lifetime". _The Wall Street Journal_. Retrieved  2008-08-11. 
+  12. **^** Pausch, Randy (December 2007). "Short Summary". Carnegie Mellon University. Retrieved 2008-08-11. 
+  13. **^** "Dying Professor, Famous for His Last Lecture, Testifies Before Congress". _The Chronicle of Higher Education_. 2008-03-13. Retrieved  2008-08-11. 
+  14. **^** Pausch, Randy; Zaslow, Jeffrey (2008-04-08). _The Last Lecture_. Hyperion. ISBN 1-4013-2325-1.  
+  15. ^ _**a**_ _**b**_ Pausch, Randy (2008-07-25). "Randy Pausch's Update page". Carnegie Mellon University. Retrieved 2008-08-11. 
+  16. ^ _**a**_ _**b**_ Plushnick-Masti, Ramit (2008-07-25). "Prof whose 'last lecture' became a sensation dies". Associated Press. Retrieved 2008-08-11. 
+  17. **^** "Really Achieving Your Childhood Dreams". Carnegie Mellon University. Retrieved  2008-08-11. 
+  18. **^** "Randy Pausch reprising his "Last Lecture "". Google Video. 2007-10-24. Retrieved 2008-08-11. 
+  19. ^ _**a**_ _**b**_ "Confronting Death". Oprah. Retrieved  2008-08-11. 
+  20. **^** "Professor's Full Lecture: Part 1". ABC. 2007-10-03. Retrieved  2008-09-08. 
+  21. **^** "Carnegie Mellon Collaborates With EA to Revolutionize Computer Science Education". Carnegie Mellon Today. Retrieved  2008-08-11. 
+  22. ^ _**a**_ _**b**_ Robins, Gabriel (2007-09-20). "Randy Pausch's Last Lecture". University of Virginia. Archived from the original on March 12, 2008. Retrieved 2008-08-11. 
+  23. ^ _**a**_ _**b**_ Heinrichs, Allison M. (2007-09-19). "Professor diagnosed with cancer offers his final words for the CMU community". _Pittsburgh Tribune-Review_. Retrieved  2008-08-11. 
+  24. **^** A Beloved Professor Delivers The Lecture of a Lifetime at _The Wall Street Journal_ , September 20, 2007
+  25. **^** The Professor's Manifesto: What It Meant to Readers, September 27, 2007
+  26. **^** Flamm, Matthew (2007-11-20). "Hyperion wins auction for The Last Lecture". Crain's New York Business. Retrieved 2008-08-11. 
+  27. **^** "Hardcover Advice". _The New York Times_. 2008-06-22. Retrieved  2008-10-05. 
+  28. **^** Wilson, Craig (2008-04-08). "Professor Pausch's life, 'Lecture' go from Web to book". _USA Today_. Retrieved  2008-10-05. 
+  29. **^** "Dying Professor's Lecture of a Lifetime". ABC. 2008-03-21. Retrieved  2008-08-11. 
+  30. **^** Schmitz, Von Gregor Peter (2007-10-01). "Ein todkranker Professor rührt Amerika". _Spiegel_ (in German). Retrieved  2008-08-11. 
+  31. **^** Zaslow, Jeffrey (2007-09-27). "The Professor's Manifesto: What It Meant to Readers". _The Wall Street Journal_. Retrieved  2008-08-11. 
+  32. **^** Heinrichs, Allison M. (2007-10-04). "Dying prof tackles final dream -- the NFL". _Pittsburgh Tribune-Review_. Retrieved  2008-08-11. 
+  33. **^** "Randy Pausch ABC Special about the "Last Lecture", April 2008". Google Video. 2008-04-11. Retrieved  2008-08-11. 
+  34. **^** "ABC News: Randy Pausch, Author of 'The Last Lecture,' Dies at 47". ABC. Retrieved  2008-08-11. 
+  35. **^** Shattuck, Kathryn (2008-07-29). "What's On Today". _The New York Times_. Retrieved  2008-09-08. 
+  36. **^** "Randy Pausch's Time Management lecture". Google Video. 2008-11-27. Retrieved  2007-11-27. 
+  37. **^** "Randy Pausch: Time is All That Matters". University of Virginia Today. 2007-11-28. Retrieved  2008-08-11. 
+  38. **^** "The Pancreatic Cancer Action Network Debuts a New Public Service Announcement Featuring Carnegie Mellon Professor Dr. Randy Pausch". PR Newswire. 2008-04-22. 
+  39. **^** " "Last Lecture" Professor Pausch Dies". CBS. 2008-07-25. Retrieved 2008-10-05. 
+  40. **^** Chute, Eleanor (2008-07-25). "Randy Pausch, noted CMU prof, succumbs to cancer". _Pittsburgh Post-Gazette_. Retrieved  2008-10-05. 
+  41. **^** "SCS Commencement". Carnegie Mellon University. 2008-05-18. Retrieved  2008-08-11. 
+  42. **^** "Randy Pausch on Good Morning America, May 19, 2008". AOL. Retrieved  2008-10-05. [ _dead link_ ]
+  43. **^** "2007 Video Awards". YouTube. Retrieved  2008-08-11. 
+  44. **^** A Final Farewell, May 3, 2008
+  45. **^** Pascale, Anthony (2008-01-19). "Inspirational Professor Given Part In Star Trek". TrekMovie. Retrieved 2008-08-11. 
+  46. **^** " 'Last Lecture' professor dies at 47". CNN. 2008-07-25. Archived from the original on 2008-08-04. Retrieved 2008-08-11. 
+  47. **^** "Master Detail Report". City of Pittsburgh. 2007-11-19. Retrieved  2008-08-11. 
+  48. **^** Wander, Jonathan (2010-05-24). "Pittsburgh Magazine: Shopping, Arts, Restaurants, Health, Sports, Business, Homes, Travel, Weddings". Wqed.org. Archived from the original on September 6, 2009. Retrieved 2010-08-11. 
+  49. **^** "RandyPauschInformation". Download.srv.cs.cmu.edu. Retrieved  2010-08-11. 
+  50. **^** "Randy Pausch Gets a Plaque at Walt Disney World | ETC Global News". Etc.cmu.edu. 2009-02-04. Retrieved  2010-08-11. 
+  51. **^** Disney Honors Randy Pausch With Memorial Fellowship at Carnegie Mellon University, prnewswire.com. Retrieved 2009-04-05.
+
+##  External links[edit]
+
+  * Quotations related to Randy Pausch at Wikiquote
+  * Randy Pausch's Home Page at Carnegie Mellon University
+  * News about Randy Pausch at the University of Virginia
+  * The Online Legacy of Professor Pausch by Tara Parker-Pope from the New York Times on July 27, 2008
+  * Randy Pausch's Publications on Google Scholar
+  * Randy Pausch on IMDb
+
+Videos
+
+  * The last lecture of Randy Pausch on YouTube
+  * The last lecture of Randy Pausch at iTunes U
+  * "Time Management" by Randy Pausch, November 2007 at Google Video (presentation slides)
+  * Randy Pausch addressing the CMU 2008 graduating class
+  * Randy Pausch on Good Morning America, May 19, 2008
+  * An Interview with Steve Seabolt about Randy Pausch - video audio (mp3) with John Ortberg at Menlo Park Presbyterian Church on September 12, 2008
+  * Randy Pausch's five second Star Trek cameo on YouTube
+
+Authority control |
+
+  * WorldCat Identities
+  * VIAF: 67678397
+  * LCCN: no2001041559
+  * ISNI: 0000 0001 0982 9665
+  * GND: 134216555
+  * SUDOC: 145073106
+  * NDL: 01137291
+  * DBLP: p/RandyFPausch
+  * ACM DL: 81100493478
+
+  
+  
+---|---  
+  
+Retrieved from
+"https://en.wikipedia.org/w/index.php?title=Randy_Pausch&oldid=812959004"
+
+Categories:
+
+  * 1960 births
+  * 2008 deaths
+  * American computer scientists
+  * American motivational speakers
+  * Brown University alumni
+  * Deaths from cancer in Virginia
+  * Carnegie Mellon University alumni
+  * Carnegie Mellon University faculty
+  * Computer science educators
+  * Deaths from pancreatic cancer
+  * Fellows of the Association for Computing Machinery
+  * Human Computer Interaction Institute faculty
+  * Scientists from Baltimore
+  * People from Columbia, Maryland
+  * Scientists from Pittsburgh
+  * Unitarian Universalists
+  * University of Virginia faculty
+  * Disney imagineers
+  * Scientists at PARC
+
+Hidden categories:
+
+  * CS1 German-language sources (de)
+  * All articles with dead external links
+  * Articles with dead external links from May 2016
+  * Articles with hCards
+  * Pages using infobox scientist with unknown parameters
+  * All articles with failed verification
+  * Articles with failed verification from December 2010
+  * Good articles
+  * Wikipedia articles with VIAF identifiers
+  * Wikipedia articles with LCCN identifiers
+  * Wikipedia articles with ISNI identifiers
+  * Wikipedia articles with GND identifiers
+  * Wikipedia articles with DBLP identifiers
+  * Wikipedia articles with ACM-DL identifiers
+
+## Navigation menu
+
+### Personal tools
+
+  * Not logged in
+  * Talk
+  * Contributions
+  * Create account
+  * Log in
+
+### Namespaces
+
+  * Article
+  * Talk
+
+###  Variants
+
+### Views
+
+  * Read
+  * Edit
+  * View history
+
+### More
+
+###  Search
+
+### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+  * Donate to Wikipedia
+  * Wikipedia store
+
+### Interaction
+
+  * Help
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact page
+
+### Tools
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Permanent link
+  * Page information
+  * Wikidata item
+  * Cite this page
+
+### Print/export
+
+  * Create a book
+  * Download as PDF
+  * Printable version
+
+### In other projects
+
+  * Wikiquote
+
+### Languages
+
+  * العربية
+  * تۆرکجه
+  * Čeština
+  * Dansk
+  * Deutsch
+  * Español
+  * Euskara
+  * فارسی
+  * Français
+  * 한국어
+  * Íslenska
+  * Italiano
+  * עברית
+  * Kurdî
+  * Magyar
+  * മലയാളം
+  * Nederlands
+  * 日本語
+  * Norsk
+  * Polski
+  * Português
+  * Română
+  * Русский
+  * Shqip
+  * Suomi
+  * Svenska
+  * தமிழ்
+  * Türkçe
+  * 中文
+
+Edit links
+
+  * This page was last edited on 30 November 2017, at 22:13.
+  * Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+  * Contact Wikipedia
+  * Developers
+  * Cookie statement
+  * Mobile view
+
+  *   * 
+
+  *[FBS]: Football Bowl Subdivision
+  *[FCS]: Football Championship Subdivision
+  *[e]: Edit this template
+  *[c.]: circa
+  *[m.]: married
+  *[Pop.]: Population
+  *[ v]: View this template
+  *[t]: Discuss this template
+  *[v]: View this template
+  *[1887]: April 22, 1887
+  *[±%]: Percent change
+  *[%±]: Percent change
+

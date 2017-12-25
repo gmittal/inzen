@@ -1,7 +1,0 @@
-Postal codes in the Netherlands, known as postcodes, are alphanumeric, consisting of four digits followed by two uppercase letters. The letters 'F', 'I', 'O', 'Q', 'U' and 'Y' were originally not used for technical reasons, but almost all existing combinations are now used as these letters were allowed for new locations starting 2005. The letter combinations 'SS', 'SD' and 'SA' are not used because of their associations with the Nazi occupation of the Netherlands.
-The first two digits indicate a city and a region, the second two digits and the two letters indicate a range of house numbers, usually on the same street. Consequently, a postal address is uniquely defined by the postal code and the house number. On average, a Dutch postal code comprises eight single addresses.
-When addressing mail to the Netherlands from other countries, the prefix NL- may be added to the postcode, e.g.:
-
-Stadsregio Amsterdam
-Postbus 626
-NL-1000 AP  Amsterdam

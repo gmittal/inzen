@@ -1,4 +1,0 @@
-Microsoft Bob was a Microsoft software product that was released on March 10, 1995 and discontinued in early 1996. The program was intended to provide a more user-friendly interface for the Windows 3.1x, Windows 95 and Windows NT operating systems, supplanting the Windows Program Manager. Microsoft Bob presented screens showing a "house", with "rooms" that the user could go to containing familiar objects corresponding to computer applications—for instance, a desk with pen and paper, a checkbook, and other items. In this case, clicking on the pen and paper would open the word processor.
-A cartoon dog named Rover and other cartoon characters provided guidance using speech balloons. Rover and a few others managed to later make their way back in Windows XP as "Search Companions".
-Microsoft Bob was greatly criticized in the press, did not gain wide acceptance with users, and was neither a successful nor long-lived product.
-

@@ -1,5 +1,0 @@
-DVD authoring is the process of creating a DVD video capable of playing on a DVD player. DVD authoring software must conform to the specifications set by the DVD Forum.
-DVD authoring is the second step in the process of producing finished DVDs. The first step is the creation of the movie (or programme) and the second, the authoring, is the creation of artwork, user menus, insertion of chapter points, overdubs/commentaries, setting autoplay and/or repeat options, etc. The final step is the manufacturing (replication) process to mass-produce finished DVDs.
-Strictly speaking, DVD authoring differs from the process of MPEG encoding, but as of 2009 most DVD authoring software has a built-in encoder, although separate encoders are still used when better quality or finer control over compression settings are required.
-Most DVD-authoring applications focus exclusively on video DVDs and do not support the authoring of DVD-Audio discs.
-Stand-alone DVD recorder units generally have basic authoring functions, though the creator of the DVD has little or no control over the layout of the DVD menus, which generally differ between models and brands.

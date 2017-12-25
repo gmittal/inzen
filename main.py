@@ -1,5 +1,6 @@
 from __future__ import division
 import sys, os.path, re, glob, string, time, math, numpy as np
+from tqdm import *
 
 def init():
     global _docs
@@ -12,7 +13,7 @@ def init():
         global v_index
         v_index = []
         _docs = glob.glob('data/*/*.txt')
-        prepare(_docs)
+        prepare(_docs[:10])
 
 # Load previously saved matrices
 def load():
@@ -32,7 +33,7 @@ def prepare(docs):
         with open(d, 'r') as infh:
             doc = infh.read()
         tokenize(doc, True)
-
+        
     # Create the term-document matrix
     term_matrix = [doc2vec(open(d, 'r').read()) for d in docs]
     term_matrix = np.asarray(term_matrix).transpose().astype(float)
@@ -75,7 +76,7 @@ def prepare(docs):
     f1.close()
     f2 = open('data/save/_docs.gz', 'w')
     for item in _docs:
-      f.write("%s\n" % item)
+      f2.write("%s\n" % item)
     f2.close()
 
 def search(query):
@@ -101,6 +102,7 @@ def cosine_similarity(np_v, np_u):
     return (np.dot(np_v, np_u) / (np.linalg.norm(np_v) * np.linalg.norm(np_u))) \
         if not (np.linalg.norm(np_v) * np.linalg.norm(np_u)) == 0 else 0
 
+def word_split(text): return re.findall(r'\w+', text.lower())
 
 # Tokenization and splitting into (non-lemmatized words)
 def tokenize(t, new):
@@ -108,8 +110,7 @@ def tokenize(t, new):
     doc = re.sub(r'/[.,\/#!$%\^&\*;:{}=\-_`~()]/g', '', doc)
     doc = re.sub(r'/\s{2,}/g', '', doc)
     words = re.sub(r'/(\r\n|\n|\r)/gm', '', doc).lower()
-    #words = words.translate(None, string.punctuation)
-    words = words.split(' ');
+    words = word_split(words)
     words = [k for k in words if len(k) != 0]
 
     if new:
@@ -122,7 +123,6 @@ def tokenize(t, new):
 
 # Turn a document into a term vector
 def doc2vec(t):
-    #print len(v_index)
     words = tokenize(t, False)
     vector = [words.count(i) for i in v_index] # Get term counts for the document and put it in a vector
     return np.asarray(vector)

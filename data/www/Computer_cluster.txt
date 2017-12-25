@@ -1,0 +1,817 @@
+
+
+# Computer cluster
+
+From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+Not to be confused with data cluster or computer lab.
+
+"Cluster computing" redirects here. For the journal, see Cluster Computing
+(journal).
+
+Technicians working on a large Linux cluster at the Chemnitz University of
+Technology, Germany
+
+Sun Microsystems Solaris Cluster
+
+A **computer cluster** is a set of loosely or tightly connected computers that
+work together so that, in many respects, they can be viewed as a single
+system. Unlike grid computers, computer clusters have each node set to perform
+the same task, controlled and scheduled by software.
+
+The components of a cluster are usually connected to each other through fast
+local area networks, with each _node_ (computer used as a server) running its
+own instance of an operating system. In most circumstances, all of the nodes
+use the same hardware[1] [ _better  source needed_] and the same operating
+system, although in some setups (e.g. using Open Source Cluster Application
+Resources (OSCAR)), different operating systems can be used on each computer,
+or different hardware.[2]
+
+Clusters are usually deployed to improve performance and availability over
+that of a single computer, while typically being much more cost-effective than
+single computers of comparable speed or availability.[3]
+
+Computer clusters emerged as a result of convergence of a number of computing
+trends including the availability of low-cost microprocessors, high-speed
+networks, and software for high-performance distributed computing.[ _citation
+needed_ ] They have a wide range of applicability and deployment, ranging from
+small business clusters with a handful of nodes to some of the fastest
+supercomputers in the world such as IBM's Sequoia.[4]
+
+## Contents
+
+  * 1 Basic concepts
+  * 2 History
+  * 3 Attributes of clusters
+  * 4 Benefits
+  * 5 Design and configuration
+  * 6 Data sharing and communication
+    * 6.1 Data sharing
+    * 6.2 Message passing and communication
+  * 7 Cluster management
+    * 7.1 Task scheduling
+    * 7.2 Node failure management
+  * 8 Software development and administration
+    * 8.1 Parallel programming
+    * 8.2 Debugging and monitoring
+  * 9 Some implementations
+  * 10 Other approaches
+  * 11 See also
+  * 12 References
+  * 13 Further reading
+  * 14 External links
+
+## Basic concepts[edit]
+
+A simple, home-built Beowulf cluster.
+
+The desire to get more computing power and better reliability by orchestrating
+a number of low-cost commercial off-the-shelf computers has given rise to a
+variety of architectures and configurations.
+
+The computer clustering approach usually (but not always) connects a number of
+readily available computing nodes (e.g. personal computers used as servers)
+via a fast local area network.[5] The activities of the computing nodes are
+orchestrated by "clustering middleware", a software layer that sits atop the
+nodes and allows the users to treat the cluster as by and large one cohesive
+computing unit, e.g. via a single system image concept.[5]
+
+Computer clustering relies on a centralized management approach which makes
+the nodes available as orchestrated shared servers. It is distinct from other
+approaches such as peer to peer or grid computing which also use many nodes,
+but with a far more distributed nature.[5]
+
+A computer cluster may be a simple two-node system which just connects two
+personal computers, or may be a very fast supercomputer. A basic approach to
+building a cluster is that of a Beowulf cluster which may be built with a few
+personal computers to produce a cost-effective alternative to traditional high
+performance computing. An early project that showed the viability of the
+concept was the 133-node Stone Soupercomputer.[6] The developers used Linux,
+the Parallel Virtual Machine toolkit and the Message Passing Interface library
+to achieve high performance at a relatively low cost.[7]
+
+Although a cluster may consist of just a few personal computers connected by a
+simple network, the cluster architecture may also be used to achieve very high
+levels of performance. The TOP500 organization's semiannual list of the 500
+fastest supercomputers often includes many clusters, e.g. the world's fastest
+machine in 2011 was the K computer which has a distributed memory, cluster
+architecture.[8]
+
+## History[edit]
+
+Main article: History of computer clusters
+
+See also: History of supercomputing
+
+A VAX 11/780, c. 1977
+
+Greg Pfister has stated that clusters were not invented by any specific vendor
+but by customers who could not fit all their work on one computer, or needed a
+backup.[9] Pfister estimates the date as some time in the 1960s. The formal
+engineering basis of cluster computing as a means of doing parallel work of
+any sort was arguably invented by Gene Amdahl of IBM, who in 1967 published
+what has come to be regarded as the seminal paper on parallel processing:
+Amdahl's Law.
+
+The history of early computer clusters is more or less directly tied into the
+history of early networks, as one of the primary motivations for the
+development of a network was to link computing resources, creating a de facto
+computer cluster.
+
+The first production system designed as a cluster was the Burroughs B5700 in
+the mid-1960s. This allowed up to four computers, each with either one or two
+processors, to be tightly coupled to a common disk storage subsystem in order
+to distribute the workload. Unlike standard multiprocessor systems, each
+computer could be restarted without disrupting overall operation.
+
+The first commercial loosely coupled clustering product was Datapoint
+Corporation's "Attached Resource Computer" (ARC) system, developed in 1977,
+and using ARCnet as the cluster interface. Clustering per se did not really
+take off until Digital Equipment Corporation released their VAXcluster product
+in 1984 for the VAX/VMS operating system (now named as OpenVMS). The ARC and
+VAXcluster products not only supported parallel computing, but also shared
+file systems and peripheral devices. The idea was to provide the advantages of
+parallel processing, while maintaining data reliability and uniqueness. Two
+other noteworthy early commercial clusters were the _Tandem Himalayan_ (a
+circa 1994 high-availability product) and the _IBM S/390 Parallel Sysplex_
+(also circa 1994, primarily for business use).
+
+Within the same time frame, while computer clusters used parallelism outside
+the computer on a commodity network, supercomputers began to use them within
+the same computer. Following the success of the CDC 6600 in 1964, the Cray 1
+was delivered in 1976, and introduced internal parallelism via vector
+processing.[10] While early supercomputers excluded clusters and relied on
+shared memory, in time some of the fastest supercomputers (e.g. the K
+computer) relied on cluster architectures.
+
+## Attributes of clusters[edit]
+
+A load balancing cluster with two servers and N user stations (Galician).
+
+Computer clusters may be configured for different purposes ranging from
+general purpose business needs such as web-service support, to computation-
+intensive scientific calculations. In either case, the cluster may use a high-
+availability approach. Note that the attributes described below are not
+exclusive and a "computer cluster" may also use a high-availability approach,
+etc.
+
+"Load-balancing" clusters are configurations in which cluster-nodes share
+computational workload to provide better overall performance. For example, a
+web server cluster may assign different queries to different nodes, so the
+overall response time will be optimized.[11] However, approaches to load-
+balancing may significantly differ among applications, e.g. a high-performance
+cluster used for scientific computations would balance load with different
+algorithms from a web-server cluster which may just use a simple round-robin
+method by assigning each new request to a different node.[11]
+
+Computer clusters are used for computation-intensive purposes, rather than
+handling IO-oriented operations such as web service or databases.[12] For
+instance, a computer cluster might support computational simulations of
+vehicle crashes or weather. Very tightly coupled computer clusters are
+designed for work that may approach "supercomputing".
+
+"High-availability clusters" (also known as failover clusters, or HA clusters)
+improve the availability of the cluster approach. They operate by having
+redundant nodes, which are then used to provide service when system components
+fail. HA cluster implementations attempt to use redundancy of cluster
+components to eliminate single points of failure. There are commercial
+implementations of High-Availability clusters for many operating systems. The
+Linux-HA project is one commonly used free software HA package for the Linux
+operating system.
+
+## Benefits[edit]
+
+|
+
+**This section needs expansion**.  You can help by adding to it. _(October
+2014)_  
+  
+---|---  
+  
+Clusters are primarily designed with performance in mind, but installations
+are based on many other factors; fault tolerance ( _the ability for a system
+to continue working with a malfunctioning node_ ) also allows for simpler
+scalability, and in high performance situations, low frequency of maintenance
+routines, resource consolidation[ _clarification needed_ ], and centralized
+management. Other advantages include enabling data recovery in the event of a
+disaster and providing parallel data processing and high processing
+capacity.[13][14]
+
+## Design and configuration[edit]
+
+A typical Beowulf configuration.
+
+One of the issues in designing a cluster is how tightly coupled the individual
+nodes may be. For instance, a single computer job may require frequent
+communication among nodes: this implies that the cluster shares a dedicated
+network, is densely located, and probably has homogeneous nodes. The other
+extreme is where a computer job uses one or few nodes, and needs little or no
+inter-node communication, approaching grid computing.
+
+In a Beowulf system, the application programs never see the computational
+nodes (also called slave computers) but only interact with the "Master" which
+is a specific computer handling the scheduling and management of the
+slaves.[12] In a typical implementation the Master has two network interfaces,
+one that communicates with the private Beowulf network for the slaves, the
+other for the general purpose network of the organization.[12] The slave
+computers typically have their own version of the same operating system, and
+local memory and disk space. However, the private slave network may also have
+a large and shared file server that stores global persistent data, accessed by
+the slaves as needed.[12]
+
+By contrast, the special purpose 144-node DEGIMA cluster is tuned to running
+astrophysical N-body simulations using the Multiple-Walk parallel treecode,
+rather than general purpose scientific computations.[15]
+
+Due to the increasing computing power of each generation of game consoles, a
+novel use has emerged where they are repurposed into High-performance
+computing (HPC) clusters. Some examples of game console clusters are Sony
+PlayStation clusters and Microsoft Xbox clusters. Another example of consumer
+game product is the Nvidia Tesla Personal Supercomputer workstation, which
+uses multiple graphics accelerator processor chips. Besides game consoles,
+high-end graphics cards too can be used instead. The use of graphics cards (or
+rather their GPU's) to do calculations for grid computing is vastly more
+economical than using CPU's, despite being less precise. However, when using
+double-precision values, they become as precise to work with as CPU's and are
+still much less costly (purchase cost).[2]
+
+Computer clusters have historically run on separate physical computers with
+the same operating system. With the advent of virtualization, the cluster
+nodes may run on separate physical computers with different operating systems
+which are painted above with a virtual layer to look similar.[16][ _citation
+needed_ ][ _clarification needed_ ] The cluster may also be virtualized on
+various configurations as maintenance takes place. An example implementation
+is Xen as the virtualization manager with Linux-HA.[16]
+
+## Data sharing and communication[edit]
+
+### Data sharing[edit]
+
+A NEC Nehalem cluster
+
+As the computer clusters were appearing during the 1980s, so were
+supercomputers. One of the elements that distinguished the three classes at
+that time was that the early supercomputers relied on shared memory. To date
+clusters do not typically use physically shared memory, while many
+supercomputer architectures have also abandoned it.
+
+However, the use of a clustered file system is essential in modern computer
+clusters.[ _citation needed_ ] Examples include the IBM General Parallel File
+System, Microsoft's Cluster Shared Volumes or the Oracle Cluster File System.
+
+### Message passing and communication[edit]
+
+Main article: Message passing in computer clusters
+
+Two widely used approaches for communication between cluster nodes are MPI,
+the Message Passing Interface and PVM, the Parallel Virtual Machine.[17]
+
+PVM was developed at the Oak Ridge National Laboratory around 1989 before MPI
+was available. PVM must be directly installed on every cluster node and
+provides a set of software libraries that paint the node as a "parallel
+virtual machine". PVM provides a run-time environment for message-passing,
+task and resource management, and fault notification. PVM can be used by user
+programs written in C, C++, or Fortran, etc.[17][18]
+
+MPI emerged in the early 1990s out of discussions among 40 organizations. The
+initial effort was supported by ARPA and National Science Foundation. Rather
+than starting anew, the design of MPI drew on various features available in
+commercial systems of the time. The MPI specifications then gave rise to
+specific implementations. MPI implementations typically use TCP/IP and socket
+connections.[17] MPI is now a widely available communications model that
+enables parallel programs to be written in languages such as C, Fortran,
+Python, etc.[18] Thus, unlike PVM which provides a concrete implementation,
+MPI is a specification which has been implemented in systems such as MPICH and
+Open MPI.[18][19]
+
+## Cluster management[edit]
+
+Low-cost and low energy tiny-cluster of Cubieboards, using Apache Hadoop on
+Lubuntu
+
+One of the challenges in the use of a computer cluster is the cost of
+administrating it which can at times be as high as the cost of administrating
+N independent machines, if the cluster has N nodes.[20] In some cases this
+provides an advantage to shared memory architectures with lower administration
+costs.[20] This has also made virtual machines popular, due to the ease of
+administration.[20]
+
+### Task scheduling[edit]
+
+When a large multi-user cluster needs to access very large amounts of data,
+task scheduling becomes a challenge. In a heterogeneous CPU-GPU cluster with a
+complex application environment, the performance of each job depends on the
+characteristics of the underlying cluster. Therefore, mapping tasks onto CPU
+cores and GPU devices provides significant challenges.[21] This is an area of
+ongoing research; algorithms that combine and extend MapReduce and Hadoop have
+been proposed and studied.[21]
+
+### Node failure management[edit]
+
+When a node in a cluster fails, strategies such as "fencing" may be employed
+to keep the rest of the system operational.[22][ _better  source needed_][23]
+Fencing is the process of isolating a node or protecting shared resources when
+a node appears to be malfunctioning. There are two classes of fencing methods;
+one disables a node itself, and the other disallows access to resources such
+as shared disks.[22]
+
+The STONITH method stands for "Shoot The Other Node In The Head", meaning that
+the suspected node is disabled or powered off. For instance, _power fencing_
+uses a power controller to turn off an inoperable node.[22]
+
+The _resources fencing_ approach disallows access to resources without
+powering off the node. This may include _persistent reservation fencing_ via
+the SCSI3, fibre channel fencing to disable the fibre channel port, or global
+network block device (GNBD) fencing to disable access to the GNBD server.
+
+##  Software development and administration[edit]
+
+### Parallel programming[edit]
+
+Load balancing clusters such as web servers use cluster architectures to
+support a large number of users and typically each user request is routed to a
+specific node, achieving task parallelism without multi-node cooperation,
+given that the main goal of the system is providing rapid user access to
+shared data. However, "computer clusters" which perform complex computations
+for a small number of users need to take advantage of the parallel processing
+capabilities of the cluster and partition "the same computation" among several
+nodes.[24]
+
+Automatic parallelization of programs continues to remain a technical
+challenge, but parallel programming models can be used to effectuate a higher
+degree of parallelism via the simultaneous execution of separate portions of a
+program on different processors.[24][25]
+
+### Debugging and monitoring[edit]
+
+The development and debugging of parallel programs on a cluster requires
+parallel language primitives as well as suitable tools such as those discussed
+by the _High Performance Debugging Forum_ (HPDF) which resulted in the HPD
+specifications.[18][26] Tools such as TotalView were then developed to debug
+parallel implementations on computer clusters which use MPI or PVM for message
+passing.
+
+The Berkeley NOW (Network of Workstations) system gathers cluster data and
+stores them in a database, while a system such as PARMON, developed in India,
+allows for the visual observation and management of large clusters.[18]
+
+Application checkpointing can be used to restore a given state of the system
+when a node fails during a long multi-node computation.[27] This is essential
+in large clusters, given that as the number of nodes increases, so does the
+likelihood of node failure under heavy computational loads. Checkpointing can
+restore the system to a stable state so that processing can resume without
+having to recompute results.[27]
+
+## Some implementations[edit]
+
+The GNU/Linux world supports various cluster software; for application
+clustering, there is distcc, and MPICH. Linux Virtual Server, Linux-HA \-
+director-based clusters that allow incoming requests for services to be
+distributed across multiple cluster nodes. MOSIX, LinuxPMI, Kerrighed, OpenSSI
+are full-blown clusters integrated into the kernel that provide for automatic
+process migration among homogeneous nodes. OpenSSI, openMosix and Kerrighed
+are single-system image implementations.
+
+Microsoft Windows computer cluster Server 2003 based on the Windows Server
+platform provides pieces for High Performance Computing like the Job
+Scheduler, MSMPI library and management tools.
+
+gLite is a set of middleware technologies created by the Enabling Grids for
+E-sciencE (EGEE) project.
+
+slurm is also used to schedule and manage some of the largest supercomputer
+clusters (see top500 list).
+
+## Other approaches[edit]
+
+Although most computer clusters are permanent fixtures, attempts at flash mob
+computing have been made to build short-lived clusters for specific
+computations. However, larger scale volunteer computing systems such as BOINC-
+based systems have had more followers.
+
+## See also[edit]
+
+_Basic concepts_
+
+    
+
+  * Clustered file system
+  * Heartbeat private network
+  * High-availability cluster
+  * Single system image
+  * Symmetric multiprocessing
+
+_Distributed computing_
+
+    
+
+  * Distributed computing
+  * Distributed data store
+  * Distributed operating system
+  * Distributed shared memory
+
+|
+
+_Specific systems_
+
+    
+
+  * DEGIMA (computer cluster)
+  * K computer
+  * Microsoft Cluster Server
+  * Red Hat Cluster Suite
+  * Rocks Cluster Distribution
+  * Solaris Cluster
+  * Veritas Cluster Server
+
+_Computer farms_
+
+    
+
+  * Compile farm
+  * Render farm
+  * Server farm
+
+  
+---|---  
+  
+##  References[edit]
+
+  1. **^** "Cluster vs grid computing". _Stack Overflow_.  
+  2. ^ _**a**_ _**b**_ Graham-Smith, Darien (29 June 2012). "Weekend Project: Build your own supercomputer". _PC & Tech Authority_. Retrieved 2 June 2017. 
+  3. **^** Bader, David; Pennington, Robert (May 2001). "Cluster Computing: Applications". Georgia Tech College of Computing. Retrieved  2017-02-28. 
+  4. **^** "Nuclear weapons supercomputer reclaims world speed record for US". The Telegraph. 18 Jun 2012. Retrieved  18 Jun 2012. 
+  5. ^ _**a**_ _**b**_ _**c**_ _Network-Based Information Systems: First International Conference, NBIS 2007_. p.  375\. ISBN 3-540-74572-6. 
+  6. **^** William W. Hargrove, Forrest M. Hoffman and Thomas Sterling (August 16, 2001). "The Do-It-Yourself Supercomputer". _Scientific American_. **265** (2). pp.  72–79. Retrieved October 18, 2011. 
+  7. **^** Hargrove, William W.; Hoffman, Forrest M. (1999). "Cluster Computing: Linux Taken to the Extreme". _Linux Magazine_. Retrieved  October 18, 2011. 
+  8. **^** Yokokawa, Mitsuo; et al. (1–3 August 2011). _The K computer: Japanese next-generation supercomputer development project_. International Symposium on Low Power Electronics and Design (ISLPED). pp. 371–372. doi:10.1109/ISLPED.2011.5993668.  
+  9. **^** Pfister, Gregory (1998). _In Search of Clusters_ (2nd ed.). Upper Saddle River, NJ: Prentice Hall PTR. p.  36\. ISBN 0-13-899709-8. 
+  10. **^** Hill, Mark Donald; Jouppi, Norman Paul; Sohi, Gurindar (1999). _Readings in computer architecture_. pp.  41–48. ISBN 978-1-55860-539-8. 
+  11. ^ _**a**_ _**b**_ Sloan, Joseph D. (2004). _High Performance Linux Clusters_. ISBN 0-596-00570-9.  
+  12. ^ _**a**_ _**b**_ _**c**_ _**d**_ Daydé, Michel; Dongarra, Jack (2005). _High Performance Computing for Computational Science - VECPAR 2004_. pp.  120–121. ISBN 3-540-25424-2. 
+  13. **^** "IBM Cluster System : Benefits". IBM. Archived from the original on 29 April 2016. Retrieved  8 September 2014. 
+  14. **^** "Evaluating the Benefits of Clustering". Microsoft. 28 March 2003. Archived from the original on 22 April 2016. Retrieved  8 September 2014. 
+  15. **^** Hamada, Tsuyoshi; et al. (2009). "A novel multiple-walk parallel algorithm for the Barnes–Hut treecode on GPUs – towards cost effective, high performance N-body simulation". _Computer Science - Research and Development_. **24** : 21–31. doi:10.1007/s00450-009-0089-1. 
+  16. ^ _**a**_ _**b**_ Mauer, Ryan (12 Jan 2006). "Xen Virtualization and Linux Clustering, Part 1". _Linux Journal_. Retrieved  2 Jun 2017. 
+  17. ^ _**a**_ _**b**_ _**c**_ Milicchio, Franco; Gehrke, Wolfgang Alexander (2007). _Distributed services with OpenAFS: for enterprise and education_. pp. 339–341. ISBN 9783540366348.  
+  18. ^ _**a**_ _**b**_ _**c**_ _**d**_ _**e**_ Prabhu, C.S.R. (2008). _Grid and Cluster Computing_. pp. 109–112. ISBN 8120334280.  
+  19. **^** Gropp, William; Lusk, Ewing; Skjellum, Anthony (1996). "A High-Performance, Portable Implementation of the MPI Message Passing Interface". _Parallel Computing_. CiteSeerX 10.1.1.102.9485 .  
+  20. ^ _**a**_ _**b**_ _**c**_ Patterson, David A.; Hennessy, John L. (2011). _Computer Organization and Design_. pp.  641–642. ISBN 0-12-374750-3. 
+  21. ^ _**a**_ _**b**_ K. Shirahata; et al. (30 Nov – 3 Dec 2010). _Hybrid Map Task Scheduling for GPU-Based Heterogeneous Clusters_. Cloud Computing Technology and Science (CloudCom). pp. 733–740. doi:10.1109/CloudCom.2010.55. ISBN 978-1-4244-9405-7.  
+  22. ^ _**a**_ _**b**_ _**c**_ Robertson, Alan (2010). "Resource fencing using STONITH" (PDF). _IBM Linux Research Center_.  
+  23. **^** Vargas, Enrique; Bianco, Joseph; Deeths, David (2001). _Sun Cluster environment: Sun Cluster 2.2_. Prentice Hall Professional. p. 58\. ISBN 9780130418708.  
+  24. ^ _**a**_ _**b**_ Aho, Alfred V.; Blum, Edward K. (2011). _Computer Science: The Hardware, Software and Heart of It_. pp. 156–166. ISBN 1-4614-1167-X.  
+  25. **^** Rauber, Thomas; Rünger, Gudula (2010). _Parallel Programming: For Multicore and Cluster Systems_. pp. 94–95. ISBN 3-642-04817-X.  
+  26. **^** Francioni, Joan M.; Pancake, Cherri M. (April 2000). "A Debugging Standard for High-performance computing". _Scientific Programming_. Amsterdam, Netherlands: IOS Press. **8** (2): 95–108. doi:10.1155/2000/971291. ISSN 1058-9244.  
+  27. ^ _**a**_ _**b**_ Sloot, Peter, ed. (2003). _Computational Science-- ICCS 2003: International Conference_. pp.  291–292. ISBN 3-540-40195-4. 
+
+## Further reading[edit]
+
+  * Baker, Mark; et al. (11 Jan 2001). "Cluster Computing White Paper". 
+  * Marcus, Evan; Stern, Hal. _Blueprints for High Availability: Designing Resilient Distributed Systems_. John Wiley  & Sons. ISBN 0-471-35601-8. 
+  * Pfister, Greg. _In Search of Clusters_. Prentice Hall. ISBN 0-13-899709-8.  
+  * Buyya, Rajkumar, ed. (1999). _High Performance Cluster Computing: Architectures and Systems_. **1**. NJ, USA: Prentice Hall. ISBN 0-13-013784-7.  
+  * Buyya, Rajkumar, ed. (1999). _High Performance Cluster Computing: Architectures and Systems_. **2**. NJ, USA: Prentice Hall. ISBN 0-13-013785-5.  
+
+## External links[edit]
+
+| Wikimedia Commons has media related to _**Computer cluster**_.  
+---|---  
+  
+  * IEEE Technical Committee on Scalable Computing (TCSC)
+  * Reliable Scalable Cluster Technology, IBM
+  * Tivoli System Automation Wiki
+  * Large-scale cluster management at Google with Borg, April 2015, by Abhishek Verma, Luis Pedrosa, Madhukar Korupolu, David Oppenheimer, Eric Tune and John Wilkes
+
+  * v
+  * t
+  * e
+
+Parallel computing  
+  
+---  
+General |
+
+  * Distributed computing
+  * Parallel computing
+  * Massively parallel
+  * Cloud computing
+  * High-performance computing
+  * Multiprocessing
+  * Manycore processor
+  * GPGPU
+  * Computer network
+  * Systolic array
+
+  
+  
+Levels |
+
+  * Bit
+  * Instruction
+  * Thread
+  * Task
+  * Data
+  * Memory
+  * Loop
+  * Pipeline
+
+  
+  
+Multithreading |
+
+  * Temporal
+  * Simultaneous (SMT)
+  * Speculative (SpMT)
+  * Preemptive
+  * Cooperative
+  * Clustered Multi-Thread (CMT)
+  * Hardware scout
+
+  
+  
+Theory |
+
+  * PRAM model
+  * Analysis of parallel algorithms
+  * Amdahl's law
+  * Gustafson's law
+  * Cost efficiency
+  * Karp–Flatt metric
+  * Slowdown
+  * Speedup
+
+  
+  
+Elements |
+
+  * Process
+  * Thread
+  * Fiber
+  * Instruction window
+
+  
+  
+Coordination |
+
+  * Multiprocessing
+  * Memory coherency
+  * Cache coherency
+  * Cache invalidation
+  * Barrier
+  * Synchronization
+  * Application checkpointing
+
+  
+  
+Programming |
+
+  * Stream processing
+  * Dataflow programming
+  * Models
+    * Implicit parallelism
+    * Explicit parallelism
+    * Concurrency
+  * Non-blocking algorithm
+
+  
+  
+Hardware |
+
+  * Flynn's taxonomy
+    * SISD
+    * SIMD
+    * SIMT
+    * MISD
+    * MIMD
+  * Dataflow architecture
+  * Pipelined processor
+  * Superscalar processor
+  * Vector processor
+  * Multiprocessor
+    * symmetric
+    * asymmetric
+  * Memory
+    * shared
+    * distributed
+    * distributed shared
+    * UMA
+    * NUMA
+    * COMA
+  * Massively parallel computer
+  * Computer cluster
+  * Grid computer
+
+  
+  
+APIs |
+
+  * Ateji PX
+  * Boost.Thread
+  * Chapel
+  * Charm++
+  * Cilk
+  * Coarray Fortran
+  * CUDA
+  * Dryad
+  * C++ AMP
+  * Global Arrays
+  * MPI
+  * OpenMP
+  * OpenCL
+  * OpenHMPP
+  * OpenACC
+  * TPL
+  * PLINQ
+  * PVM
+  * POSIX Threads
+  * RaftLib
+  * UPC
+  * TBB
+  * ZPL
+
+  
+  
+Problems |
+
+  * Deadlock
+  * Livelock
+  * Deterministic algorithm
+  * Embarrassingly parallel
+  * Parallel slowdown
+  * Race condition
+  * Software lockout
+  * Scalability
+  * Starvation
+
+  
+  
+  *  Category: parallel computing
+  * Media related to Parallel computing at Wikimedia Commons
+
+  
+  
+Retrieved from
+"https://en.wikipedia.org/w/index.php?title=Computer_cluster&oldid=812495524"
+
+Categories:
+
+  * Cluster computing
+  * Parallel computing
+  * Concurrent computing
+  * Supercomputers
+  * Local area networks
+  * Classes of computers
+  * Fault-tolerant computer systems
+
+Hidden categories:
+
+  * All articles lacking reliable references
+  * Articles lacking reliable references from June 2017
+  * All articles with unsourced statements
+  * Articles with unsourced statements from October 2014
+  * Articles to be expanded from October 2014
+  * All articles to be expanded
+  * Articles using small message boxes
+  * Wikipedia articles needing clarification from October 2014
+  * Articles with unsourced statements from November 2013
+  * Wikipedia articles needing clarification from November 2013
+  * Articles with unsourced statements from August 2013
+
+## Navigation menu
+
+### Personal tools
+
+  * Not logged in
+  * Talk
+  * Contributions
+  * Create account
+  * Log in
+
+### Namespaces
+
+  * Article
+  * Talk
+
+###  Variants
+
+### Views
+
+  * Read
+  * Edit
+  * View history
+
+### More
+
+###  Search
+
+### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+  * Donate to Wikipedia
+  * Wikipedia store
+
+### Interaction
+
+  * Help
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact page
+
+### Tools
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Permanent link
+  * Page information
+  * Wikidata item
+  * Cite this page
+
+### Print/export
+
+  * Create a book
+  * Download as PDF
+  * Printable version
+
+### In other projects
+
+  * Wikimedia Commons
+
+### Languages
+
+  * العربية
+  * বাংলা
+  * Български
+  * Català
+  * Čeština
+  * Dansk
+  * Deutsch
+  * Eesti
+  * Español
+  * Esperanto
+  * فارسی
+  * Français
+  * Galego
+  * 한국어
+  * Hrvatski
+  * Bahasa Indonesia
+  * Interlingue
+  * Italiano
+  * עברית
+  * Magyar
+  * മലയാളം
+  * Nederlands
+  * 日本語
+  * Norsk
+  * Norsk nynorsk
+  * Polski
+  * Português
+  * Русский
+  * Shqip
+  * Simple English
+  * Српски / srpski
+  * Suomi
+  * Svenska
+  * Türkçe
+  * Українська
+  * اردو
+  * Tiếng Việt
+  * 中文
+
+Edit links
+
+  * This page was last edited on 28 November 2017, at 04:07.
+  * Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+  * Contact Wikipedia
+  * Developers
+  * Cookie statement
+  * Mobile view
+
+  *   * 
+
+  *[FBS]: Football Bowl Subdivision
+  *[FCS]: Football Championship Subdivision
+  *[e]: Edit this template
+  *[c.]: circa
+  *[m.]: married
+  *[Pop.]: Population
+  *[ v]: View this template
+  *[t]: Discuss this template
+  *[v]: View this template
+  *[1887]: April 22, 1887
+  *[±%]: Percent change
+  *[%±]: Percent change
+

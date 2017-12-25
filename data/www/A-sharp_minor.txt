@@ -1,6 +1,0 @@
-A-sharp minor or A♯ minor is a minor scale based on A-sharp. The A♯ minor scale has pitches A♯, B♯, C♯, D♯, E♯, F♯, and G♯. For the harmonic minor scale, G is used instead of G♯. Its key signature has seven sharps (see below: Scales and keys).
-Its relative major is C♯ major (or enharmonically D♭ major), and its parallel major is A♯ major, usually replaced by B♭ major, since A♯ major's three double-sharps make it impractical to use. Exceptions include Chopin's Polonaise-Fantaisie in A-flat major, Op. 61, which has a brief passage of about 6 bars (at m. 160, twelve bars after the start of the B major section) actually notated in A-sharp major, inserting the necessary double-sharps as accidentals. The overall harmonic context is an extended theme in B major, which briefly modulates to A-sharp major.
-A♯ minor's direct enharmonic equivalent is B♭ minor.
-Changes needed for the melodic and harmonic versions of the scale are written in with accidentals as necessary.
-A-sharp minor is one of the least used minor keys in music as it is not a practical key for composition. The enharmonic equivalent B-flat minor, which would only contain five flats as opposed to A-sharp minor's seven sharps, is normally used. There is, however, in Bach's Prelude and Fugue in C♯ major, a brief section near the beginning of the piece which modulates to A♯ minor.
-

@@ -1,2 +1,0 @@
-DisplayPort is a digital display interface developed by the Video Electronics Standards Association (VESA). The interface is primarily used to connect a video source to a display device such as a computer monitor, though it can also be used to carry audio, USB, and other forms of data.
-VESA designed it to replace VGA, DVI, and FPD-Link. DisplayPort is backwards compatible with VGA, DVI and HDMI through the use of passive and active adapters.

@@ -1,8 +1,0 @@
-The Billboard Hot 100 is the music industry standard record chart in the United States for singles, published weekly by Billboard magazine. Chart rankings are based on sales (physical and digital), radio play and online streaming.
-The weekly sales period was originally Monday to Sunday, when Nielsen started tracking sales in 1991, but was changed to Friday to Thursday in July 2015. Radio airplay, which, unlike sales figures and streaming data, is readily available on a real-time basis, and is tracked on a Monday to Sunday cycle (previously Wednesday to Tuesday). A new chart is compiled and officially released to the public by Billboard on Tuesdays. Example:
-Friday, January 1 – sales tracking-week begins, streaming tracking-week begins
-Monday, January 4 – airplay tracking-week begins
-Thursday, January 7 – sales tracking-week ends, streaming tracking-week ends
-Sunday, January 10 – airplay tracking-week ends
-Tuesday, January 12 – new chart released, with issue post-dated Saturday, January 23
-The first number one song of the Hot 100 was "Poor Little Fool" by Ricky Nelson, on August 4, 1958. As of the issue for the week ending on July 8, 2017, the Hot 100 has had 1,065 different number one hits. The current number one song is "Despacito" by Luis Fonsi and Daddy Yankee featuring Justin Bieber.

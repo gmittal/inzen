@@ -1,0 +1,268 @@
+
+
+# Computational finance
+
+From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+Simulation of Brownian Motion sample paths is an important tool in calculating
+the price of financial instruments under the risk-neutral measure.
+
+**Computational finance** is a branch of applied computer science that deals
+with problems of practical interest in finance.[1] Some slightly different
+definitions are the study of data and algorithms currently used in finance[2]
+and the mathematics of computer programs that realize financial models or
+systems.[3]
+
+Computational finance emphasizes practical numerical methods rather than
+mathematical proofs and focuses on techniques that apply directly to economic
+analyses.[4] It is an interdisciplinary field between mathematical finance and
+numerical methods.[5] Two major areas are efficient and accurate computation
+of fair values of financial securities and the modeling of stochastic price
+series.[6]
+
+## Contents
+
+  * 1 History
+  * 2 Applications of Computational Finance
+  * 3 See also
+  * 4 References
+  * 5 External links
+
+## History[edit]
+
+The birth of computational finance as a discipline can be traced to Harry
+Markowitz in the early 1950s. Markowitz conceived of the portfolio selection
+problem as an exercise in mean-variance optimization. This required more
+computer power than was available at the time, so he worked on useful
+algorithms for approximate solutions.[7] Mathematical finance began with the
+same insight, but diverged by making simplifying assumptions to express
+relations in simple closed forms that did not require sophisticated computer
+science to evaluate.[8]
+
+In the 1960s, hedge fund managers such as Ed Thorp[9] and Michael Goodkin
+(working with Harry Markowitz, Paul Samuelson and Robert C. Merton)[10]
+pioneered the use of computers in arbitrage trading. In academics,
+sophisticated computer processing was needed by researchers such as Eugene
+Fama in order to analyze large amounts of financial data in support of the
+efficient-market hypothesis.[8]
+
+During the 1970s, the main focus of computational finance shifted to options
+pricing and analyzing mortgage securitizations.[11] In the late 1970s and
+early 1980s, a group of young quantitative practitioners who became known as
+“rocket scientists” arrived on Wall Street and brought along personal
+computers. This led to an explosion of both the amount and variety of
+computational finance applications.[12] Many of the new techniques came from
+signal processing and speech recognition rather than traditional fields of
+computational economics like optimization and time series analysis.[12]
+
+By the end of the 1980s, the winding down of the Cold War brought a large
+group of displaced physicists and applied mathematicians, many from behind the
+Iron Curtain, into finance. These people become known as “financial engineers”
+(“quant” is a term that includes both rocket scientists and financial
+engineers, as well as quantitative portfolio managers).[13] This led to a
+second major extension of the range of computational methods used in finance,
+also a move away from personal computers to mainframes and supercomputers.[11]
+Around this time computational finance became recognized as a distinct
+academic subfield. The first degree program in computational finance was
+offered by Carnegie Mellon University in 1994.[14]
+
+Over the last 20 years, the field of computational finance has expanded into
+virtually every area of finance, and the demand for practitioners has grown
+dramatically.[1] Moreover, many specialized companies have grown up to supply
+computational finance software and services.[10]
+
+## Applications of Computational Finance[edit]
+
+  * Algorithmic trading
+  * Quantitative investing
+  * High-frequency trading
+
+## See also[edit]
+
+  * List of finance topics
+  * Quantitative analyst
+  * List of quantitative analysts
+  * Mathematical finance
+  * QuantLib
+  * Algorithmic trading
+  * Master of Computational Finance
+  * Financial reinsurance
+  * Financial modeling
+
+## References[edit]
+
+  1. ^ _**a**_ _**b**_ Rüdiger U. Seydel, _Tools for Computational Finance_ , Springer; 3rd edition (May 11, 2006) 978-3540279235
+  2. **^** "Computational Finance and Research Laboratory". University of Essex. Retrieved  2012-07-21. 
+  3. **^** Cornelis A. Los, _Computational Finance_ World Scientific Pub Co Inc (December 2000) 978-9810244972
+  4. **^** Mario J. Miranda and Paul L. Fackler, _Applied Computational Economics and Finance_ , The MIT Press (September 16, 2002) 978-0262134200
+  5. **^** Omur Ugur, _Introduction to Computational Finance_ , Imperial College Press (December 22, 2008) 978-1848161924
+  6. **^** Jin-Chuan Duan, Wolfgang Karl Härdle and James E. Gentle (editors), _Handbook of Computational Finance_ , Springer (October 25, 2011) 978-3642172533
+  7. **^** Harry M. Markowitz, _Portfolio Selection: Efficient Diversification of Investments_ , Wiley, second edition (September 3, 1991) 978-1557861085
+  8. ^ _**a**_ _**b**_ Justin Fox, _The Myth of the Rational Market: A History of Risk, Reward, and Delusion on Wall Street_ , HarperBusiness (June 9, 2009) 978-0060598990
+  9. **^** William Poundstone, _Fortune's Formula: The Untold Story of the Scientific Betting System That Beat the Casinos and Wall Street_ , Hill and Wang (September 19, 2006) 978-0809045990
+  10. ^ _**a**_ _**b**_ Michael Goodkin, _The Wrong Answer Faster: The Inside Story of Making the Machine that Trades Trillions_ , Wiley, (February 21, 2012) 978-1118133408
+  11. ^ _**a**_ _**b**_ Aaron Brown, _Red-Blooded Risk: The Secret History of Wall Street_ , Wiley (October 11, 2011) 978-1118043868
+  12. ^ _**a**_ _**b**_ John F. Ehlers, _Rocket Science for Traders_ , Wiley (July 20, 2001) 978-0471405672
+  13. **^** Aaron Brown, _The Poker Face of Wall Street_ , Wiley (March 31, 2006) 978-0470127315
+  14. **^** "Center for Computational Finance". Carnegie Mellon University. Retrieved  2012-07-21. 
+
+## External links[edit]
+
+  * IEEE Computational Finance and Economics Technical Committee
+  * An Introduction to Computational Finance without Agonizing Pain
+  * Introduction to Computational Finance, IEEE Computational Intelligence Society Newsletter, August 2004
+  * Numerical Techniques for Options
+  * Monte Carlo Simulation of Stochastic Processes
+  * Centre for Computational Finance and Economic Agents (CCFEA)
+  * The Journal of Computational Finance
+
+  * v
+  * t
+  * e
+
+General areas of finance  
+  
+---  
+  
+  * Computational finance
+  * Experimental finance
+  * Financial economics
+  * Financial institutions
+  * Financial markets
+  * Investment management
+  * Mathematical finance
+  * Personal finance
+  * Public finance
+  * Quantitative behavioral finance
+  * Quantum finance
+  * Statistical finance
+
+  
+  
+Authority control |
+
+  * NDL: 00838846
+
+  
+  
+---|---  
+  
+Retrieved from
+"https://en.wikipedia.org/w/index.php?title=Computational_finance&oldid=811745987"
+
+Categories:
+
+  * Mathematical finance
+  * Actuarial science
+  * Computational fields of study
+
+## Navigation menu
+
+### Personal tools
+
+  * Not logged in
+  * Talk
+  * Contributions
+  * Create account
+  * Log in
+
+### Namespaces
+
+  * Article
+  * Talk
+
+###  Variants
+
+### Views
+
+  * Read
+  * Edit
+  * View history
+
+### More
+
+###  Search
+
+### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+  * Donate to Wikipedia
+  * Wikipedia store
+
+### Interaction
+
+  * Help
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact page
+
+### Tools
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Permanent link
+  * Page information
+  * Wikidata item
+  * Cite this page
+
+### Print/export
+
+  * Create a book
+  * Download as PDF
+  * Printable version
+
+### Languages
+
+  * العربية
+  * Български
+  * Català
+  * فارسی
+  * Français
+  * Galego
+  * 한국어
+  * Íslenska
+  * Italiano
+  * Bahasa Melayu
+  * 日本語
+  * Русский
+  * Українська
+  * اردو
+  * 中文
+
+Edit links
+
+  * This page was last edited on 23 November 2017, at 17:41.
+  * Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+  * Contact Wikipedia
+  * Developers
+  * Cookie statement
+  * Mobile view
+
+  *   * 
+
+  *[FBS]: Football Bowl Subdivision
+  *[FCS]: Football Championship Subdivision
+  *[e]: Edit this template
+  *[c.]: circa
+  *[m.]: married
+  *[Pop.]: Population
+  *[ v]: View this template
+  *[t]: Discuss this template
+  *[v]: View this template
+  *[1887]: April 22, 1887
+  *[±%]: Percent change
+  *[%±]: Percent change
+

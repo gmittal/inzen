@@ -1,1 +1,0 @@
-In musical notation, a beam is a horizontal or diagonal line used to connect multiple consecutive notes (and occasionally rests) to indicate rhythmic grouping. Only eighth notes (quavers) or shorter can be beamed. The number of beams is equal to the number of flags that would be present on an unbeamed note.

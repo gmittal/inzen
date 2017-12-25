@@ -1,5 +1,0 @@
-In telecommunication, signaling (signalling in Commonwealth English) has the following meanings:
-the use of signals for controlling communications
-the information exchange concerning the establishment and control of a telecommunication circuit and the management of the network, in contrast to user information transfer
-the sending of a signal from the transmitting end of a telecommunication circuit to inform a user at the receiving end that a message is to be sent.
-Signaling systems may be classified based on several principal characteristics.

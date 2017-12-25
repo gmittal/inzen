@@ -1,8 +1,0 @@
-Metadata is "data [information] that provides information about other data". Three distinct types of metadata exist: descriptive metadata, structural metadata, and administrative metadata.
-Descriptive metadata describes a resource for purposes such as discovery and identification. It can include elements such as title, abstract, author, and keywords.
-Structural metadata is metadata about containers of data and indicates how compound objects are put together, for example, how pages are ordered to form chapters. It describes the types, versions, relationships and other characteristics of digital materials. 
-Administrative metadata provides information to help manage a resource, such as when and how it was created, file type and other technical information, and who can access it.
-^ http://www.merriam-webster.com/dictionary/metadata
-^ Zeng, Marcia (2004). "Metadata Types and Functions". NISO. Retrieved 5 October 2016. 
-^ http://www.dlib.org/dlib/february97/cnri/02arms1.html
-^ National Information Standards Organization (NISO) (2001). Understanding Metadata (PDF). NISO Press. p. 1. ISBN 1-880124-62-9.

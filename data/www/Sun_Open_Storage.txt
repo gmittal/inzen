@@ -1,1 +1,0 @@
-Sun Open Storage was an open source computer data storage platform developed by Sun Microsystems. Sun Open Storage was advertised as avoiding vendor lock-in.

@@ -1,0 +1,554 @@
+
+
+# Carnegie Mellon School of Computer Science
+
+From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+The **School of Computer Science** (SCS) at Carnegie Mellon University in
+Pittsburgh, Pennsylvania, US is a leading private school for computer science
+established in 1988. It has been consistently ranked among the top computer
+science programs over the decades. U.S. News & World Report currently ranks
+the graduate program as tied for 1st with Massachusetts Institute of
+Technology, Stanford University, and University of California, Berkeley.[1]
+
+The Gates-Hillman Complex, home to Carnegie Mellon University's School of
+Computer Science.
+
+In the past 15 years, researchers from Carnegie Mellon' School of Computer
+Science have made developments in the fields of algorithms, computer networks,
+distributed systems, parallel processing, programming languages, computational
+biology, robotics, language technologies, human–computer interaction and
+software engineering.
+
+## Contents
+
+  * 1 History
+  * 2 Structure in the 1980s
+  * 3 SCS today
+    * 3.1 Organizational units
+    * 3.2 Doctoral programs
+    * 3.3 Academic masters
+    * 3.4 Professional masters
+    * 3.5 Undergraduate programs
+    * 3.6 Student organizations
+  * 4 Gates and Hillman Centers
+  * 5 Traditions
+  * 6 Smiley face
+  * 7 Tartan Racing
+  * 8 SCS honors and awards
+  * 9 Faculty
+    * 9.1 Notable faculty
+  * 10 See also
+  * 11 References
+    * 11.1 Further reading
+  * 12 External links
+
+## History[edit]
+
+|
+
+This section **needs additional citations forverification**.  Please help
+improve this article by adding citations to reliable sources. Unsourced
+material may be challenged and removed. _(March 2010)_ _(Learn how and when to
+remove this template message)_  
+  
+---|---  
+  
+On July 1965, a group of faculty, including Allen Newell, Herbert A. Simon,
+and Alan J. Perlis, as well as the faculty from the Graduate School of
+Industrial Administration (now called the Tepper School of Business), staff
+from the newly formed Computation Center, and key administrators created The
+Department of Computer Science, one of the first such departments in the
+nation. Their mission statement was "to cultivate a course of study leading to
+the PhD degree in computer science, a program that would exploit the new
+technology and assist in establishing a discipline of computer science." The
+educational program, formally accepted in October 1965, drew its first
+graduate students from several existing academic disciplines: mathematics,
+electrical engineering, psychology, and the interdisciplinary Systems and
+Communications Sciences program in the Graduate School of Industrial
+Administration. The department was housed within the Mellon College of
+Science.
+
+With support from Newell, Simon, Nico Haberman, Provost Angel Jordan and
+President Richard Cyert, the department of computer science began a two-year
+status as a "floating" department in the early months of 1986. Then, the
+Department began to grow, both academically and financially. In 1988, the
+Department was officially elevated to the status of a School of Computer
+Science, among the first such schools in the country.
+
+## Structure in the 1980s[edit]
+
+During the 1980s, the department offered only a PhD study program, with no
+master's degree as an intermediate step. The PhD program required a minimum of
+six years of residency. It was called the "do or die" program among the
+graduate students, because a student could not drop a PhD and receive a
+master's degree. It had quickly focused on computer networking, operating
+systems (Mach), and robotics.
+
+## SCS today[edit]
+
+### Organizational units[edit]
+
+  * Computer Science Department (CSD)
+  * Computational Biology Department (CBD)
+  * Robotics Institute (RI)
+  * Institute for Software Research (ISR): Its research and education focus is on software systems, which spans not only classical software engineering but also topics such as economics, social and organizational issues, public policy, and privacy. ISR is a distinct entity from the Software Engineering Institute (SEI). SEI is a FFRDC, which is sponsored by the U.S. Department of Defense and does not offer educational programs.
+  * Human-Computer Interaction Institute (HCII)
+  * Language Technologies Institute (LTI)
+  * Machine Learning Department (MLD)
+
+### Doctoral programs[edit]
+
+  * PhD in Computational Biology (joint with University of Pittsburgh) [2]
+  * PhD in Computer Science
+  * PhD in Computer Science/Dual Degree Portugal
+  * PhD in Computer Science/Neural Basis of Cognition
+  * PhD in Human-Computer Interaction
+  * PhD in Language and Information Technologies
+  * PhD in Language and Information Technologies/Dual Degree Portugal
+  * PhD in Machine Learning
+  * PhD in Machine Learning/Neural Basis of Cognition
+  * PhD in Robotics
+  * PhD in Robotics/Neural Basis of Cognition
+  * M.D./PhD in Robotics
+  * PhD in Societal Computing[3]
+  * PhD in Software Engineering
+  * Joint PhD in Statistics & Machine Learning
+
+### Academic masters[edit]
+
+  * Masters in Computational Biology[4]
+  * Masters in Computer Science
+  * Masters in Language Technologies
+  * Masters in Machine Learning
+  * Masters in Robotics
+  * Masters in Robotic Systems Development
+
+### Professional masters[edit]
+
+  * Masters of Science in Computational Data Science (MCDS)[5]
+  * Master of Science in Music and Technology
+  * Masters in Biotechnology Innovation and Computation [6]
+  * Masters in Entertainment Technology
+  * Masters in Human-Computer Interaction
+  * Masters in Educational Technology and Applied Learning Science (METALS)[7]
+  * Masters of Information Technology in Ebusiness Technology[8]
+  * Masters in Software Engineering
+  * Masters in Software Engineering Management
+  * MBA Track in Technology Leadership (joint SCS/Tepper program)
+  * Master of Science in Information Technology in Robotics Technology (MSIT/RT)
+  * Master of Science in Information Technology—Privacy Engineering (MSIT-PE)
+  * Masters of Science in Information Technology—Embedded Software Engineering
+  * Masters of Science in Information Technology—Software Engineering
+  * Master in Business Administration/Master of Software Engineering
+  * Master in Intelligent Information Systems (MIIS)[9][10]
+
+### Undergraduate programs[edit]
+
+  * Bachelor of Science in Computational Biology [11]
+  * Bachelor of Science in Computer Science
+  * Minor in Computer Science
+  * Minor in Language Technologies
+  * Minor in Robotics
+  * Minor in Software Engineering
+  * Minor in Neural Computation
+  * Minor in Human-Computer Interaction
+  * Minor in Machine Learning
+  * Minor in Computational Biology [12]
+  * Additional Major in Computer Science
+  * Additional Major in Robotics
+  * Additional Major in Human-Computer Interaction
+  * Fifth Year Masters in Computer Science (Carnegie Mellon, CS undergrads only)
+  * MBA – Computer Science 3-2 Program (Carnegie Mellon, CS undergrads only)
+
+### Student organizations[edit]
+
+**Women@SCS** is an educational program at Carnegie Mellon whose mission is to
+create, encourage, and support women's academic, social and professional
+opportunities in the computer sciences and to promote the breadth of the field
+and its diverse community. Women@SCS has initiated programs, such as the
+Big/Little Sister program for undergraduates, the invited Speaker Series for
+graduates, as well as dinners and other social and academic events. Women@SCS
+also sponsors outreach projects such as "Is there a robot in your future?"
+workshop for middle school girls. In general, the committee strives to promote
+a healthy and supportive community atmosphere.
+
+**SCS4ALL** is an umbrella organization at Carnegie Mellon that promotes
+diversity in the School of Computer Science and coordinates outreach programs
+to broaden interest, understanding, and diversity in computing. SCS4ALL shares
+many of the core goals of Women@SCS and has expanded to develop more inclusive
+programs. Within SCS, the organization works to develop social and
+professional activities and leadership opportunities, such as the social
+trivia night, the "Develop Your Elevator Pitch" event, panel discussions with
+industry leaders, and the annual celebration of diversity SCS Day. In
+outreach, the organization organizes interactive presentations about computer
+science at local elementary, middle, and high schools. SCS4ALL is open to all
+students in the SCS and seeks to involve all communities in SCS in shaping the
+organization and its events.
+
+##  Gates and Hillman Centers[edit]
+
+Gates and Hillman Centers
+
+The Randy Pausch memorial bridge has LEDs that glow different colours at
+night.
+
+The Gates Center for Computer Science and the Hillman Center for Future-
+Generation Technologies are home to much of the School of Computer Science.
+The $98 million complex was opened in 2009.[13] It has 217,000-square-foot
+(20,200 m2) of floor space, including about 310 offices, 11 conference rooms,
+32 labs, 8,000 square feet (740 m2) of project space and the Planetary
+Robotics Center. It also houses 12 classrooms, including a 250-seat
+auditorium.[14]
+
+Additionally, the Gates Center connects to the Purnell Center, which houses
+the School of Drama, via the Randy Pausch Memorial Footbridge. The bridge
+represents Professor Pausch's own devotion to linking computer science and
+entertainment, as he was a co-founder of Carnegie Mellon's Entertainment
+Technology Center.[15]
+
+Mack Scogin Merril Elam Architects of Atlanta, Georgia were the lead
+architects.[13] The centers were designed to achieve at least a LEED
+(Leadership in Energy and Environmental Design) Silver rating.[14]
+
+## Traditions[edit]
+
+Main article: Carnegie Mellon University traditions
+
+  * Carnegie Mellon's **Mobot Races** , now in their 14th year, are hosted by the School of Computer Science during every Spring Carnival celebration. The Mobots (short for mobile robots) follow a slalom course painted in the sidewalk outside of Wean Hall. The Mobot Races used to include a MoboJoust competition, but it has not been held since 2002[16] to avoid damaging the Mobots.[17]
+  * **SCS Day** is a yearly celebration of computer science that started in 2003. The event features a variety of activities, including exhibits, workshops and games, in addition to an evening talent show.[18]
+
+##  Smiley face[edit]
+
+SCS research professor Scott Fahlman is credited with the invention of the
+smiley face emoticon. He suggested the emoticon on an electronic board in 1982
+as a way for board readers to know when an author was joking. The text of
+Fahlman's original post was lost for nearly 20 years but was later recovered
+from backup tapes:[19]
+
+    
+    
+    19-Sep-82 11:44    Scott E  Fahlman             :-)
+    From: Scott E  Fahlman <Fahlman at Cmu-20c>
+    I propose that the following character sequence for joke markers:
+    :-)
+    Read it sideways.  Actually, it is probably more economical to mark
+    things that are NOT jokes - given current trends.  For this, use
+    :-(
+      
+  
+---  
+  
+## Tartan Racing[edit]
+
+Tartan Racing is a collaboration between Carnegie Mellon and General Motors
+Corporation that competes in the DARPA Grand Challenge. The Grand Challenge is
+a competition for driverless cars sponsored by Defense Advanced Research
+Projects Agency (DARPA). Tartan Racing is led by Carnegie Mellon roboticist
+William L. "Red" Whittaker.[20]
+
+In 2007, Tartan Racing won the DARPA Urban Challenge, in which 11 autonomous
+ground vehicles raced over urban roadways. In the challenge, team vehicles
+were required to obey all California driving laws, share the road with other
+drivers and robotic cars, and complete the course in under six hours. Tartan
+Racing won the $2 million cash prize with Boss, a reworked 2007 Chevy Tahoe.
+Averaging about 14 miles (23 km) an hour for a 55-mile (89 km) trip, Boss beat
+the second-place team, Stanford Racing, by just under 20 minutes.[21]
+
+## SCS honors and awards[edit]
+
+The School established a number of honors and awards.[22]
+
+  * SCS Endowed Chairs
+  * Finmeccanica Chair
+  * A. Nico Habermann Chair in the School of Computer Science
+  * Litton Faculty Fellows
+  * Allen Newell Award for Research Excellence
+  * Herbert A. Simon Award for Teaching Excellence in Computer Science
+  * The Robert Doherty Prize for Excellence in Education
+  * Carnegie Mellon University Undergraduate Academic Advising Award
+
+## Faculty[edit]
+
+Faculty members from the School of Computer Science have received
+international recognition for achievements within their fields. These honors
+include memberships and fellowships in the National Academy of Sciences, the
+National Academy of Engineering, the American Association for the Advancement
+of Science, the Association for Computing Machinery, the Institute for
+Electrical and Electronic Engineers and The Alfred P. Sloan Foundation.[23]
+Twelve SCS faculty and alumni have won the A. M. Turing Award, the Association
+for Computing Machinery's most prestigious award,[24] often called the "Nobel
+Prize of computing." These include Raj Reddy, Manuel Blum and Edmund M. Clarke
+of the active faculty, in addition to Emeritus Faculty Dana Scott.[25]
+
+### Notable faculty[edit]
+
+  * **Randy Pausch** was a professor of computer science, human-computer interaction and design. Pausch was also a best-selling author, who became known around the world after he gave "The Last Lecture" speech on September 18, 2007 at Carnegie Mellon. Pausch was instrumental in the development of Alice, a computer teaching tool. He also co-founded Carnegie Mellon's Entertainment Technology Center. Randy Pausch died on July 25, 2008.[26]
+  * **Mary Shaw** is the Alan J. Perlis Professor of Computer Science in the Software Engineering Institute at Carnegie Mellon University. Shaw published seminal work on software engineering, and has lately become well known for her work on computer science education. Shaw was awarded the National Medal of Technology and Innovation on Nov. 21, 2014.[27]
+  * **Luis von Ahn** is an associate professor in the Computer Science Department, where he also received his PhD in 2005. Von Ahn was named a MacArthur Fellow in 2006 (called the "genius" grant).[28] He also created Games With a Purpose, a website where users can play games to help train computers to solve complicated problems.
+  * **William L. "Red" Whittaker** is a roboticist and research professor of robotics at Carnegie Mellon who led the Tartan Racing team to victory in the 2007 DARPA Grand Challenge. He is also leading a team of Carnegie Mellon students to win the Google Lunar X Prize.[29] Whittaker is the Fredkin Professor of Robotics at the Robotics Institute and the director of the Robotics Institute's Field Robotics Center[30] since its creation in 1983. Whittaker earned his master's and doctoral degrees in Civil Engineering from Carnegie Mellon in the late 1970s.[31]
+  * **Raj Reddy** is the Mozah bint Nasser University Professor of Computer Science and Robotics in the School of Computer Science and concentrates in the fields of artificial intelligence and human-computer interaction. He won the Okawa Prize in 2004, the Honda Prize in 2005, and the Vannevar Bush Award in 2006.[32] Reddy was the first head of the Robotics Institute when it opened in 1978.[33]
+  * **Takeo Kanade** is a U.A. and Helen Whitaker University Professor of Computer Science and Robotics. He is the director of the Quality of Life Technology Engineering Research Center at Carnegie Mellon. His main areas of interest include computer vision, multi-media, manipulators, autonomous mobile robots, and sensors.[34]
+  * **Hans Moravec** is a research professor at the Robotics Institute with interests in mobile robots and artificial intelligence. He worked in the RI's Mobile Robot Lab, a research space designed to produce robots able to move through intricate indoor and outdoor areas.[35] He also helped develop Moravec's paradox in the 1980s, which states that it is more difficult for computers to learn basic human instincts than human reason.
+  * **Manuela M. Veloso** is the Herbert A. Simon Professor at the School of Computer Science, Carnegie Mellon University. She is the President of the International RoboCup Federation that she co-founded and the President Elect of the Association for the Advancement of Artificial Intelligence. She is a fellow of the American Association for Artificial Intelligence, a fellow of the American Association for the Advancement of Science, and a Fellow of IEEE. Her research focus on the scientific and engineering challenges of creating teams of intelligent agents in complex, dynamic, and uncertain environments, in particular adversarial environments, such as robot soccer, that Cooperate, Observe the world, Reason, Act, and Learn. She currently researches and develops effective indoor mobile service robots aiming at contributing to a multi-robot, multi-human symbiotic relationship, in which robots and humans coordinate and cooperate as a function of their limitations and strengths.
+  * **Manuel Blum** is the Bruce Nelson Professor of Computer Science and a Turing Award winner. His wife Lenore Blum and son Avrim Blum are also professors in the School of Computer Science.
+  * **Lorrie Cranor** is the FORE Systems Professor and served as the Chief Technologist at the Federal Trade Commission.
+
+##  See also[edit]
+
+  * Robotics Institute
+  * Software Engineering Institute
+  * Language Technologies Institute
+  * Human-Computer Interaction Institute
+
+## References[edit]
+
+  1. **^** "America's Best Graduate Schools 2009". _U.S. News & World Report_. Retrieved 2009-06-17. 
+  2. **^** "Carnegie Mellon-University of Pittsburgh Ph.D. Program in Computational Biology". _cmu.edu_.  
+  3. **^** http://sc.cs.cmu.edu/
+  4. **^** "M.S. in Computational Biology". _cmu.edu_.  
+  5. **^** "Program News - Master of Computational Data Science". _cmu.edu_.  
+  6. **^** "Masters in Biotechnology Innovation and Computation". _cmu.edu_.  
+  7. **^** "Masters in Educational Technology and Applied Learning Science". _cmu.edu_.  
+  8. **^** "MSIT (Master of Science in Information Technology) - eBusiness Technology at Carnegie Mellon University". _cmu.edu_.  
+  9. **^** "Archived copy". Archived from the original on August 28, 2013. Retrieved  2013-08-24. 
+  10. **^** University, Carnegie Mellon. "Programs - Software Engineering Masters Programs - Carnegie Mellon University". mse.isri.cmu.edu. 
+  11. **^** "B.S. in Computational Biology". _cmu.edu_.  
+  12. **^** "Minor in Computational Biology". _cmu.edu_.  
+  13. ^ _**a**_ _**b**_ Carnegie Mellon University. "Feb. 20: Henry L. Hillman Foundation Gives Carnegie Mellon $10 Million For Research Building in New Computer Science Complex". _cmu.edu_.  
+  14. ^ _**a**_ _**b**_ "Archived copy". Archived from the original on May 9, 2008. Retrieved  2009-02-16. 
+  15. **^** "Error - Page Not Found". _pittsburghlive.com_. Archived from the original on 2009-02-10.  
+  16. **^** "Archived copy". Archived from the original on March 15, 2009. Retrieved  2009-02-16. 
+  17. **^** "Mobot". _cmu.edu_.  
+  18. **^** "SCS Day 2015 - A Celebration of Diversity in SCS". _cmu.edu_.  
+  19. **^** "SMILEY:31 YEARS OLD AND NEVER LOOKED HAPPIER!". _cmu.edu_.  
+  20. **^** "Tartan Racing @ Carnegie Mellon". _tartanracing.org_.  
+  21. **^** Carnegie Mellon University. "Nov. 4: Carnegie Mellon Tartan Racing Wins $2 Million DARPA Urban Challenge". _cmu.edu_.  
+  22. **^** "SCS: Achievements". Cs.cmu.edu. Archived from the original on June 23, 2012. Retrieved  2012-06-09. 
+  23. **^** "Archived copy". Archived from the original on June 23, 2012. Retrieved  2012-06-09. 
+  24. **^** "A.M. Turing Award". _acm.org_. Archived from the original on 2009-12-12.  
+  25. **^** "SCS FACULTY AWARDS". _cmu.edu_.  
+  26. **^** "Untitled Document". _cmu.edu_.  
+  27. **^** "President Obama Honors Nation's Top Scientists and Innovators". _The White House_.  
+  28. **^** http://www.macfound.org/site/c.lkLXJ8MQKrH/b.2070789/apps/nl/content2.asp?content_id={7D985462-610A-445A-B44A-6238715F94BC}&notoc=1 Archived 2011-06-09 at the Wayback Machine.
+  29. **^** "Google to Finance Moon Challenge Contest". _washingtonpost.com_.  
+  30. **^** "William L. "Red" Whittaker". _cmu.edu_.  
+  31. **^** Fenton 2000, p.197.
+  32. **^** "rrlong". _cmu.edu_.  
+  33. **^** Fenton 2000, p.200.
+  34. **^** http://www.ri.cmu.edu/people/kanade_takeo.html
+  35. **^** "Archived copy". Archived from the original on May 14, 2008. Retrieved  2009-02-16. 
+
+### Further reading[edit]
+
+  * Fenton, Edwin (2000). _Carnegie Mellon 1900–2000: A Centennial History_. Pittsburgh: Carnegie Mellon University Press. ISBN 0-88748-323-2.  
+
+## External links[edit]
+
+| Wikimedia Commons has media related to _**Gates-Hillman Complex**_.  
+---|---  
+  
+  * Official website
+
+  * v
+  * t
+  * e
+
+Carnegie Mellon University  
+  
+---  
+Academics |
+
+  * College of Engineering
+  * College of Fine Arts
+  * Dietrich College of Humanities and Social Sciences
+  * H. John Heinz III College of Information Systems and Public Policy
+  * Mellon College of Science
+  * School of Computer Science
+  * Tepper School of Business
+  * Margaret Morrison Carnegie College (defunct)
+
+|  
+  
+Branch campuses |
+
+  * Australia
+  * Qatar
+  * Rwanda
+  * Silicon Valley
+
+  
+  
+Student life |
+
+  * Traditions
+  * Greek Life
+  * Scotch'n'Soda
+  * Miller Gallery
+  * The Tartan
+  * WRCT
+  * University Athletic Association
+
+  
+  
+Research |
+
+  * Pittsburgh Supercomputing Center
+  * Software Engineering Institute
+  * Robotics Institute
+  * Human Computer Interaction Institute
+  * Computational Biology Department
+  * Language Technologies Institute
+  * Pittsburgh Life Sciences Greenhouse
+  * Carnegie School
+
+  
+  
+People |
+
+  * Andrew Carnegie
+  * Mellon family
+  * Alumni and faculty
+
+  
+  
+Projects and legacies |
+
+  * Alice
+  * Andrew Project
+  * BLISS
+  * CMMI
+  * Mach
+  * 3M computer
+  * Center for PostNatural History
+  * Conflict Kitchen
+  * Robot Hall of Fame
+  * _Waffle Shop: A Reality Show_
+  * YinzCam
+
+  
+  
+Coordinates:  40°26′37″N 79°56′40″W﻿ / ﻿40.44371°N 79.94443°W﻿ / 40.44371;
+-79.94443
+
+Retrieved from
+"https://en.wikipedia.org/w/index.php?title=Carnegie_Mellon_School_of_Computer_Science&oldid=814543187"
+
+Categories:
+
+  * Schools and departments of Carnegie Mellon
+  * Computer science departments in the United States
+  * Educational institutions established in 1965
+  * 1965 establishments in Pennsylvania
+
+Hidden categories:
+
+  * Webarchive template wayback links
+  * Articles needing additional references from March 2010
+  * All articles needing additional references
+  * Coordinates on Wikidata
+
+## Navigation menu
+
+### Personal tools
+
+  * Not logged in
+  * Talk
+  * Contributions
+  * Create account
+  * Log in
+
+### Namespaces
+
+  * Article
+  * Talk
+
+###  Variants
+
+### Views
+
+  * Read
+  * Edit
+  * View history
+
+### More
+
+###  Search
+
+### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+  * Donate to Wikipedia
+  * Wikipedia store
+
+### Interaction
+
+  * Help
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact page
+
+### Tools
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Permanent link
+  * Page information
+  * Wikidata item
+  * Cite this page
+
+### Print/export
+
+  * Create a book
+  * Download as PDF
+  * Printable version
+
+### In other projects
+
+  * Wikimedia Commons
+
+### Languages
+
+  * বাংলা
+  * Bahasa Indonesia
+  * Suomi
+
+Edit links
+
+  * This page was last edited on 9 December 2017, at 12:35.
+  * Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+  * Contact Wikipedia
+  * Developers
+  * Cookie statement
+  * Mobile view
+
+  *   * 
+
+  *[FBS]: Football Bowl Subdivision
+  *[div.]: divorced
+  *[FCS]: Football Championship Subdivision
+  *[e]: Edit this template
+  *[c.]: circa
+  *[m.]: married
+  *[Pop.]: Population
+  *[Statistics]: Biostatistics programs are not considered in the No. 8 ranking. UPenn is No. 10 when Biostatistics programs are considered.
+  *[ v]: View this template
+  *[t]: Discuss this template
+  *[v]: View this template
+  *[1887]: April 22, 1887
+  *[±%]: Percent change
+  *[%±]: Percent change
+

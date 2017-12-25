@@ -1,2 +1,0 @@
-In linguistics, syntax (/ˈsɪnˌtæks/) is the set of rules, principles, and processes that govern the structure of sentences in a given language, specifically word order. The term syntax is also used to refer to the study of such principles and processes. The goal of many syntacticians is to discover the syntactic rules common to all languages.
-In mathematics, syntax refers to the rules governing the behavior of mathematical systems, such as formal languages used in logic. (See logical syntax.)

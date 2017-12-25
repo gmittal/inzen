@@ -1,4 +1,0 @@
-High Fidelity Pure Audio, occasionally abbreviated as HFPA, is a marketing initiative, spearheaded by the Universal Music Group, for audio-only Blu-ray optical discs. Launched in 2013 as a potential successor to the compact disc (CD), it has been compared with DVD-A and SACD, which had similar aims.
-HFPA is encoded as 24-bit/96 kHz or 24-bit/192 kHz linear PCM ("high-resolution audio"), optionally losslessly compressed with Dolby TrueHD or DTS-HD Master Audio.
-HFPA discs are compatible with existing Blu-Ray players.
-Pure Audio Blu-ray refers to a different initiative (but with some goals in common) launched by msm-studios in Germany in 2009.

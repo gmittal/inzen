@@ -1,0 +1,1640 @@
+
+
+# Tata Consultancy Services
+
+From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+|
+
+This article **contains content that is written likean advertisement**.
+Please help improve it by removing promotional content and inappropriate
+external links, and by adding encyclopedic content written from a neutral
+point of view. _(April 2017)_ _(Learn how and when to remove this template
+message)_  
+  
+---|---  
+Tata Consultancy Services  
+---  
+  
+Type
+
+| Public  
+Traded as |
+
+  * BSE: 532540
+  * NSE: TCS
+  * BSE SENSEX Constituent
+  * CNX Nifty Constituent
+
+  
+  
+Industry | IT services, IT consulting  
+Founded | 1968; 49 years ago (1968)  
+Founder |
+
+  * J. R. D. Tata
+  * F.C. Kohli
+
+  
+  
+Headquarters | Mumbai, Maharashtra, India  
+  
+Area served
+
+| Worldwide  
+  
+Key people
+
+|
+
+  * Natarajan Chandrasekaran (Chairman)
+  * Rajesh Gopinathan (CEO & MD)
+
+  
+  
+Services | IT, business consulting and outsourcing services  
+Revenue |  US$17.57 billion (2017)[1]  
+  
+Operating income
+
+|  US$4.51 billion (2017)[1]  
+Profit |  US$3.92 billion (2017)[1]  
+Total assets |  US$16.24 billion (2017)[1]  
+Total equity |  US$13.67 billion (2017)[1]  
+  
+Number of employees
+
+| 387,223 (June 2017)[1]  
+Parent | Tata Group  
+Subsidiaries |
+
+  * TCS China
+  * TRDDC
+
+  
+  
+Website | www.tcs.com  
+**Footnotes  / references**  
+[1][2]  
+  
+**Tata Consultancy Services Limited** ( **TCS** ) is an Indian multinational
+information technology (IT) service, consulting and business solutions company
+Headquartered in Mumbai, Maharashtra.[3][4] It is a subsidiary of the Tata
+Group and operates in 46 countries.[5]
+
+TCS is one of the largest Indian companies by market capitalization ($80
+billion).[6][7] TCS is now placed among the most valuable IT services brands
+worldwide.[8] TCS alone generates 70% dividends of its parent company, Tata
+Sons.[9][10] In 2015, TCS is ranked 64th overall in the _Forbes_ World's Most
+Innovative Companies ranking, making it both the highest-ranked IT services
+company and the top Indian company.[11] It is the world's 9th largest IT
+services provider by revenue.[12] As of December 2015, it is ranked 10th on
+the Fortune India 500 list.[13]
+
+On 12 January 2017, N.Chandrashekaran was elevated as the chairman for Tata
+Sons .[14]
+
+## Contents
+
+  * 1 History
+    * 1.1 1968-2000
+    * 1.2 2000 to present
+    * 1.3 Acquisitions
+  * 2 Products and services
+    * 2.1 Service lines
+  * 3 Operations
+    * 3.1 Locations
+    * 3.2 TCS BPS
+    * 3.3 Tata Research Development and Design Centre
+    * 3.4 Innovation Labs
+  * 4 Employees
+  * 5 Sponsorships
+  * 6 Controversies
+    * 6.1 Class action lawsuit
+    * 6.2 Accusations of discrimination
+  * 7 See also
+  * 8 References
+  * 9 External links
+
+## History[edit]
+
+### 1968-2000[edit]
+
+TCS Limited was founded in 1968 by a division of Tata Sons Limited.[15] Its
+early contracts included punched card services to sister company TISCO (now
+Tata Steel), working on an Inter-Branch Reconciliation System for the Central
+Bank of India,[16] and providing bureau services to Unit Trust of India.
+
+In 1975, TCS delivered an electronic depository and trading system called
+SECOM for the Swiss company SIS SegaInterSettle (deutsch); it also developed
+System X for the Canadian Depository System and automated the Johannesburg
+Stock Exchange.[17] It associated with a Swiss partner, TKS Teknosoft, which
+it later acquired.[18]
+
+In 1980, TCS established India's first dedicated software research and
+development centre, the Tata Research Development and Design Centre (TRDDC) in
+Pune.[19] In 1981, it established India's first client-dedicated offshore
+development centre, set up for clients Tandem. TCS later (1993) partnered with
+Canada-based software factory Integrity Software Corp, which TCS later
+acquired.
+
+In anticipation of the Y2K bug and the launch of a unified European currency
+(Euro), Tata Consultancy Services created the factory model for Y2K conversion
+and developed software tools which automated the conversion process and
+enabled third-party developer and client implementation.[20]
+
+### 2000 to present[edit]
+
+On 25 August 2004, TCS became a Publicly Listed Company.[21]
+
+In 2005, TCS became the first India-based IT services company to enter the
+bioinformatics market.[22] In 2006, it designed an ERP system for the Indian
+Railway Catering and Tourism Corporation.[23] By 2008, its e-business
+activities were generating over US$500 million in annual revenues.[24][25]
+
+TCS entered the small and medium enterprises market for the first time in
+2011, with cloud-based offerings.[26] On the last trading day of 2011, it
+overtook RIL to achieve the highest market capitalisation of any India-based
+company.[27] In the 2011/12 fiscal year, TCS achieved annual revenues of over
+US$10 billion for the first time.[28]
+
+In May 2013, TCS was awarded a six-year contract worth over ₹ 1100 crores to
+provide services to the Indian Department of Posts.[29] In 2013, the firm
+moved from the 13th position to 10th position in the _League of top 10 global
+IT services companies_[30] and in July 2014, it became the first Indian
+company with over Rs 5 lakh crore market capitalization.[31][32]
+
+In Jan 2015, TCS ends RIL's 23-year run as most profitable firm[33]
+
+In Jan 2017, the company announced a partnership with Aurus, Inc., a payments
+technology company, to deliver payment solutions for retailers using TCS
+OmniStore, a first of its kind unified store commerce platform.[34]
+
+### Acquisitions[edit]
+
+Name | Acquisition date | Activities | Country of HQ | Price | Employees  
+(at acquisition) | Notes | Reference  
+---|---|---|---|---|---|---|---  
+CMC Limited | 2001 October | IT Services |  IND | $33.9 m | 3,102 | Gets
+Embedded Expertise & good Domestic customer reach. CMC Amalgamated with TCS on
+28 April 2015.[1] | [35][36][37]  
+Airline Financial Support Services India (AFSI) | 2004 January | BPO |  IND |
+$5.1 m | 400 | BPO expertise in Airline and Hospitality sector | [38][39]  
+Aviation Software Development Consultancy India (ASDC) | 2004 March | IT
+Services |  IND | $3.1 m | 180 |  |  
+Phoenix Global Solutions | 2004 May | Business Process Outsourcing |  IND |
+$130 m | 400 | Acquire expertise in insurance-domain consulting | [40][41]  
+Swedish Indian IT Resources AB (SITAR) | 2005 May | IT Services |  SWE | $4.8
+m | n/a | Acquire blue-chip European customers like Ericsson, IKEA, Vattenfall
+and Hutchison; SITAR was TCS’ exclusive partner in Sweden and a non-exclusive
+partner in Norway. | [42][43]  
+Pearl Group | 2005 October | Insurance |  UK | $94.7 m | 950 | Acquired life
+and pension outsourcing business from Pearl Group; Domain knowledge of life
+and pension underwriting business. | [44][45]  
+Financial Network Services (FNS) | 2005 October | Core Banking Product |  AU |
+$26 m | 190 | TCS acquired core banking solution product (BANCS) and access to
+116 customers in 35 countries; FNS was an existing partner for TCS. | [46][47]  
+Comicrom | 2005 November | Banking BPO |  CHL | $23 m | 1,257 | Entry into
+Latin America; Access to payment processing platform. | [48][49]  
+Tata Infotech | 2006 February | IT Services |  IND | $259.2 m | 3,600 | The
+merger of Tata Infotech added 15 new Fortune 500 clients and enhanced TCS’
+systems integration and infrastructure service capabilities. | [50][51][52]  
+TCS Management | 2006 November | IT Services |  AU | $13 m | 35 | Access to
+Australian clients | [53][54]  
+TKS-Teknosoft | 2006 November | Banking Product |   CH | $80.4 m | 115 |
+Expand product portfolio by acquiring rights to Quartz and ownership of Alpha
+and e-portfolio, enhanced presence in Switzerland and France | [55]  
+Citigroup Global Services Limited | 2008 December | Captive BPO of Citigroup
+Inc. |  IND | $512 m | 12,472 | TCS acquired key Banking and Financial
+Services (BFS) domain knowledge. | [56][57]  
+Supervalu Services India | 2010 September | Captive IT/BPO unit of Supervalu
+Inc. in India |  IND | $100 m | 600 | TCS had a deal with Supervalu to have
+their Software Outsourcing to TCS and acquired Supervalu India. | [58]  
+Computational Research Laboratories | 2012 August | High Performance Computing
+|  IND | $34 m | 80 | Acquire expertise in High Performance Computing (HPC)
+applications and Cloud services | [59][60]  
+Alti SA | 2013 April | IT Services |  FRA | $97.5 Mn | 1200 | Access to blue-
+chip French and European clients in banking, luxury, manufacturing and
+utilities sectors | [61]  
+  
+## Products and services[edit]
+
+TCS and its 67 subsidiaries[62] provide a wide range of information
+technology-related products and services including application development,
+business process outsourcing, capacity planning, consulting, enterprise
+software, hardware sizing, payment processing, software management and
+technology education services.[63] The firm's established software products
+are TCS BaNCS and TCS MasterCraft.[64]
+
+### Service lines[edit]
+
+TCS' services are currently organised into the following service lines
+(percentage of total TCS revenues in the 2012-13 fiscal year generated by each
+respective service line is shown in parentheses):
+
+  * Application development and maintenance (43.80%) value;
+  * Asset leverage solutions (2.70%);
+  * Assurance services (7.70%);
+  * Business process outsourcing (12.50%);
+  * Consulting (2.00%);
+  * Engineering and Industrial services (4.60%);
+  * Enterprise solutions (15.21%); and
+  * IT infrastructure services (11.50%).[63]
+
+## Operations[edit]
+
+TCS has 289 offices across 46 countries and 147 delivery centers in 21
+countries.[5] At the same date TCS had a total of 58 subsidiary companies.[63]
+
+### Locations[edit]
+
+TCS has operations in the following locations: **India** : Ahmedabad,
+Bangalore, Baroda, Bhubaneswar, Chennai, Coimbatore, Delhi, Gandhinagar, Goa,
+Gurgaon, Guwahati, Hyderabad, Bhopal, Indore, Jamshedpur, Kochi, Kolkata,
+Lucknow, Kalyanpur[ _disambiguation needed_ ], Mumbai, Nagpur, Noida, Nashik,
+Pune, Trivandrum[65][66] and Patna[67][68][69][70]
+
+**Africa** : South Africa, Morocco(closed down)[71][72]
+
+**Asia (excluding India)** : Bahrain, China, Israel, UAE, Hong kong,
+Indonesia, Japan, Malaysia, Philippines, Saudi Arabia, Singapore, South Korea,
+Taiwan, Thailand, Qatar [73][74][75]
+
+**Australia** : Australia
+
+**Europe** : Belgium, Denmark, Finland, France, Germany, Hungary, Iceland,
+Republic of Ireland, Italy, Luxembourg, Netherlands, Norway, Portugal, Spain,
+Sweden, Switzerland and United Kingdom.
+
+**North America** : Canada, Mexico and United States.
+
+**South America** : Argentina, Brazil, Chile, Colombia, Ecuador, Peru and
+Uruguay.[76]
+
+|  
+  
+---  
+  
+Tata Consultancy Services, Hyderabad  
+  
+---  
+  
+The Tata Consultancy Services campus in Lucknow  
+  
+---  
+  
+Tata Consultancy Services on Grosvenor Square, London  
+  
+### TCS BPS[edit]
+
+TCS BPS (Business Process Services) is the third-largest India-based IT
+outsourcing company (after capgemini).[77] The BPS division had revenues of
+US$1.44 billion in the FY 2012-13 which was 12.5% of the total revenue of
+TCS.[78] TCS BPS has more than 45,000 employees which serve over 225 million
+customers across 11 countries.[79] The rate of attrition in BPS division
+during the financial year 2012-13 was 19.5%.[80]
+
+In 2006, TCS won a $35 million contract from Eli Lilly and Company for
+providing data management, biostatistics and medical writing services.[81][82]
+In 2007, it won a major multi-year deal from Swiss pharmaceutical major
+Hoffmann-La Roche to provide data management, biostatistics, clinical
+programming and drug safety support to Hoffmann-La Roche's global
+pharmaceutical development efforts.[83][84][85]
+
+The firm has also opened a business process outsourcing facility in the
+Philippines.[86]
+
+### Tata Research Development and Design Centre[edit]
+
+Main article: Tata Research Development and Design Centre
+
+TCS established the first software research center in India, the Tata Research
+Development and Design Centre, in Pune, India in 1981. TRDDC undertakes
+research in Software engineering, Process engineering and systems research.
+Researchers at TRDDC also developed MasterCraft (now a suite of digitization
+and optimization tools)[87] a Model Driven Development software that can
+automatically create code based on a model of a software, and rewrite the code
+based on the user's needs.[88] Research at TRDDC has also resulted in the
+development of Sujal, a low-cost water purifier that can be manufactured using
+locally available resources. TCS deployed thousands of these filters in the
+Indian Ocean tsunami disaster of 2004 as part of its relief activities.[89]
+This product has been marketed in India as Tata swach, a low cost water
+purifier.[90]
+
+### Innovation Labs[edit]
+
+In 2007, TCS launched its co-innovation network, a network of innovation labs,
+start up alliances, university research departments, and venture
+capitalists.[91][92] In addition, TCS has 19 innovation labs based in three
+countries.[93] TCS' partners include Collabnet, Cassatt, academic institutions
+such as IITs, Stanford, MIT, Carnegie Mellon and venture capitalists like
+Sequoia and Kleiner Perkins.[94]
+
+## Employees[edit]
+
+TCS is one of the largest private sector employers in India,[95] and the
+fourth-largest employer among listed Indian companies (after Indian Railways,
+Indian Army and India Post).[96] TCS had a total of 387,000 employees as of
+December 2016, of which 31% were women.[63][97][98][99] The number of non-
+Indian nationals was 21,282 as at 31 March 2013 (7.7%).[63][100] The employee
+costs for the FY 2012-13 were US$4.38 billion, which was approx. 38% of the
+total revenue of the company for that period.[1] In the fiscal year 2012-13,
+TCS recruited a total of 69,728 new staff, of whom 59,276 were based in India
+and 10,452 were based in the rest of the world.[63] In the same period, the
+rate of attrition was 10.6%.[63] The average age of a TCS employee is 28
+years.[63] The employee utilisation rate, excluding trainees, for the FY
+2012-13 was 82%.[63] TCS was the fifth-largest United States visa recipient in
+2008 (after Infosys, CTS, Wipro and Mahindra Satyam).[101][102] In 2012, the
+Tata group companies, including TCS, were the second largest recipient of H-1B
+visas.[103][104] As of June 2017, TCS has over 387,000+ employees. It is
+world's third largest IT employer behind IBM and HP.
+
+Subramaniam Ramadorai, former CEO of TCS, has written an autobiographical book
+about his experiences in the company called _The TCS Story...and Beyond_.[105]
+
+##  Sponsorships[edit]
+
+TCS is the title sponsor for Amsterdam Marathon and New York City
+Marathon[106] and one of the sponsors of Berlin Marathon, Chicago Marathon,
+Boston Marathon, Mumbai Marathon.[107] In India, it is the title sponsor of
+World 10K held in Bangalore every year.[108] TCS is a sponsor of Indian
+Premier League team Rajasthan Royals since 2009.[109] In addition, TCS
+provides Rajasthan Royals with technology to help in analysis of player
+performance, simulation and use of RFID tags for tracking the players’ fitness
+levels and for security purposes in the stadiums.[110][111] TCS sponsors an
+annual IT quiz for high school students called _TCS IT Wiz_.[112] The TCS IT
+Wiz is the largest quiz in India, attracting students who are studying between
+class 8 and class 12.This quiz is hosted by Mr.Giri Balasubramanium.
+
+##  Controversies[edit]
+
+### Class action lawsuit[edit]
+
+On 14 February 2006, U.S. law firm Lieff Cabraser Heimann & Bernstein, LLP
+filed a nationwide class action lawsuit against Tata.[113] In July 2013, judge
+Claudia Wilken of the U.S. District Court, Northern District of California in
+Oakland, California, granted final approval to the settlement of the lawsuit
+on behalf of all non-U.S. citizens employed by TCS within the state of
+California from 14 February 2002 to 30 June 2005. The workers claimed that
+they were forced to sign over their federal and state tax refunds to their
+employer, as well as stating their Indian salaries were wrongfully deducted
+from their U.S. pay.[114] On 22 February 2013, the Company entered into an
+agreement to settle for a sum of INR 16,163 lakhs ($29.75 million), this class
+action suit filed in a United States Court relating to payment to employees on
+deputation.[63]
+
+Charleston County in South Carolina sued Tata Consultancy Services for
+delivering botched software. TCS won the contract to create an online tax
+system (digiTax) for a $1.2 million. The system was supposed to go live in
+July 2004 but was plagued by several delays. Tata developed the software at
+its offshore development center in Chennai, India. The software was rejected
+by Charleston County during user acceptance testing where it failed to meet
+even the basic requirements. County sued Tata and it agreed to pay back $1
+million in out of court settlement. Charleston County finally bought an off
+the shelf solution.[115]
+
+A US grand jury has slapped two companies of India's Tata group - Tata
+Consultancy Services and Tata America International Corp - with a USD 940
+million fine in a trade secret lawsuit filed against them. Epic Systems had
+accused TCS and Tata America International Corp, in a lawsuit filed in
+October, 2014 in US District Court in Madison which was amended in January and
+December 2015, of "brazenly stealing the trade secrets, confidential
+information, documents and data" belonging to Epic.[116]
+
+### Accusations of discrimination[edit]
+
+In May 2013, the Canadian Broadcasting Corporation (CBC), in its extensive
+coverage of the hiring of temporary foreign workers in Canada and the
+unemployment issues faced by Canadians, reported that TCS rarely hires skilled
+experienced Canadians at the Toronto offices while advertising open positions
+in Canada. TCS responded that the company hired more than 125 Canadian workers
+in 2013 who make less than 1.2% of the 10,452 workers the company has outside
+of India.[63][117]
+
+In April 2015, a class-action lawsuit against TCS was filed in a San Francisco
+federal court by a U.S. information technology worker and ex-employee, who
+accused the company of discriminating against American workers by favoring
+South Asians in hiring and promotion. The lawsuit claimed that South Asians
+comprise 95% of the company's 14,000-person U.S. workforce, and that TCS
+engaged in discriminatory practices by sourcing most of its workforce through
+the H-1B visa programme, by focusing its U.S.-based hiring disproportionately
+on South Asians and by favoring South Asian employees in its human resources
+practices. In response, TCS refuted the plaintiff's claims, assuring that it
+is an equal opportunity employer and bases its employment practices on non-
+discriminatory reasons. A spokesperson said that in 2014 alone the company had
+recruited over 2,600 U.S. hires.[118]
+
+## See also[edit]
+
+  * Companies portal
+  * Information technology portal
+
+  * List of IT consulting firms
+  * List of Indian IT companies
+  * List of companies of India
+
+## References[edit]
+
+  1. ^ _**a**_ _**b**_ _**c**_ _**d**_ _**e**_ _**f**_ _**g**_ _**h**_ "Annual Report 2016-17 US GAAP/IFRS" (PDF). TCS. 17 April 2017. Retrieved 3 September 2016. 
+  2. **^** "TCS Q1 FY 2017-18 Report" (PDF). TCS. 
+  3. **^** "Tata Consultancy Services". Forbes. 29 August 2013. Retrieved  3 September 2013. 
+  4. **^** "Tata Consultancy Services Ltd (TCS.NS)". Reuters. Retrieved  3 September 2013. 
+  5. ^ _**a**_ _**b**_ "TCS Investor FAQs". TCS. June 2014. Retrieved  30 November 2017. 
+  6. **^** "TCS market value crosses Rs 4 lakh crore — stock at all-time high". _Times of India_. 2 September 2013.  
+  7. **^** "TCS market cap crosses Rs. 4 lakh crore". 2 September 2013. Retrieved  3 September 2013. 
+  8. **^** "TCS brandvalue exceeds 5 billion".  
+  9. **^** "TCS has also accounted for at least 70% of Tata Sons dividends in the past three years, which would have worked in Chandrasekaran's favour".  
+  10. **^** http://www.news18.com/news/business/ishaat-hussain-appointed-chairman-of-tata-consultancy-services-1310369.html
+  11. **^** "Tata Consultancy Services on the Forbes Asia's Fab 50 Companies List". _Forbes_.  
+  12. **^** "TCS joins top 10 global IT services companies club". Times of India. 22 Apr 2014. Retrieved  8 Jun 2015. 
+  13. **^** [profit.ndtv.com/news/corporates/article-indian-oil-tops-fortune-500-list-for-sixth-straight-year-1258697]
+  14. **^** "Tata Sons chairman N Chandrasekaran may follow leadership style of JRD Tata".  
+  15. **^** "Corporate Facts". TCS. Retrieved  3 September 2013. 
+  16. **^** "Tata Consultancy Services Limited: The Pioneer in the Indian IT Industry". _Case Study_. ICMR. 1 January 1990. Retrieved  8 September 2013. 
+  17. **^** "Indian software keeps Swiss securities safe". Swissinfo.com. 14 January 2002.  
+  18. **^** "TCS acquires TKS Teknosoft". _The Financial Express_. 11 January 2006.  
+  19. **^** Kanavi, Shivanand (7–20 June 2004). "Megasoft". _Business India_ : 46–54. 
+  20. **^** "IT Man of the Year: Standing Tall". _Cover Story_. Dataquest India. 22 December 2004.  
+  21. **^** "Star Performer Goes Public". _Editorial_. Chennai, India: The Hindu. 14 June 2004.  
+  22. **^** "TCS launches the country's first bioinformatics product". _The Indian Express_. 8 February 2004.  
+  23. **^** "ICT helps IRCTC book 3.5 lakh e-Tickets in a day". _E-GovOnline.net_. 11 July 2011.  
+  24. **^** Kanavi, Shivanand (7–20 June 2004). "Megasoft". _Business India_ : 52. 
+  25. **^** "Eye on future, TCS in revamp mode". _Hindustan Times_. 12 February 2008.  
+  26. **^** "TCS targets SME market with cloud computing". _Computer Weekly_. 15 February 2011.  fdaf
+  27. **^** "TCS overtakes RIL as country's most valued firm – PTI". Moneycontrol.com. 30 Dec 2011. Retrieved  3 September 2013. 
+  28. **^** "TCS beats $10-bn revenue mark in FY12". _Business Standard_. 24 Apr 2012. Retrieved  3 September 2013. 
+  29. **^** TCS News & Events: Press Release : Department of Posts Awards Core System Integrator project to TCS. Tcs.com. Retrieved on 2013-12-06.
+  30. **^** "TCS joins top 10 global IT services companies club". _The Times of India_. Retrieved  2 July 2015. 
+  31. **^** "TCS first Indian company to top Rs 5 lakh crore market cap". Times Of India. 24 July 2014.  
+  32. **^** "TCS Crosses Rs.5 Lk Cr Market Cap". Bloomberg TV India. 24 July 2014.  
+  33. **^** "TCS ends RIL's 23-year run as most profitable firm". Times Of. 20 January 2014.  
+  34. **^** indiainfoline.com. "TCS | TCS partners with Aurus to enhance Omnichannel payment solutions with OmniStore". Retrieved 2017-01-17. 
+  35. **^** "TCS outlines vision for CMC". Chennai, India: The Hindu. 17 October 2001. Retrieved  7 September 2013. 
+  36. **^** "TCS acquires CMC". Tata Group. 17 October 2001. Retrieved  7 September 2013. 
+  37. **^** "TCS to consolidate market leadership through CMC acquisition". Tata Group. 17 October 2001. Retrieved  7 September 2013. 
+  38. **^** "TCS buys 75.1% stake in AFS from Swissair". Rediff.com. 5 June 2003.  
+  39. **^** "TCS acquires Swissair stake in BPO jt venture". _The Hindu_. 7 May 2003. Retrieved  7 September 2013. 
+  40. **^** "Tata acquires Phoenix India arm". ComputerWeekly.com. 11 May 2004.  
+  41. **^** "TCS acquires Phoenix Global". Tata Group. 11 May 2004. Retrieved  7 September 2013. 
+  42. **^** "Tata Consultancy Services Limited" (PDF). Indian Brand Equity Foundation. 23 October 2006. Retrieved 7 September 2013. 
+  43. **^** "Annual Report 2005-06" (PDF). TCS. May 2005. Retrieved 7 September 2013. 
+  44. **^** "TCS to buy Pearl Group's life insurance, pension units". _Economic Times_. 19 October 2005. Retrieved  7 September 2013. 
+  45. **^** "TCS — Acquisition spree". Tata Group. 9 November 2005. Retrieved  7 September 2013. 
+  46. **^** "TCS acquires Sydney-based FNS for US$ 26 million". Tata Group. 20 October 2005. Retrieved  7 September 2013. 
+  47. **^** "TCS acquires Australian core banking solutions co". _Economic Times_. 21 October 2005. Retrieved  7 September 2013. 
+  48. **^** "TCS buys Chilean BPO firm". _The Hindu_. Chennai, India. 9 November 2005. Retrieved  7 September 2013. 
+  49. **^** "TCS acquires leading BPO firm in Chile". Tata Group. 8 November 2005. Retrieved  7 September 2013. 
+  50. **^** "Tata Infotech to merge with TCS". Silicon India. 18 July 2005.  
+  51. **^** "Tata Infotech to merge with TCS". Tata Group. 16 July 2005. Retrieved  7 September 2013. 
+  52. **^** "Tata Infotech, TCS to merge". _Indian Express_. 16 July 2005. Retrieved  7 September 2013. 
+  53. **^** "TCS acquires IT consultancy firm for A$15m". ITWire.com. 12 November 2006. Retrieved  7 September 2013. 
+  54. **^** "TCS acquires Australian consultancy firm". _Economic Times_. 8 November 2006. Retrieved  7 September 2013. 
+  55. **^** "TCS acquires Swiss firm TKS-Teknosoft". Financial Express. 1 November 2006. Retrieved  7 September 2013. 
+  56. **^** "Tata Consultancy Services to Acquire Citigroup Global Services". Bloomberg.com. 8 October 2008. Retrieved  8 September 2013. 
+  57. **^** "TCS takes a lead, but deal raises a few concerns". _Economic Times_. 9 October 2008. Retrieved  8 September 2013. 
+  58. **^** "TCS buys captive unit of SuperValu". _Times of India_. 16 September 2010. Retrieved  8 September 2013. 
+  59. **^** "TCS to buy tech startup 'Computational Research Labs' for $34 million". _Economic Times_. 16 Aug 2012. Retrieved  8 September 2013. 
+  60. **^** "TCS buys high performance computing start-up for Rs 188 cr". _The Hindu_. 16 August 2012. Retrieved  8 September 2013. 
+  61. **^** "TCS to acquire IT services firm ALTI for € 75 million to help drive long-term growth in France". 9 April 2013. Retrieved  7 September 2013. 
+  62. **^** Subsidiaries. TCS (2013-03-31). Retrieved on 2013-12-06.
+  63. ^ _**a**_ _**b**_ _**c**_ _**d**_ _**e**_ _**f**_ _**g**_ _**h**_ _**i**_ _**j**_ _**k**_ "Annual Report 2012-2013" (PDF). Tata Consultancy Services. Retrieved 3 September 2013. 
+  64. **^** "Tata Consultancy Services". Tata Group. Retrieved  6 September 2013. 
+  65. **^** in: Software Companies (6 November 2008). "Office locations of TCS in India". AbhiSays.com. Retrieved 13 November 2011. 
+  66. **^** "India: Tata Consultancy Services Worldwide". Tcs.com. Retrieved  13 November 2011. 
+  67. **^** "TCS launches new centre in Patna to create new opportunities as part of #DigitalIndia push".  
+  68. **^** "Patna 2.0: A New Facility For TCS, a Giant Leap For Bihar".  
+  69. **^** "BPO centre opens in Patna today; 3,000 jobs up for grabs".  
+  70. **^** "TCS sets up eastern region's largest BPO centre in Patna".  
+  71. **^** "TCS plans Morocco foray with 500-strong unit". Express Online. 12 October 2006.  
+  72. **^** Adith Charlie. "TCS closing down Morocco unit". _The Hindu Business Line_. Retrieved  2 July 2015. 
+  73. **^** "TCS Worldwide: Philippines". Tcs.com. Retrieved  13 November 2011. 
+  74. **^** "China Joint Venture with Tata Consultancy Services". _China Economic Review_. 18 September 2007.  
+  75. **^** "TCS Worldwide: United Arab Emirates (UAE)". Tcs.com. Retrieved  13 November 2011. 
+  76. **^** "TCS bets on growing economy of Peru". Times of India. 25 July 2010.  
+  77. **^** "Top 15 BPO companies". NASSCOM. Retrieved  6 September 2013. 
+  78. **^** "Press Release Indian GAAP Q4 2012-13" (PDF). TCS. 17 April 2013. Retrieved 3 September 2013. 
+  79. **^** "TCS Named as a Leader in Life Science Drug Safety Services by Leading Industry Research Firm". Yahoo! Finance. 28 February 2013. Retrieved  3 September 2013. 
+  80. **^** "Consolidated Historical Financials". TCS. Retrieved  3 September 2013. 
+  81. **^** "TCS wins $35 mn Eli Lilly contract". _timesofindia-economictimes_. 13 November 2006. Retrieved  2 July 2015. 
+  82. **^** "TCS with US-based Eli Lilly for advance clinical research". _www.oneindia.com_. Retrieved  2 July 2015. 
+  83. **^** "Tata bags major BPO deal with Roche". _Outsourcing-Pharma.com_. Retrieved  2 July 2015. 
+  84. **^** "TCS to support Roche's initiative". _The Hindu_. Chennai, India. 5 September 2007. Retrieved  2 July 2015. 
+  85. **^** "TCS in multi-million dollar deal with Swiss firm". _timesofindia-economictimes_. 5 September 2007. Retrieved  2 July 2015. 
+  86. **^** "India's TCS opens BPO shop in Manila, Philippines – Jobs & Hire". Ibtimes.com. 3 December 2010. Retrieved  13 November 2011. 
+  87. **^** "TCS Mastercraft Suite of Products". Tata Consultancy Services. 1 October 2012.  
+  88. **^** "When Outsourcing Loses Human Element". International Herald Tribune. 27 May 2005.  
+  89. **^** "Improving Our World – IEEE Annual Report(page 4)" (PDF). IEEE. 2005. 
+  90. **^** "Tata launches 'Swach' water filters". Deccanherald. Retrieved  12 August 2010. 
+  91. **^** "TCS launches its Co-Innovation Network". Financialexpress.com. 18 January 2007. Retrieved  16 July 2010. 
+  92. **^** "The TCS Co-Innovation Network". TCS. Retrieved  6 September 2013. 
+  93. **^** "Innovation Labs". TCS. Retrieved  16 July 2010. 
+  94. **^** "Co-Innovation Network". TCS. Retrieved  26 July 2010. 
+  95. **^** "TCS Q4 net profit jumps 22% to Rs 3,597 crore". Times of India. 17 April 2013. Retrieved  3 September 2013. 
+  96. **^** http://economictimes.indiatimes.com/slideshows/nation-world/indias-eight-biggest-employers/slideshow/47861071.cms
+  97. **^** http://economictimes.indiatimes.com/markets/stocks/news/top-five-takeaways-what-powered-tcs-to-beat-street-estimates-on-q3-earnings/articleshow/56498799.cms
+  98. **^** http://www.firstpost.com/business/corporate-business/can-tcs-grow-to-500000-employees-or-will-linear-staff-growth-start-impacting-results-1968129.html
+  99. **^** http://www.livemint.com/Companies/bkMCAhvRg2xJvLqsLQh88I/TCS-behind-only-IBM-in-employee-strength.html
+  100. **^** "TCS non-Indian employee number crosses 21,000". _Business Standard_. 7 June 2013. Retrieved  3 September 2013. 
+  101. **^** "Indian Firms, Microsoft Top H-1B List". _News_. Businessweek. 24 February 2009. Retrieved  8 September 2013. 
+  102. **^** "Indian Outsourcing Companies Top H-1B Visa List". eWeek.com. 2 March 2009. Retrieved  8 September 2013. 
+  103. **^** "Top 10 H1B visa recipients outsource American jobs overseas: Report". _The Hindu_. 20 February 2013. Retrieved  8 September 2013. 
+  104. **^** "The data shows: Top H-1B users are offshore outsourcers". ComputerWorld. 14 February 2013. Retrieved  8 September 2013. 
+  105. **^** "TCS: the complete story". _Business Standard_. 21 September 2011. Retrieved  6 September 2013. 
+  106. **^** TCS title sponsor for New York Road Runners. Business Standard (2013-10-03) Retrieved on 2013-12-06.
+  107. **^** "About TCS — Corporate Facts — Sponsorships". TCS. Retrieved  6 September 2013. 
+  108. **^** "10 Things you must know about TCS World 10K Marathon 2015". news.biharprabha.com. 16 May 2015. Retrieved  16 May 2015. 
+  109. **^** TCS ties up with Rajasthan Royals
+  110. **^** TCS is Rajasthan Royals’ tech partner
+  111. **^** Tata Consultancy Services enters the Indian Premier League
+  112. **^** TCS IT Wiz
+  113. **^** "Tata Workers in America Wages Class Action Lawsuit". _Lieff Cabraser Heimann & Bernstein, LLP_. Retrieved 2 July 2015. 
+  114. **^** "TCS faces class action lawsuit in US". _MSN News_. 4 April 2012. Retrieved  20 February 2013. 
+  115. **^** http://nl.newsbank.com/nl-search/we/Archives?p_action=doc&p_docid=11F320ACB663DBD0&p_docnum=1.   Missing or empty `|title=` (help)
+  116. **^** http://economictimes.indiatimes.com/tech/ites/us-jury-slaps-940-million-fine-on-tcs-tata-america-international-corp-in-trade-secret-case/articleshow/51853894.cms
+  117. **^** "Canadian on EI shut out amid foreign worker influx — British Columbia — CBC News". Cbc.ca. 2013-05-20. Retrieved  2013-06-10. 
+  118. **^** Thibodeau, Patrick (16 April 2015). "IT worker's lawsuit accuses Tata of discrimination". _ComputerWorld_. Retrieved  16 April 2015. 
+
+## External links[edit]
+
+| Wikimedia Commons has media related to _**Tata Consultancy Services**_.  
+---|---  
+  
+  * Official website
+  * TCS's channel on YouTube
+  *   *     * Business data for Tata Consultancy Services Ltd.:
+    * Reuters
+
+  * v
+  * t
+  * e
+
+Tata Group  
+  
+---  
+Divisions and  
+subsidiaries |
+
+  * Cromā
+  * The Indian Hotels Company
+    * Gateway
+    * Ginger
+    * Taj Hotels Resorts and Palaces
+    * TajAir
+  * Tata Advanced Systems
+  * Tata Business Support Services
+  * Tata Chemicals
+    * British Salt
+    * Tata Chemicals Europe
+    * Tata Chemicals Magadi
+  * Tata Communications
+    * VSNL International Canada
+  * Tata Consultancy Services
+    * CMC
+    * Tata Research Development and Design Centre
+  * Tata Elxsi
+  * Tata Global Beverages
+    * Eight O'Clock Coffee
+    * Good Earth Tea
+    * Tata Coffee
+    * Tetley
+  * Tata Housing Development Company
+  * Tata Interactive Systems
+  * Tata Investment Corp
+  * Tata Motors
+    * Jaguar Land Rover
+    * Tata Daewoo
+    * Tata Hispano
+  * Tata Power
+    * Tata Power Solar
+    * Tata Power SED
+  * Tata Steel
+    * Tata Steel Europe
+    * Tayo Rolls
+  * Tata Technologies
+  * Tata Teleservices
+  * Titan Industries
+    * Tanishq
+  * Trent
+    * Star Bazaar
+    * Westside
+  * Voltas
+  * Tata CLiQ
+
+  
+  
+Joint ventures |
+
+  * AirAsia India (41%)
+  * Tata AIA (74%)
+  * TATA AIG (74%)
+  * Tata McGraw-Hill
+  * Vistara (51%)
+  * Tata Sky (80%)
+  * Tata Starbucks (50%)
+  * Tata DoCoMo (74%)
+  * Virgin Mobile India (74%)
+  * Telcon Construction Solutions (40%)
+
+  
+  
+Shareholdings |
+
+  * Piaggio Aero (33.3%)
+
+  
+  
+People |
+
+  * Jamsetji Tata
+  * Ratanji Dadabhoy
+  * R Gopalakrishnan
+  * Dorabji Tata
+  * Nowroji Saklatwala
+  * J. R. D. Tata
+  * Ratan Tata
+  * Pallonji Mistry
+  * Surya Kant
+  * Cyrus Pallonji Mistry
+  * Jamshed Jiji Irani
+  * Noel Tata
+  * R. K. Krishna Kumar
+  * N Chandrasekaran
+
+  
+  
+Other |
+
+  * Bombay House
+  * Tata Centre
+  * Tata-Dhan Academy
+  * Tata family
+  * Tata Football Academy
+  * Tata Management Training Centre
+  * Tata Sons
+  * TCS Amsterdam Marathon
+  * TCS NYC Marathon
+
+  
+  
+**Category**  
+  
+  * v
+  * t
+  * e
+
+Major Indian companies  
+  
+---  
+  
+  * Economy of India
+  * List of companies of India
+
+  
+  
+Automotive |
+
+  * Ashok Leyland
+  * Bajaj Auto
+  * Eicher Motors
+  * Hero MotoCorp
+  * Hindustan Motors
+  * Mahindra & Mahindra
+  * TAFE
+  * Tata Motors
+  * TVS
+
+  
+  
+Aerospace  
+& Defence |
+
+  * Bharat Electronics
+  * DRDO
+  * HAL
+  * Ordnance Factories
+
+  
+  
+Conglomerates |
+
+  * Aditya Birla
+  * Adani
+  * Avantha
+  * Bajaj
+  * Bharti
+  * DCM
+  * Emami
+  * Essar
+  * Essel
+  * GMR
+  * Godrej
+  * GVK
+  * Hinduja
+  * Indiabulls
+  * ITC
+  * Jaypee
+  * Jindal
+  * Kirloskar
+  * J.K
+  * JSW
+  * L&T
+  * Lanco
+  * Mahindra
+  * Muthoot
+  * Murugappa
+  * RP-Sanjiv Goenka Group
+  * Ramoji
+  * Reliance ADAG
+  * Reliance
+  * RPG
+  * Sahara
+  * Shapoorji Pallonji
+  * Sun
+  * Tata
+  * TVS
+  * Torrent
+  * UB
+  * Videocon
+  * Wadia
+
+  
+  
+Civil Aviation |
+
+  * Air India
+  * GoAir
+  * IndiGo
+  * Jet Airways
+  * SpiceJet
+
+  
+  
+Consumer Goods  
+& Retail |
+
+  * Britannia Industries
+  * Dabur
+  * D-Mart
+  * Flipkart
+  * Future Group
+  * Godrej Consumer
+  * Hindustan Unilever
+  * ITC
+  * Nirma
+  * Patanjali Ayurved
+  * Reliance Retail
+  * Tata Global Beverages
+
+  
+  
+Energy &  
+Natural Resources |
+
+  * Bharat Petroleum
+  * Cairn India
+  * Chennai Petroleum
+  * Coal India
+  * GAIL
+  * Essar Oil
+  * Hindustan Petroleum
+  * Indian Oil Corporation
+  * National Aluminum
+  * NHPC
+  * NMDC
+  * NLC
+  * NTPC
+  * Oil India
+  * ONGC
+  * MRPL
+  * Petronet LNG
+  * Power Finance
+  * Power Grid
+  * RINL
+  * Reliance Infrastructure
+  * RECL
+  * SCI
+  * Suzlon Energy
+  * Tata Power
+  * Vedanta Limited
+
+  
+  
+Finance |
+
+  * Andhra Bank
+  * Axis Bank
+  * Bank of Baroda
+  * Bank of India
+  * Canara Bank
+  * Central Bank of India
+  * HDFC Bank
+  * ICICI Bank
+  * IDBI Bank
+  * IBHFL
+  * ING Vysya Bank
+  * Jammu & Kashmir Bank
+  * Kotak Mahindra Bank
+  * LIC
+  * MUDRA Bank
+  * Muthoot Finance Ltd
+  * NABARD
+  * Punjab National Bank
+  * SBI
+  * Tamilnad Mercantile Bank
+  * Union Bank of India
+  * Yes Bank
+
+  
+  
+Healthcare,  
+Pharmaceutical  
+& Biotech |
+
+  * Aurobindo Pharma
+  * Cadila Healthcare
+  * Cipla
+  * Dr. Reddy's
+  * Glenmark Pharmaceuticals
+  * IDPL
+  * IIL
+  * Lupin
+  * Sun Pharmaceutical
+
+  
+  
+Manufacturing &  
+Heavy Industries |
+
+  * ACC
+  * Ambuja
+  * Apollo Tyres
+  * Asian Paints Ltd
+  * Bhushan
+  * Bengal Chemicals and Pharmaceuticals
+  * Bharat Forge
+  * BHEL
+  * DLF
+  * Gammon India
+  * Grasim
+  * Havells
+  * HCC
+  * Hindalco
+  * India Cements
+  * IFFCO
+  * Jindal Steel
+  * JSW
+  * Mittal Steel Company
+  * MSSL
+  * MRF
+  * Rajesh Exports
+  * SAIL
+  * Tata Steel
+  * UltraTech
+
+  
+  
+Information technology |
+
+  * HCL Technologies
+  * Infosys
+  * Tata Consultancy Services
+  * Tech Mahindra
+  * Wipro
+
+  
+  
+Media |
+
+  * Living Media
+  * Sun Group
+  * The Times Group
+  * Zee Entertainment Enterprises
+
+  
+  
+Telecommunications |
+
+  * Aircel
+  * Airtel
+  * BSNL
+  * Idea Cellular
+  * Jio
+  * Micromax
+  * MTNL
+  * Reliance Communications
+  * Tata Communications
+
+  
+  
+**Benchmark: FY 2015-16 revenues of over US$ 1 billion**  
+  
+  * v
+  * t
+  * e
+
+Major information technology companies  
+  
+---  
+  
+  * Largest IT companies
+  * Largest Internet companies
+  * Largest software companies
+
+  
+  
+Consulting and  
+outsourcing |
+
+  * Accenture
+  * Atos
+  * Booz Allen Hamilton
+  * BMC Software
+  * BT Global Services
+  * CACI
+  * Capgemini
+  * CGI Group
+  * Cognizant
+  * Deloitte
+  * Digital China
+  * DXC Technology
+  * Fujitsu
+  * HCL Technologies
+  * Hitachi Consulting
+  * IBM Global Services
+  * Indra Sistemas
+  * Infosys
+  * Infor
+  * KPMG
+  * Leidos
+  * NEC
+  * NTT DATA
+  * Orange Business Services
+  * T-Systems
+  * Tata Consultancy Services
+  * Tech Mahindra
+  * Unisys
+  * Wipro
+
+  
+  
+Imaging |
+
+  * Canon Inc.
+  * HP Inc.
+  * Eastman Kodak
+  * Fujifilm
+  * Hikvision
+  * Konica Minolta
+  * Kyocera
+  * Lexmark
+  * Nikon
+  * Olympus Corporation
+  * Panasonic
+  * Ricoh (Pentax)
+  * Samsung Electronics
+  * Seiko Epson
+  * Sharp
+  * Sony
+  * Toshiba
+  * Xerox
+
+  
+  
+Information storage |
+
+  * ADATA
+  * Dell Technologies (Dell EMC)
+  * Fujitsu
+  * Hitachi Data Systems
+  * Hewlett Packard Enterprise
+  * IBM
+  * Kingston Technology
+  * LenovoEMC
+  * NetApp
+  * Oracle Corporation
+  * Plextor
+  * Samsung Electronics
+  * Seagate Technology
+  * Silicon Power
+  * Sony
+  * Toshiba
+  * Transcend Information
+  * Western Digital (SanDisk)
+
+  
+  
+Internet |
+
+  * Baidu
+  * Facebook
+  * Google
+  * IAC/InterActiveCorp
+  * Microsoft
+  * Naver
+  * NetEase
+  * Netflix
+  * Oath
+  * Tencent
+  * Twitter
+  * Uber
+  * Vox Media
+  * Yandex
+
+| Cloud computing |
+
+  * Akamai Technologies
+  * Alibaba Cloud
+  * Amazon Web Services
+  * Google
+  * IBM
+  * Microsoft
+  * Oracle Corporation
+  * Rackspace
+  * Salesforce.com
+
+  
+  
+---|---  
+E-commerce only |
+
+  * Alibaba Group
+  * Amazon.com
+  * eBay
+  * Flipkart
+  * Groupon
+  * JD.com
+  * Shopify
+  * Rakuten
+
+  
+  
+---|---  
+Mainframes |
+
+  * Fujitsu
+  * IBM
+
+  
+  
+Mobile devices |
+
+  * Acer Inc.
+  * Amazon.com
+  * Apple (iOS)
+  * Asus
+  * BBK Electronics (OPPO, OnePlus, Vivo)
+  * BlackBerry Limited
+  * Google (Android)
+  * Hisense
+  * HTC
+  * Huawei
+  * Karbonn
+  * Lava (XOLO)
+  * Lenovo (Motorola Mobility)
+  * LG Electronics
+  * Meizu
+  * Micromax (YU)
+  * Microsoft
+  * Nokia (HMD Global)
+  * Panasonic
+  * Samsung
+  * Sony
+  * TCL Corporation
+  * Transsion
+  * True
+  * Xiaomi
+  * ZTE
+
+  
+  
+Networking equipment |
+
+  * Avaya
+  * Cisco Systems
+  * Ericsson
+  * Fujitsu
+  * Hewlett Packard Enterprise
+  * Huawei
+  * Juniper Networks
+  * Motorola Solutions
+  * NEC
+  * Nokia
+  * Qualcomm
+  * ZTE
+
+  
+  
+OEMs |
+
+  * Celestica
+  * Compal Electronics
+  * Flextronics
+  * Foxconn
+  * Jabil
+  * Pegatron
+  * Quanta
+  * Sanmina Corporation
+  * TPV Technology
+  * Wistron Corporation
+
+  
+  
+Personal computers  
+and servers |
+
+  * Acer Inc.
+  * Apple Inc.
+  * Asus
+  * Dell
+  * Fujitsu
+  * Huawei
+  * HP Inc.
+  * Lenovo
+  * LG Electronics
+  * NEC
+  * Panasonic
+  * Positivo
+  * Samsung Electronics
+  * Toshiba
+
+| Servers only |
+
+  * Cisco Systems
+  * Hewlett Packard Enterprise
+  * IBM
+  * Inspur
+  * Oracle Corporation
+
+  
+  
+---|---  
+Financial technology |
+
+  * Euronet Worldwide
+  * FIS
+  * PayPal
+  * Fiserv
+  * Jack Henry
+  * SWIFT
+  * Square
+
+  
+  
+Point of sale |
+
+  * Casio
+  * NCR
+  * Panasonic
+  * Samsung Electronics
+  * Seiko Epson
+  * Sharp
+  * Star Micronics
+  * Toshiba
+  * Wincor Nixdorf
+
+  
+  
+Semiconductors |
+
+  * ASE Group
+  * Fujitsu
+  * Infineon Technologies
+  * Integrated Micro-Electronics, Inc.
+  * Intel
+  * NXP Semiconductors (Freescale)
+  * ON Semiconductor
+  * Panasonic
+  * Renesas Electronics
+  * Samsung Electronics
+  * Sony
+  * STMicroelectronics
+  * Texas Instruments
+
+| Fabless |
+
+  * Advanced Micro Devices
+  * Apple Inc.
+  * Broadcom
+  * Marvell Technology Group
+  * MediaTek
+  * Nvidia
+  * Qualcomm
+  * VIA Technologies
+
+  
+  
+---|---  
+Memory |
+
+  * Micron Technology
+  * Samsung Electronics
+  * SanDisk
+  * SK Hynix
+  * Toshiba
+
+  
+  
+---|---  
+Foundries |
+
+  * GlobalFoundries
+  * TSMC
+  * United Microelectronics Corporation
+  * Samsung Foundry
+  * SMIC
+
+  
+  
+---|---  
+Equipment |
+
+  * ASML
+  * Applied Materials
+  * KLA-Tencor
+  * Lam Research
+  * Tokyo Electron
+
+  
+  
+---|---  
+Software |
+
+  * Adobe Systems
+  * Amadeus IT Group
+  * Apple Inc.
+  * Autodesk
+  * BMC Software
+  * CA Technologies
+  * FIS
+  * Google
+  * Hewlett Packard Enterprise
+  * IBM
+  * Intuit
+  * Infor
+  * Microsoft
+  * Oracle Corporation
+  * Quest Software
+  * Sage Group
+  * SAP SE
+  * Symantec
+  * VMware
+
+  
+  
+Telecommunications  
+|
+
+  * América Móvil
+  * AT&T
+  * Bell Canada
+  * Bezeq
+  * Bharti Airtel
+  * Bharat Sanchar Nigam Limited
+  * BT Group
+  * CenturyLink
+  * China Mobile
+  * China Telecommunications Corporation
+    * China Telecom
+  * China Unicom
+  * Chunghwa Telecom
+  * Comcast
+  * Deutsche Telekom
+  * Hutchison Asia
+  * Idea Cellular
+  * Jio
+  * KDDI
+  * KPN
+  * KT Corporation
+  * Mahanagar Telephone Nigam
+  * MTN
+  * MTS
+  * Nippon
+  * NTT DoCoMo
+  * Oi
+  * Orange S.A.
+  * PCCW
+  * Reliance
+  * Rogers
+  * Shaw
+  * Singtel
+  * SK Telecom
+  * SoftBank Mobile
+  * Spark
+  * Sprint Corporation
+  * Swisscom
+  * Taiwan Mobile
+  * Tata Teleservices
+  * Telecom Italia
+  * Telefónica
+  * Telenor
+  * Telus
+  * Telmex
+  * Telstra
+  * TPG
+  * Trilogy International Partners
+  * True
+  * Türk Telekom
+  * Veon
+  * Verizon
+  * Viettel
+  * Vivendi
+  * Vodafone
+
+  
+  
+Travel technology |
+
+  * Amadeus IT Group
+  * Sabre Corporation
+  * Travelport
+
+  
+  
+Video games |
+
+  * Activision Blizzard
+  * Atari
+  * Bandai Namco
+  * Capcom‎
+  * Deep Silver
+  * Disney Mobile
+  * Electronic Arts
+  * Epic Games
+  * Gameloft
+  * Glu Mobile
+  * LucasArts
+  * Koei Tecmo
+  * Konami
+  * Marvelous
+  * Microsoft
+  * NCsoft
+  * Nexon
+  * Nintendo
+  * Nippon Ichi Software
+  * Sega
+  * SNK
+  * Sony
+  * Square Enix
+  * Take-Two Interactive
+  * Tencent
+  * Ubisoft
+  * Valve
+  * Warner Bros.
+  * ZeniMax
+
+  
+  
+**Methodology: FY2014/15 applicable revenues of over: groups 1–3, 6–12: US$3
+billion; group 4: US$2 billion; groups 5, 13, 16: US$1 billion**  
+  
+  * v
+  * t
+  * e
+
+BSE SENSEX companies of India  
+  
+---  
+  
+  * Airtel
+  * Axis Bank
+  * Bajaj Auto
+  * BHEL
+  * Cipla
+  * Coal India
+  * Dr. Reddy's Laboratories
+  * GAIL
+  * HDFC
+  * HDFC Bank
+  * Hero MotoCorp
+  * Hindalco
+  * HUL
+  * ICICI Bank
+  * Infosys
+  * ITC
+  * L&T
+  * Mahindra & Mahindra
+  * Maruti Suzuki
+  * NTPC
+  * ONGC
+  * Reliance Industries
+  * SBI
+  * Sesa Sterlite
+  * Sun Pharma
+  * Tata Motors
+  * Tata Power
+  * Tata Steel
+  * TCS
+  * Wipro
+
+  
+  
+  * v
+  * t
+  * e
+
+CNX Nifty companies of India  
+  
+---  
+  
+  * ACC
+  * Ambuja Cements
+  * Asian Paints Ltd
+  * Axis Bank
+  * Bajaj Auto
+  * Bank of Baroda
+  * BHEL
+  * BPCL
+  * Bharti Airtel
+  * Cairn India
+  * Cipla
+  * Coal India
+  * DLF
+  * Dr. Reddy's Laboratories
+  * GAIL
+  * Grasim Industries
+  * HCL Technologies
+  * HDFC
+  * HDFC Bank
+  * Hero MotoCorp
+  * Hindalco Industries
+  * HUL
+  * Infosys
+  * ICICI Bank
+  * IDFC
+  * IndusInd Bank Ltd.
+  * ITC Limited
+  * Jindal Steel and Power
+  * Kotak Mahindra Bank
+  * L&T
+  * Lupin
+  * Mahindra & Mahindra
+  * Maruti Udyog
+  * NMDC
+  * NTPC
+  * ONGC
+  * Power Grid Corporation
+  * PNB
+  * Reliance Industries
+  * Sesa Sterlite Limited
+  * SBI
+  * Sun Pharmaceutical
+  * TCS
+  * Tata Motors
+  * Tata Power
+  * Tata Steel
+  * Tech Mahindra
+  * Ultratech Cement
+  * Wipro
+  * Zee Entertainment Enterprises
+
+  
+  
+Retrieved from
+"https://en.wikipedia.org/w/index.php?title=Tata_Consultancy_Services&oldid=816820534"
+
+Categories:
+
+  * Tata Consultancy Services
+  * BSE SENSEX
+  * CNX Nifty
+  * Companies based in Mumbai
+  * Companies established in 1968
+  * Companies listed on the Bombay Stock Exchange
+  * Information technology consulting firms of India
+  * International information technology consulting firms
+  * MES software
+  * Outsourcing companies
+  * Software companies of India
+  * Information technology companies of Bhubaneswar
+  * Information technology companies of India
+
+Hidden categories:
+
+  * Pages with citations lacking titles
+  * Pages with citations having bare URLs
+  * EngvarB from April 2017
+  * Use dmy dates from April 2017
+  * Articles with a promotional tone from April 2017
+  * All articles with a promotional tone
+  * Pages using deprecated image syntax
+  * All articles with links needing disambiguation
+  * Articles with links needing disambiguation from May 2017
+
+## Navigation menu
+
+### Personal tools
+
+  * Not logged in
+  * Talk
+  * Contributions
+  * Create account
+  * Log in
+
+### Namespaces
+
+  * Article
+  * Talk
+
+###  Variants
+
+### Views
+
+  * Read
+  * Edit
+  * View history
+
+### More
+
+###  Search
+
+### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+  * Donate to Wikipedia
+  * Wikipedia store
+
+### Interaction
+
+  * Help
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact page
+
+### Tools
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Permanent link
+  * Page information
+  * Wikidata item
+  * Cite this page
+
+### Print/export
+
+  * Create a book
+  * Download as PDF
+  * Printable version
+
+### In other projects
+
+  * Wikimedia Commons
+
+### Languages
+
+  * বাংলা
+  * Deutsch
+  * فارسی
+  * Français
+  * हिन्दी
+  * Bahasa Indonesia
+  * Italiano
+  * עברית
+  * ಕನ್ನಡ
+  * മലയാളം
+  * मराठी
+  * 日本語
+  * Português
+  * Русский
+  * Suomi
+  * Svenska
+  * தமிழ்
+  * తెలుగు
+
+Edit links
+
+  * This page was last edited on 23 December 2017, at 22:46.
+  * Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+  * Contact Wikipedia
+  * Developers
+  * Cookie statement
+  * Mobile view
+
+  *   * 
+
+  *[FBS]: Football Bowl Subdivision
+  *[div.]: divorced
+  *[FCS]: Football Championship Subdivision
+  *[e]: Edit this template
+  *[c.]: circa
+  *[m.]: married
+  *[Pop.]: Population
+  *[ v]: View this template
+  *[t]: Discuss this template
+  *[v]: View this template
+  *[1887]: April 22, 1887
+  *[±%]: Percent change
+  *[%±]: Percent change
+

@@ -1,3 +1,1605 @@
-The SAT (/ɛs eɪ ti/; es-AY-tee) is a standardized test widely used for college admissions in the United States. Introduced in 1926, its name and scoring have changed several times; originally called the Scholastic Aptitude Test, it was later called the Scholastic Assessment Test, then the SAT I: Reasoning Test, then the SAT Reasoning Test, and now, simply the SAT.
-The SAT is owned and published by the College Board, a private, not-for-profit corporation in the United States. It is developed and administered on behalf of the College Board by the Educational Testing Service. The test is intended to assess students' readiness for college. The SAT was originally designed not to be aligned with high school curricula, but several adjustments have been made for the version of the SAT introduced in 2016, and College Board president, David Coleman, has said that he also wanted to make the test reflect more closely what students learned in high school.
-On March 5, 2014, the College Board announced that a redesigned version of the SAT would be administered for the first time in 2016. The current SAT, introduced in 2016, takes three hours to finish, plus 50 minutes for the SAT with essay, and as of 2017 costs US$45 (US$57 with the optional essay), excluding late fees, with additional processing fees if the SAT is taken outside the United States. Scores on the SAT range from 400 to 1600, combining test results from two 800-point sections: mathematics, and critical reading and writing. Taking the SAT, or its competitor, the ACT, is required for freshman entry to many, but not all, universities in the United States.
+
+
+# SAT
+
+From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+This article is about the college admission test in the United States. For the
+exams in England colloquially known as SATs, see National Curriculum
+assessment.
+
+For other uses, see SAT (disambiguation).
+
+|
+
+This article **relies too much onreferences to primary sources**.  Please
+improve this by adding secondary or tertiary sources. _(May 2015)_ _(Learn how
+and when to remove this template message)_  
+  
+---|---  
+US SAT  
+---  
+Type | Paper-based standardized test  
+Developer / administrator | College Board, Educational Testing Service.  
+Knowledge / skills tested | Writing, critical reading, mathematics.  
+Purpose | Admission to undergraduate programs of universities or colleges.  
+Year started | 1926 (1926)  
+Duration | 3 to 4 hours  
+Score / grade range | 200–800 (in 10-point increments) on each of two sections
+(total 400–1600).  
+Essay scored on scale of 2–8, in 1-point increments.  
+Offered | Seven times annually  
+Countries / regions | Worldwide  
+Languages | English  
+Annual number of test takers | Over 1.71 million high school graduates in the
+class of 2017[1]  
+Prerequisites / eligibility criteria | No official prerequisite. Intended for
+high school students. Fluency in English assumed.  
+Fee | US$52.50 to US$101.50, depending on country.[2]  
+Scores / grades used by | Most universities and colleges offering
+undergraduate programs in the U.S.  
+Website | sat.collegeboard.org  
+  
+The **SAT** (/ ˌɛs eɪ ˈtiː/ _es-ay- **TEE**_) is a standardized test widely
+used for college admissions in the United States. Introduced in 1926, its name
+and scoring have changed several times; originally called the **Scholastic
+Aptitude Test** , it was later called the **Scholastic Assessment Test** ,
+then the **SAT I: Reasoning Test** , then the **SAT Reasoning Test** , and
+now, simply the **SAT**.
+
+The SAT is owned, developed, and published by the College Board, a private,
+not-for-profit corporation in the United States. It is administered on behalf
+of the College Board by the Educational Testing Service,[3] which until
+recently developed the SAT as well.[4] The test is intended to assess
+students' readiness for college. The SAT was originally designed to not be
+aligned with high school curricula,[5] but several adjustments were made for
+the version of the SAT introduced in 2016, and College Board president, David
+Coleman, has said that he also wanted to make the test reflect more closely
+what students learned in high school.[6]
+
+On March 5, 2014, the College Board announced that a redesigned version of the
+SAT would be administered for the first time in 2016.[7] The current SAT,
+introduced in 2016, takes three hours to finish, plus 50 minutes for the SAT
+with essay, and as of 2017[update] costs US$45 (US$57 with the optional
+essay), excluding late fees, with additional processing fees if the SAT is
+taken outside the United States.[8] Scores on the SAT range from 400 to 1600,
+combining test results from two 800-point sections: mathematics, and critical
+reading and writing. Taking the SAT, or its competitor, the ACT, is required
+for freshman entry to many, but not all, colleges and universities in the
+United States.[9] Starting with the 2015–16 school year, the College Board
+also announced it would team up with Khan Academy, a free, online education
+site to provide SAT prep, free of charge.[10]
+
+## Contents
+
+  * 1 Function
+  * 2 Structure
+    * 2.1 Reading Test
+    * 2.2 Writing and Language Test
+    * 2.3 Mathematics
+      * 2.3.1 Calculator use
+    * 2.4 Style of questions
+  * 3 Logistics
+  * 4 Raw scores, scaled scores, and percentiles
+  * 5 SAT-ACT score comparisons
+  * 6 History
+    * 6.1 1901 essay exams
+    * 6.2 1926 test
+    * 6.3 1928 and 1929 tests
+    * 6.4 1930 test and 1936 changes
+    * 6.5 1941 and 1942 score scales
+    * 6.6 1946 test and associated changes
+    * 6.7 1960s and 1970s score declines
+    * 6.8 1994 changes
+    * 6.9 1995 recentering (raising mean score back to 500)
+    * 6.10 1995 re-centering controversy
+    * 6.11 2002 changes – Score Choice
+    * 6.12 2005 changes, including a new 2400-point score
+    * 6.13 Scoring problems of October 2005 tests
+    * 6.14 2008 changes
+    * 6.15 2012 changes
+    * 6.16 2016 changes, including the return to a 1600-point score
+  * 7 Name changes
+  * 8 Math–verbal achievement gap
+  * 9 Reuse of old SAT exams
+  * 10 Perception
+    * 10.1 Association with culture
+    * 10.2 Association with family income
+    * 10.3 Association with gender
+    * 10.4 Association with race and ethnicity
+    * 10.5 Dropping SAT
+    * 10.6 IQ studies
+    * 10.7 Preparation
+    * 10.8 Use by high-IQ societies
+    * 10.9 Writing section
+  * 11 See also
+  * 12 References
+  * 13 Further reading
+  * 14 External links
+
+## Function[edit]
+
+Education in the United States  
+---  
+  
+  * By state and in insular areas
+  * By subject area
+  * History of
+  * Issues: _Finance – Law – Literacy – Reform_
+  * Levels: _Primary – Secondary – Higher_
+  * Organizations
+
+  
+Education portal  
+United States portal  
+  
+  * v
+  * t
+  * e
+
+  
+  
+The SAT is typically taken by high school juniors and seniors.[11] The College
+Board states that the SAT measures literacy, numeracy and writing skills that
+are needed for academic success in college. They state that the SAT assesses
+how well the test takers analyze and solve problems—skills they learned in
+school that they will need in college. However, the test is administered under
+a tight time limit (speeded) to help produce a range of scores.[12]
+
+The College Board also states that use of the SAT in combination with high
+school grade point average (GPA) provides a better indicator of success in
+college than high school grades alone, as measured by college freshman GPA.
+Various studies conducted over the lifetime of the SAT show a statistically
+significant increase in correlation of high school grades and college freshman
+grades when the SAT is factored in.[13] A large independent validity study on
+the SAT's ability to predict college freshman GPA was performed by the
+University of California. The results of this study found how well various
+predictor variables could explain the variance in college freshman GPA. It
+found that independently high school GPA could explain 15.4% of the variance
+in college freshman GPA, SAT I (the SAT Math and Verbal sections) could
+explain 13.3% of the variance in college freshman GPA, and SAT II (also known
+as the SAT subject tests; in the UC's case specifically Writing, Mathematics
+IC or IIC, plus a third subject test of the student's choice) could explain
+16% of the variance in college freshman GPA. When high school GPA and the SAT
+I were combined, they explained 20.8% of the variance in college freshman GPA.
+When high school GPA and the SAT II were combined, they explained 22.2% of the
+variance in college freshman GPA. When SAT I was added to the combination of
+high school GPA and SAT II, it added a .1 percentage point increase in
+explaining the variance in college freshman GPA for a total of 22.3%.[14]
+
+There are substantial differences in funding, curricula, grading, and
+difficulty among U.S. secondary schools due to U.S. federalism, local control,
+and the prevalence of private, distance, and home schooled students. SAT (and
+ACT) scores are intended to supplement the secondary school record and help
+admission officers put local data—such as course work, grades, and class
+rank—in a national perspective.[15] However, independent research has shown
+that high school GPA is better than the SAT at predicting college grades
+regardless of high school type or quality.[16]
+
+This map of the United States shows the states in which (blue color) more
+seniors in the class of 2006 took the SAT than the ACT, and the states in
+which (red color) more seniors took the ACT than the SAT.
+
+This map of the United States shows the states in which (blue color) more
+seniors in the class of 2017 took the SAT than the ACT, and the states in
+which (red color) more seniors took the ACT than the SAT.
+
+Historically, the SAT was more widely used by students living in coastal
+states and the ACT was more widely used by students in the Midwest and South;
+in recent years, however, an increasing number of students on the East and
+West coasts have been taking the ACT.[17][18] Since 2007, all four-year
+colleges and universities in the United States that require a test as part of
+an application for admission will accept either the SAT or ACT, and over 950
+four-year colleges and universities do not require any standardized test
+scores at all for admission.[19][20]
+
+## Structure[edit]
+
+The SAT has four sections: Reading, Writing and Language, Math (no
+calculator), and Math (calculator allowed). The test taker may optionally
+write an essay which, in that case, is the fifth test section. The total time
+for the scored portion of the SAT is three hours (or three hours and fifty
+minutes if the optional essay section is taken). Some test takers who are not
+taking the essay may also have a fifth section which is used, at least in
+part, for the pretesting of questions that may appear on future
+administrations of the SAT. (These questions are not included in the
+computation of the SAT score.) Two section scores result from taking the SAT:
+Evidence-Based Reading and Writing, and Math. Section scores are reported on a
+scale of 200 to 800, and each section score is a multiple of ten. A total
+score for the SAT is calculated by adding the two section scores, resulting in
+total scores that range from 400 to 1600. There is no penalty for guessing on
+the SAT: scores are based on the number of questions answered correctly. In
+addition to the two section scores, three "test" scores on a scale of 10 to 40
+are reported, one for each of Reading, Writing and Language, and Math. The
+essay, if taken, is scored separately from the two section scores.[21]
+
+### Reading Test[edit]
+
+The Reading Test of the SAT is made up of one section with 52 questions and a
+time limit of 65 minutes.[21] All questions are multiple-choice and based on
+reading passages. Tables, graphs, and charts may accompany some passages, but
+no math is required to correctly answer the corresponding questions. There are
+five passages (up to two of which may be a pair of smaller passages) on the
+Reading Test and 10-11 questions per passage or passage pair. SAT Reading
+passages draw from three main fields: history, social studies, and science.
+Each SAT Reading Test always includes: one passage from U.S. or world
+literature; one passage from either a U.S. founding document or a related
+text; one passage about economics, psychology, sociology, or another social
+science; and, two science passages. Answers to all of the questions are based
+only on the content stated in or implied by the passage or passage pair.[22]
+
+### Writing and Language Test[edit]
+
+The Writing and Language Test of the SAT is made up of one section with 44
+multiple-choice questions and a time limit of 35 minutes.[21] As with the
+Reading Test, all questions are based on reading passages which may be
+accompanied by tables, graphs, and charts. The test taker will be asked to
+read the passages, find mistakes or weaknesses in writing, and to provide
+corrections or improvements. Reading passages on this test range in content
+from topic arguments to nonfiction narratives in a variety of subjects. The
+skills being evaluated include: increasing the clarity of argument; improving
+word choice; improving analysis of topics in social studies and science;
+changing sentence or word structure to increase organizational quality and
+impact of writing; and, fixing or improving sentence structure, word usage,
+and punctuation.[23]
+
+### Mathematics[edit]
+
+An example of an SAT "grid-in" math question and the correctly gridded answer.
+
+The mathematics portion of the SAT is divided into two sections: Math Test –
+Calculator and Math Test – No Calculator. In total, the SAT math test is 80
+minutes long and includes 58 questions: 45 multiple choice questions and 13
+grid-in questions.[24] The multiple choice questions have four possible
+answers; the grid-in questions are free response and require the test taker to
+provide an answer.
+
+  * The Math Test – No Calculator section has 20 questions (15 multiple choice and 5 grid-in) and lasts 25 minutes.
+  * The Math Test – Calculator section has 38 questions (30 multiple choice and 8 grid-in) and lasts 55 minutes.
+
+Several scores are provided to the test taker for the math test. A subscore
+(on a scale of 1 to 15) is reported for each of three categories of math
+content: "Heart of Algebra" (linear equations, systems of linear equations,
+and linear functions), "Problem Solving and Data Analysis" (statistics,
+modeling, and problem-solving skills), and "Passport to Advanced Math" (non-
+linear expressions, radicals, exponentials and other topics that form the
+basis of more advanced math). A test score for the math test is reported on a
+scale of 10 to 40, and a section score (equal to the test score multiplied by
+20) is reported on a scale of 200 to 800. [25][26][27]
+
+#### Calculator use[edit]
+
+All scientific and most graphing calculators, including Computer Algebra
+System (CAS) calculators, are permitted on the SAT Math – Calculator section
+only. All four-function calculators are allowed as well; however, these
+devices are not recommended. All mobile phone and smartphone calculators,
+calculators with typewriter-like (QWERTY) keyboards, laptops and other
+portable computers, and calculators capable of accessing the Internet are not
+permitted.[28]
+
+Research was conducted by the College Board to study the effect of calculator
+use on SAT I: Reasoning Test math scores. The study found that performance on
+the math section was associated with the extent of calculator use: those using
+calculators on about one third to one half of the items averaged higher scores
+than those using calculators more or less frequently. However, the effect was
+"more likely to have been the result of able students using calculators
+differently than less able students rather than calculator use per se."[29]
+There is some evidence to suggest that the frequent use of a calculator in
+school outside of the testing situation has a positive effect on test
+performance compared to those who do not use calculators in school.[30]
+
+### Style of questions[edit]
+
+Most of the questions on the SAT, except for the optional essay and the grid-
+in math responses, are multiple choice; all multiple-choice questions have
+four answer choices, one of which is correct. Thirteen of the questions on the
+math portion of the SAT (about 22% of all the math questions) are not multiple
+choice.[31] They instead require the test taker to bubble in a number in a
+four-column grid.
+
+All questions on each section of the SAT are weighted equally. For each
+correct answer, one raw point is added.[32] No points are deducted for
+incorrect answers. The final score is derived from the raw score; the precise
+conversion chart varies between test administrations.
+
+Section | Average Score[1] | Time (Minutes) | Content  
+---|---|---|---  
+Mathematics | 527 | 80 | Number and operations; algebra and functions;
+geometry; statistics, probability, and data analysis  
+Evidence-Based Reading and Writing | 533 | 100 | Vocabulary, Critical reading,
+sentence-level reading, Grammar, usage, and diction.  
+  
+## Logistics[edit]
+
+The SAT is offered seven times a year in the United States: in August,
+October, November, December, March, May, and June. The test is typically
+offered on the first Saturday of the month for the October, November,
+December, May, and June administrations.[33] In other countries, the SAT is
+offered four times a year: in October, December, March, and May.[34] The test
+was taken by 1,715,481 high school graduates in the class of 2017.[1]
+
+Candidates wishing to take the test may register online at the College Board's
+website, by mail, or by telephone, at least three weeks before the test date.
+
+The SAT costs $45 ($57 with the optional essay), plus additional fees if
+testing outside the United States) as of 2017[update].[8] The College Board
+makes fee waivers available for low income students. Additional fees apply for
+late registration, standby testing, registration changes, scores by telephone,
+and extra score reports (beyond the four provided for free).
+
+Candidates whose religious beliefs prevent them from taking the test on a
+Saturday may request to take the test on the following day, except for the
+October test date in which the Sunday test date is eight days after the main
+test offering. Such requests must be made at the time of registration and are
+subject to denial.
+
+Students with verifiable disabilities, including physical and learning
+disabilities, are eligible to take the SAT with accommodations. The standard
+time increase for students requiring additional time due to learning
+disabilities or physical handicaps is time + 50%; time + 100% is also offered.
+
+## Raw scores, scaled scores, and percentiles[edit]
+
+Students receive their online score reports approximately three weeks after
+test administration (six weeks for mailed, paper scores), with each section
+graded on a scale of 200–800 and two sub scores for the writing section: the
+essay score and the multiple choice sub score. In addition to their score,
+students receive their percentile (the percentage of other test takers with
+lower scores). The raw score, or the number of points gained from correct
+answers and lost from incorrect answers is also included.[35] Students may
+also receive, for an additional fee, the Question and Answer Service, which
+provides the student's answer, the correct answer to each question, and online
+resources explaining each question.
+
+The corresponding percentile of each scaled score varies from test to test—for
+example, in 2003, a scaled score of 800 in both sections of the SAT Reasoning
+Test corresponded to a percentile of 99.9, while a scaled score of 800 in the
+SAT Physics Test corresponded to the 94th percentile. The differences in what
+scores mean with regard to percentiles are due to the content of the exam and
+the caliber of students choosing to take each exam. Subject Tests are subject
+to intensive study (often in the form of an AP, which is relatively more
+difficult), and only those who know they will perform well tend to take these
+tests, creating a skewed distribution of scores.
+
+The percentiles that various SAT scores for college-bound seniors correspond
+to are summarized in the following chart:[36][37]
+
+Percentile | Score, 1600 Scale  
+(official, 2016) | Score, 2400 Scale  
+(official, 2006)  
+---|---|---  
+99.93/99.98* | 1600 | 2400  
+99+ ** | ≥1540 | ≥2280  
+99 | ≥1480 | ≥2200  
+98 | ≥1450 | ≥2140  
+97 | ≥1420 | ≥2100  
+93 | ≥1340 | ≥1990  
+88 | ≥1280 | ≥1900  
+81 | ≥1220 | ≥1800  
+72 | ≥1150 | ≥1700  
+61 | ≥1090 | ≥1600  
+48 | ≥1010 | ≥1500  
+36 | ≥950 | ≥1400  
+24 | ≥870 | ≥1300  
+15 | ≥810 | ≥1200  
+8 | ≥730 | ≥1090  
+4 | ≥650 | ≥990  
+2 | ≥590 | ≥890  
+* The percentile of the perfect score was 99.98 on the 2400 scale and 99.93 on the 1600 scale.  
+** 99+ means better than 99.5 percent of test takers.  
+  
+The older SAT (before 1995) had a very high ceiling. In any given year, only
+seven of the million test-takers scored above 1580. A score above 1580 was
+equivalent to the 99.9995 percentile.[38]
+
+In 2015 the average score for the Class of 2015 was 1490 out of a maximum
+2400. That was down 7 points from the previous class’s mark and was the lowest
+composite score of the past decade.[39]
+
+## SAT-ACT score comparisons[edit]
+
+The College Board and ACT, Inc. conducted a joint study of students who took
+both the SAT and the ACT between September 2004 (for the ACT) or March 2005
+(for the SAT) and June 2006. Tables were provided to concord scores for
+students taking the SAT after January 2005 and before March 2016. [40][41]
+
+In May, 2016, the College Board released concordance tables to concord scores
+on the SAT used from March 2005 through January 2016 to the SAT used since
+March 2016, as well as tables to concord scores on the SAT used since March
+2016 to the ACT.[42]
+
+## History[edit]
+
+Mean SAT Scores by year[43] Year of  
+exam | Reading  
+/Verbal  
+Score | Math  
+Score  
+---|---|---  
+**1972** |  530 | 509  
+**1973** |  523 | 506  
+**1974** |  521 | 505  
+**1975** |  512 | 498  
+**1976** |  509 | 497  
+**1977** |  507 | 496  
+**1978** |  507 | 494  
+**1979** |  505 | 493  
+**1980** |  502 | 492  
+**1981** |  502 | 492  
+**1982** |  504 | 493  
+**1983** |  503 | 494  
+**1984** |  504 | 497  
+**1985** |  509 | 500  
+**1986** |  509 | 500  
+**1987** |  507 | 501  
+**1988** |  505 | 501  
+**1989** |  504 | 502  
+**1990** |  500 | 501  
+**1991** |  499 | 500  
+**1992** |  500 | 501  
+**1993** |  500 | 503  
+**1994** |  499 | 504  
+**1995** |  504 | 506  
+**1996** |  505 | 508  
+**1997** |  505 | 511  
+**1998** |  505 | 512  
+**1999** |  505 | 511  
+**2000** |  505 | 514  
+**2001** |  506 | 514  
+**2002** |  504 | 516  
+**2003** |  507 | 519  
+**2004** |  508 | 518  
+**2005** |  508 | 520  
+**2006** |  503 | 518  
+**2007** |  502 | 515  
+**2008** |  502 | 515  
+**2009** |  501 | 515  
+**2010** |  501 | 516  
+**2011** |  497 | 514  
+**2012** |  496 | 514  
+**2013** |  496 | 514  
+**2014** |  497 | 513  
+**2015** |  495 | 511  
+**2016** |  494 | 508  
+**2017** |  533 | 527  
+  
+Historical average SAT scores of college-bound seniors.
+
+Many college entrance exams in the early 1900s were specific to each school
+and required candidates to travel to the school to take the tests. The College
+Board, a consortium of colleges in the northeastern United States, was formed
+in 1900 to establish a nationally administered, uniform set of essay tests
+based on the curricula of the boarding schools that typically provided
+graduates to the colleges of the Ivy League and Seven Sisters, among
+others.[44][45]
+
+In the same time period, Lewis Terman and others began to promote the use of
+tests such as Alfred Binet's in American schools. Terman in particular thought
+that such tests could identify an innate "intelligence quotient" (IQ) in a
+person. The results of an IQ test could then be used to find an elite group of
+students who would be given the chance to finish high school and go on to
+college.[44] By the mid-1920s, the increasing use of IQ tests, such as the
+Army Alpha test administered to recruits in World War I, led the College Board
+to commission the development of the SAT. The commission, headed by Carl
+Brigham, argued that the test predicted success in higher education by
+identifying candidates primarily on the basis of intellectual promise rather
+than on specific accomplishment in high school subjects.[45] In 1934, James
+Conant and Henry Chauncey used the SAT as a means to identify recipients for
+scholarships to Harvard University. Specifically, Conant wanted to find
+students, other than those from the traditional northeastern private schools,
+that could do well at Harvard. The success of the scholarship program and the
+advent of World War II led to the end of the College Board essay exams and to
+the SAT being used as the only admissions test for College Board member
+colleges.[44]
+
+The SAT rose in prominence after World War II due to several factors. Machine-
+based scoring of multiple-choice tests taken by pencil had made it possible to
+rapidly process the exams.[46] The G.I. Bill produced an influx of millions of
+veterans into higher education.[46][47] The formation of the Educational
+Testing Service (ETS) also played a significant role in the expansion of the
+SAT beyond the roughly fifty colleges that made up the College Board at the
+time.[48] The ETS was formed in 1947 by the College Board, Carnegie Foundation
+for the Advancement of Teaching, and the American Council on Education, to
+consolidate respectively the operations of the SAT, the GRE, and the
+achievement tests developed by Ben Wood for use with Conant's scholarship
+exams.[46] The new organization was to be philosophically grounded in the
+concepts of open-minded, scientific research in testing with no doctrine to
+sell and with an eye toward public service.[49] The ETS was chartered after
+the death of Brigham, who had opposed the creation of such an entity. Brigham
+felt that the interests of a consolidated testing agency would be more aligned
+with sales or marketing than with research into the science of testing.[46] It
+has been argued that the interest of the ETS in expanding the SAT in order to
+support its operations aligned with the desire of public college and
+university faculties to have smaller, diversified, and more academic student
+bodies as a means to increase research activities.[44] In 1951, about 80,000
+SATs were taken; in 1961, about 800,000; and by 1971, about 1.5 million SATs
+were being taken each year.[50]
+
+A timeline of notable events in the history of the SAT follows.
+
+### 1901 essay exams[edit]
+
+On June 17, 1901, the first exams of the College Board were administered to
+973 students across 67 locations in the United States, and two in Europe.
+Although those taking the test came from a variety of backgrounds,
+approximately one third were from New York, New Jersey, or Pennsylvania. The
+majority of those taking the test were from private schools, academies, or
+endowed schools. About 60% of those taking the test applied to Columbia
+University. The test contained sections on English, French, German, Latin,
+Greek, history, mathematics, chemistry, and physics. The test was not multiple
+choice, but instead was evaluated based on essay responses as "excellent",
+"good", "doubtful", "poor" or "very poor".[51]
+
+### 1926 test[edit]
+
+The first administration of the SAT occurred on June 23, 1926, when it was
+known as the Scholastic Aptitude Test.[52][53] This test, prepared by a
+committee headed by Princeton psychologist Carl Campbell Brigham, had sections
+of definitions, arithmetic, classification, artificial language, antonyms,
+number series, analogies, logical inference, and paragraph reading. It was
+administered to over 8,000 students at over 300 test centers. Men composed 60%
+of the test-takers. Slightly over a quarter of males and females applied to
+Yale University and Smith College.[53] The test was paced rather quickly,
+test-takers being given only a little over 90 minutes to answer 315
+questions.[52] The raw score of each participating student was converted to a
+score scale with a mean of 500 and a standard deviation of 100. This scale was
+effectively equivalent to a 200 to 800 scale, although students could score
+more than 800 and less than 200.[46]
+
+### 1928 and 1929 tests[edit]
+
+In 1928, the number of sections on the SAT was reduced to seven, and the time
+limit was increased to slightly under two hours. In 1929, the number of
+sections was again reduced, this time to six. These changes were designed in
+part to give test-takers more time per question. For these two years, all of
+the sections tested verbal ability: math was eliminated entirely from the
+SAT.[52]
+
+### 1930 test and 1936 changes[edit]
+
+In 1930 the SAT was first split into the verbal and math sections, a structure
+that would continue through 2004. The verbal section of the 1930 test covered
+a more narrow range of content than its predecessors, examining only antonyms,
+double definitions (somewhat similar to sentence completions), and paragraph
+reading. In 1936, analogies were re-added. Between 1936 and 1946, students had
+between 80 and 115 minutes to answer 250 verbal questions (over a third of
+which were on antonyms). The mathematics test introduced in 1930 contained 100
+free response questions to be answered in 80 minutes, and focused primarily on
+speed. From 1936 to 1941, like the 1928 and 1929 tests, the mathematics
+section was eliminated entirely. When the mathematics portion of the test was
+re-added in 1942, it consisted of multiple choice questions.[52]
+
+### 1941 and 1942 score scales[edit]
+
+Until 1941, the scores on all SATs had been scaled to a mean of 500 with a
+standard deviation of 100. Although one test-taker could be compared to
+another for a given test date, comparisons from one year to another could not
+be made. For example, a score of 500 achieved on an SAT taken in one year
+could reflect a different ability level than a score of 500 achieved in
+another year. By 1940, it had become clear that setting the mean SAT score to
+500 every year was unfair to those students who happened to take the SAT with
+a group of higher average ability.[54]
+
+In order to make cross-year score comparisons possible, in April 1941 the SAT
+verbal section was scaled to a mean of 500, and a standard deviation of 100,
+and the June 1941 SAT verbal section was equated (linked) to the April 1941
+test. All SAT verbal sections after 1941 were equated to previous tests so
+that the same scores on different SATs would be comparable. Similarly, in June
+1942 the SAT math section was equated to the April 1942 math section, which
+itself was linked to the 1942 SAT verbal section, and all SAT math sections
+after 1942 would be equated to previous tests. From this point forward, SAT
+mean scores could change over time, depending on the average ability of the
+group taking the test compared to the roughly 10,600 students taking the SAT
+in April 1941. The 1941 and 1942 score scales would remain in use until 1995.
+[54] [55]
+
+### 1946 test and associated changes[edit]
+
+Paragraph reading was eliminated from the verbal portion of the SAT in 1946,
+and replaced with reading comprehension, and "double definition" questions
+were replaced with sentence completions. Between 1946 and 1957 students were
+given 90 to 100 minutes to complete 107 to 170 verbal questions. Starting in
+1958 time limits became more stable, and for 17 years, until 1975, students
+had 75 minutes to answer 90 questions. In 1959 questions on data sufficiency
+were introduced to the mathematics section, and then replaced with
+quantitative comparisons in 1974. In 1974 both verbal and math sections were
+reduced from 75 minutes to 60 minutes each, with changes in test composition
+compensating for the decreased time.[52]
+
+### 1960s and 1970s score declines[edit]
+
+From 1926 to 1941, scores on the SAT were scaled to make 500 the mean score on
+each section. In 1941 and 1942, SAT scores were standardized via test
+equating, and as a consequence, average verbal and math scores could vary from
+that time forward.[54] In 1952, mean verbal and math scores were 476 and 494,
+respectively, and scores were generally stable in the 1950s and early 1960s.
+However, starting in the mid-1960s and continuing until the early 1980s, SAT
+scores declined: the average verbal score dropped by about 50 points, and the
+average math score fell by about 30 points. By the late 1970s, only the upper
+third of test takers were doing as well as the upper half of those taking the
+SAT in 1963. From 1961 to 1977, the number of SATs taken per year doubled,
+suggesting that the decline could be explained by demographic changes in the
+group of students taking the SAT. Commissioned by the College Board, an
+independent study of the decline found that most (up to about 75%) of the test
+decline in the 1960s could be explained by compositional changes in the group
+of students taking the test; however, only about 25 percent of the 1970s
+decrease in test scores could similarly be explained.[50] Later analyses
+suggested that up to 40 percent of the 1970s decline in scores could be
+explained by demographic changes, leaving unknown at least some of the reasons
+for the decline.[56]
+
+### 1994 changes[edit]
+
+In early 1994, substantial changes were made to the SAT.[57] Antonyms were
+removed from the verbal section in order to make rote memorization of
+vocabulary less useful. Also, the fraction of verbal questions devoted to
+passage-based reading material was increased from about 30% to about 50%, and
+the passages were chosen to be more like typical college-level reading
+material, compared to previous SAT reading passages. The changes for increased
+emphasis on analytical reading were made in response to a 1990 report issued
+by a commission established by the College Board. The commission recommended
+that the SAT should, among other things, "approximate more closely the skills
+used in college and high school work".[52] A mandatory essay had been
+considered as well for the new version of the SAT; however, criticism from
+minority groups as well as a concomitant increase in the cost of the test
+necessary to grade the essay led the College Board to drop it from the planned
+changes.[58]
+
+Major changes were also made to the SAT mathematics section at this time, due
+in part to the influence of suggestions made by the National Council of
+Teachers of Mathematics. Test-takers were now permitted to use calculators on
+the math sections of the SAT. Also, for the first time since 1935, the SAT
+would now include some math questions that were not multiple choice, instead
+requiring students to supply the answers. Additionally, some of these
+"student-produced response" questions could have more than one correct answer.
+The tested mathematics content on the SAT was expanded to include concepts of
+slope of a line, probability, elementary statistics including median and mode,
+and counting problems.[52]
+
+### 1995 recentering (raising mean score back to 500)[edit]
+
+By the early 1990s, average total SAT scores were around 900 (typically, 425
+on the verbal and 475 on the math). The average scores on the 1994
+modification of the SAT I were similar: 428 on the verbal and 482 on the
+math.[59] SAT scores for admitted applicants to highly selective colleges in
+the United States were typically much higher. For example, the score ranges of
+the middle 50% of admitted applicants to Princeton University in 1985 were 600
+to 720 (verbal) and 660 to 750 (math).[60] Similarly, median scores on the
+modified 1994 SAT for freshmen entering Yale University in the fall of 1995
+were 670 (verbal) and 720 (math).[61] For the majority of SAT takers, however,
+verbal and math scores were below 500: In 1992, half of the college-bound
+seniors taking the SAT were scoring between 340 and 500 on the verbal section
+and between 380 and 560 on the math section, with corresponding median scores
+of 420 and 470, respectively.[62]
+
+The drop in SAT verbal scores, in particular, meant that the usefulness of the
+SAT score scale (200 to 800) had become degraded. At the top end of the verbal
+scale, significant gaps were occurring between raw scores and uncorrected
+scaled scores: a perfect raw score no longer corresponded to an 800, and a
+single omission out of 85 questions could lead to a drop of 30 or 40 points in
+the scaled score. Corrections to scores above 700 had been necessary to reduce
+the size of the gaps and to make a perfect raw score result in an 800. At the
+other end of the scale, about 1.5 percent of test takers would have scored
+below 200 on the verbal section if that had not been the reported minimum
+score. Although the math score averages were closer to the center of the scale
+(500) than the verbal scores, the distribution of math scores was no longer
+well approximated by a normal distribution. These problems, among others,
+suggested that the original score scale and its reference group of about
+10,000 students taking the SAT in 1941 needed to be replaced.[54]
+
+Beginning with the test administered in April 1995, the SAT score scale was
+recentered to return the average math and verbal scores close to 500. Although
+only 25 students had received perfect scores of 1600 in all of 1994, 137
+students taking the April test scored a 1600.[63] The new scale used a
+reference group of about one million seniors in the class of 1990: the scale
+was designed so that the SAT scores of this cohort would have a mean of 500
+and a standard deviation of 110. Because the new scale would not be directly
+comparable to the old scale, scores awarded on April 1995 and later were
+officially reported with an "R" (for example, "560R") to reflect the change in
+scale, a practice that was continued until 2001.[54] Scores awarded before
+April 1995 may be compared to those on the recentered scale by using official
+College Board tables. For example, verbal and math scores of 500 received
+before 1995 correspond to scores of 580 and 520, respectively, on the 1995
+scale.[64]
+
+### 1995 re-centering controversy[edit]
+
+Certain educational organizations viewed the SAT re-centering initiative as an
+attempt to stave off international embarrassment in regards to continuously
+declining test scores, even among top students. As evidence, it was presented
+that the number of pupils who scored above 600 on the verbal portion of the
+test had fallen from a peak of 112,530 in 1972 to 73,080 in 1993, a 36%
+backslide, despite the fact that the total number of test-takers had risen
+over 500,000.[65] Other authors have argued that the evidence for a decline in
+student quality is mixed, citing that top scorers on the ACT have shown little
+change in the same period, and that the proportion of 17-year-olds scoring at
+the highest performance level on the NAEP long-term trend assessment has been
+roughly stable for decades.[66]
+
+### 2002 changes – Score Choice[edit]
+
+In October 2002, the College Board dropped the Score Choice Option for SAT-II
+exams. Under this option, scores were not released to colleges until the
+student saw and approved of the score.[67] The College Board has since decided
+to re-implement Score Choice in the spring of 2009. It is described as
+optional, and it is not clear if the reports sent will indicate whether or not
+this student has opted-in or not. A number of highly selective colleges and
+universities, including Yale, the University of Pennsylvania, and Stanford,
+have announced they will require applicants to submit all scores. Stanford,
+however, only prohibits Score Choice for the traditional SAT.[68] Others, such
+as MIT and Harvard, have fully embraced Score Choice.
+
+### 2005 changes, including a new 2400-point score[edit]
+
+In 2005, the test was changed again, largely in response to criticism by the
+University of California system.[69] Because of issues concerning ambiguous
+questions, especially analogies, certain types of questions were eliminated
+(the analogies from the verbal and quantitative comparisons from the math
+section). The test was made marginally harder, as a corrective to the rising
+number of perfect scores. A new writing section, with an essay, based on the
+former SAT II Writing Subject Test, was added,[70] in part to increase the
+chances of closing the opening gap between the highest and midrange scores.
+Other factors included the desire to test the writing ability of each student;
+hence the essay. The essay section added an additional maximum 800 points to
+the score, which increased the new maximum score to 2400.[71] The "New SAT"
+was first offered on March 12, 2005, after the last administration of the
+"old" SAT in January 2005. The mathematics section was expanded to cover three
+years of high school mathematics. The verbal section's name was changed to the
+Critical Reading section.
+
+### Scoring problems of October 2005 tests[edit]
+
+In March 2006, it was announced that a small percentage of the SATs taken in
+October 2005 had been scored incorrectly due to the test papers' being moist
+and not scanning properly, and that some students had received erroneous
+scores.[72] The College Board announced they would change the scores for the
+students who were given a lower score than they earned, but at this point many
+of those students had already applied to colleges using their original scores.
+The College Board decided not to change the scores for the students who were
+given a higher score than they earned. A lawsuit was filed in 2006 on behalf
+of the 4,411 students who received an incorrect score on the SAT.[73] The
+class-action suit was settled in August 2007 when the College Board and
+Pearson Educational Measurement, the company that scored the SATs, announced
+they would pay $2.85 million into a settlement fund. Under the agreement each
+student could either elect to receive $275 or submit a claim for more money if
+he or she felt the damage was greater.[74] A similar scoring error occurred on
+a secondary school admission test in 2010–2011 when the ERB (Educational
+Records Bureau) announced after the admission process was over that an error
+had been made in the scoring of the tests of 2010 (17%) of the students who
+had taken the Independent School Entrance Examination for admission to private
+secondary schools for 2011. Commenting on the effect of the error on students'
+school applications in _The New York Times_ , David Clune, President of the
+ERB stated "It is a lesson we all learn at some point—that life isn't
+fair."[75]
+
+### 2008 changes[edit]
+
+In late 2008, a new variable came into play. Previously, applicants to most
+colleges were required to submit all scores, with some colleges that embraced
+Score Choice retaining the option of allowing their applicants not to have to
+submit all scores. However, in 2008, an initiative to make Score Choice
+universal had begun, with some opposition from colleges desiring to maintain
+score report practices. While students theoretically now have the choice to
+submit their best score (in theory one could send any score one wishes to
+send) to the college of their choice, some colleges and universities, such as
+Cornell, ask that students send all test scores.[76] This had led the College
+Board to display on their web site which colleges agree with or dislike Score
+Choice, with continued claims that students will still never have scores
+submitted against their will.[77] Regardless of whether a given college
+permits applicants to exercise Score Choice options, most colleges do not
+penalize students who report poor scores along with high ones; many
+universities, such as Columbia[ _citation needed_ ] and Cornell,[ _citation
+needed_ ] expressly promise to overlook those scores that may be undesirable
+to the student and/or to focus more on those scores that are most
+representative of the student's achievement and academic potential. College
+Board maintains a list of colleges and their respective score choice policies
+that is recent as of November 2011.[78]
+
+### 2012 changes[edit]
+
+Beginning in 2012, test takers were required to submit a current, recognizable
+photo during registration. Students are required to present their photo
+admission ticket – or another acceptable form of photo ID – for admittance to
+their designated test center. Student scores and registration information,
+including the photo provided, are made available to the student’s high school.
+In the event of an investigation involving the validity of a student’s test
+scores, their photo may be made available to institutions to which they have
+sent scores. Any college that is granted access to a student’s photo is first
+required to certify that they are all admitted students.[79]
+
+### 2016 changes, including the return to a 1600-point score[edit]
+
+On March 5, 2014, the College Board announced its plan to redesign the SAT in
+order to link the exam more closely to the work high school students encounter
+in the classroom.[7] The new exam was administered for the first time in March
+2016.[80] Some of the major changes are: an emphasis on the use of evidence to
+support answers, a shift away from obscure vocabulary to words that students
+are more likely to encounter in college and career, a math section that is
+focused on fewer areas, a return to the 1600-point score scale, an optional
+essay, and the removal of penalty for wrong answers (rights-only scoring).[81]
+To combat the perceived advantage of costly test preparation courses, the
+College Board announced a new partnership with Khan Academy to offer free
+online practice problems and instructional videos.[7]
+
+## Name changes[edit]
+
+The SAT has been renamed several times since its introduction in 1926. It was
+originally known as the Scholastic Aptitude Test.[82][52] In 1990, a
+commission set up by the College Board to review the proposed changes to the
+SAT program recommended that the meaning of the initialism SAT be changed to
+"Scholastic Assessment Test" because a "test that integrates measures of
+achievement as well as developed ability can no longer be accurately described
+as a test of aptitude".[83][84] In 1993, the College Board changed the name of
+the test to SAT I: Reasoning Test; at the same time, the name of the
+Achievement Tests was changed to SAT II: Subject Tests.[82] The Reasoning Test
+and Subject Tests were to be collectively known as the Scholastic Assessment
+Tests. According to the president of the College Board at the time, the name
+change was meant "to correct the impression among some people that the SAT
+measures something that is innate and impervious to change regardless of
+effort or instruction."[85] The new SAT debuted in March 1994, and was
+referred to as the Scholastic Assessment Test by major news
+organizations.[57][86] However, in 1997, the College Board announced that the
+SAT could not properly be called the Scholastic Assessment Test, and that the
+letters SAT did not stand for anything.[87] In 2004, the Roman numeral in SAT
+I: Reasoning Test was dropped, making SAT Reasoning Test the new name of the
+SAT.[82]
+
+##  Math–verbal achievement gap[edit]
+
+Main article: Math–verbal achievement gap
+
+In 2002, Richard Rothstein (education scholar and columnist) wrote in _The New
+York Times_ that the U.S. math averages on the SAT and ACT continued their
+decade-long rise over national verbal averages on the tests.[88]
+
+##  Reuse of old SAT exams[edit]
+
+The College Board has been accused of completely reusing old SAT papers
+previously given in the United States.[89] The recycling of questions from
+previous exams has been exploited to allow for cheating on exams and impugned
+the validity of some students' test scores, according to college officials.
+Test preparation companies in Asia have been found to provide test questions
+to students within hours of a new SAT exam's administration.[90][91]
+
+## Perception[edit]
+
+### Association with culture[edit]
+
+For decades many critics have accused designers of the verbal SAT of cultural
+bias as an explanation for the disparity in scores between poorer and
+wealthier test-takers.[92] A famous (and long past) example of this bias in
+the SAT I was the oarsman–regatta analogy question. The object of the question
+was to find the pair of terms that had the relationship most similar to the
+relationship between "runner" and "marathon". The correct answer was "oarsman"
+and "regatta". The choice of the correct answer was thought to have
+presupposed students' familiarity with rowing, a sport popular with the
+wealthy. However, according to Murray and Herrnstein, the black-white gap is
+smaller in culture-loaded questions like this one than in questions that
+appear to be culturally neutral.[93] Analogy questions have since been
+replaced by short reading passages.
+
+### Association with family income[edit]
+
+A report from _The New York Times_ stated that family income can explain about
+95% of the variance in SAT scores.[94] In response, Lisa Wade, contributor at
+the website _The Society Pages_ , commented that those with higher family
+income, “tend to have better teachers, more resource-rich educational
+environments, more educated parents who can help them with school and,
+sometimes, expensive SAT tutoring.”[95] However, University of California
+system research found that after controlling for family income and parental
+education, the already low ability of the SAT to measure aptitude and college
+readiness fell sharply while the more substantial aptitude and college
+readiness measuring abilities of high school GPA and the SAT II each remained
+undiminished (and even slightly increased). The University of California
+system required both the SAT and the SAT II from applicants to the UC system
+during the four years included in the study. They further found that, after
+controlling for family income and parental education, the so-called
+achievement tests known as the SAT II measure aptitude and college readiness
+10 times higher than the SAT.[96] As with racial bias, correlation with income
+could also be due to the social class of the makers of the test, although
+according to the authors of _The Bell Curve_ , empirical research suggests
+that poorer students actually perform worse on questions the authors believed
+to be "neutral" compared to the ones they termed as "privileged."[97]
+
+### Association with gender[edit]
+
+|
+
+**This section needs expansion**.  You can help by adding to it. _(September
+2015)_  
+  
+---|---  
+  
+The largest association with gender on the SAT is found in the math section,
+where male students, on average, score higher than female students by
+approximately 30 points.[98] In 2013, the American College Testing Board
+released a report stating that boys outperformed girls on the mathematics
+section of the test.[99]
+
+### Association with race and ethnicity[edit]
+
+African American, Hispanic, and Native American students, on average, perform
+an order of one standard deviation lower on the SAT than white and Asian
+students.[100][101][102][103]
+
+Researchers believe that the difference in scores is closely related to the
+overall achievement gap in American society between students of different
+racial groups. This gap may be explainable in part by the fact that students
+of disadvantaged racial groups tend to go to schools that provide lower
+educational quality. This view is supported by evidence that the black-white
+gap is higher in cities and neighborhoods that are more racially
+segregated.[104] It has also been suggested that stereotype threat has a
+significant effect on lowering achievement of minority students. For example,
+African Americans perform worse on a test when they are told that the test
+measures "verbal reasoning ability", than when no mention of the test subject
+is made.[105] Other research cites poorer minority proficiency in key
+coursework relevant to the SAT (English and math), as well as peer pressure
+against students who try to focus on their schoolwork ("acting white").[106]
+Cultural issues are also evident among black students in wealthier households,
+with high achieving parents. John Ogbu, a Nigerian-American professor of
+anthropology, found that instead of looking to their parents as role models,
+black youth chose other models like rappers and did not put forth the effort
+to be a good student. However, they felt that racism was wrong.[107]
+
+One set of studies has reported differential item functioning – namely, some
+test questions function differently based on the racial group of the test
+taker, reflecting some kind of systematic difference in a groups ability to
+understand certain test questions or to acquire the knowledge required to
+answer them. In 2003 Freedle published data showing that Black students have
+had a slight advantage on the verbal questions that are labeled as difficult
+on the SAT, whereas white and Asian students tended to have a slight advantage
+on questions labeled as easy. Freedle argued that these findings suggest that
+"easy" test items use vocabulary that is easier to understand for white middle
+class students than for minorities, who often use a different language in the
+home environment, whereas the difficult items use complex language learned
+only through lectures and textbooks, giving both student groups equal
+opportunities to acquiring it.[108][109] [110] The study was severely
+criticized by the ETS board, but the findings were replicated in a subsequent
+study by Santelices and Wilson in 2010.[111][112]
+
+There is no evidence that SAT scores systematically underestimate future
+performance of minority students. However, the predictive validity of the SAT
+has been shown to depend on the dominant ethnic and racial composition of the
+college.[113] Some studies have also shown that African American students
+under-perform in college relative to their white peers with the same SAT
+scores; researchers have argued that this is likely because white students
+tend to benefit from social advantages outside of the educational environment
+(for example, high parental involvement in their education, inclusion in
+campus academic activities, positive bias from same-race teachers and peers)
+which result in better grades.[105]
+
+Christopher Jencks concludes that as a group African Americans have been
+harmed by the introduction of standardized entrance exams such as the SAT.
+This, according to him, is not because the tests themselves are flawed, but
+because of labeling bias and selection bias; the tests measure the skills that
+African Americans are less likely to develop in their socialization, rather
+than the skills they are more likely to develop. Furthermore, standardized
+entrance exams are often labeled as tests of general ability, rather than of
+certain aspects of ability. Thus, a situation is produced in which African
+American ability is consistently underestimated within the education and
+workplace environments, contributing in turn to selection bias against them
+which exacerbates underachievement.[105]
+
+### Dropping SAT[edit]
+
+A growing number of colleges have joined the SAT optional movement. These
+colleges do not require the SAT for admission.
+
+One example of a college that did this is Drew University in New Jersey. After
+they adopted an optional SAT policy, they had a 20% increase in applications.
+Dean of Admissions Mary Beth Carey says that "Our own research showed us that
+high school grade point average is by far the most important predictor of
+success in college." The college reported that they accepted their most
+diverse class ever as a result of the policy.[114]
+
+In a 2001 speech to the American Council on Education, Richard C. Atkinson,
+the president of the University of California, urged dropping the SAT as a
+college admissions requirement:
+
+> Anyone involved in education should be concerned about how overemphasis on
+the SAT is distorting educational priorities and practices, how the test is
+perceived by many as unfair, and how it can have a devastating impact on the
+self-esteem and aspirations of young students. There is widespread agreement
+that overemphasis on the SAT harms American education.[115]
+
+In response to threats by the University of California to drop the SAT as an
+admission requirement, the College Entrance Examination Board announced the
+restructuring of the SAT, to take effect in March 2005, as detailed above.
+
+In the 1960s and 1970s there was a movement to drop achievement scores. After
+a period of time, the countries, states and provinces that reintroduced them
+agreed that academic standards had dropped, students had studied less, and had
+taken their studying less seriously. They reintroduced the tests after studies
+and research concluded that the high-stakes tests produced benefits that
+outweighed the costs.[116]
+
+### IQ studies[edit]
+
+Frey and Detterman (2003) investigated associations of SAT scores with
+intelligence test scores. Using an estimate of general mental ability, or _g_
+, based on the Armed Services Vocational Aptitude Battery, which can be best
+thought of as representing crystallized intelligence (learned abilities), they
+found SAT scores to be highly correlated with _g_ (r=.82 in their sample, .857
+when adjusted for non-linearity) in their sample taken from a 1979 national
+probability survey. Additionally, they investigated the correlation between
+SAT results, using the revised and recentered form of the test, and scores on
+the Raven's Advanced Progressive Matrices, a test of fluid intelligence
+(reasoning), this time using a non-random sample. They found that the
+correlation of SAT results with scores on the Raven's Advanced Progressive
+Matrices was .483. They estimated that this latter correlation would have been
+about 0.72 were it not for the restriction of ability range in the sample.
+They also noted that there appeared to be a ceiling effect on the Raven’s
+scores which may have suppressed the correlation.[117] Beaujean and colleagues
+(2006) have reached similar conclusions to those reached by Frey and
+Detterman.[118]
+
+###  Preparation[edit]
+
+SAT preparation is a highly lucrative field[119] pioneered by Stanley Kaplan
+in 1938 and many companies and organizations offer test preparation in the
+form of books, classes, online courses, and tutoring. The test preparation
+industry began almost simultaneously with the introduction of university
+entrance exams in the U.S. and flourished from the start.[120]
+
+The College Board maintains that the SAT is essentially uncoachable and
+research by the College Board and the National Association of College
+Admission Counseling suggests that tutoring courses result in an average
+increase of about 20 points on the math section and 10 points on the verbal
+section.[121] Other studies have shown significantly different results. A
+longitudinal study from Ohio State showed that taking private SAT prep classes
+correlated with scores higher by ~60 points.[122] A study from Oxford showed
+that coaching courses boosted scores by an average of 56 points.[120]
+
+Montgomery and Lilly (2012) performed a systematic literature review of all
+published SAT coaching research in search of high quality studies (defined as
+those with randomized controlled trials). They found that the randomized
+treatments resulted in V/M gains of +23/32 points for a total of +56; the high
+quality study that showed the highest score increase was Johnson (1984; San
+Francisco) which was based on a 30-hour prep course that showed an average
+increase of 178 points. The Johnson San Francisco study was also the only high
+quality study found on a prep course of 30 hours or more in length, although
+validity of this outlier study is uncertain due to the attrition of half the
+participants.[120]
+
+### Use by high-IQ societies[edit]
+
+Certain high IQ societies, like Mensa, the Prometheus Society and the Triple
+Nine Society, use scores from certain years as one of their admission tests.
+For instance, the Triple Nine Society accepts scores of 1450 on tests taken
+before April 1995, and scores of at least 1520 on tests taken between April
+1995 and February 2005.[123]
+
+The SAT is sometimes given to students younger than 13 by organizations such
+as the Study of Mathematically Precocious Youth, Johns Hopkins Center for
+Talented Youth, Duke TIP, and other organizations who use the results to
+select, study and mentor students of exceptional ability.
+
+### Writing section[edit]
+
+In 2005, MIT Writing Director Pavan Sreekireddy plotted essay length versus
+essay score on the new SAT from released essays and found a high correlation
+between them. After studying over 50 graded essays, he found that longer
+essays consistently produced higher scores. In fact, he argues that by simply
+gauging the length of an essay without reading it, the given score of an essay
+could likely be determined correctly over 90% of the time. He also discovered
+that several of these essays were full of factual errors; the College Board
+does not claim to grade for factual accuracy.
+
+Perelman, along with the National Council of Teachers of English also
+criticized the 25-minute writing section of the test for damaging standards of
+writing teaching in the classroom. They say that writing teachers training
+their students for the SAT will not focus on revision, depth, accuracy, but
+will instead produce long, formulaic, and wordy pieces.[124] "You're getting
+teachers to train students to be bad writers", concluded Perelman.[125]
+
+## See also[edit]
+
+  * ACT (test), a college entrance exam, competitor to the SAT
+  * College admissions in the United States
+  * List of admissions tests
+  * PSAT/NMSQT
+  * SAT Subject Tests
+
+## References[edit]
+
+  1. ^ _**a**_ _**b**_ _**c**_ "2017 SAT Suite of Assessments Annual Report" (PDF). College Board. Retrieved September 30, 2017. 
+  2. **^** "Fees And Costs". The College Board. Retrieved  October 13, 2014. 
+  3. **^** "Frequently Asked Questions About ETS". ETS. Retrieved  June 6, 2014. 
+  4. **^** " 'Massive' breach exposes hundreds of questions for upcoming SAT exams". Reuters. Retrieved 20 July 2017. 
+  5. **^** Baird, Katherine (2012). _Trapped in Mediocrity: Why Our Schools Aren't World-Class and What We Can Do About It_. Lanham: Rowman and Littlefield Publishers.   "And a separate process that began in 1926 was complete by 1942: the much easier SAT--a test not aligned to any particular curriculum and thus better suited to a nation where high school students did not take a common curriculum--replaced the old college boards as the nations's college entrance exam. This broke the once tight link between academic coursework and college admission, a break that remains to this day."
+  6. **^** Lewin, Tamar (March 5, 2014). "A New SAT Aims to Realign With Schoolwork". _The New York Times_. Retrieved  May 14, 2014. He said he also wanted to make the test reflect more closely what students did in high school 
+  7. ^ _**a**_ _**b**_ _**c**_ Lewin, Tamar (March 5, 2014). "A New SAT Aims to Realign With Schoolwork". _The New York Times_. Retrieved  May 14, 2014. 
+  8. ^ _**a**_ _**b**_ "SAT Registration Fees". College Board. Retrieved  January 7, 2017. 
+  9. **^** O'Shaughnessy, Lynn (July 26, 2009). "The Other Side of 'Test Optional'". _The New York Times_. p.  6. Retrieved June 22, 2011. 
+  10. **^** Balf, Todd (2014-03-06). "The Story Behind the SAT Overhaul". _The New York Times_. ISSN 0362-4331. Retrieved  2017-06-21. 
+  11. **^** "SAT Registration". College Board. Retrieved  August 16, 2016.  "Most students take the SAT spring of junior year or fall of senior year."
+  12. **^** Atkinson, Richard; Geiser, Saul (May 4, 2015). "The Big Problem With the New SAT". _The New York Times_. Retrieved  January 29, 2016. 
+  13. **^** "01-249.RD.ResNoteRN-10 collegeboard.com" (PDF). The College Board. Retrieved October 13, 2014. 
+  14. **^** Geiser, Saul; Studley, Roger (October 29, 2001), _UC and the SAT: Predictive Validity and Differential Impact of the SAT I ad SAT II at the University of California_ (PDF), University of California, Office of the President. 
+  15. **^** Korbin, L. (2006). SAT Program Handbook. A Comprehensive Guide to the SAT Program for School Counselors and Admissions Officers, 1, 33+. Retrieved January 24, 2006, from College Board Preparation Database.
+  16. **^** Atkinson, R. C.; Geiser, S. (2009). "Reflections on a Century of College Admissions Tests". _Educational Researcher_. **38** (9): 665–676. doi:10.3102/0013189x09351981.  
+  17. **^** Honawar, Vaishali; Klein, Alyson (August 30, 2006). "ACT Scores Improve; More on East Coast Taking the SAT's Rival". _Education Week_.  
+  18. **^** Slatalla, Michelle (November 4, 2007). "ACT vs. SAT". _The New York Times_.  
+  19. **^** "Colleges and Universities That Do Not Use SAT/ACT Scores for Admitting Substantial Numbers of Students Into Bachelor Degree Programs". _fairtest.org_. The National Center for Fair  & Open Testing. Retrieved September 26, 2017. 
+  20. **^** Marklein, Mary Beth (March 18, 2007). "All four-year U.S. colleges now accept ACT test". _USA Today_.  
+  21. ^ _**a**_ _**b**_ _**c**_ "The SAT and SAT Subject Tests Educator Guide" (PDF). College Board. Retrieved 20 July 2017. 
+  22. **^** "SAT Reading Test". College Board. Retrieved  16 August 2017. 
+  23. **^** "SAT Writing and Language Test". College Board. Retrieved  19 August 2017. 
+  24. **^** "SAT Math Test". The College Board. Retrieved  April 5, 2016. 
+  25. **^** "Score Structure – SAT Suite of Assessments". The College Board. Retrieved  April 5, 2016. 
+  26. **^** "PSAT/NMSQT Understanding Scores 2015 – SAT Suite of Assessments" (PDF). The College Board. Retrieved April 6, 2016. 
+  27. **^** "SAT Study Guide for Students – SAT Suite of Assessments". The College Board. Retrieved  April 7, 2016. 
+  28. **^** "SAT Calculator Policy". The College Board. Retrieved  April 2, 2016. 
+  29. **^** Scheuneman, Janice; Camara, Wayne. "Calculator Use and the SAT I Math". The College Board. Retrieved April 3, 2016. 
+  30. **^** "Should graphing calculators be allowed on important tests?" (PDF). Texas Instruments. Retrieved April 2, 2016. 
+  31. **^** "About The SAT Math Test" (PDF). College Board. Retrieved August 24, 2017. 
+  32. **^** "College Board Test Tips". College Board. Retrieved  September 9, 2008. 
+  33. **^** "SAT Dates And Deadlines". College Board. Retrieved  July 22, 2017. 
+  34. **^** "SAT International Registration". College Board. Retrieved  July 22, 2017. 
+  35. **^** "My SAT: Help". _collegeboard.com_.  
+  36. **^** "SAT Percentile Ranks for Males, Females, and Total Group:2006 College-Bound Seniors—Critical Reading + Mathematics" (PDF). College Board. Retrieved May 29, 2007. 
+  37. **^** "SAT Percentile Ranks for Males, Females, and Total Group:2006 College-Bound Seniors—Critical Reading + Mathematics + Writing" (PDF). College Board. Retrieved May 29, 2007. 
+  38. **^** Membership Committee (1999). "1998/99 Membership Committee Report". Prometheus Society. Retrieved June 19, 2013. 
+  39. **^** Anderson, Nick SAT scores at lowest level in 10 years, fueling worries about high schools _Washington Post_. September 4, 2015
+  40. **^** "ACT and SAT® Concordance Tables" (PDF). _Research Note 40_. College Board. Retrieved  18 Mar 2017. 
+  41. **^** "ACT-SAT Concordance Tables" (PDF). ACT, Inc. Retrieved 18 Mar 2017. 
+  42. **^** "Higher Education Concordance Information". College Board. Retrieved  18 Mar 2017. 
+  43. **^** "Data (SAT Program Participation And Performance Statistics)". College Entrance Examination Board. Retrieved  May 5, 2014. 
+  44. ^ _**a**_ _**b**_ _**c**_ _**d**_ Lemann, Nicholas (2004). "A History of Admissions Testing". In Zwick, Rebecca. _Rethinking the SAT: The Future of Standardized Testing in University Admissions_. New York: RoutledgeFalmer. pp.  5–14. 
+  45. ^ _**a**_ _**b**_ Crouse, James; Trusheim, Dale (1988). _The Case Against the SAT_. Chicago: The University of Chicago Press. pp.  16–39. 
+  46. ^ _**a**_ _**b**_ _**c**_ _**d**_ _**e**_ Hubin, David R. (1988). _The SAT – Its Development and Introduction, 1900–1948_ (Ph.D.). University of Oregon.  
+  47. **^** "G.I Bill History and Timeline". Retrieved  28 July 2016. 
+  48. **^** Fuess, Claude (1950). _The College Board: Its First Fifty Years_. New York: Columbia University Press.  
+  49. **^** Bennet, Randy Elliot. "What Does It Mean to Be a Nonprofit Educational Measurement Organization in the 21st Century?" (PDF). Educational Testing Service. Retrieved 28 Mar 2015. 
+  50. ^ _**a**_ _**b**_ "On Further Examination: Report of the Advisory Panel on the Scholastic Aptitude Test Score Decline" (PDF). College Entrance Examination Board. 1977. Retrieved June 24, 2014. 
+  51. **^** "frontline: secrets of the sat: where did the test come from?: the 1901 college board". _Secrets of the SAT_. Frontline. Retrieved  October 20, 2007. 
+  52. ^ _**a**_ _**b**_ _**c**_ _**d**_ _**e**_ _**f**_ _**g**_ _**h**_ Lawrence, Ida; Rigol, Gretchen W.; Van Essen, Thomas; Jackson, Carol A. (2003). "Research Report No. 2003-3: A Historical Perspective on the Content of the SAT" (PDF). College Entrance Examination Board. Retrieved June 1, 2014. 
+  53. ^ _**a**_ _**b**_ "frontline: secrets of the sat: where did the test come from?: the 1926 sat". _Secrets of the SAT_. Frontline. Retrieved  October 20, 2007. 
+  54. ^ _**a**_ _**b**_ _**c**_ _**d**_ _**e**_ Dorans, Neil. "The Recentering of SAT® Scales and Its Effects on Score Distributions and Score Interpretations" (PDF). _Research Report No. 2002-11_. College Board. Retrieved  May 30, 2014. 
+  55. **^** Donlon, Thomas; Angoff, William (1971). Angoff, William, ed. _The College Board Admissions Testing Program: A Technical Report on Research and Development Activities Relating to the Scholastic Aptitude Test and Achievement Tests_. New York: College Entrance Examination Board. pp. 32–33. Retrieved  May 30, 2014.  Available at the Education Resources Information Center.
+  56. **^** Stedman, Lawrence; Kaestle, Carl (1991). "The Great Test Score Decline: A Closer Look". In Kaestle, Carl. _Literacy in the United States_. Yale University Press. p.  132. 
+  57. ^ _**a**_ _**b**_ Honan, William (March 20, 1994). "Revised and Renamed, S.A.T. Brings Same Old Anxiety". _The New York Times_.  
+  58. **^** DePalma, Anthony (November 1, 1990). "Revisions Adopted in College Entrance Tests". _The New York Times_.  
+  59. **^** "Scholastic Assessment Test Score Averages for High-School College-Bound Seniors". National Center for Education Statistics. Retrieved  May 23, 2014. 
+  60. **^** _The College Handbook, 1985–86_. New York: College Entrance Examination Board. 1985. p.  953. 
+  61. **^** "Yale University Scholastic Assessment Test (SAT) Scores for Freshmen Matriculants Class of 1980 – Class of 2017" (PDF). Retrieved June 4, 2014. 
+  62. **^** "College-Bound Seniors: 1992 Profile of SAT and Achievement Test Takers". College Entrance Examination Board. 1992. p. 9. Retrieved  June 21, 2014.  Available at the Education Resources Information Center.
+  63. **^** Barron, James (July 26, 1995). "When Close Is Perfect: Even 4 Errors Can't Prevent Top Score on New S.A.T". _The New York Times_.  
+  64. **^** "SAT I Individual Score Equivalents". College Entrance Examination Board. Retrieved  June 29, 2014. 
+  65. **^** The Center for Education Reform (August 22, 1996). "SAT Increase--The Real Story, Part II". Archived from the original on July 21, 2011. 
+  66. **^** Stedman, Lawrence (March 2009). "The NAEP Long-Term Trend Assessment: A Review of Its Transformation, Use, and Findings" (PDF). Retrieved September 9, 2017. 
+  67. **^** Schoenfeld, Jane. College board drops 'score choice' for SAT-II exams. St. Louis Business Journal, May 24, 2002.
+  68. **^** "Freshman Requirements & Process: Testing". _stanford.edu_. Stanford University Office of Undergraduate Admissions. Retrieved  August 13, 2011. 
+  69. **^** "College Board To Alter SAT I for 2005–06". Daily Nexus. 20 September 2002. Archived from the original on 9 October 2007. Retrieved  July 3, 2016. 
+  70. **^** Lewin, Tamar (June 23, 2002). "New SAT Writing Test Is Planned". _The New York Times_. Retrieved  May 5, 2014. 
+  71. **^** "Understanding the New SAT". Inside Higher Ed. 25 May 2005. Retrieved  July 3, 2016. 
+  72. **^** Arenson, Karen (March 10, 2006). "SAT Errors Raise New Qualms About Testing". _The New York Times_.  
+  73. **^** Arenson, Karen (April 9, 2006). "Class-Action Lawsuit to Be Filed Over SAT Scoring Errors". _The New York Times_.  
+  74. **^** Hoover, Eric (August 24, 2007). "$2.85-Million Settlement Proposed in Lawsuit Over SAT-Scoring Errors". The Chronicle of Higher Education. Archived from the original on September 30, 2007. Retrieved August 27, 2007. 
+  75. **^** Maslin Nir, Sarah (April 8, 2011). "7,000 Private School Applicants Got Incorrect Scores, Company Says". _The New York Times_.  
+  76. **^** "Cornell Rejects SAT Score Choice Option". The Cornell Daily Sun. Retrieved  February 13, 2008. 
+  77. **^** "Universities Requesting All Scores" (PDF). Retrieved June 22, 2009. 
+  78. **^** http://professionals.collegeboard.com/profdownload/sat-score-use-practices-list.pdf
+  79. **^** "Test Security and Fairness". The College Board. Retrieved  October 13, 2014. 
+  80. **^** "New, Reading-Heavy SAT Has Students Worried". _The New York Times_. February 8, 2016. Retrieved  July 25, 2017. 
+  81. **^** "Key shifts of the SAT redesign". _The Washington Post_. March 5, 2014. Retrieved  May 14, 2014. 
+  82. ^ _**a**_ _**b**_ _**c**_ "SAT FAQ: Frequently Asked Questions". College Board. Archived from the original on March 25, 2008. Retrieved  May 29, 2007. 
+  83. **^** Commission on New Possibilities for the Admissions Testing Program (1990). _Beyond Prediction_. College Entrance Examination Board. p.  9. 
+  84. **^** Pitsch, Mark (November 7, 1990). "S.A.T. Revisions Will Be Included In Spring '94 Test". _Education Week_.  
+  85. **^** Jordan, Mary (March 27, 1993). "SAT Changes Name, But It Won't Score 1,600 With Critics". _Washington Post_.  
+  86. **^** Horwitz, Sari (May 5, 1995). "Perfectly Happy With Her SAT; D.C. Junior Aces Scholastic Assessment Test With a 1,600". _Washington Post_.  
+  87. **^** Applebome, Peter (April 2, 1997). "Insisting It's Nothing, Creator Says SAT, Not S.A.T". _The New York Times_.  
+  88. **^** Rothstein, Richard (August 28, 2002). "Sums vs. Summarizing: SAT's Math-Verbal Gap". _The New York Times_.  
+  89. **^** Pope, Justin. "Old SAT Exams Get Reused". Washington Post. 
+  90. **^** Renee Dudley; Steve Stecklow; Alexandra Harney; Irene Jay Liu (28 March 2016). "As SAT was hit by security breaches, College Board went ahead with tests that had leaked". Archived from the original on 22 September 2016. Retrieved 4 November 2016. 
+  91. **^** Renee Dudley; Steve Stecklow; Alexandra Harney; Irene Jay Liu (28 March 2016). "How Asian test-prep companies quickly penetrated the new SAT". _Reuters_. Archived from the original on 18 October 2016. Retrieved  4 November 2016. 
+  92. **^** Zwick, Rebecca (2004). _Rethinking the SAT: The Future of Standardized Testing in University Admissions_. New York: RoutledgeFalmer. pp.  203–204. ISBN 0-415-94835-5. 
+  93. **^** Herrnstein, Richard Ol; Murray, Charles (1994). _The Bell Curve: Intelligence and Class Structure in American Life_. New York: Free Press. pp.  281–282. ISBN 0-02-914673-9. 
+  94. **^** Rampell, Catherine (August 27, 2009). "SAT Scores and Family Income". _New York Times_. Retrieved  October 3, 2017. 
+  95. **^** Wade, L (29 August 2012). "The Correlation Between Income and SAT Scores". _The Society Pages_.  
+  96. **^** Geiser, Saul; Studley, Roger (October 29, 2001), _UC and the SAT: Predictive Validity and Differential Impact of the SAT I ad SAT II at the University of California_ (PDF), University of California, Office of the President. 
+  97. **^** Herrnstein, Richard Ol; Murray, Charles (1994). The Bell Curve: Intelligence and Class Structure in American Life. New York: Free Press. pp. 281–282.
+  98. **^** Groves, Martha (29 August 2001). "SAT's Gender Gap Widening". 
+  99. **^** Cummins, Denise (17 March 2014). "Boys outperform girls on mathematic portion". _psychology today_. Retrieved  6 November 2016. 
+  100. **^** Status and Trends in the Education of Racial and Ethnic Minorities: Average SAT scores for 12th-grade SAT-taking population, by race/ethnicity: 2006
+  101. **^** "Average SAT scores for 12th-grade SAT-taking population, by race/ethnicity: 2006". _Institute of Educational Sciences_. The College Board, College Bound Seniors, 2006. 2006.  
+  102. **^** Abigail Thernstrom & Stephan Thernstrom. 2004. No Excuses: Closing the Racial Gap in Learning. Simon and Schuster
+  103. **^** Jaschik, S (21 June 2010). "New Evidence of Racial Bias on the SAT". _Inside Higher ED_.  
+  104. **^** Card, D.; Rothstein, Ol (2007). "Racial segregation and the black–white test score gap". _Journal of Public Economics_. **91** (11): 2158–2184. doi:10.1016/j.jpubeco.2007.03.006.  
+  105. ^ _**a**_ _**b**_ _**c**_ Jencks, C. (1998). Racial bias in testing. The Black-White test score gap, 55, 84.
+  106. **^** "The Widening Racial Scoring Gap on the SAT College Admissions Test". The Journal of Blacks in Higher Education. Retrieved  14 December 2015. 
+  107. **^** Ogbu, John U. (3 January 2003). _Black American Students in An Affluent Suburb: A Study of Academic Disengagement (Sociocultural, Political, and Historical Studies in Education)_. New York: Routledge. pp.  16, 164. ISBN 978-0-8058-4516-7. 
+  108. **^** Freedle, R. O. (2003). "Correcting the SAT's ethnic and social-class bias: A method for reestimating SAT Scores". _Harvard Educational Review_. **73** : 1–38. doi:10.17763/haer.73.1.8465k88616hn4757. 
+  109. **^** Crain, W (2004). "Biased test". _ENCOUNTER: Education for meaning and social justice_. **17** (3): 2–4.  
+  110. **^** http://files.campus.edublogs.org/blogs.leeward.hawaii.edu/dist/c/124/files/2011/10/BiasedTests-ths23o.pdf
+  111. **^** "New Evidence of Racial Bias on SAT". _insidehighered.com_.  
+  112. **^** Santelices, M. V.; Wilson, M. (2010). "Unfair treatment? The case of Freedle, the SAT, and the standardization approach to differential item functioning". _Harvard Educational Review_. **80** (1): 106–134. doi:10.17763/haer.80.1.j94675w001329270.  
+  113. **^** Fleming, Ol (2002). Who will succeed in college? When the SAT predicts Black students' performance. The Review of Higher Education, 25(3), 281-296.
+  114. **^** Gilroy, Marilyn (December 2007). "Colleges Making SAT Optional as Admissions Requirement". _Education Digest_. **73** (4): 35–39. Retrieved  October 5, 2013. 
+  115. **^** "Achievement Versus Aptitude Tests in College Admissions".  
+  116. **^** Phelps, Richard (2003). _Kill the Messenger_. New Brunswick, New Jersey: Transaction Publishers. p.  220\. ISBN 0-7658-0178-7. 
+  117. **^** Frey, M. C.; Detterman, D. K. (2003). "Scholastic Assessment or _g_? The Relationship Between the Scholastic Assessment Test and General Cognitive Ability" (PDF). _Psychological Science_. **15** (6): 373–378. doi:10.1111/j.0956-7976.2004.00687.x. PMID 15147489.  
+  118. **^** Beaujean, A. A.; Firmin, M. W.; Knoop, A. Ol; Michonski, Ol D.; Berry, T. B.; Lowrie, R. E. (2006). "Validation of the Frey and Detterman (2004) IQ prediction equations using the Reynolds Intellectual Assessment Scales" (PDF). _Personality and Individual Differences_. **41** : 353–357. doi:10.1016/Olpaid.2006.01.014 (inactive 2017-07-19). 
+  119. **^** Research and Markets ltd. "2009 Worldwide Exam Preparation & Tutoring Industry Report". _researchandmarkets.com_.  
+  120. ^ _**a**_ _**b**_ _**c**_ Montgomery, Paul; Lilly, Jane (2012). "Systematic Reviews of the Effects of Preparatory Courses on University Entrance Examinations in High School-Age Students" (PDF). _International Journal of Social Welfare_. **21** (1): 3–12. doi:10.1111/j.1468-2397.2011.00812.x.  
+  121. **^** Allen Grove. "SAT Prep – Are SAT Prep Courses Worth the Cost?". _About.com Education_.  
+  122. **^** Jeff Grabmeier (August 7, 2006). "SAT PREP TOOLS GIVE ADVANTAGE TO STUDENTS FROM WEALTHIER FAMILIES". Ohio State University. Retrieved February 23, 2014. 
+  123. **^** "triplenine.org".  
+  124. **^** Winerip, Michael (May 4, 2005). "SAT Essay Test Rewards Length and Ignores Errors". _The New York Times_.  
+  125. **^** Harris, Lynn (May 17, 2005). "Testing, testing". _Salon.com_.  
+
+## Further reading[edit]
+
+  * Balf, Todd (March 6, 2014). "The Story Behind the SAT Overhaul". _The New York Times Magazine_.  
+  * Lewin, Tamar (March 5, 2014). "A New SAT Aims to Realign With Schoolwork". _The New York Times_.  
+  * "Key shifts of the SAT redesign". _The Washington Post_. March 5, 2014.  
+  * Coyle, T. R. & Pillow, D. R. (2008). "SAT and ACT predict college GPA after removing _g_ ". _Intelligence_. **36** (6): 719–729. doi:10.1016/Olintell.2008.05.001 (inactive 2017-07-19).  
+  * Coyle, T.; Snyder, A.; Pillow, D.; Kochunov, P. (2011). "SAT predicts GPA better for high ability subjects: Implications for Spearman's Law of Diminishing Returns". _Personality and Individual Differences_. **50** (4): 470–474. doi:10.1016/j.paid.2010.11.009. PMC 3090148 . PMID 21562615.  
+  * Frey, M. C.; Detterman, D. K. (2003). "Scholastic Assessment or _g_? The Relationship Between the Scholastic Assessment Test and General Cognitive Ability" (PDF). _Psychological Science_. **15** (6): 373–378. doi:10.1111/j.0956-7976.2004.00687.x. PMID 15147489.  
+  * Gould, Stephen Jay (1996). _The Mismeasure of Man_ (Rev/Expd ed.). W. W. Norton  & Company. ISBN 0-393-31425-1. 
+  * Hoffman, Banesh (1962). _The Tyranny of Testing_. Orig. pub. Collier. ISBN 0-486-43091-X.   (and others)
+  * Hubin, David R. (1988). _The Scholastic Aptitude Test: Its Development and Introduction, 1900–1948_. Ph.D. dissertation in American History at the University of Oregon.  
+  * Owen, David (1999). _None of the Above: The Truth Behind the SATs_ (Revised ed.). Rowman  & Littlefield. ISBN 0-8476-9507-7. 
+  * Sacks, Peter (2001). _Standardized Minds: The High Price of America's Testing Culture and What We Can Do to Change It_. Perseus. ISBN 0-7382-0433-1.  
+  * Zwick, Rebecca (2002). _Fair Game? The Use of Standardized Admissions Tests in Higher Education_. Falmer. ISBN 0-415-92560-6.  
+  * Gladwell, Malcolm (December 17, 2001). "Examined Life: What Stanley H. Kaplan taught us about the S.A.T". _The New Yorker_.  
+
+## External links[edit]
+
+| Wikibooks has a book on the topic of: _**SAT Study Guide**_  
+---|---  
+|  Wikimedia Commons has media related to _**SAT**_.  
+---|---  
+  
+  * Official website
+
+  * v
+  * t
+  * e
+
+Admission tests to colleges and universities  
+  
+---  
+Africa |
+
+  * South Africa: Matriculation in South Africa
+  * Tunisia: Tunisian Baccalaureate
+
+  
+  
+Americas |
+
+  * Brazil: Vestibular, ENEM
+  * Canada: Alberta Diploma Exam
+  * Chile: PSU
+  * Colombia: ICFES
+  * United States: SAT, ACT
+
+  
+  
+Asia-Pacific |
+
+  * Australia: ATAR, STAT
+  * China: Gaokao
+  * Hong Kong: HKDSE (JUPAS)
+  * India: IITJEE, AIEEE, EAMCET
+  * Indonesia: UN, SBMPTN
+  * Iran: Concours
+  * Israel: The Psychometry
+  * Japan: NCTUA, EJU
+  * Kazakhstan: UBT
+  * Malaysia: STPM
+  * Philippines: UPCAT, PUPCET
+  * Singapore: GCE-O, GCE-A
+  * South Korea: Suneung
+  * Taiwan: GSAT, DRT
+  * Thailand: GAT, PAT
+
+  
+  
+Europe |
+
+  * Belarus: CTRB
+  * Denmark: Studentereksamen
+  * Estonia: Küpsuseksamid
+  * Finland: Ylioppilastutkinto
+  * France: Baccalauréat
+  * Germany: Abitur
+  * Ireland: Leaving Certificate
+  * Netherlands: Eindexamen
+  * Portugal: ENES
+  * Romania: Bacalaureat
+  * Russia: Unified State Exam (EGE)
+  * Spain: Selectividad
+  * Sweden: Högskoleprovet
+  * Turkey: YGS-LYS
+  * Ukraine: External independent evaluation (ZNO)
+  * United Kingdom: A-Level, Higher
+  * Albania, Austria, Bosnia and Herzegovina, Bulgaria, Croatia, Czech Republic, Hungary, Italy, Kosovo, Liechtenstein, Republic of Macedonia, Montenegro, Poland, Serbia, Slovakia, Slovenia, and Switzerland: Matura
+
+  
+  
+  * v
+  * t
+  * e
+
+College Board  
+  
+---  
+Presidents |
+
+  * Gaston Caperton (1999—2012)
+  * David Coleman (2012—present)
+
+  
+  
+SAT Tests |
+
+| Main Tests |
+
+  * SAT
+  * PSAT/NMSQT
+
+  
+  
+---|---  
+Subject Tests |
+
+  * Biology E/M
+  * Chemistry
+  * _English Language Proficiency_ (discontinued)
+  * French
+  * Literature
+  * Mathematics Level 1
+  * Mathematics Level 2
+  * Physics
+  * U.S. History
+  * World History
+
+  
+  
+AP exams |
+
+|  Arts |
+
+  * Art History
+  * Music Theory
+  * Studio Art: 2-D Design
+  * Studio Art: 3-D Design
+  * Studio Art: Drawing
+
+  
+  
+---|---  
+English |
+
+  * English Language
+  * English Literature
+
+  
+  
+History & Social Science |
+
+  * Comparative Government and Politics
+  * European History
+  * Human Geography
+  * Macroeconomics
+  * Microeconomics
+  * Psychology
+  * U.S. History
+  * U.S. Government and Politics
+  * World History
+
+  
+  
+Math & Computer Science |
+
+  * Calculus AB
+  * Calculus BC
+  * Computer Science A
+  * Computer Science Principles
+  * Statistics
+
+  
+  
+Sciences |
+
+  * Biology
+  * Chemistry
+  * Environmental Science
+  * Physics 1: Algebra-Based
+  * Physics 2: Algebra-Based
+  * _AP Physics B_ (discontinued)
+  * Physics C: Mechanics
+  * Electricity and Magnetism
+
+  
+  
+World Languages & Cultures |
+
+  * Chinese
+  * French
+  * _French Literature_ (discontinued)
+  * German
+  * Italian
+  * Japanese
+  * Latin
+  * _Latin Literature_ (discontinued)
+  * _Russian_ (in development)
+  * Spanish
+  * Spanish Literature
+
+  
+  
+Programs & apps |
+
+  * Advanced Placement
+  * College Level Examination
+  * CSS PROFILE
+
+  
+  
+Related |
+
+  * Educational Testing Service
+  * Math–verbal achievement gap
+  * National Merit Scholarship Corporation
+
+  
+  
+Retrieved from
+"https://en.wikipedia.org/w/index.php?title=SAT&oldid=815867542"
+
+Categories:
+
+  * Standardized tests in the United States
+  * 1901 introductions
+
+Hidden categories:
+
+  * Pages with DOIs inactive since 2017
+  * Articles lacking reliable references from May 2015
+  * All articles lacking reliable references
+  * Articles containing potentially dated statements from 2017
+  * All articles containing potentially dated statements
+  * All articles with unsourced statements
+  * Articles with unsourced statements from March 2011
+  * Articles to be expanded from September 2015
+  * All articles to be expanded
+  * Articles using small message boxes
+  * Commons category with local link different than on Wikidata
+
+## Navigation menu
+
+### Personal tools
+
+  * Not logged in
+  * Talk
+  * Contributions
+  * Create account
+  * Log in
+
+### Namespaces
+
+  * Article
+  * Talk
+
+###  Variants
+
+### Views
+
+  * Read
+  * Edit
+  * View history
+
+### More
+
+###  Search
+
+### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+  * Donate to Wikipedia
+  * Wikipedia store
+
+### Interaction
+
+  * Help
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact page
+
+### Tools
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Permanent link
+  * Page information
+  * Wikidata item
+  * Cite this page
+
+### Print/export
+
+  * Create a book
+  * Download as PDF
+  * Printable version
+
+### In other projects
+
+  * Wikimedia Commons
+
+### Languages
+
+  * العربية
+  * Azərbaycanca
+  * Български
+  * Čeština
+  * Dansk
+  * Deutsch
+  * Español
+  * فارسی
+  * Français
+  * 한국어
+  * Հայերեն
+  * हिन्दी
+  * Bahasa Indonesia
+  * Italiano
+  * עברית
+  * ქართული
+  * Қазақша
+  * Nederlands
+  * 日本語
+  * Norsk
+  * Polski
+  * Português
+  * Русский
+  * Simple English
+  * Suomi
+  * தமிழ்
+  * తెలుగు
+  * ไทย
+  * Türkçe
+  * Українська
+  * اردو
+  * Tiếng Việt
+  * 中文
+
+Edit links
+
+  * This page was last edited on 17 December 2017, at 18:37.
+  * Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+  * Contact Wikipedia
+  * Developers
+  * Cookie statement
+  * Mobile view
+
+  *   * 
+
+  *[FBS]: Football Bowl Subdivision
+  *[div.]: divorced
+  *[FCS]: Football Championship Subdivision
+  *[e]: Edit this template
+  *[c.]: circa
+  *[m.]: married
+  *[Pop.]: Population
+  *[Statistics]: Biostatistics programs are not considered in the No. 8 ranking. UPenn is No. 10 when Biostatistics programs are considered.
+  *[ v]: View this template
+  *[t]: Discuss this template
+  *[v]: View this template
+  *[1887]: April 22, 1887
+  *[±%]: Percent change
+  *[%±]: Percent change
+

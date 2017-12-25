@@ -1,1 +1,0 @@
-Altair BASIC was an interpreter for the BASIC programming language that ran on the MITS Altair 8800 and subsequent S-100 bus computers. It was Microsoft's first product (as Micro-Soft), distributed by MITS under a contract. Altair BASIC was the start of the Microsoft BASIC product range.

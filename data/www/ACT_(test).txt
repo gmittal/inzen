@@ -1,0 +1,870 @@
+
+
+# ACT (test)
+
+From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+This article is about the college admission test in the United States. For the
+company which administers this test, see ACT (nonprofit organization).
+
+|
+
+This article needs to be **updated**.  Please update this article to reflect
+recent events or newly available information. _(November 2016)_  
+  
+---|---  
+ACT  
+---  
+Type | Paper-based standardized test  
+Developer / administrator | ACT (nonprofit)  
+Knowledge / skills tested | English, math, reading, science, writing
+(optional).  
+Purpose | Undergraduate admissions (mostly in the US and Canadian universities
+or colleges).  
+Year started | 1959 (1959)  
+Duration | English: 40 minutes,  
+Math: 60 minutes,  
+Reading: 35 minutes,  
+Science: 35 minutes,  
+Optional writing test: 40 minutes.  
+Total: 3 hours and 35 minutes (excluding breaks).[1]  
+Score / grade range | Composite score: 1 to 36,  
+Subscore (for each of the four subject areas): 1 to 36.  
+(All in 1-point increments.)[2]  
+Offered | US and Canada: 6 times a year.[3]  
+Other countries: 5 times a year.[4]  
+Countries / regions | Worldwide[5][6]  
+Languages | English  
+Annual number of test takers |  Over 2.03 million high school graduates in the
+class of 2017[7]  
+Prerequisites / eligibility criteria | No official prerequisite. Intended for
+high school students. Fluency in English assumed.  
+Fee | Without writing: US$46.00.  
+With writing: US$62.50.  
+Outside the US or Canada: US$47.50 in addition to above.[8] (Fee waivers are
+available for 11th or 12th grade students who are US citizens or testing in
+the US or US territories, and have demonstrated financial need.[9])  
+Scores / grades used by | Colleges or universities offering undergraduate
+programs (mostly in the US and Canada).  
+Website | www.act.org/products/k-12-act-test/  
+  
+Showing a picture of PLAN test booklets, a special version of the ACT for high
+school sophomores.
+
+The **ACT** (/ eɪ siː tiː/; originally an abbreviation of **American College
+Testing** )[10] is a standardized test used for college admissions in the
+United States. It was first introduced in November 1959 by University of Iowa
+professor Everett Franklin Lindquist as a competitor to the Scholastic
+Aptitude Test (SAT).[11] It is now administered by ACT, a nonprofit
+organization of the same name.[10]
+
+The ACT originally consisted of four tests: English, Mathematics, Social
+Studies, and Natural Sciences. In 1989 however, the Social Studies test was
+changed into a Reading section (which included a Social Studies subsection)
+and the Natural Sciences test was renamed the Science Reasoning test, with
+more emphasis on problem solving skills.[12] In February 2005, an optional
+Writing test was added to the ACT, mirroring changes to the SAT that took
+place later in March of the same year. In 2013, ACT announced that students
+would be able to take the ACT by computer starting in the spring of 2015. The
+test will continue to be offered in the paper format for schools that are not
+ready to transition to computer testing.[13]
+
+The ACT has seen a gradual increase in the number of test takers since its
+inception, and in 2011 the ACT surpassed the SAT for the first time in total
+test takers; that year, 1,666,017 students took the ACT and 1,664,479 students
+took the SAT.[14] All four-year colleges and universities in the U.S. accept
+the ACT,[15] but different institutions place different emphases on
+standardized tests such as the ACT, compared to other factors of evaluation
+such as class rank, GPA, and extracurricular activities.
+
+The main four tests are scored individually on a scale of 1–36, and a
+composite score is provided which is the rounded whole number average of the
+four scores.
+
+## Contents
+
+  * 1 Function
+  * 2 Format
+    * 2.1 English
+    * 2.2 Math
+    * 2.3 Reading
+    * 2.4 Science reasoning
+    * 2.5 Writing
+    * 2.6 Averages
+    * 2.7 Highest score
+    * 2.8 College admissions
+  * 3 Test availability
+  * 4 Test section durations
+  * 5 Score cumulative percentages and comparison with SAT
+    * 5.1 Score vs Percentile for English Section
+    * 5.2 Score vs Percentile for Mathematics Section
+    * 5.3 Score vs Percentile for Reading Section
+    * 5.4 Score vs Percentile for Science Section
+  * 6 Use by high IQ societies
+  * 7 See also
+  * 8 References
+  * 9 External links
+
+## Function[edit]
+
+ACT, Inc. says that the ACT assessment measures high school students' general
+educational development and their capability to complete college-level work
+with the multiple choice tests covering four skill areas: English,
+mathematics, reading, and science. The optional Writing Test measures skill in
+planning and writing a short essay.[16] Specifically, ACT states that its
+scores provide an indicator of "college readiness," and that scores in each of
+the subtests correspond to skills in entry-level college courses in English,
+algebra, social science, humanities, and biology.[17] According to a research
+study conducted by ACT, Inc., in 2003, a relationship was found between a
+student's ACT composite score and the possibility of his or her earning a
+college degree.[18]
+
+To develop the test, ACT incorporates the objectives for instruction for
+middle and high schools throughout the United States, reviews approved
+textbooks for subjects taught in Grades 7–12, and surveys educators on which
+knowledge skills are relevant to success in postsecondary education. ACT
+publishes a technical manual that summarizes studies conducted of its validity
+in predicting freshman GPA, equating different high school GPAs, and measuring
+educational achievement.[19]
+
+Colleges use the ACT and the SAT because there are substantial differences in
+funding, curricula, grading, and difficulty among U.S. secondary schools due
+to American federalism, local control, and the prevalence of private,
+distance, home schooled students, and a lack of a rigorous college entrance
+examination system like those used in some other countries. ACT/SAT scores are
+used to supplement the secondary school record and help admission officers put
+local data—such as course work, grades, and class rank—in a national
+perspective.[20][ _citation needed_ ]
+
+The majority of colleges do not indicate a preference for the SAT or ACT exams
+and accept both, being treated equally by most admissions officers.[21]
+According to "Uni in the USA," colleges that also require students to take the
+SAT Subject Tests do so regardless of whether the candidate took the SAT or
+ACT;[21] however, some colleges accept the ACT in place of the SAT subject
+tests[22] and some accept the optional ACT Writing section in place of a SAT
+Subject Test.[23]
+
+Most colleges use ACT scores as only one factor in their admission process. A
+sampling of ACT admissions scores shows that the 75th percentile composite
+score was 24.1 at public four-year institutions and 25.3 at private four-year
+institutions. It is recommended that students check with their prospective
+institutions directly to understand ACT admissions requirements.
+
+In addition, some states have used the ACT to assess the performance of
+schools, and require all high school students to take the ACT, regardless of
+whether they are college bound. Colorado and Illinois have incorporated the
+ACT as part of their mandatory testing program since 2001. Michigan has
+required the ACT since 2007; Kentucky and Tennessee require all high school
+juniors to take the ACT and Wyoming requires all high school juniors to take
+either the ACT or the ACT WorkKeys.[24]
+
+While the exact manner in which ACT scores will help to determine admission of
+a student at American institutions of higher learning is generally a matter
+decided by the individual institution, some foreign countries have made ACT
+(and SAT) scores a legal criterion in deciding whether holders of American
+high school diplomas will be admitted at their public universities
+
+The ACT is more widely used in the Midwestern, Rocky Mountain, and Southern
+United States, whereas the SAT is more popular on the East and West coasts.
+Recently, however, the ACT is being used more on the East Coast.[25] Use of
+the ACT by colleges has risen as a result of various criticisms of the
+effectiveness and fairness of the SAT.
+
+## Format[edit]
+
+The required portion of the ACT is divided into four multiple choice subject
+tests: English, mathematics, reading, and science reasoning. Subject test
+scores range from 1 to 36; all scores are integers. The English, mathematics,
+and reading tests also have subscores ranging from 1 to 18 (the subject score
+is not the sum of the subscores). The composite score is the average of all
+four tests. In addition, students taking the optional writing test receive a
+writing score ranging from 2 to 12 (This is a change from the previous 1–36
+score range). The writing score does not affect the composite score. The ACT
+has eliminated the combined English/writing score, and has added two new
+combined scores: The ELA will be an average of the English, Reading and
+Writing scores. The STEM will be an average of the Math and Science
+scores.[26][27] All of the changes that have been listed for the writing score
+and the new ELA and STEM scores were effective starting on the September 2015
+test.[28]
+
+On the ACT, each question correctly answered is worth one raw point. There is
+no penalty for marking incorrect answers on the multiple-choice part of the
+test. Therefore, a student can answer all questions without suffering a
+decrease in their score for questions they answer incorrectly. This is
+parallel to several AP Tests eliminating the penalties for incorrect answers.
+To improve the result, students can retake the test: 55% of students who
+retake the ACT improve their scores, 22% score the same, and 23% see their
+scores decrease.[29]
+
+### English[edit]
+
+The first section is the 45-minute English test covering usage/mechanics,
+sentence structure, and rhetorical skills. The 75-question test consists of
+five passages with various sections underlined on one side of the page and
+options to correct the underlined portions on the other side of the page. More
+specifically, questions focus on usage and mechanics – issues such as commas,
+apostrophes, (misplaced/dangling) modifiers, colons, and fragments and run-ons
+– as well as on rhetorical skills – style (clarity and brevity), strategy,
+transitions, and organization (sentences in a paragraph and paragraphs in a
+passage) – and sentence structure – constructing sentences in a stylistically
+and grammatically correct manner.
+
+### Math[edit]
+
+The second section is a 60-minute, 60-question math test with the usual
+distribution of questions being 14 covering pre-algebra, 10 elementary
+algebra, 9 intermediate algebra, 14 plane geometry, 9 coordinate geometry, and
+4 elementary trigonometry questions.[30] However, the distribution of question
+topics varies from test to test. The difficulty of questions usually increases
+as you get to higher question numbers. Calculators are permitted in this
+section only. The calculator requirements are stricter than the SAT's in that
+computer algebra systems (such as the TI-89) are not allowed; however, the ACT
+permits calculators with paper tapes, that make noise (but must be disabled),
+or that have power cords with certain "modifications" (i.e., disabling the
+mentioned features), which the SAT does not allow.[31] Standard graphing
+calculators, such as the TI-83 and TI-84 are allowed. Within the TI-Inspire
+family, the standard and CX versions are allowed while the CX CAS is not
+allowed. Also, this is the only section that has five instead of four answer
+choices.
+
+### Reading[edit]
+
+The reading section is a 35-minute, 40-question test that consists of four
+sections, three of which contain one long prose passage and one which contains
+two shorter prose passages. The passages are representative of the levels and
+kinds of text commonly encountered in first-year college curricula. This
+reading test assesses skills in three general categories: key ideas and
+details, craft and structure, and integration of knowledge and ideas. Test
+questions will usually ask students to derive meaning from texts referring to
+what is explicitly stated or by reasoning to determine implicit meanings.
+Specifically, questions will ask you to use referring and reasoning skills to
+determine main ideas; locate and interpret significant details; understand
+sequences of events; make comparisons; comprehend cause-effect relationships;
+determine the meaning of context-dependent words, phrases, and statements;
+draw generalizations; and analyze the author’s or narrator’s voice and
+method.[32]
+
+### Science reasoning[edit]
+
+The science reasoning test is a 35-minute, 40-question test. There are seven
+passages each followed by five to seven questions. The passages have three
+different formats: Data Representation, Research Summary, and Conflicting
+Viewpoints. While the format used to be very predictable (i.e. there were
+always three Data Representation passages with 5 questions following each, 3
+Research Summary passages with six questions each, and one Conflicting
+Viewpoints passage with 7 questions),[33] when the number of passages was
+reduced from 7 to 6, more variability in the number of each passage type
+started to appear. But so far, there is still always only one Conflicting
+Viewpoints passage. These changes are very recent and so the only reference to
+them so far is in the recently released practice test on the ACT website.[34]
+
+### Writing[edit]
+
+The optional writing section, which is always administered at the end of the
+test, is 40 minutes long (increasing from the original 30 minute time limit on
+the September 2015 test). Essays must be in response to a given prompt. The
+prompts are about broad social issues (changing from the old prompts which
+were directly applicable to teenagers) and students must analyze three
+different perspectives given, and show how their opinion relates to these
+perspectives. The essay does not affect the composite score or the English
+section score. It is only given as a separate writing score and is included in
+the ELA score. No particular essay structure is required. Two trained readers
+assign each essay subscores between 1 and 6 in four different categories:
+Ideas and Analysis, Development and Support, Organization, Language Use and
+Conventions. Scores of 0 are reserved for essays that are blank, off-topic,
+non-English, not written with a no. 2 pencil, or considered illegible after
+several attempts at reading. The subscores from the two different readers are
+summed to produce final domain scores from 2 to 12 (or 0) in each of the four
+categories. If the two readers' subscores differ by more than one point, then
+a senior third reader makes the final decision on the score. The four domain
+scores are combined through a process that has not been described to create a
+writing section score between 1 and 36. Note that the domain scores are not
+added to create the writing section score.[27][35]
+
+Although the writing section is optional, many colleges do require an essay
+score and will factor it into the admissions decision (but fewer than half of
+all colleges have this requirement).[36]
+
+### Averages[edit]
+
+Historical average ACT scores of college-bound seniors.
+
+This map shows the mean ACT composite scores of students within the United
+States in 2014
+
+For the original standardization groups, the mean composite score on the ACT
+was 18, and the standard deviation 6.[37][ _citation needed_ ] These
+statistics vary from year to year for current populations of ACT takers.
+
+The chart below summarizes each section and the average test score based on
+graduating high school seniors in 2017.[7][38]
+
+Section | Number of questions | Time (minutes) | Score Range | Average score
+(2017) | College Readiness Benchmark | Content  
+---|---|---|---|---|---|---  
+English | 75 | 45 | 1–36 | 20.3 | 18 | Usage/mechanics and rhetorical skills  
+Mathematics | 60 | 60 | 1–36 | 20.7 | 22 | Pre-algebra, elementary algebra,
+intermediate algebra, coordinate geometry, geometry, elementary trigonometry,
+reasoning, and problem-solving  
+Reading | 40 | 35 | 1–36 | 21.4 | 22 | Reading comprehension  
+Science | 40 | 35 | 1–36 | 21.0 | 23 | Interpretation, analysis, evaluation,
+reasoning, and problem-solving  
+Optional Writing Test (not included in composite score) | 1 essay prompt | 40
+| 1–12 | 6.5 |  | Writing skills  
+Composite |  |  | 1–36 | 21.0 |  | Average (mean) of all section scores except
+Writing  
+  
+### Highest score[edit]
+
+Percent of test takers achieving a 36 on the ACT from 1997 to 2011.
+
+The table below summarizes how many students achieved a composite score of 36
+on the ACT between the years of 1997 and 2014.[39]
+
+Year | Number of students who achieved a 36 | Number of students overall |  %
+of students who achieved a 36  
+---|---|---|---  
+2014 | 1,407 | 1,845,787 | 0.07622  
+2013 | 1,162 | 1,799,243 | 0.06458  
+2012 | 781 | 1,666,017 | 0.04687  
+2011 | 704 | 1,623,112 | 0.04337  
+2010 | 588 | 1,568,835 | 0.03748  
+2009 | 638 | 1,480,469 | 0.04309  
+2008 | 428 | 1,421,941 | 0.03010  
+2007 | 314 | 1,300,599 | 0.02414  
+2006 | 216 | 1,206,455 | 0.01790  
+2005 | 193 | 1,186,251 | 0.01627  
+2004 | 224 | 1,171,460 | 0.01912  
+2003 | 195 | 1,175,059 | 0.01659  
+2002 | 134 | 1,116,082 | 0.01201  
+2001 | 89 | 1,069,772 | 0.00832  
+2000 | 131 | 1,065,138 | 0.01230  
+1999 | 85 | 1,019,053 | 0.00834  
+1998 | 71 | 995,039 | 0.00714  
+1997 | 74 | 959,301 | 0.00771  
+  
+### College admissions[edit]
+
+The ACT Assessment Student Report, at ACT.org, provides the typical ACT
+Composite averages for college and universities admission policies. They
+caution that, "because admission policies vary across colleges, the score
+ranges should be considered rough guidelines." Following is a list of the
+average composite scores that typically are accepted at colleges or
+universities.[40]
+
+  * **Highly selective** (majority of accepted freshmen in top 10% of high school graduating class): scores **27–30**
+  * **Selective** (majority of accepted freshmen in top 25% of high school graduating class): scores **25–27**
+  * **Traditional** (majority of accepted freshmen in top 50% of high school graduating class): scores **22–24**
+  * **Liberal** (some freshmen from lower half of high school graduating class): scores **18–21**
+  * **Open** (all high school graduates accepted, to limit of capacity): scores **17–20**
+
+##  Test availability[edit]
+
+The ACT is offered seven times a year in the United States and its
+territories, Puerto Rico, and Canada: in September, October, December,
+February, April, June, and July. (In New York State, the test is not offered
+in February and July.) In other locations, the ACT is offered five times a
+year: in September, October, December, April, and June.[41]. The ACT is
+offered only on Saturdays except for those with credible religious
+obligations, who may take the test on another day.[42]
+
+"The ACT is designed, administered, and scored in such a way that there is no
+advantage to testing on one particular date or another."[43]
+
+Candidates may choose either the ACT assessment ($46.00), or the ACT
+assessment plus writing ($62.50).[44]
+
+Students with verifiable disabilities, including physical and learning
+disabilities, are eligible to take the test with accommodations. The standard
+time increase for students requiring additional time due to disabilities is
+50%.[45] Originally the score sheet was labeled that additional time was
+granted due to a learning disability, however this was dropped because it was
+deemed illegal under the Americans with Disabilities Act and could be seen as
+an unfair mark of disability.
+
+Scores are sent to the student, his or her high school, and up to four
+colleges.[46]
+
+## Test section durations[edit]
+
+Time is a major factor to consider in testing.
+
+The ACT is generally regarded as being composed of somewhat easier questions
+versus the SAT[47][ _citation needed_ ], but the shorter time allotted to
+complete each section increases the overall difficulty (equalizing it to the
+SAT). The ACT allots:
+
+  * 45 minutes for a 75-question English section
+  * 60 minutes for a 60-question Mathematics section
+  * 35 minutes for a 40-question Reading section
+  * 35 minutes for a 40-question Science section
+
+Comparatively, the SAT is structured such that the test taker is allowed at
+least one minute per question, on generally shorter sections (25 or fewer
+questions). Times may be adjusted as a matter of accommodation for certain
+disabilities or other impairments.
+
+## Score cumulative percentages and comparison with SAT[edit]
+
+Sixty percent—about 2.03 million students—of the 2017 high school graduating
+class took the ACT. For the graduating class of 2017, the average composite
+score was a 21.0. Of these test-takers, 46% were male and 52% were female,
+with 2% not reporting a gender. 2,760 students in the graduating class of 2017
+received the highest ACT composite score of 36.[48]
+
+2005 distribution of ACT scores
+
+The following chart shows, for each ACT score from 11 to 36, the corresponding
+ACT percentile and equivalent total SAT score or score range.[49] (Concordance
+data for ACT scores less than 11 is not yet available for the current version
+of the SAT.) Note that ACT percentiles are defined as the percentage of test
+takers scoring at or below the given score.
+
+SAT combined score (Math + Reading/Writing) | ACT composite score | The
+percentile of students at or below this score for the ACT (not SAT)  
+---|---|---  
+1600 | 36 | 100%  
+1560–1590 | 35 | 99%  
+1520–1550 | 34 | 99%  
+1490–1510 | 33 | 98%  
+1450–1480 | 32 | 97%  
+1420–1440 | 31 | 96%  
+1390–1410 | 30 | 94%  
+1350–1380 | 29 | 92%  
+1310–1340 | 28 | 89%  
+1280–1300 | 27 | 86%  
+1240–1270 | 26 | 82%  
+1200–1230 | 25 | 78%  
+1160–1190 | 24 | 74%  
+1130–1150 | 23 | 69%  
+1100–1120 | 22 | 63%  
+1060–1090 | 21 | 57%  
+1020–1050 | 20 | 51%  
+980–1010 | 19 | 44%  
+940–970 | 18 | 38%  
+900–930 | 17 | 31%  
+860–890 | 16 | 25%  
+810–850 | 15 | 19%  
+760–800 | 14 | 13%  
+720–750 | 13 | 8%  
+630–710 | 12 | 4%  
+560–620 | 11 | 1%  
+  
+### Score vs Percentile for English Section[edit]
+
+Score | The percentile of students
+
+at or below this score  
+  
+---|---  
+36 | 100
+
+%  
+  
+35 | 99%  
+34 | 99%  
+33 | 97%  
+32 | 96%  
+31 | 94%  
+30 | 93%  
+29 | 91%  
+28 | 88%  
+27 | 85%  
+26 | 82%  
+25 | 78%  
+24 | 73%  
+23 | 68%  
+22 | 63%  
+21 | 57%  
+20 | 50%  
+19 | 43%  
+18 | 38%  
+17 | 33%  
+16 | 29%  
+15 | 24%  
+14 | 18%  
+13 | 14%  
+12 | 11%  
+11 | 9%  
+  
+### Score vs Percentile for Mathematics Section[edit]
+
+Score | The percentile of students
+
+at or below this score  
+  
+---|---  
+36 | 99%  
+35 | 99%  
+34 | 99%  
+33 | 98%  
+32 | 97%  
+31 | 96%  
+30 | 94%  
+29 | 93%  
+28 | 91%  
+27 | 88%  
+26 | 84%  
+25 | 79%  
+24 | 74%  
+23 | 67%  
+22 | 61%  
+21 | 57%  
+20 | 52%  
+19 | 47%  
+18 | 41%  
+17 | 34%  
+16 | 26%  
+15 | 14%  
+14 | 6%  
+13 | 2%  
+12 | 1%  
+11 | 1%  
+  
+### Score vs Percentile for Reading Section[edit]
+
+Score | The percentile of students
+
+at or below this score  
+  
+---|---  
+36 | 99%  
+35 | 99%  
+34 | 99%  
+33 | 97%  
+32 | 95%  
+31 | 93%  
+30 | 91%  
+29 | 87%  
+28 | 85%  
+27 | 82%  
+26 | 78%  
+25 | 75%  
+24 | 71%  
+23 | 66%  
+22 | 60%  
+21 | 54%  
+20 | 48%  
+19 | 42%  
+18 | 39%  
+17 | 30%  
+16 | 25%  
+15 | 19%  
+14 | 15%  
+13 | 10%  
+12 | 6%  
+11 | 3%  
+  
+### Score vs Percentile for Science Section[edit]
+
+Score | The percentile of students
+
+at or below this score  
+  
+---|---  
+36 | 99%  
+35 | 99%  
+34 | 99%  
+33 | 99%  
+32 | 98%  
+31 | 97%  
+30 | 96%  
+29 | 95%  
+28 | 93%  
+27 | 91%  
+26 | 87%  
+25 | 83%  
+24 | 77%  
+23 | 70%  
+22 | 62%  
+21 | 56%  
+20 | 47%  
+19 | 38%  
+18 | 34%  
+17 | 21%  
+16 | 19%  
+15 | 15%  
+14 | 11%  
+13 | 8%  
+12 | 5%  
+11 | 3%  
+  
+Sources:[50][50]
+
+## Use by high IQ societies[edit]
+
+American Mensa is a high IQ society that allows use of the ACT for membership
+admission if the test was taken prior to September 1989. A composite score of
+29 or above is required.[51] The Triple Nine Society also accepts the old ACT
+for admission, with a qualifying score of 32; after September 1989 the
+qualifying score is 34.[52] The Epimetheus Society accepts the ACT as well,
+accepting scores of 35 or higher, regardless of when the test was
+administered.[53]
+
+## See also[edit]
+
+  * ACT (nonprofit organization)#Other ACT programs
+  * College admissions in the United States
+  * Global Assessment Certificate
+  * List of admission tests to colleges and universities
+  * Math-verbal achievement gap on standardized testing
+  * PLAN (test)
+  * SAT
+
+## References[edit]
+
+  1. **^** "Test Descriptions – ACT Student". ACT, Inc. Retrieved  September 13, 2015. 
+  2. **^** "Understand Your Scores – Sample Student Report – ACT Student". ACT, Inc. Retrieved  October 13, 2014. 
+  3. **^** "Registration – Test Dates in the U.S., U.S. Territories, and Canada – ACT Student". ACT, Inc. Retrieved  October 13, 2014. 
+  4. **^** "Registration – Test Dates in Other Countries – ACT Student". ACT, Inc. Retrieved  October 13, 2014. 
+  5. **^** "Test Center Locations, Dates, and Codes". ACT, Inc. Retrieved  October 13, 2014. 
+  6. **^** "Test Center Codes – International – ACT Student". ACT Inc. Retrieved  October 13, 2014. 
+  7. ^ _**a**_ _**b**_ "The ACT Profile Report – National, Graduating Class 2017" (PDF). ACT, Inc. Retrieved September 9, 2017. 
+  8. **^** "Current ACT Fees and Services". ACT, Inc. Retrieved  September 21, 2017. 
+  9. **^** "The ACT Test Help and Frequently Asked Questions – Am I eligible for a fee waiver?". ACT, Inc. Retrieved  September 21, 2017. 
+  10. ^ _**a**_ _**b**_ "About ACT: History". Archived from the original on October 8, 2006. Retrieved  October 25, 2006.  Name changed in 1996.
+  11. **^** "ACT Assessment", Microsoft Encarta Online Encyclopedia 2007. Archived October 31, 2009, at WebCite October 31, 2009.
+  12. **^** "A (Mostly) Brief History Of The SAT and ACTs". Erik the Red. Retrieved  October 13, 2014. 
+  13. **^** Lewin, Tamar (May 6, 2013). "ACT to Move Toward Computer-Based Testing". _New York Times_. Retrieved  August 26, 2017. 
+  14. **^** Pope, Justin (September 24, 2012). "SAT scores edge down; ACT now more popular exam". _Associated Press_. Retrieved  June 5, 2013. 
+  15. **^** Marklein, Mary Beth (March 19, 2007). "All four-year U.S. colleges now accept ACT". USA Today. Retrieved March 18, 2007. 
+  16. **^** The Test Archived August 28, 2006, at the Wayback Machine.. (URL accessed June 5, 2007).
+  17. **^** "The ACT-Measure High School Student Readiness for College" (PDF). 
+  18. **^** Radunzal, J., Noble, J. (2003, April). "Tracking 2003 act-tested high school graduates: College readiness, enrollment, and long-term success." Retrieved from: http://www.act.org/research/researchers/reports/pdf/ACT_RR2012-2.pdf
+  19. **^** The ACT Technical Manual
+  20. **^** SCHOOL, CENTURY ACADEMY HIGH. "SAT/ACT Information". _www.conejousd.org_. Retrieved  June 2, 2017. 
+  21. ^ _**a**_ _**b**_ "Entrance Exam For College – College Entrance Exams – University In The USA". Uni in the USA. Archived from the original on October 20, 2014. Retrieved  October 13, 2014. 
+  22. **^** "ACT? SAT? Subject Tests? No Tests? Holy Moly! Who Is Requiring What These Days?". _Huffington Post_. August 11, 2014.  
+  23. **^** "SAT vs. ACT – Test Prep Tutoring & Classes – NYC, NY". CATES Tutoring and Educational Services. Retrieved  October 13, 2014. 
+  24. **^** "Newsroom - Press Kit, Digital Media Library, and Press Releases".  
+  25. **^** Honawar, Vaishali; Alyson Klein (August 30, 2006). "ACT Scores Improve; More on East Coast Taking the SAT's Rival" ( _fee required_ ). _Education Week_. **26** (1): 16. ISSN 0277-4232. Retrieved  July 6, 2007. Beginning in 2013, all freshman entering high school in the state of Ohio must take the test in order to graduate. 
+  26. **^** "What's Next for the ACT - Test Updates and Enhancements".  
+  27. ^ _**a**_ _**b**_ http://www.actstudent.org/writing/writing-scores.html
+  28. **^** "Newsroom - Press Kit, Digital Media Library, and Press Releases".  
+  29. **^** "The ACT-Getting Ready for Test Day".  
+  30. **^** Geoff Martz; Kim Magloire; Theodore Silver. (2007). "Chapter 10". _Cracking The ACT_ (2007 ed.). The Princeton Review. p.  94\. ISBN 978-0-375-76585-8. 
+  31. **^** "ACT FAQ: Can I use a calculator?". ACT Inc. Archived from the original on August 20, 2007. Retrieved  September 8, 2007. 
+  32. **^** "Description of Reading Test". _ACT_. Retrieved  2017-08-18. 
+  33. **^** Geoff Martz; Kim Magloire; Theodore Silver. (2007). "Chapter 20". _Cracking The ACT_ (2007 ed.). The Princeton Review. p.  307\. ISBN 978-0-375-76585-8. 
+  34. **^** http://www.act.org/aap/pdf/Preparing-for-the-ACT.pdf
+  35. **^** http://www.actstudent.org/writing/
+  36. **^** Cavner, Brian. "Comparison Between the SAT and ACT: Requirements differences between the two college admissions standardized tests". Archived from the original on February 15, 2008. Retrieved February 3, 2008. 
+  37. **^** "Taking the ACT". _www.boone.kyschools.us_. Retrieved  June 3, 2017. 
+  38. **^** "ACT Prep:Description of the ACT Assessment". ACT Inc. Archived from the original on June 30, 2007. Retrieved  June 29, 2007. 
+  39. **^** "The ACT® Data". ACT Inc. Retrieved  September 15, 2011. 
+  40. **^** American College Test INC. (ACT). Research and Policy Issues-Information Brief 2002–1. (n.d.). "Interpreting act assessment scores: College admissions." Retrieved October 8, 2012, from http://www.act.org/research/researchers/briefs/2002-1.html#UItAIYq5fw
+  41. **^** "Registration - The ACT Test". ACT, Inc. Retrieved  September 21, 2017. 
+  42. **^** "The ACT Test Help and Frequently Asked Questions – Is Non-Saturday Testing Available?". ACT, Inc. Retrieved  September 21, 2017. 
+  43. **^** American College Test INC. (ACT), Research and Policy Issues-Information Brief (2001). "Facts about scoring the act assessment". Retrieved October 8, 2012, from http://www.act.org/research/researchers/briefs/2001-1.html#UIX3TYYq5fw
+  44. **^** "Current ACT Fees and Services". Retrieved  September 21, 2017. 
+  45. **^** "ACT Services for Students with Disabilities". ACT Inc. Archived from the original on 22 August 2007. Retrieved  September 8, 2007. 
+  46. **^** "ACT Score Information: ACT Score Report Descriptions". ACT Inc. Archived from the original on July 11, 2007. Retrieved  June 29, 2007. 
+  47. **^** "ACT Versus SAT: Popular Doesn't Mean Better". _www.icon-plus.com_. Retrieved  June 3, 2017. 
+  48. **^** "Condition of College and Career Readiness 2017". ACT Inc. Retrieved  November 18, 2017. 
+  49. **^** "Higher Ed Brief: SAT Concordance" (PDF). College Board. Retrieved November 18, 2017. 
+  50. ^ _**a**_ _**b**_ "Archived copy". Archived from the original on April 20, 2009. Retrieved  2009-05-17.  Univ. of California Eligibility by Examination Alone
+  51. **^** "Qualifying test scores - American Mensa, Ltd".  
+  52. **^** "Archived copy". Archived from the original on April 15, 2014. Retrieved  2013-10-30. 
+  53. **^** "Epimetheus Society".  
+
+## External links[edit]
+
+  * ACT Taker's Site
+  * ACT Corporate Site
+
+  * v
+  * t
+  * e
+
+Admission tests to colleges and universities  
+  
+---  
+Africa |
+
+  * South Africa: Matriculation in South Africa
+  * Tunisia: Tunisian Baccalaureate
+
+  
+  
+Americas |
+
+  * Brazil: Vestibular, ENEM
+  * Canada: Alberta Diploma Exam
+  * Chile: PSU
+  * Colombia: ICFES
+  * United States: SAT, ACT
+
+  
+  
+Asia-Pacific |
+
+  * Australia: ATAR, STAT
+  * China: Gaokao
+  * Hong Kong: HKDSE (JUPAS)
+  * India: IITJEE, AIEEE, EAMCET
+  * Indonesia: UN, SBMPTN
+  * Iran: Concours
+  * Israel: The Psychometry
+  * Japan: NCTUA, EJU
+  * Kazakhstan: UBT
+  * Malaysia: STPM
+  * Philippines: UPCAT, PUPCET
+  * Singapore: GCE-O, GCE-A
+  * South Korea: Suneung
+  * Taiwan: GSAT, DRT
+  * Thailand: GAT, PAT
+
+  
+  
+Europe |
+
+  * Belarus: CTRB
+  * Denmark: Studentereksamen
+  * Estonia: Küpsuseksamid
+  * Finland: Ylioppilastutkinto
+  * France: Baccalauréat
+  * Germany: Abitur
+  * Ireland: Leaving Certificate
+  * Netherlands: Eindexamen
+  * Portugal: ENES
+  * Romania: Bacalaureat
+  * Russia: Unified State Exam (EGE)
+  * Spain: Selectividad
+  * Sweden: Högskoleprovet
+  * Turkey: YGS-LYS
+  * Ukraine: External independent evaluation (ZNO)
+  * United Kingdom: A-Level, Higher
+  * Albania, Austria, Bosnia and Herzegovina, Bulgaria, Croatia, Czech Republic, Hungary, Italy, Kosovo, Liechtenstein, Republic of Macedonia, Montenegro, Poland, Serbia, Slovakia, Slovenia, and Switzerland: Matura
+
+  
+  
+Retrieved from
+"https://en.wikipedia.org/w/index.php?title=ACT_(test)&oldid=816390570"
+
+Categories:
+
+  * Standardized tests in the United States
+  * 1959 introductions
+
+Hidden categories:
+
+  * Webarchive template webcite links
+  * Webarchive template wayback links
+  * Wikipedia articles in need of updating from November 2016
+  * All Wikipedia articles in need of updating
+  * Use mdy dates from June 2017
+  * All articles with unsourced statements
+  * Articles with unsourced statements from February 2015
+  * Articles with unsourced statements from May 2014
+  * Articles with unsourced statements from March 2016
+
+## Navigation menu
+
+### Personal tools
+
+  * Not logged in
+  * Talk
+  * Contributions
+  * Create account
+  * Log in
+
+### Namespaces
+
+  * Article
+  * Talk
+
+###  Variants
+
+### Views
+
+  * Read
+  * Edit
+  * View history
+
+### More
+
+###  Search
+
+### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+  * Donate to Wikipedia
+  * Wikipedia store
+
+### Interaction
+
+  * Help
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact page
+
+### Tools
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Permanent link
+  * Page information
+  * Wikidata item
+  * Cite this page
+
+### Print/export
+
+  * Create a book
+  * Download as PDF
+  * Printable version
+
+### Languages
+
+  * Azərbaycanca
+  * Deutsch
+  * فارسی
+  * 한국어
+  * Հայերեն
+  * Bahasa Indonesia
+  * Polski
+  * Português
+  * Русский
+  * Simple English
+  * ไทย
+  * Українська
+  * Tiếng Việt
+
+Edit links
+
+  * This page was last edited on 21 December 2017, at 01:18.
+  * Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+  * Contact Wikipedia
+  * Developers
+  * Cookie statement
+  * Mobile view
+
+  *   * 
+
+  *[FBS]: Football Bowl Subdivision
+  *[div.]: divorced
+  *[FCS]: Football Championship Subdivision
+  *[e]: Edit this template
+  *[c.]: circa
+  *[m.]: married
+  *[Pop.]: Population
+  *[Statistics]: Biostatistics programs are not considered in the No. 8 ranking. UPenn is No. 10 when Biostatistics programs are considered.
+  *[ v]: View this template
+  *[t]: Discuss this template
+  *[v]: View this template
+  *[1887]: April 22, 1887
+  *[±%]: Percent change
+  *[%±]: Percent change
+

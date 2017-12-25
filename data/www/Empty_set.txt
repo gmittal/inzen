@@ -1,2 +1,0 @@
-In mathematics, and more specifically set theory, the empty set is the unique set having no elements; its size or cardinality (count of elements in a set) is zero. Some axiomatic set theories ensure that the empty set exists by including an axiom of empty set; in other theories, its existence can be deduced. Many possible properties of sets are vacuously true for the empty set.
-Null set was once a common synonym for "empty set", but is now a technical term in measure theory. The empty set may also be called the void set.
