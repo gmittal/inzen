@@ -1,3 +1,6 @@
+# Inzen: Search Engine
+# Written by Gautam Mittal and Daniel Zhu
+
 from __future__ import division
 import sys, os.path, re, glob, string, time, math, numpy as np
 from tqdm import *

@@ -1,3 +1,6 @@
+# Inzen: Search Engine
+# Written by Gautam Mittal and Daniel Zhu
+
 from __future__ import unicode_literals
 import requests, urllib2, json, html2text
 from bs4 import BeautifulSoup
