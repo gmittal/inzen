@@ -16,8 +16,7 @@ Former names
 
 | College of New Jersey  
 (1746–1896)  
-Motto | **Lua error in Module:Lang at line 367: invalid value (boolean) at
-index 2 in table for 'concat'.** (Latin)[1]  
+Motto | _Dei Sub Numine Viget_ (Latin)[1]  
   
 Motto in English
 
@@ -2356,7 +2355,6 @@ Categories:
 
 Hidden categories:
 
-  * Pages with script errors
   * Webarchive template wayback links
   * All articles with dead external links
   * Articles with dead external links from December 2017

@@ -538,13 +538,11 @@ Edit links
   *   * 
 
   *[FBS]: Football Bowl Subdivision
-  *[div.]: divorced
   *[FCS]: Football Championship Subdivision
   *[e]: Edit this template
   *[c.]: circa
   *[m.]: married
   *[Pop.]: Population
-  *[Statistics]: Biostatistics programs are not considered in the No. 8 ranking. UPenn is No. 10 when Biostatistics programs are considered.
   *[ v]: View this template
   *[t]: Discuss this template
   *[v]: View this template

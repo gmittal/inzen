@@ -12,8 +12,8 @@ For other universities with a similar name, see Northwestern University
 Northwestern University  
 ---  
 Motto | _Quaecumque sunt vera_ (Latin)  
-**Lua error in Module:Lang at line 367: invalid value (boolean) at index 2 in
-table for 'concat'.** — _Ho logos pleres charitos kai aletheias_ (Greek)  
+Ὁ Λόγος πλήρης χάριτος καὶ ἀληθείας — _Ho logos pleres charitos kai aletheias_
+(Greek)  
   
 Motto in English
 
@@ -64,7 +64,7 @@ and Doha, Qatar, and academic programs and facilities in Washington, D.C., and
 San Francisco, California.[5][6][7]Along with its selective undergraduate
 programs, Northwestern is known for its highly ranked Kellogg School of
 Management, Pritzker School of Law, Feinberg School of Medicine, and Medill
-School of Journalism
+School of Journalism.
 
 Northwestern is a large research university with a comprehensive doctoral
 program and it attracts over $650 million in sponsored research each
@@ -1997,7 +1997,7 @@ Coordinates: 42°03′17″N 87°40′26″W﻿ / ﻿42.054853°N 87.673945°W�
 -87.673945
 
 Retrieved from
-"https://en.wikipedia.org/w/index.php?title=Northwestern_University&oldid=816641298"
+"https://en.wikipedia.org/w/index.php?title=Northwestern_University&oldid=816991761"
 
 Categories:
 
@@ -2012,13 +2012,13 @@ Categories:
 
 Hidden categories:
 
-  * Pages with script errors
   * All articles with dead external links
   * Articles with dead external links from May 2016
   * Webarchive template wayback links
   * Articles with dead external links from December 2017
   * Articles with permanently dead external links
   * Use mdy dates from May 2017
+  * Articles containing Ancient Greek-language text
   * Articles containing potentially dated statements from 2011
   * All articles containing potentially dated statements
   * Wikipedia articles incorporating citation to the NSRW
@@ -2135,7 +2135,7 @@ Hidden categories:
 
 Edit links
 
-  * This page was last edited on 22 December 2017, at 18:03.
+  * This page was last edited on 25 December 2017, at 07:33.
   * Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
 
   * Privacy policy

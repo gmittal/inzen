@@ -67,12 +67,12 @@ In 1921, Warren G Harding chose Mellon as his treasury secretary. Mellon would
 remain in office until 1932, serving under Harding, Calvin Coolidge, and
 Herbert Hoover, all three of whom were members of the Republican Party. Mellon
 sought to reduce federal taxation and debt. He favored cutting the federal
-estate tax as well as income taxes on top earners, though he also sought tax
-cuts for all income levels. His policies were enacted by Congress in the
-Revenue Act of 1921, the Revenue Act of 1924, and the Revenue Act of 1926. The
-national debt dropped dramatically during the 1920s, though it would rise
-again after 1929. Mellon also participated in international agreements such as
-the Mellon–Berenger Agreement, which reduced French debts from World War I.
+estate tax as well as income taxes for all income levels. His policies were
+enacted by Congress in the Revenue Act of 1921, the Revenue Act of 1924, and
+the Revenue Act of 1926. The national debt dropped dramatically during the
+1920s, though it would rise again after 1929. Mellon also participated in
+international agreements such as the Mellon–Berenger Agreement, which reduced
+French debts from World War I.
 
 Mellon became unpopular after the onset of the Great Depression. According to
 Hoover, Mellon advised him to avoid intervening in the ongoing economic
@@ -975,7 +975,7 @@ Authority control |
 ---|---  
   
 Retrieved from
-"https://en.wikipedia.org/w/index.php?title=Andrew_Mellon&oldid=815007681"
+"https://en.wikipedia.org/w/index.php?title=Andrew_Mellon&oldid=817101063"
 
 Categories:
 
@@ -1116,7 +1116,7 @@ Hidden categories:
 
 Edit links
 
-  * This page was last edited on 12 December 2017, at 05:19.
+  * This page was last edited on 26 December 2017, at 04:28.
   * Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
 
   * Privacy policy

@@ -575,6 +575,7 @@ Retrieved from
 
 Categories:
 
+  * All articles lacking reliable references
   * Downtown Pittsburgh
   * Neighborhoods in Pittsburgh
   * Economy of Pittsburgh
@@ -587,7 +588,6 @@ Hidden categories:
 
   * Use mdy dates from February 2013
   * Coordinates on Wikidata
-  * All articles lacking reliable references
   * Articles lacking reliable references from June 2016
 
 ## Navigation menu

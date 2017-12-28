@@ -38,11 +38,11 @@ _Other traditional mottos  _
 
   
   
-**Anthem:  **"The Star-Spangled Banner"
-
+**Anthem:  **"The Star-Spangled Banner"  
   
+**National march:**  
 
-**March:** "The Stars and Stripes Forever"[2][3]  
+"The Stars and Stripes Forever"[2][3]  
   
 The contiguous United States plus Alaska and Hawaii  
   
@@ -230,14 +230,14 @@ PPP, accounting for approximately a quarter of global GDP.[32] The U.S.
 economy is the fastest-growing in the Americas[33][34] and is largely post-
 industrial, characterized by the dominance of services and knowledge-based
 activities, although the manufacturing sector remains the second-largest in
-the world.[35] Though its population is only 4.3% of the world total,[9]
-Americans hold 33.4% of the total wealth in the world, the largest share of
-global wealth concentrated in a single country.[36] The United States ranks
-among the highest nations in several measures of socioeconomic performance,
-including average wage,[37] human development, per capita GDP, and
-productivity per person.[38] The U.S. is the foremost military power in the
-world, making up a third of global military spending,[39] and is a leading
-political, cultural, and scientific force internationally.[40]
+the world.[35] Though its population is only 4.3% of the world total,[9] the
+U.S. holds 33.4% of the total wealth in the world, the largest share of global
+wealth concentrated in a single country.[36] The United States ranks among the
+highest nations in several measures of socioeconomic performance, including
+average wage,[37] human development, per capita GDP, and productivity per
+person.[38] The U.S. is the foremost military power in the world, making up a
+third of global military spending,[39] and is a leading political, cultural,
+and scientific force internationally.[40]
 
 ## Contents
 
@@ -1011,13 +1011,13 @@ Census | Pop. |  | %±
 **1990** |  248,709,873 |  | 9.8%  
 **2000** |  281,421,906 |  | 13.2%  
 **2010** |  308,745,538 |  | 9.7%  
-**Est. 2016[256]** |  323,127,513 |  | 4.7%  
+**Est. 2017[256]** |  325,719,178 |  | 5.5%  
 1610–1780 population data.[257]  
 Note that the census numbers do  
 not include Native Americans until 1860.[258]  
   
-The U.S. Census Bureau estimated the country's population to be 323,425,550 as
-of April 25, 2016, and to be adding 1 person (net gain) every 13 seconds, or
+The U.S. Census Bureau estimated the country's population to be 325,719,178 as
+of July 1, 2017, and to be adding 1 person (net gain) every 13 seconds, or
 about 6,646 people per day.[9] The U.S. population almost quadrupled during
 the 20th century, from about 76 million in 1900.[259] The third most populous
 nation in the world, after China and India, the United States is the only
@@ -1208,13 +1208,7 @@ Korean | 0.2% | 1,088,788 | 505,734 | 583,054
   
 ### Religion
 
-Main articles: Religion in the United States, Protestantism in the United
-States, Catholic Church in the United States, and Irreligion in the United
-States
-
-See also: History of religion in the United States, Freedom of religion in the
-United States, Separation of church and state in the United States, and List
-of religious movements that began in the United States
+Main article: Religion in the United States
 
 Religious affiliation in the U.S. (2014)[7] Affiliation |  % of U.S.
 population  
@@ -1345,7 +1339,7 @@ only states where a plurality of the population is Lutheran. Presbyterianism
 was introduced in North America by Scottish and Ulster Scots immigrants.
 Although it has expanded across the country, it is heavily concentrated on the
 East Coast. Dutch Reformed congregations were founded first in New Amsterdam
-(New York City) before spreading westward. Other Protestant traditions with a
+(New York City) before spreading westward. Other Protestant categories with a
 more dispersed membership include nondenominational Protestants, Methodists,
 Pentecostals, unspecified Protestants, Episcopalians/Anglicans, Holiness,
 Adventists, Anabaptists, Christian fundamentalists, various Reformed,
@@ -2449,12 +2443,12 @@ Olympics will mark the ninth time). As of 2017, the United States has won
 in the Winter Olympic Games, the second most behind Norway.[641] While most
 major U.S. sports have evolved out of European practices, basketball,
 volleyball, skateboarding, and snowboarding are American inventions, some of
-which have become popular in other countries. Lacrosse and surfing arose from
-Native American and Native Hawaiian activities that predate Western
-contact.[642] The most watched individual sports are golf and auto racing,
-particularly NASCAR.[643][644] Rugby union is considered the fastest growing
-sport in the U.S., with registered players numbered at 115,000+ and a further
-1.2 million participants.[645]
+which have become popular worldwide. Lacrosse and surfing arose from Native
+American and Native Hawaiian activities that predate Western contact.[642] The
+most watched individual sports are golf and auto racing, particularly
+NASCAR.[643][644] Rugby union is considered the fastest growing sport in the
+U.S., with registered players numbered at 115,000+ and a further 1.2 million
+participants.[645]
 
 ### Media
 
@@ -2982,7 +2976,7 @@ moments in the Iraq War". _USA Today_. Associated Press. Retrieved  March 7,
   253. **^** Collin, Robert W. (2006). _The Environmental Protection Agency: Cleaning Up America's Act_. Greenwood Publishing Group. p. 1\. ISBN 978-0-313-33341-5. Retrieved  October 25, 2015. 
   254. **^** Turner, James Morton (2012). _The Promise of Wilderness_
   255. **^** _Endangered species Fish and Wildlife Service_. General Accounting Office, DIANE Publishing. p. 1\. ISBN 978-1-4289-3997-4. Retrieved  October 25, 2015. 
-  256. **^** "Population estimates, July 1, 2016, (V2016)".  
+  256. **^** "Population estimates, July 1, 2017, (V2017)". US Census Bureau.  
   257. **^** "CT1970p2-13: Colonial and Pre-Federal Statistics" (PDF). _United States Census Bureau_. 2004. p.  1168. Retrieved August 20, 2015. 
   258. **^** Historical Census Statistics on Population Totals By Race, 1790 to 1990.... U.S. Census Bureau. Retrieved May 28, 2013.
   259. **^** "Statistical Abstract of the United States" (PDF). United States Census Bureau. 2005. Retrieved October 25, 2015. 
@@ -4080,7 +4074,7 @@ Authority control |
 ---|---  
   
 Retrieved from
-"https://en.wikipedia.org/w/index.php?title=United_States&oldid=816927611"
+"https://en.wikipedia.org/w/index.php?title=United_States&oldid=817374283"
 
 Categories:
 
@@ -4485,7 +4479,7 @@ Hidden categories:
 
 Edit links
 
-  * This page was last edited on 24 December 2017, at 19:09.
+  * This page was last edited on 27 December 2017, at 23:56.
   * Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
 
   * Privacy policy

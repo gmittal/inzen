@@ -4,7 +4,7 @@
 
 From Wikipedia, the free encyclopedia
 
-This is the latest accepted revision, reviewed on _24 December 2017_.
+This is the latest accepted revision, reviewed on _26 December 2017_.
 
 Jump to: navigation, search
 
@@ -918,15 +918,15 @@ development of a film industry in the state.[106]
 1968 |  44.02% _2,090,017_ | **47.59%** _2,259,405_  
 1964 |  34.70% _1,673,657_ | **64.92%** _3,130,954_  
 1960 |  48.74% _2,439,956_ | **51.06%** _2,556,282_  
-Voter Registration and Party Enrollment as of May 16, 2017[108]  
+Voter Registration and Party Enrollment as of November 7, 2017[108]  
 ---  
 Party | Number of Voters | Percentage  
-| Democratic | 4,051,103 | 47.93%  
-| Republican | 3,235,781 | 38.29%  
-| Libertarian | 46,295 | 0.54%  
-| Green | 12,382 | 0.14%  
-| Independent/Other parties | 1,105,108 | 13.07%  
-Total | 8,450,669 | 100%  
+| Democratic | 4,032,442 | 47.83%  
+| Republican | 3,223,524 | 38.23%  
+| Libertarian | 45,142 | 0.54%  
+| Green | 11,954 | 0.14%  
+| Independent/Other parties | 1,117,926 | 13.26%  
+Total | 8,430,988 | 100%  
   
 Treemap of the popular vote by county, 2016 presidential election.
 
@@ -1720,7 +1720,7 @@ Main article: List of people from Pennsylvania
   104. **^** [2] Archived November 28, 2009, at the Wayback Machine.
   105. **^** Barnes, Tom; Rotstein, Gary (February 4, 2009). "Rendell wants legal video poker". Post-gazette.com. Retrieved July 31, 2010. 
   106. **^** "Rendell signs film production tax credit law". _Philadelphia Business Journal_. July 21, 2004.  
-  107. **^** "Presidential General Election Results Comparison – Pennsylvania". Dave Leip's Atlas of United States Presidential Elections. 2005. Retrieved  July 7, 2007. 
+  107. **^** "Presidential General Election Results Comparison – Pennsylvania". Dave Leip's Atlas of United States Presidential Elections. 2005. Retrieved 2007.   Check date values in: `|access-date=` (help)
   108. **^** "2017 Voter Registration Statistics" (PDF). Pennsylvania Department of State. 
   109. ^ _**a**_ _**b**_ Jenkins Law Library. "23 Pennsylvania Law Weekly 324 (March 27, 2000)". Jenkinslaw.org. Archived from the original on January 13, 2010. Retrieved July 31, 2010. 
   110. **^** PRESS, ASSOCIATED. "Donald Trump becomes 1st Republican to win Pennsylvania since 1988". _LancasterOnline_. Retrieved  November 13, 2016. 
@@ -2374,7 +2374,7 @@ Authority control |
 ---|---  
   
 Retrieved from
-"https://en.wikipedia.org/w/index.php?title=Pennsylvania&oldid=816943662"
+"https://en.wikipedia.org/w/index.php?title=Pennsylvania&oldid=817091064"
 
 Categories:
 
@@ -2395,6 +2395,7 @@ Hidden categories:
   * CS1 errors: external links
   * All articles with unsourced statements
   * Articles with unsourced statements from September 2014
+  * CS1 errors: dates
   * Pages with citations lacking titles
   * Pages with citations having bare URLs
   * Articles with dead external links from August 2016
@@ -2667,7 +2668,7 @@ Hidden categories:
 
 Edit links
 
-  * This page was last edited on 24 December 2017, at 21:47.
+  * This page was last edited on 26 December 2017, at 02:40.
   * Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
 
   * Privacy policy

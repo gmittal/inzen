@@ -4,7 +4,7 @@
 
 From Wikipedia, the free encyclopedia
 
-This is the latest accepted revision, reviewed on _24 December 2017_.
+This is the latest accepted revision, reviewed on _27 December 2017_.
 
 Jump to: navigation, search
 
@@ -1355,6 +1355,9 @@ and games.
 ### Healthcare[edit]
 
 A patient side surgical arm of Da Vinci Surgical System. [2]
+
+X-ray of a hand, with automatic calculation of bone age by a computer
+software.
 
 Artificial intelligence is breaking into the healthcare industry by assisting
 doctors. According to Bloomberg Technology, Microsoft has developed AI to help
@@ -5229,7 +5232,7 @@ Authority control |
 ---|---  
   
 Retrieved from
-"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&oldid=816938493"
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&oldid=817318207"
 
 Categories:
 
@@ -5447,7 +5450,7 @@ Hidden categories:
 
 Edit links
 
-  * This page was last edited on 24 December 2017, at 21:05.
+  * This page was last edited on 27 December 2017, at 16:23.
   * Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
 
   * Privacy policy

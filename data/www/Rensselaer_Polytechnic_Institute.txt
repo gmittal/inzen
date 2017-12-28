@@ -90,7 +90,7 @@ five National Medal of Science winners, eight Fulbright Scholarship
 recipients, and a Nobel Prize winner in Physics; in addition, 85 faculty or
 alumni are members of the National Academy of Engineering, 17 of the National
 Academy of Sciences, 25 of the American Academy of Arts and Sciences, eight of
-the National Academy of Medicine, and eight of the National Academy of
+the National Academy of Medicine, and nine of the National Academy of
 Inventors.[17] Research projects include the areas of Astrobiology and
 Astrophysics, Biotechnology and Life Sciences, Energy, Environment, and Smart
 Systems (EES), Nanotechnology and Advanced Materials, Computational Science
@@ -440,7 +440,9 @@ final stages of organizing a new capital campaign which it intends to launch
 in 2017 to meet the goals of the Rensselaer Plan 2024. The goal of the
 campaign was cited as being primarily for the support of financial aid for
 undergraduate students and the expansion of on-campus research facilities to
-accommodate planned increases in doctoral and graduate enrollment.[68]
+accommodate planned increases in doctoral and graduate enrollment. The
+fundraising goal of the capital campaign is $1 billion, with over $400 million
+raised prior to the campaign going public.[68]
 
 ### Faculty[edit]
 
@@ -897,8 +899,8 @@ co-founder of NVIDIA.
 In addition to NVIDIA, RPI graduates have also gone on to found or co-found
 major companies such as John Wiley and Sons, Texas Instruments, Fairchild
 Semiconductor, PSINet, MapInfo, Adelphia Communications, Level 3
-Communications, Garmin, and Bugle Boy. Several RPI graduates have played a
-part in the U.S. space program: George Low (B.Eng. 1948, M.S. 1950) was
+Communications, Garmin, NXIVM and Bugle Boy. Several RPI graduates have played
+a part in the U.S. space program: George Low (B.Eng. 1948, M.S. 1950) was
 manager of the Apollo 11 project and served as president of RPI, and
 astronauts John L. Swigert, Jr., Richard Mastracchio, Gregory R. Wiseman, and
 space tourist Dennis Tito are alumni.
@@ -907,7 +909,8 @@ Political figures who graduated from RPI included federal judge Arthur J.
 Gajarsa (B.S. 1962), Major General Thomas Farrell of the Manhattan Project,
 DARPA director Tony Tether, Representative John Olver of Massachusetts's 1st
 congressional district, and Senators Mark Shepard of Vermont and George R.
-Dennis of Maryland.
+Dennis of Maryland. Alma mater of Keith Raniere, founder of multi-level
+marketing company NXIVM.
 
 Notable ice hockey players include NHL Hockey Hall of Famer and 5-time NHL All
 Star Adam Oates (1985), Stanley Cup winner and former NHL All Star Mike McPhee
@@ -1419,7 +1422,7 @@ Former member |
   
   
 Retrieved from
-"https://en.wikipedia.org/w/index.php?title=Rensselaer_Polytechnic_Institute&oldid=814281395"
+"https://en.wikipedia.org/w/index.php?title=Rensselaer_Polytechnic_Institute&oldid=817207748"
 
 Categories:
 
@@ -1534,7 +1537,7 @@ Hidden categories:
 
 Edit links
 
-  * This page was last edited on 7 December 2017, at 21:37.
+  * This page was last edited on 26 December 2017, at 22:17.
   * Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
 
   * Privacy policy

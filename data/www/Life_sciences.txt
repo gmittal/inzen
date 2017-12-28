@@ -706,6 +706,7 @@ Retrieved from
 
 Categories:
 
+  * All articles lacking reliable references
   * Life sciences
   * Life sciences industry
   * Science-related lists
@@ -716,7 +717,6 @@ Hidden categories:
   * CS1 maint: Uses authors parameter
   * CS1 maint: Uses editors parameter
   * Articles lacking reliable references from July 2015
-  * All articles lacking reliable references
   * Wikipedia articles with GND identifiers
   * Articles containing video clips
 
