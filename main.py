@@ -55,7 +55,7 @@ def prepare(docs):
     U, D, V = np.linalg.svd(term_matrix, full_matrices=False)
 
     # Latent semantic analysis dimensionality reduction
-    reduced_rank = 400 # Heuristic for determining reduced rank is not well-established
+    reduced_rank = 5000 # Heuristic for determining reduced rank is not well-established
     U = U[:, :reduced_rank]
     #D = np.diag(D[:reduced_rank]) #[:reduced_rank, :reduced_rank]
     D = D[:reduced_rank]
@@ -99,7 +99,6 @@ def search(query):
     return results
 
 
-
 # Find cosine of the angle between two vectors
 def cosine_similarity(np_v, np_u):
     return (np.dot(np_v, np_u) / (np.linalg.norm(np_v) * np.linalg.norm(np_u))) \
@@ -120,7 +119,6 @@ def tokenize(t, new):
         for w in words:
             if not (w in v_index):
                 v_index.append(w)
-
     return words
 
 
